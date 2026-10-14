@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c01",
+    "title": "Fall 1: Frau M., 42 Jahre",
+    "vignette": "Frau M. kommt in Ihre Praxis. Seit vier Wochen fühlt sie sich niedergeschlagen und hat an nichts mehr Freude. Sie wacht nachts gegen drei Uhr auf und kann nicht wieder einschlafen. Der Appetit ist weg, sie hat fünf Kilogramm abgenommen. Sie kann sich kaum konzentrieren, macht sich Vorwürfe und sagt: Manchmal denke ich, es wäre besser, nicht mehr aufzuwachen.",
+    "questions": [
+      {"q": "Welche Verdachtsdiagnose stellen Sie?", "a": "Verdacht auf eine depressive Episode (F32), nach Symptomzahl mindestens mittelgradig. Auffällig sind Früherwachen, Appetit- und Gewichtsverlust, Freudlosigkeit und Schuldgefühle (somatisches Syndrom). Die Dauer von vier Wochen erfüllt das Zeitkriterium von mindestens zwei Wochen."},
+      {"q": "Was klären Sie unbedingt ab?", "a": "Suizidalität: direkt ansprechen, nach Plan, Mitteln, Vorbereitungen und Absprachefähigkeit fragen. Außerdem: frühere depressive oder manische Episoden (bipolare Störung), Substanz- und Alkoholkonsum, Medikamente, körperliche Ursachen wie Schilddrüsenerkrankung (ärztliche Abklärung) und aktuelle Belastungen."},
+      {"q": "Welche Differenzialdiagnosen kommen infrage?", "a": "Anpassungsstörung, Dysthymie, bipolare Störung (depressive Phase), organisch bedingte depressive Störung, substanzinduzierte Depression und normale Trauerreaktion."},
+      {"q": "Wie gehen Sie weiter vor, wo liegen Ihre Grenzen?", "a": "Ärztliche Abklärung veranlassen (Hausarzt, Facharzt), bei akuter Suizidalität sofort Notfallmaßnahmen und gegebenenfalls Klinikeinweisung. Bei schwerer Episode ist ärztliche Mitbehandlung nötig. Psychotherapeutisch kommen zum Beispiel Verhaltenstherapie mit Aktivitätsaufbau und kognitiver Umstrukturierung in Betracht, mit Psychoedukation und Einbindung der Angehörigen."}
+    ]
+  },
+  {
+    "id": "c02",
+    "title": "Fall 2: Herr K., 29 Jahre",
+    "vignette": "Herr K. berichtet, dass er vor zwei Monaten in der U-Bahn plötzlich Herzrasen, Atemnot, Schwindel und Todesangst bekam. Seitdem treten solche Attacken immer wieder auf, ohne erkennbaren Anlass, und dauern etwa zwanzig Minuten. Er hat Angst vor der nächsten Attacke und fährt kaum noch U-Bahn.",
+    "questions": [
+      {"q": "Welche Verdachtsdiagnose stellen Sie?", "a": "Panikstörung (F41.0) mit beginnender Vermeidung, gegebenenfalls Agoraphobie mit Panikstörung (F40.01). Kennzeichen: wiederkehrende, unvorhersehbare Angstattacken mit körperlichen Symptomen und Erwartungsangst."},
+      {"q": "Welche körperlichen Ursachen müssen ausgeschlossen werden?", "a": "Herzerkrankungen und Rhythmusstörungen, Schilddrüsenüberfunktion, Hypoglykämie, Lungenerkrankungen sowie Wirkung von Koffein, Drogen oder Medikamenten. Das klärt der Arzt ab, bevor die Störung als rein psychisch eingeordnet wird."},
+      {"q": "Wie erklären Sie dem Patienten das Entstehen der Angst?", "a": "Mit dem Teufelskreis der Angst: Körperliche Empfindung (Herzklopfen) wird als bedrohlich bewertet, die Angst steigt, die Körperreaktion verstärkt sich, bis die Attacke ihren Höhepunkt erreicht. Vermeidung hält das Problem aufrecht, weil der Patient nie lernt, dass nichts Schlimmes passiert."},
+      {"q": "Welche psychotherapeutischen Maßnahmen kommen infrage?", "a": "Psychoedukation, Angsttagebuch, Atem- und Entspannungstechniken, kognitive Umstrukturierung der Katastrophenbewertung und schrittweise Exposition: interozeptiv (z. B. Herzklopfen auslösen) und in vivo (U-Bahn fahren)."}
+    ]
+  },
+  {
+    "id": "c03",
+    "title": "Fall 3: Herr T., 24 Jahre",
+    "vignette": "Die Mutter bringt ihren Sohn, Herrn T. Seit etwa sechs Wochen zieht er sich zurück, schläft schlecht und ist misstrauisch. Er hört Stimmen, die sein Handeln kommentieren, und ist überzeugt, dass ihm Gedanken aus dem Kopf genommen werden. Er sagt, Nachbarn überwachten ihn.",
+    "questions": [
+      {"q": "Welche Symptome erkennen Sie und wie ordnen Sie sie ein?", "a": "Kommentierende akustische Halluzinationen und Gedankenentzug (Ich-Störung) sind Erstrangsymptome nach Schneider. Der Überwachungsgedanke spricht für Verfolgungswahn. Zusätzlich bestehen sozialer Rückzug und Schlafstörung."},
+      {"q": "Welche Verdachtsdiagnose und welches Zeitkriterium?", "a": "Verdacht auf Schizophrenie (F20, paranoide Form F20.0). Das Zeitkriterium von mindestens einem Monat ist mit sechs Wochen erfüllt."},
+      {"q": "Welche Differenzialdiagnosen kommen infrage?", "a": "Substanzinduzierte psychotische Störung (Cannabis, Stimulanzien), organisch bedingte Psychose, akute vorübergehende psychotische Störung (F23), schizoaffektive Störung und wahnhafte Störung."},
+      {"q": "Wie gehen Sie vor, wo liegen Ihre Grenzen?", "a": "Selbst- und Fremdgefährdung abklären. Bei akuter Psychose hat ärztliche, in der Regel fachärztliche Behandlung Vorrang (Antipsychotika kann nur der Arzt verordnen), gegebenenfalls Klinik. Beziehung ruhig und wertschätzend gestalten, den Wahn nicht bestätigen und nicht bekämpfen. Psychotherapeutisch später Psychoedukation und Rückfallprophylaxe in Abstimmung mit dem Arzt."}
+    ]
+  }
+]
