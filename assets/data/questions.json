@@ -4473,5 +4473,96 @@
   ],
   "correct": 1,
   "explanation": "Ideenflucht: beschleunigtes Denken, sprunghafte Einfälle ohne Ziel, typisch für die Manie (F30). Das Abreißen des Denkflusses ist Gedankensperre, das Festhalten an einem Thema Eingeengtes Denken oder Grübeln."
+ },
+ {
+  "id": "f01",
+  "topic": "Psychosen",
+  "text": "Ein Patient klagt über die plötzliche Überzeugung, dass seine Gedanken von einer externen Radiostation abgesaugt werden. Welchem psychopathologischen Symptom entspricht dies?",
+  "options": [
+   "Formale Denkstörung",
+   "Wahnwahrnehmung",
+   "Gedankenentzug als Ich-Störung",
+   "Akustische Halluzination"
+  ],
+  "correct": 2,
+  "explanation": "Gedankenentzug ist eine Ich-Störung: Die Grenze zwischen Ich und Umwelt ist durchlässig, die Gedanken werden als von außen weggenommen erlebt. Es ist ein Erstrangsymptom nach Schneider."
+ },
+ {
+  "id": "f02",
+  "topic": "Affekt & Angst",
+  "text": "Welcher zeitliche Mindestverlauf ist laut ICD-10 für die Vergabe einer Dysthymia (chronisch depressive Verstimmung) gefordert?",
+  "options": [
+   "Mindestens zwei Wochen",
+   "Mindestens sechs Monate",
+   "Mindestens ein Jahr",
+   "Mindestens zwei Jahre"
+  ],
+  "correct": 3,
+  "explanation": "Dysthymia (F34.1): mindestens zwei Jahre anhaltende, gedrückte Stimmung, die in ihrer Ausprägung nicht für eine mittelgradige oder schwere depressive Episode ausreicht."
+ },
+ {
+  "id": "f03",
+  "topic": "Essstörungen",
+  "text": "Welches Kriterium grenzt die Binge-Eating-Störung primär von der Bulimia nervosa ab?",
+  "options": [
+   "Das völlige Fehlen von Heißhungerattacken",
+   "Das Fehlen regelmäßiger gegensteuernder Maßnahmen wie Erbrechen oder Laxantienmissbrauch",
+   "Ein extremes Untergewicht mit einem BMI unter 17,5",
+   "Das ausschließliche Auftreten im fortgeschrittenen Seniorenalter"
+  ],
+  "correct": 1,
+  "explanation": "Beide Störungen haben Essanfälle mit Kontrollverlust. Bei der Bulimie folgen regelmäßig gegensteuernde Maßnahmen (Erbrechen, Abführmittel, Fasten, exzessiver Sport), bei der Binge-Eating-Störung fehlen sie, daher besteht oft Übergewicht."
+ },
+ {
+  "id": "f04",
+  "topic": "Recht & Praxis",
+  "text": "Welche Einschränkung gilt für den sektoralen Heilpraktiker für Psychotherapie?",
+  "options": [
+   "Das Verbot, meditative Gespräche zu führen",
+   "Das Verbot der Ausübung der somatischen Heilkunde, einschließlich der Verordnung verschreibungspflichtiger Medikamente",
+   "Die Pflicht, nur Kassenpatienten anzunehmen",
+   "Das Verbot, Patienten über sechzig Jahre zu behandeln"
+  ],
+  "correct": 1,
+  "explanation": "Die sektorale Erlaubnis beschränkt sich auf Psychotherapie. Körperliche Untersuchungen und Behandlungen sowie verschreibungspflichtige Medikamente sind untersagt. Eine Altersgrenze oder Kassenpflicht gibt es nicht."
+ },
+ {
+  "id": "f05",
+  "topic": "Psychosen",
+  "text": "Was beschreibt eine Wahnwahrnehmung im psychopathologischen Sinn?",
+  "options": [
+   "Das Wahrnehmen von Stimmen, obwohl keine Schallquelle existiert",
+   "Die wahnhafte Umdeutung einer real und korrekt wahrgenommenen Sinneswahrnehmung, meist mit Eigenbeziehung",
+   "Ein Abreißen des Denkens ohne äußeren Anlass",
+   "Das Sehen von Gegenständen, die nicht real sind"
+  ],
+  "correct": 1,
+  "explanation": "Bei der Wahnwahrnehmung ist die Wahrnehmung selbst korrekt (z. B. eine rote Ampel), erhält aber eine abnorme Bedeutung („Das ist ein Zeichen, dass ich beobachtet werde“). Stimmen ohne Schallquelle sind Halluzinationen, das Abreißen des Denkens ist Gedankensperre."
+ },
+ {
+  "id": "f06",
+  "topic": "Sucht",
+  "text": "Ein Klient zeigt ausgeprägten grobschlägigen Tremor, starkes Schwitzen, Tachykardie und Desorientiertheit nach plötzlichem Absetzen von Alkohol. Welcher Zustand droht akut?",
+  "options": [
+   "Eine depressive Episode mit somatischem Syndrom",
+   "Ein Delirium tremens",
+   "Eine akute Belastungsreaktion",
+   "Eine schizoide Persönlichkeitsstörung"
+  ],
+  "correct": 1,
+  "explanation": "Das Delirium tremens ist ein lebensbedrohlicher Zustand beim Alkoholentzug mit vegetativer Übererregung, Desorientiertheit und oft optischen Halluzinationen. Es ist ein medizinischer Notfall, daher sofort Notruf."
+ },
+ {
+  "id": "f07",
+  "topic": "Recht & Praxis",
+  "text": "Welche Regelung verpflichtet Behandelnde zur wirtschaftlichen Information des Patienten vor Behandlungsbeginn?",
+  "options": [
+   "Das Infektionsschutzgesetz",
+   "Das Betreuungsrecht",
+   "Das Patientenrechtegesetz (§ 630c BGB im Behandlungsvertragsrecht)",
+   "Das Heilmittelwerbegesetz"
+  ],
+  "correct": 2,
+  "explanation": "Das Patientenrechtegesetz führte die §§ 630a ff. BGB ein. Nach § 630c Abs. 3 BGB muss der Behandelnde den Patienten vor Behandlungsbeginn in Textform über die voraussichtlichen Kosten informieren, wenn eine Übernahme durch Dritte nicht gesichert ist, bei Heilpraktikern meist die Regel."
  }
 ]
