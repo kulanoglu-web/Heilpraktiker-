@@ -17,16 +17,18 @@ flutter build apk --release            # APK zum Installieren
 ## Funktionen
 
 - Prüfungsprofil je Bundesland (Berlin ist Standard): Fragenzahl, Zeit, Bestehensgrenze
-- Prüfungssimulation mit Zeitlimit, Punkten und Auswertung mit Erklärungen
+- Prüfungssimulation mit Zeitlimit, Punkten und prüfungsrelevantem Themenmix (Gewichtung nach ICD-10-Schwerpunkten, Recht, Therapie)
+- Falsche Antworten werden erklärt: eigene Auswahl, richtige Antwort und Begründung, danach Wiederholung der Fehler
+- Lernstand je Themenbereich, Trefferquote, Hell- und Dunkelmodus
 - Übungsmodus mit sofortiger Erklärung, "Fehler wiederholen"
-- Lernkarteien nach Themenbereichen (gewusst / nochmal)
-- Mündliche Prüfung: Fallbeschreibung, Fragen, Musterantworten
+- Kernkarten (98) nach Themenbereichen mit Umdreh-Animation (gewusst / nochmal, Wischgesten)
+- Mündliche Prüfung: 14 Fälle mit Fragen und Musterantworten
 
 ## Inhalte erweitern
 
 Alle Inhalte liegen als JSON in `assets/data/` (`questions.json`, `flashcards.json`,
 `oral_cases.json`). Für eine volle Simulation mit 28 Fragen mindestens 28 Fragen
-eintragen (aktuell 348).
+eintragen (aktuell 310).
 
 Frageformat:
 

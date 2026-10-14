@@ -1,18 +1,590 @@
 [
-  {"id":"f01","topic":"Grundlagen","front":"Nenne die quantitativen Bewusstseinsstörungen in aufsteigender Schwere.","back":"Benommenheit, Somnolenz, Sopor, Koma. Merkhilfe: Je tiefer, desto weniger ist die Person weckbar."},
-  {"id":"f02","topic":"Grundlagen","front":"Nenne die qualitativen Bewusstseinsstörungen.","back":"Bewusstseinstrübung, Bewusstseinseinengung und Bewusstseinsverschiebung. Die Wachheit ist erhalten, aber der Inhalt des Bewusstseins ist verändert."},
-  {"id":"f03","topic":"Grundlagen","front":"Nenne die Abwehrmechanismen nach der Psychoanalyse (mindestens fünf).","back":"Verdrängung, Projektion, Verschiebung, Regression, Reaktionsbildung, Rationalisierung, Verleugnung, Identifikation, Sublimierung."},
-  {"id":"f04","topic":"Grundlagen","front":"Klassische und operante Konditionierung: Unterschied?","back":"Klassisch (Pawlow): ein neutraler Reiz wird mit einem unbedingten Reiz gekoppelt und löst dann die Reaktion aus. Operant (Skinner): Verhalten wird durch seine Konsequenzen verstärkt oder abgeschwächt."},
-  {"id":"f05","topic":"Diagnostik & Therapie","front":"Die vier wissenschaftlich anerkannten Psychotherapieverfahren?","back":"Verhaltenstherapie, tiefenpsychologisch fundierte Psychotherapie, analytische Psychotherapie und Systemische Therapie."},
-  {"id":"f06","topic":"Diagnostik & Therapie","front":"Was ist die kognitive Triade nach Beck bei Depression?","back":"Negatives Bild von sich selbst, der Umwelt (Welt) und der Zukunft. Sie bildet die Grundlage für depressive Denkmuster."},
-  {"id":"f07","topic":"Affekt & Angst","front":"Schweregrade der depressiven Episode nach ICD-10?","back":"Leicht: 2 Haupt- plus mindestens 2 Zusatzsymptome. Mittelgradig: 2 Haupt- plus 3 bis 4 Zusatzsymptome. Schwer: 3 Haupt- plus mindestens 4 Zusatzsymptome. Dauer meist mindestens 2 Wochen."},
-  {"id":"f08","topic":"Affekt & Angst","front":"Übersicht der Angststörungen F40/F41.","back":"F40.0 Agoraphobie, F40.1 soziale Phobie, F40.2 spezifische Phobie, F41.0 Panikstörung, F41.1 generalisierte Angststörung."},
-  {"id":"f09","topic":"Affekt & Angst","front":"Wie lautet das Kernsymptom-Trio der posttraumatischen Belastungsstörung (F43.1)?","back":"Wiedererleben (Intrusionen, Flashbacks), Vermeidung traumabezogener Reize und Übererregung. Sie beginnt in der Regel innerhalb von 6 Monaten nach einem Trauma außergewöhnlicher Schwere."},
-  {"id":"f10","topic":"Psychosen","front":"Nenne die Erstrangsymptome nach Kurt Schneider.","back":"Gedankenlautwerden, Stimmen in Rede und Gegenrede, kommentierende Stimmen, leibliche Beeinflussungserlebnisse, Gedankeneingebung, Gedankenentzug, Gedankenausbreitung, Wahnwahrnehmung und das Gefühl des Gemachten."},
-  {"id":"f11","topic":"Psychosen","front":"Positiv- und Negativsymptomatik: Beispiele?","back":"Positiv: Halluzinationen, Wahn, Ich-Störungen, formale Denkstörungen. Negativ: Affektverflachung, Antriebsarmut, Sprachverarmung, sozialer Rückzug."},
-  {"id":"f12","topic":"Sucht","front":"Wann beginnt ein Alkoholentzugsdelir typischerweise und was ist zu tun?","back":"Meist 1 bis 3 Tage nach dem letzten Konsum. Es ist lebensbedrohlich und ein Notfall: sofort ärztliche und stationäre Behandlung veranlassen."},
-  {"id":"f13","topic":"Sucht","front":"Die sechs Kriterien des Abhängigkeitssyndroms nach ICD-10?","back":"Starker Konsumwunsch, verminderte Kontrolle, Entzugssyndrom, Toleranzentwicklung, Vernachlässigung anderer Interessen, anhaltender Konsum trotz schädlicher Folgen. Mindestens drei davon im letzten Jahr."},
-  {"id":"f14","topic":"Kinder & Jugend","front":"Nenne wichtige Störungen im Kindes- und Jugendalter mit ICD-10-Bezug.","back":"ADHS (F90), frühkindlicher Autismus (F84.0), Asperger-Syndrom (F84.5), Enuresis (F98.0), Enkopresis (F98.1), Störung des Sozialverhaltens (F91)."},
-  {"id":"f15","topic":"Recht & Praxis","front":"Wo liegen die Grenzen der beschränkten Heilpraktikererlaubnis (Psychotherapie)?","back":"Keine Arzneimittelverordnung, keine körperlich-medizinische Diagnostik oder Behandlung. Bei Hinweisen auf körperliche Ursachen oder akuter Gefährdung wird ärztlich abgeklärt oder überwiesen."},
-  {"id":"f16","topic":"Recht & Praxis","front":"Was ist beim Umgang mit Suizidalität zentral?","back":"Direkt ansprechen, Pläne, Mittel und Absprachefähigkeit erfragen. Bei akuter Gefahr nicht allein lassen, Notruf oder ärztliche Hilfe einschalten, Unterbringung nach PsychKG möglich. Dokumentation nicht vergessen."}
+ {
+  "id": "f01",
+  "topic": "Grundlagen",
+  "front": "Nenne die quantitativen Bewusstseinsstörungen in aufsteigender Schwere.",
+  "back": "Benommenheit, Somnolenz, Sopor, Koma. Merkhilfe: Je tiefer, desto weniger ist die Person weckbar."
+ },
+ {
+  "id": "f02",
+  "topic": "Grundlagen",
+  "front": "Nenne die qualitativen Bewusstseinsstörungen.",
+  "back": "Bewusstseinstrübung, Bewusstseinseinengung und Bewusstseinsverschiebung. Die Wachheit ist erhalten, aber der Inhalt des Bewusstseins ist verändert."
+ },
+ {
+  "id": "f03",
+  "topic": "Grundlagen",
+  "front": "Nenne die Abwehrmechanismen nach der Psychoanalyse (mindestens fünf).",
+  "back": "Verdrängung, Projektion, Verschiebung, Regression, Reaktionsbildung, Rationalisierung, Verleugnung, Identifikation, Sublimierung."
+ },
+ {
+  "id": "f04",
+  "topic": "Grundlagen",
+  "front": "Klassische und operante Konditionierung: Unterschied?",
+  "back": "Klassisch (Pawlow): ein neutraler Reiz wird mit einem unbedingten Reiz gekoppelt und löst dann die Reaktion aus. Operant (Skinner): Verhalten wird durch seine Konsequenzen verstärkt oder abgeschwächt."
+ },
+ {
+  "id": "f05",
+  "topic": "Diagnostik & Therapie",
+  "front": "Die vier wissenschaftlich anerkannten Psychotherapieverfahren?",
+  "back": "Verhaltenstherapie, tiefenpsychologisch fundierte Psychotherapie, analytische Psychotherapie und Systemische Therapie."
+ },
+ {
+  "id": "f06",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was ist die kognitive Triade nach Beck bei Depression?",
+  "back": "Negatives Bild von sich selbst, der Umwelt (Welt) und der Zukunft. Sie bildet die Grundlage für depressive Denkmuster."
+ },
+ {
+  "id": "f07",
+  "topic": "Affekt & Angst",
+  "front": "Schweregrade der depressiven Episode nach ICD-10?",
+  "back": "Leicht: 2 Haupt- plus mindestens 2 Zusatzsymptome. Mittelgradig: 2 Haupt- plus 3 bis 4 Zusatzsymptome. Schwer: 3 Haupt- plus mindestens 4 Zusatzsymptome. Dauer meist mindestens 2 Wochen."
+ },
+ {
+  "id": "f08",
+  "topic": "Affekt & Angst",
+  "front": "Übersicht der Angststörungen F40/F41.",
+  "back": "F40.0 Agoraphobie, F40.1 soziale Phobie, F40.2 spezifische Phobie, F41.0 Panikstörung, F41.1 generalisierte Angststörung."
+ },
+ {
+  "id": "f09",
+  "topic": "Affekt & Angst",
+  "front": "Wie lautet das Kernsymptom-Trio der posttraumatischen Belastungsstörung (F43.1)?",
+  "back": "Wiedererleben (Intrusionen, Flashbacks), Vermeidung traumabezogener Reize und Übererregung. Sie beginnt in der Regel innerhalb von 6 Monaten nach einem Trauma außergewöhnlicher Schwere."
+ },
+ {
+  "id": "f10",
+  "topic": "Psychosen",
+  "front": "Nenne die Erstrangsymptome nach Kurt Schneider.",
+  "back": "Gedankenlautwerden, Stimmen in Rede und Gegenrede, kommentierende Stimmen, leibliche Beeinflussungserlebnisse, Gedankeneingebung, Gedankenentzug, Gedankenausbreitung, Wahnwahrnehmung und das Gefühl des Gemachten."
+ },
+ {
+  "id": "f11",
+  "topic": "Psychosen",
+  "front": "Positiv- und Negativsymptomatik: Beispiele?",
+  "back": "Positiv: Halluzinationen, Wahn, Ich-Störungen, formale Denkstörungen. Negativ: Affektverflachung, Antriebsarmut, Sprachverarmung, sozialer Rückzug."
+ },
+ {
+  "id": "f12",
+  "topic": "Sucht",
+  "front": "Wann beginnt ein Alkoholentzugsdelir typischerweise und was ist zu tun?",
+  "back": "Meist 1 bis 3 Tage nach dem letzten Konsum. Es ist lebensbedrohlich und ein Notfall: sofort ärztliche und stationäre Behandlung veranlassen."
+ },
+ {
+  "id": "f13",
+  "topic": "Sucht",
+  "front": "Die sechs Kriterien des Abhängigkeitssyndroms nach ICD-10?",
+  "back": "Starker Konsumwunsch, verminderte Kontrolle, Entzugssyndrom, Toleranzentwicklung, Vernachlässigung anderer Interessen, anhaltender Konsum trotz schädlicher Folgen. Mindestens drei davon im letzten Jahr."
+ },
+ {
+  "id": "f14",
+  "topic": "Kinder & Jugend",
+  "front": "Nenne wichtige Störungen im Kindes- und Jugendalter mit ICD-10-Bezug.",
+  "back": "ADHS (F90), frühkindlicher Autismus (F84.0), Asperger-Syndrom (F84.5), Enuresis (F98.0), Enkopresis (F98.1), Störung des Sozialverhaltens (F91)."
+ },
+ {
+  "id": "f15",
+  "topic": "Recht & Praxis",
+  "front": "Wo liegen die Grenzen der beschränkten Heilpraktikererlaubnis (Psychotherapie)?",
+  "back": "Keine Arzneimittelverordnung, keine körperlich-medizinische Diagnostik oder Behandlung. Bei Hinweisen auf körperliche Ursachen oder akuter Gefährdung wird ärztlich abgeklärt oder überwiesen."
+ },
+ {
+  "id": "f16",
+  "topic": "Recht & Praxis",
+  "front": "Was ist beim Umgang mit Suizidalität zentral?",
+  "back": "Direkt ansprechen, Pläne, Mittel und Absprachefähigkeit erfragen. Bei akuter Gefahr nicht allein lassen, Notruf oder ärztliche Hilfe einschalten, Unterbringung nach PsychKG möglich. Dokumentation nicht vergessen."
+ },
+ {
+  "id": "kc01",
+  "topic": "Grundlagen",
+  "front": "Was ist der Unterschied zwischen Symptom, Syndrom und Diagnose?",
+  "back": "Symptom: einzelnes Krankheitszeichen. Syndrom: typische Kombination von Symptomen. Diagnose: Zuordnung zu einem Krankheitsbild nach ICD-10 (Kapitel V, F00–F99)."
+ },
+ {
+  "id": "kc02",
+  "topic": "Grundlagen",
+  "front": "Welche Hauptgruppen umfasst Kapitel F der ICD-10?",
+  "back": "F0 organische Störungen, F1 psychotrope Substanzen, F2 Schizophrenie und Wahn, F3 affektive Störungen, F4 neurotische, Belastungs- und somatoforme Störungen, F5 Verhaltensauffälligkeiten mit körperlichen Störungen, F6 Persönlichkeitsstörungen, F7 Intelligenzminderung, F8 Entwicklungsstörungen, F9 Störungen in Kindheit und Jugend."
+ },
+ {
+  "id": "kc03",
+  "topic": "Grundlagen",
+  "front": "Wofür steht das AMDP-System?",
+  "back": "Standardisierte Dokumentation des psychopathologischen Befundes (u. a. Bewusstsein, Orientierung, Aufmerksamkeit, Denken, Wahrnehmung, Ich-Erleben, Affektivität, Antrieb)."
+ },
+ {
+  "id": "kc04",
+  "topic": "Grundlagen",
+  "front": "Nenne die Orientierungsqualitäten und die Reihenfolge ihres Verlusts.",
+  "back": "Zeit, Ort, Situation, Person. Meist gehen sie in dieser Reihenfolge verloren: zuerst zeitlich, zuletzt zur eigenen Person."
+ },
+ {
+  "id": "kc05",
+  "topic": "Grundlagen",
+  "front": "Was ist der Unterschied zwischen formalen und inhaltlichen Denkstörungen?",
+  "back": "Formal: Ablauf des Denkens gestört (Verlangsamung, Ideenflucht, Gedankensperre, Zerfahrenheit, Perseveration). Inhaltlich: Inhalt des Denkens gestört (Wahn, überwertige Ideen, Zwangsgedanken, Phobien)."
+ },
+ {
+  "id": "kc06",
+  "topic": "Grundlagen",
+  "front": "Was ist ein Wahn?",
+  "back": "Eine unkorrigierbare, objektiv falsche Überzeugung, an der trotz Gegenbeweisen festgehalten wird. Formen: Verfolgungs-, Beziehungs-, Größen-, Liebes-, Eifersuchts-, Verarmungs-, Schuld-, nihilistischer und hypochondrischer Wahn."
+ },
+ {
+  "id": "kc07",
+  "topic": "Grundlagen",
+  "front": "Wodurch unterscheiden sich Halluzination, Illusion und Pseudohalluzination?",
+  "back": "Halluzination: Wahrnehmung ohne äußeren Reiz. Illusion: Verkennung eines realen Reizes. Pseudohalluzination: wird als nicht real erkannt (Patient weiß, dass es nicht echt ist)."
+ },
+ {
+  "id": "kc08",
+  "topic": "Grundlagen",
+  "front": "Was gehört zu den Ich-Störungen?",
+  "back": "Depersonalisation, Derealisation, Gedankenentzug, Gedankeneingebung, Gedankenausbreitung, Gedankenlautwerden, Fremdbeeinflussungserlebnisse. Viele sind Erstrangsymptome nach Schneider."
+ },
+ {
+  "id": "kc09",
+  "topic": "Grundlagen",
+  "front": "Was versteht man unter Affektstarre, Affektlabilität und Affektinkontinenz?",
+  "back": "Starre: eingeschränkte Schwingungsfähigkeit. Labilität: rascher, unbegründeter Stimmungswechsel. Inkontinenz: Affekte können nicht zurückgehalten werden (z. B. bei Demenz)."
+ },
+ {
+  "id": "kc10",
+  "topic": "Diagnostik & Therapie",
+  "front": "Welche Richtlinienverfahren gibt es in Deutschland?",
+  "back": "Verhaltenstherapie, tiefenpsychologisch fundierte Psychotherapie, analytische Psychotherapie und Systemische Therapie."
+ },
+ {
+  "id": "kc11",
+  "topic": "Diagnostik & Therapie",
+  "front": "Nenne die Basisvariablen der Gesprächspsychotherapie nach Rogers.",
+  "back": "Empathie, bedingungslose Wertschätzung (Akzeptanz) und Kongruenz (Echtheit)."
+ },
+ {
+  "id": "kc12",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was bedeutet Übertragung und Gegenübertragung?",
+  "back": "Übertragung: der Patient überträgt unbewusst Gefühle früherer Bezugspersonen auf den Therapeuten. Gegenübertragung: unbewusste Reaktion des Therapeuten auf den Patienten."
+ },
+ {
+  "id": "kc13",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was ist klassisches und was operantes Konditionieren?",
+  "back": "Klassisch (Pawlow): Reiz-Reaktions-Verknüpfung durch Wiederholung. Operant (Skinner): Verhalten wird durch Konsequenzen verstärkt oder abgeschwächt."
+ },
+ {
+  "id": "kc14",
+  "topic": "Diagnostik & Therapie",
+  "front": "Welche Verstärkungsarten gibt es?",
+  "back": "Positive Verstärkung (angenehmer Reiz folgt), negative Verstärkung (unangenehmer Reiz entfällt), Bestrafung Typ I (unangenehmer Reiz folgt) und Typ II (angenehmer Reiz entfällt). Löschung: Verstärkung bleibt aus."
+ },
+ {
+  "id": "kc15",
+  "topic": "Diagnostik & Therapie",
+  "front": "Wie unterscheiden sich Flooding und systematische Desensibilisierung?",
+  "back": "Flooding: direkte, lange Konfrontation mit dem stärksten Reiz bis zum Abklingen der Angst. Desensibilisierung: schrittweise Konfrontation entlang einer Angsthierarchie mit Entspannung."
+ },
+ {
+  "id": "kc16",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was ist ein Sokratischer Dialog?",
+  "back": "Technik der kognitiven Therapie: Mit gezielten Fragen werden dysfunktionale Gedanken überprüft und alternative Sichtweisen gefunden."
+ },
+ {
+  "id": "kc17",
+  "topic": "Diagnostik & Therapie",
+  "front": "Welche Abwehrmechanismen gehören zu den reifen?",
+  "back": "Sublimierung, Humor, Antizipation und Altruismus. Unreif sind z. B. Projektion, Verleugnung, Spaltung, Regression."
+ },
+ {
+  "id": "kc18",
+  "topic": "Diagnostik & Therapie",
+  "front": "Wirkmechanismus und typische Wirkung von Antidepressiva?",
+  "back": "Erhöhung von Serotonin und/oder Noradrenalin im synaptischen Spalt. Wirkeintritt nach etwa 2–3 Wochen, Dauer der Behandlung mindestens 6 Monate nach Remission. Verordnung nur durch Ärzte."
+ },
+ {
+  "id": "kc19",
+  "topic": "Diagnostik & Therapie",
+  "front": "Welche Nebenwirkungen haben Trizyklika?",
+  "back": "Anticholinerg: Mundtrockenheit, Obstipation, Harnverhalt, Akkommodationsstörung, Tachykardie, Sedierung, Gewichtszunahme."
+ },
+ {
+  "id": "kc20",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was sind extrapyramidal-motorische Nebenwirkungen der Neuroleptika?",
+  "back": "Frühdyskinesie, Parkinsonoid, Akathisie und Spätdyskinesie. Häufiger bei klassischen Neuroleptika."
+ },
+ {
+  "id": "kc21",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was ist das maligne neuroleptische Syndrom?",
+  "back": "Seltene, lebensbedrohliche Komplikation: Fieber, Rigor, Bewusstseinsstörung, vegetative Entgleisung. Notfall mit sofortiger Klinikeinweisung."
+ },
+ {
+  "id": "kc22",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was ist das Serotoninsyndrom?",
+  "back": "Zu viel Serotonin bei Kombination serotonerger Wirkstoffe: Tremor, Schwitzen, Durchfall, Fieber, Unruhe, Muskelzuckungen. Notfall."
+ },
+ {
+  "id": "kc23",
+  "topic": "Diagnostik & Therapie",
+  "front": "Wofür wird Lithium eingesetzt und was ist zu beachten?",
+  "back": "Phasenprophylaxe bei bipolarer Störung. Geringe therapeutische Breite: Spiegelkontrollen, Nieren- und Schilddrüsenwerte überwachen."
+ },
+ {
+  "id": "kc24",
+  "topic": "Diagnostik & Therapie",
+  "front": "Wie wirken Benzodiazepine und welches Risiko besteht?",
+  "back": "Verstärken GABA-Wirkung: angstlösend, beruhigend, muskelentspannend, antikonvulsiv. Risiko: Abhängigkeit schon nach wenigen Wochen, Entzugskrämpfe, Sturzgefahr. Nur kurzzeitig geben."
+ },
+ {
+  "id": "kc25",
+  "topic": "Affekt & Angst",
+  "front": "Nenne die Haupt- und Zusatzsymptome der depressiven Episode (ICD-10).",
+  "back": "Haupt: gedrückte Stimmung, Interessen-/Freudverlust, Antriebsminderung. Zusatz: Konzentrationsstörung, Selbstwertverlust, Schuldgefühle, Hoffnungslosigkeit, Suizidgedanken, Schlafstörung, Appetitverlust. Dauer meist mindestens zwei Wochen."
+ },
+ {
+  "id": "kc26",
+  "topic": "Affekt & Angst",
+  "front": "Wie ist der Schweregrad der depressiven Episode abgestuft?",
+  "back": "Leicht: 2 Haupt- und 2 Zusatzsymptome. Mittelgradig: 2 Haupt- und 3–4 Zusatzsymptome. Schwer: alle 3 Haupt- und mindestens 4 Zusatzsymptome. F32.3: schwer mit psychotischen Symptomen."
+ },
+ {
+  "id": "kc27",
+  "topic": "Affekt & Angst",
+  "front": "Was ist das somatische Syndrom bei Depression?",
+  "back": "Z. B. Früherwachen, Morgentief, psychomotorische Hemmung oder Agitiertheit, Appetit- und Gewichtsverlust, Libidoverlust, Interesseverlust."
+ },
+ {
+  "id": "kc28",
+  "topic": "Affekt & Angst",
+  "front": "Was kennzeichnet eine Manie?",
+  "back": "Gehobene oder gereizte Stimmung, Antriebssteigerung, Rededrang, Ideenflucht, vermindertes Schlafbedürfnis, Größenideen, Distanzlosigkeit, riskantes Verhalten. F30."
+ },
+ {
+  "id": "kc29",
+  "topic": "Affekt & Angst",
+  "front": "Was kennzeichnet die bipolare affektive Störung (F31)?",
+  "back": "Mindestens zwei Episoden, bei denen Stimmung und Antrieb deutlich gestört sind: manisch bzw. hypomanisch und depressiv im Wechsel."
+ },
+ {
+  "id": "kc30",
+  "topic": "Affekt & Angst",
+  "front": "Wie unterscheiden sich Zyklothymia und Dysthymia?",
+  "back": "Zyklothymia (F34.0): anhaltende Stimmungsinstabilität mit leicht depressiven und hypomanen Phasen. Dysthymia (F34.1): chronische leichte Depression über mindestens zwei Jahre."
+ },
+ {
+  "id": "kc31",
+  "topic": "Affekt & Angst",
+  "front": "Woran erkennt man Suizidalität und was sind Warnzeichen?",
+  "back": "Äußerungen über Tod oder Sinnlosigkeit, Rückzug, Abschiedsverhalten, Regelung von Angelegenheiten, plötzliche Ruhe nach Krise (präsuizidales Syndrom: Einengung, Aggressionsumkehr, Suizidphantasien). Direkt ansprechen."
+ },
+ {
+  "id": "kc32",
+  "topic": "Affekt & Angst",
+  "front": "Welche Angststörungen unterscheidet die ICD-10 (F40/F41)?",
+  "back": "Agoraphobie, soziale Phobie, spezifische Phobien (F40), Panikstörung, generalisierte Angststörung, Angst und depressive Störung gemischt (F41)."
+ },
+ {
+  "id": "kc33",
+  "topic": "Affekt & Angst",
+  "front": "Was kennzeichnet die Panikstörung?",
+  "back": "Plötzliche, intensive Angstanfälle mit körperlichen Symptomen (Herzrasen, Atemnot, Schwindel, Todesangst), die nicht an bestimmte Situationen gebunden sind. Dauer meist Minuten. Erwartungsangst."
+ },
+ {
+  "id": "kc34",
+  "topic": "Affekt & Angst",
+  "front": "Wodurch ist die Zwangsstörung (F42) gekennzeichnet?",
+  "back": "Wiederkehrende Zwangsgedanken und/oder Zwangshandlungen, als eigene Gedanken erlebt, aber als sinnlos erkannt. Widerstand erzeugt Anspannung, Handlung reduziert Angst."
+ },
+ {
+  "id": "kc35",
+  "topic": "Psychosen",
+  "front": "Nenne die Erstrangsymptome nach Kurt Schneider.",
+  "back": "Gedankenlautwerden, Stimmen in Rede und Gegenrede, kommentierende Stimmen, leibliche Beeinflussungserlebnisse, Gedankenentzug, -eingebung, -ausbreitung, Wahnwahrnehmung, Gefühl des Gemachten."
+ },
+ {
+  "id": "kc36",
+  "topic": "Psychosen",
+  "front": "Was sind Positiv- und Negativsymptome der Schizophrenie?",
+  "back": "Positiv: Wahn, Halluzinationen, Ich-Störungen, formale Denkstörungen. Negativ: Affektverflachung, Antriebsmangel, sozialer Rückzug, Sprachverarmung, Anhedonie."
+ },
+ {
+  "id": "kc37",
+  "topic": "Psychosen",
+  "front": "Welche Subtypen der Schizophrenie gibt es (ICD-10)?",
+  "back": "Paranoid (F20.0), hebephren (F20.1), katatone (F20.2), undifferenziert (F20.3), postschizophrene Depression (F20.4), Residuum (F20.5), Schizophrenia simplex (F20.6)."
+ },
+ {
+  "id": "kc38",
+  "topic": "Psychosen",
+  "front": "Wie unterscheidet sich die anhaltende wahnhafte Störung von der Schizophrenie?",
+  "back": "Bei F22 besteht ein über mindestens drei Monate anhaltender systematischer Wahn, aber keine schizophrenen Symptome wie Halluzinationen oder Ich-Störungen."
+ },
+ {
+  "id": "kc39",
+  "topic": "Psychosen",
+  "front": "Wie lange müssen schizophrene Symptome nach ICD-10 bestehen?",
+  "back": "Mindestens ein Monat. Kürzere Verläufe: akute vorübergehende psychotische Störungen (F23)."
+ },
+ {
+  "id": "kc40",
+  "topic": "Psychosen",
+  "front": "Was ist eine schizoaffektive Störung?",
+  "back": "Gleichzeitiges Vorliegen ausgeprägter affektiver und schizophrener Symptome innerhalb derselben Episode (F25)."
+ },
+ {
+  "id": "kc41",
+  "topic": "Psychosen",
+  "front": "Wichtige Punkte im Umgang mit akut psychotischen Patienten?",
+  "back": "Ruhig, klar, ohne Diskussion über den Wahn. Reizabschirmung, Eigen- und Fremdgefährdung einschätzen, fachärztliche Behandlung veranlassen (Psychiater, Klinik)."
+ },
+ {
+  "id": "kc42",
+  "topic": "Sucht",
+  "front": "Nenne die ICD-10-Kriterien der Abhängigkeit.",
+  "back": "Mindestens drei in den letzten 12 Monaten: Craving, verminderte Kontrolle, körperliches Entzugssyndrom, Toleranzentwicklung, Vernachlässigung anderer Interessen, fortgesetzter Konsum trotz Schäden."
+ },
+ {
+  "id": "kc43",
+  "topic": "Sucht",
+  "front": "Was unterscheidet schädlichen Gebrauch von Abhängigkeit?",
+  "back": "Schädlicher Gebrauch (F1x.1): nachweisbare körperliche oder psychische Schäden, aber keine Abhängigkeit."
+ },
+ {
+  "id": "kc44",
+  "topic": "Sucht",
+  "front": "Was kennzeichnet das Korsakow-Syndrom?",
+  "back": "Amnestisches Syndrom bei chronischem Alkoholismus (Vitamin-B1-Mangel): Merkfähigkeitsstörung, Konfabulationen, Desorientiertheit."
+ },
+ {
+  "id": "kc45",
+  "topic": "Sucht",
+  "front": "Welche Entzugssymptome hat der Alkoholentzug?",
+  "back": "Tremor, Schwitzen, Unruhe, Übelkeit, Tachykardie, Krampfanfälle; Delirium tremens als schwere, lebensbedrohliche Form (Desorientiertheit, optische Halluzinationen)."
+ },
+ {
+  "id": "kc46",
+  "topic": "Sucht",
+  "front": "Welche Phasen sind in der Suchtbehandlung bekannt?",
+  "back": "Motivationsphase, Entgiftung (qualifizierter Entzug, ärztlich), Entwöhnung (Reha), Nachsorge. Heilpraktiker für Psychotherapie dürfen keine körperliche Entgiftung durchführen."
+ },
+ {
+  "id": "kc47",
+  "topic": "Sucht",
+  "front": "Welche Opiatwirkung und welcher Entzug sind typisch?",
+  "back": "Wirkung: Euphorie, Schmerzlinderung, Atemdepression, enge Pupillen. Entzug: Gänsehaut, Schweißausbrüche, Muskelschmerzen, Durchfall, weite Pupillen; selten lebensbedrohlich."
+ },
+ {
+  "id": "kc48",
+  "topic": "Essstörungen",
+  "front": "Kriterien der Anorexia nervosa (F50.0)?",
+  "back": "BMI höchstens 17,5, selbst herbeigeführter Gewichtsverlust, Körperschemastörung mit Angst vor Gewichtszunahme, endokrine Störung (z. B. Amenorrhoe)."
+ },
+ {
+  "id": "kc49",
+  "topic": "Essstörungen",
+  "front": "Kriterien der Bulimia nervosa (F50.2)?",
+  "back": "Wiederholte Essanfälle mit Kontrollverlust, gegensteuernde Maßnahmen (Erbrechen, Laxantien, Fasten, Sport), ständige Beschäftigung mit Figur und Gewicht, meist Normalgewicht."
+ },
+ {
+  "id": "kc50",
+  "topic": "Essstörungen",
+  "front": "Welche körperlichen Folgen drohen bei Essstörungen?",
+  "back": "Elektrolytstörungen (z. B. Kalium), Herzrhythmusstörungen, Osteoporose, Zahnschäden, Amenorrhoe, Refeeding-Syndrom. Ärztliche Mitbehandlung ist nötig."
+ },
+ {
+  "id": "kc51",
+  "topic": "Persönlichkeit",
+  "front": "Nenne die Persönlichkeitsstörungen nach ICD-10 (F60).",
+  "back": "Paranoid, schizoid, dissozial, emotional instabil (impulsiv/Borderline), histrionisch, anankastisch, ängstlich-vermeidend, abhängig."
+ },
+ {
+  "id": "kc52",
+  "topic": "Persönlichkeit",
+  "front": "Kennzeichen der emotional instabilen Persönlichkeitsstörung vom Borderline-Typ?",
+  "back": "Instabile Beziehungen und Selbstbild, Impulsivität, chronische Leere, Selbstverletzung, Suizidalität, Verlassenheitsangst, Spaltung."
+ },
+ {
+  "id": "kc53",
+  "topic": "Persönlichkeit",
+  "front": "Kennzeichen der dissozialen Persönlichkeitsstörung?",
+  "back": "Missachtung sozialer Normen und Rechte anderer, Gefühlskälte, geringe Frustrationstoleranz, Aggressivität, fehlende Schuldgefühle, kein Lernen aus Strafe."
+ },
+ {
+  "id": "kc54",
+  "topic": "Persönlichkeit",
+  "front": "Kennzeichen der anankastischen Persönlichkeitsstörung?",
+  "back": "Perfektionismus, Gewissenhaftigkeit, Starrheit, Kontrollbedürfnis, Zweifel. Unterscheide von der Zwangsstörung."
+ },
+ {
+  "id": "kc55",
+  "topic": "Persönlichkeit",
+  "front": "Wie lange müssen Persönlichkeitsstörungen bestehen?",
+  "back": "Sie beginnen in Kindheit oder Jugend und sind überdauernd. Nicht Folge einer anderen psychischen Störung oder Hirnschädigung."
+ },
+ {
+  "id": "kc56",
+  "topic": "Trauma & Belastung",
+  "front": "Kernsymptome der PTBS (F43.1)?",
+  "back": "Wiedererleben (Intrusionen, Flashbacks, Albträume), Vermeidung, emotionale Taubheit, Übererregung. Beginn meist innerhalb von sechs Monaten nach dem Trauma."
+ },
+ {
+  "id": "kc57",
+  "topic": "Trauma & Belastung",
+  "front": "Wie unterscheiden sich akute Belastungsreaktion und Anpassungsstörung?",
+  "back": "Akute Belastungsreaktion (F43.0): Abklingen meist innerhalb von Tagen nach außergewöhnlicher Belastung. Anpassungsstörung (F43.2): Reaktion auf eine Lebensveränderung, Beginn innerhalb eines Monats, meist höchstens sechs Monate."
+ },
+ {
+  "id": "kc58",
+  "topic": "Trauma & Belastung",
+  "front": "Was ist eine andauernde Persönlichkeitsänderung nach Extrembelastung (F62.0)?",
+  "back": "Chronische Veränderung der Persönlichkeit nach Katastrophen oder Gefangenschaft: Misstrauen, Rückzug, Leeregefühl, Entfremdung."
+ },
+ {
+  "id": "kc59",
+  "topic": "Somatoform & Dissoziativ",
+  "front": "Welche somatoformen Störungen gibt es (F45)?",
+  "back": "Somatisierungsstörung, hypochondrische Störung, somatoforme autonome Funktionsstörung, anhaltende somatoforme Schmerzstörung, undifferenzierte somatoforme Störung."
+ },
+ {
+  "id": "kc60",
+  "topic": "Somatoform & Dissoziativ",
+  "front": "Welche dissoziativen Störungen gehören zu F44?",
+  "back": "Amnesie, Fugue, Stupor, Trance- und Besessenheitszustände, Bewegungsstörungen, Krampfanfälle, Sensibilitäts- und Empfindungsstörungen, multiple Persönlichkeitsstörung."
+ },
+ {
+  "id": "kc61",
+  "topic": "Somatoform & Dissoziativ",
+  "front": "Wie unterscheiden sich Depersonalisation und Derealisation?",
+  "back": "Depersonalisation: das eigene Selbst oder der Körper wirkt fremd. Derealisation: die Umwelt wirkt fremd, unwirklich."
+ },
+ {
+  "id": "kc62",
+  "topic": "Organisch",
+  "front": "Wie unterscheiden sich Delir und Demenz?",
+  "back": "Delir: akut, Bewusstseinsstörung, schwankender Verlauf, meist reversibel. Demenz: schleichend, chronisch, klare Bewusstseinslage, nicht reversibel."
+ },
+ {
+  "id": "kc63",
+  "topic": "Organisch",
+  "front": "Nenne wichtige Demenzformen mit Merkmal.",
+  "back": "Alzheimer: schleichend, Gedächtnis zuerst. Vaskulär: stufenförmig, Herdsymptome. Frontotemporal: Persönlichkeitsveränderung. Lewy-Körper: Halluzinationen, Parkinsonsymptome, Schwankungen."
+ },
+ {
+  "id": "kc64",
+  "topic": "Organisch",
+  "front": "Welche körperlichen Erkrankungen können psychische Symptome auslösen?",
+  "back": "Schilddrüsenerkrankungen, Hirntumoren, Epilepsie, Vitaminmangel, Infektionen, Stoffwechselstörungen, Medikamente. Deshalb ärztliche Abklärung."
+ },
+ {
+  "id": "kc65",
+  "topic": "Organisch",
+  "front": "Welche Demenzkriterien nennt die ICD-10?",
+  "back": "Abnahme von Gedächtnis und Denkvermögen, die den Alltag beeinträchtigen, über mindestens sechs Monate, ohne Bewusstseinstrübung."
+ },
+ {
+  "id": "kc66",
+  "topic": "Kinder & Jugend",
+  "front": "Kennzeichen des frühkindlichen Autismus (F84.0)?",
+  "back": "Beginn vor dem 3. Lebensjahr, Defizite in sozialer Interaktion und Kommunikation, stereotype Verhaltensmuster."
+ },
+ {
+  "id": "kc67",
+  "topic": "Kinder & Jugend",
+  "front": "Was kennzeichnet das Asperger-Syndrom (F84.5)?",
+  "back": "Soziale Interaktionsstörung und stereotype Interessen ohne Sprachentwicklungsverzögerung und ohne Intelligenzminderung."
+ },
+ {
+  "id": "kc68",
+  "topic": "Kinder & Jugend",
+  "front": "Wann spricht man von Enuresis und Enkopresis?",
+  "back": "Enuresis: Einnässen nach dem 5. Lebensjahr ohne körperliche Ursache. Enkopresis: Einkoten ab dem 4. Lebensjahr."
+ },
+ {
+  "id": "kc69",
+  "topic": "Kinder & Jugend",
+  "front": "Was ist ein Mutismus?",
+  "back": "Sprechverweigerung bei erhaltener Sprachfähigkeit, oft situationsabhängig (selektiver Mutismus, F94.0)."
+ },
+ {
+  "id": "kc70",
+  "topic": "Kinder & Jugend",
+  "front": "Was kennzeichnet Störungen des Sozialverhaltens (F91)?",
+  "back": "Wiederholtes aggressives oder dissoziales Verhalten, Verletzen von Regeln und Rechten anderer, mindestens sechs Monate."
+ },
+ {
+  "id": "kc71",
+  "topic": "Recht & Praxis",
+  "front": "Wann darf die Schweigepflicht durchbrochen werden?",
+  "back": "Mit Einwilligung des Patienten, bei gesetzlichen Pflichten (z. B. § 138 StGB) und bei rechtfertigendem Notstand (§ 34 StGB). Sie folgt aus dem Behandlungsvertrag und dem Datenschutz."
+ },
+ {
+  "id": "kc72",
+  "topic": "Recht & Praxis",
+  "front": "Welche Voraussetzungen hat die Unterbringung nach PsychKG?",
+  "back": "Psychische Erkrankung, akute erhebliche Eigen- oder Fremdgefährdung, nicht anders abwendbar. Entscheidung durch Gericht bzw. Behörde, nicht durch den Heilpraktiker."
+ },
+ {
+  "id": "kc73",
+  "topic": "Recht & Praxis",
+  "front": "Wie lange sind Patientenakten aufzubewahren?",
+  "back": "Zehn Jahre nach Abschluss der Behandlung (§ 630f BGB), nachträgliche Änderungen müssen erkennbar bleiben."
+ },
+ {
+  "id": "kc74",
+  "topic": "Recht & Praxis",
+  "front": "Was darf der Heilpraktiker für Psychotherapie nicht?",
+  "back": "Körperliche Untersuchung und Behandlung, Verordnung verschreibungspflichtiger Arzneimittel, Behandlung meldepflichtiger Infektionskrankheiten (IfSG), Heilversprechen und irreführende Werbung (HWG)."
+ },
+ {
+  "id": "kc75",
+  "topic": "Recht & Praxis",
+  "front": "Was regelt die Betreuung?",
+  "back": "Betreuung (BGB) bestellt das Betreuungsgericht, wenn Erwachsene ihre Angelegenheiten nicht selbst besorgen können. Sie ist kein Entzug der Geschäftsfähigkeit."
+ },
+ {
+  "id": "kc76",
+  "topic": "Recht & Praxis",
+  "front": "Was gehört zur Aufklärung vor Behandlungsbeginn?",
+  "back": "Informed Consent: Aufklärung über Diagnose, Behandlung, Risiken, Alternativen und Kosten (wirtschaftliche Information in Textform), danach Einwilligung."
+ },
+ {
+  "id": "kc77",
+  "topic": "Recht & Praxis",
+  "front": "Was ist § 323c StGB?",
+  "back": "Unterlassene Hilfeleistung: Wer bei Unglücksfällen oder Not nicht hilft, obwohl es erforderlich und zumutbar ist, macht sich strafbar. Notruf gehört dazu."
+ },
+ {
+  "id": "kc78",
+  "topic": "Weitere Störungen",
+  "front": "Nenne Störungen der Impulskontrolle (F63).",
+  "back": "Pathologisches Spielen, Pyromanie, Kleptomanie, Trichotillomanie. Gemeinsam: wiederholtes Handeln gegen den Willen, Anspannung davor, Erleichterung danach."
+ },
+ {
+  "id": "kc79",
+  "topic": "Weitere Störungen",
+  "front": "Wichtige Schlafstörungen?",
+  "back": "Insomnie (F51.0 nichtorganisch), Hypersomnie, Schlafwandeln, Pavor nocturnus, Albträume; zuvor organische Ursachen und Substanzgebrauch abklären."
+ },
+ {
+  "id": "kc80",
+  "topic": "Weitere Störungen",
+  "front": "Nenne Störungen der Sexualpräferenz.",
+  "back": "Fetischismus, Exhibitionismus, Voyeurismus, Pädophilie, Sadomasochismus (F65). Störungswert hat es erst bei Leidensdruck oder Gefährdung anderer."
+ },
+ {
+  "id": "kc81",
+  "topic": "Weitere Störungen",
+  "front": "Wie wird Intelligenzminderung eingeteilt?",
+  "back": "IQ 50–69 leicht, 35–49 mittelgradig, 20–34 schwer, unter 20 schwerste (F70–F73)."
+ },
+ {
+  "id": "kc82",
+  "topic": "Weitere Störungen",
+  "front": "Was sind Tic-Störungen?",
+  "back": "Plötzliche, rasche, wiederholte Bewegungen oder Lautäußerungen ohne Zweck. Tourette-Syndrom: motorische und vokale Tics über mehr als ein Jahr (F95.2)."
+ }
 ]

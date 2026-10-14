@@ -1,35 +1,280 @@
 [
-  {
-    "id": "c01",
-    "title": "Fall 1: Frau M., 42 Jahre",
-    "vignette": "Frau M. kommt in Ihre Praxis. Seit vier Wochen fühlt sie sich niedergeschlagen und hat an nichts mehr Freude. Sie wacht nachts gegen drei Uhr auf und kann nicht wieder einschlafen. Der Appetit ist weg, sie hat fünf Kilogramm abgenommen. Sie kann sich kaum konzentrieren, macht sich Vorwürfe und sagt: Manchmal denke ich, es wäre besser, nicht mehr aufzuwachen.",
-    "questions": [
-      {"q": "Welche Verdachtsdiagnose stellen Sie?", "a": "Verdacht auf eine depressive Episode (F32), nach Symptomzahl mindestens mittelgradig. Auffällig sind Früherwachen, Appetit- und Gewichtsverlust, Freudlosigkeit und Schuldgefühle (somatisches Syndrom). Die Dauer von vier Wochen erfüllt das Zeitkriterium von mindestens zwei Wochen."},
-      {"q": "Was klären Sie unbedingt ab?", "a": "Suizidalität: direkt ansprechen, nach Plan, Mitteln, Vorbereitungen und Absprachefähigkeit fragen. Außerdem: frühere depressive oder manische Episoden (bipolare Störung), Substanz- und Alkoholkonsum, Medikamente, körperliche Ursachen wie Schilddrüsenerkrankung (ärztliche Abklärung) und aktuelle Belastungen."},
-      {"q": "Welche Differenzialdiagnosen kommen infrage?", "a": "Anpassungsstörung, Dysthymie, bipolare Störung (depressive Phase), organisch bedingte depressive Störung, substanzinduzierte Depression und normale Trauerreaktion."},
-      {"q": "Wie gehen Sie weiter vor, wo liegen Ihre Grenzen?", "a": "Ärztliche Abklärung veranlassen (Hausarzt, Facharzt), bei akuter Suizidalität sofort Notfallmaßnahmen und gegebenenfalls Klinikeinweisung. Bei schwerer Episode ist ärztliche Mitbehandlung nötig. Psychotherapeutisch kommen zum Beispiel Verhaltenstherapie mit Aktivitätsaufbau und kognitiver Umstrukturierung in Betracht, mit Psychoedukation und Einbindung der Angehörigen."}
-    ]
-  },
-  {
-    "id": "c02",
-    "title": "Fall 2: Herr K., 29 Jahre",
-    "vignette": "Herr K. berichtet, dass er vor zwei Monaten in der U-Bahn plötzlich Herzrasen, Atemnot, Schwindel und Todesangst bekam. Seitdem treten solche Attacken immer wieder auf, ohne erkennbaren Anlass, und dauern etwa zwanzig Minuten. Er hat Angst vor der nächsten Attacke und fährt kaum noch U-Bahn.",
-    "questions": [
-      {"q": "Welche Verdachtsdiagnose stellen Sie?", "a": "Panikstörung (F41.0) mit beginnender Vermeidung, gegebenenfalls Agoraphobie mit Panikstörung (F40.01). Kennzeichen: wiederkehrende, unvorhersehbare Angstattacken mit körperlichen Symptomen und Erwartungsangst."},
-      {"q": "Welche körperlichen Ursachen müssen ausgeschlossen werden?", "a": "Herzerkrankungen und Rhythmusstörungen, Schilddrüsenüberfunktion, Hypoglykämie, Lungenerkrankungen sowie Wirkung von Koffein, Drogen oder Medikamenten. Das klärt der Arzt ab, bevor die Störung als rein psychisch eingeordnet wird."},
-      {"q": "Wie erklären Sie dem Patienten das Entstehen der Angst?", "a": "Mit dem Teufelskreis der Angst: Körperliche Empfindung (Herzklopfen) wird als bedrohlich bewertet, die Angst steigt, die Körperreaktion verstärkt sich, bis die Attacke ihren Höhepunkt erreicht. Vermeidung hält das Problem aufrecht, weil der Patient nie lernt, dass nichts Schlimmes passiert."},
-      {"q": "Welche psychotherapeutischen Maßnahmen kommen infrage?", "a": "Psychoedukation, Angsttagebuch, Atem- und Entspannungstechniken, kognitive Umstrukturierung der Katastrophenbewertung und schrittweise Exposition: interozeptiv (z. B. Herzklopfen auslösen) und in vivo (U-Bahn fahren)."}
-    ]
-  },
-  {
-    "id": "c03",
-    "title": "Fall 3: Herr T., 24 Jahre",
-    "vignette": "Die Mutter bringt ihren Sohn, Herrn T. Seit etwa sechs Wochen zieht er sich zurück, schläft schlecht und ist misstrauisch. Er hört Stimmen, die sein Handeln kommentieren, und ist überzeugt, dass ihm Gedanken aus dem Kopf genommen werden. Er sagt, Nachbarn überwachten ihn.",
-    "questions": [
-      {"q": "Welche Symptome erkennen Sie und wie ordnen Sie sie ein?", "a": "Kommentierende akustische Halluzinationen und Gedankenentzug (Ich-Störung) sind Erstrangsymptome nach Schneider. Der Überwachungsgedanke spricht für Verfolgungswahn. Zusätzlich bestehen sozialer Rückzug und Schlafstörung."},
-      {"q": "Welche Verdachtsdiagnose und welches Zeitkriterium?", "a": "Verdacht auf Schizophrenie (F20, paranoide Form F20.0). Das Zeitkriterium von mindestens einem Monat ist mit sechs Wochen erfüllt."},
-      {"q": "Welche Differenzialdiagnosen kommen infrage?", "a": "Substanzinduzierte psychotische Störung (Cannabis, Stimulanzien), organisch bedingte Psychose, akute vorübergehende psychotische Störung (F23), schizoaffektive Störung und wahnhafte Störung."},
-      {"q": "Wie gehen Sie vor, wo liegen Ihre Grenzen?", "a": "Selbst- und Fremdgefährdung abklären. Bei akuter Psychose hat ärztliche, in der Regel fachärztliche Behandlung Vorrang (Antipsychotika kann nur der Arzt verordnen), gegebenenfalls Klinik. Beziehung ruhig und wertschätzend gestalten, den Wahn nicht bestätigen und nicht bekämpfen. Psychotherapeutisch später Psychoedukation und Rückfallprophylaxe in Abstimmung mit dem Arzt."}
-    ]
-  }
+ {
+  "id": "c01",
+  "title": "Fall 1: Frau M., 42 Jahre",
+  "vignette": "Frau M. kommt in Ihre Praxis. Seit vier Wochen fühlt sie sich niedergeschlagen und hat an nichts mehr Freude. Sie wacht nachts gegen drei Uhr auf und kann nicht wieder einschlafen. Der Appetit ist weg, sie hat fünf Kilogramm abgenommen. Sie kann sich kaum konzentrieren, macht sich Vorwürfe und sagt: Manchmal denke ich, es wäre besser, nicht mehr aufzuwachen.",
+  "questions": [
+   {
+    "q": "Welche Verdachtsdiagnose stellen Sie?",
+    "a": "Verdacht auf eine depressive Episode (F32), nach Symptomzahl mindestens mittelgradig. Auffällig sind Früherwachen, Appetit- und Gewichtsverlust, Freudlosigkeit und Schuldgefühle (somatisches Syndrom). Die Dauer von vier Wochen erfüllt das Zeitkriterium von mindestens zwei Wochen."
+   },
+   {
+    "q": "Was klären Sie unbedingt ab?",
+    "a": "Suizidalität: direkt ansprechen, nach Plan, Mitteln, Vorbereitungen und Absprachefähigkeit fragen. Außerdem: frühere depressive oder manische Episoden (bipolare Störung), Substanz- und Alkoholkonsum, Medikamente, körperliche Ursachen wie Schilddrüsenerkrankung (ärztliche Abklärung) und aktuelle Belastungen."
+   },
+   {
+    "q": "Welche Differenzialdiagnosen kommen infrage?",
+    "a": "Anpassungsstörung, Dysthymie, bipolare Störung (depressive Phase), organisch bedingte depressive Störung, substanzinduzierte Depression und normale Trauerreaktion."
+   },
+   {
+    "q": "Wie gehen Sie weiter vor, wo liegen Ihre Grenzen?",
+    "a": "Ärztliche Abklärung veranlassen (Hausarzt, Facharzt), bei akuter Suizidalität sofort Notfallmaßnahmen und gegebenenfalls Klinikeinweisung. Bei schwerer Episode ist ärztliche Mitbehandlung nötig. Psychotherapeutisch kommen zum Beispiel Verhaltenstherapie mit Aktivitätsaufbau und kognitiver Umstrukturierung in Betracht, mit Psychoedukation und Einbindung der Angehörigen."
+   }
+  ]
+ },
+ {
+  "id": "c02",
+  "title": "Fall 2: Herr K., 29 Jahre",
+  "vignette": "Herr K. berichtet, dass er vor zwei Monaten in der U-Bahn plötzlich Herzrasen, Atemnot, Schwindel und Todesangst bekam. Seitdem treten solche Attacken immer wieder auf, ohne erkennbaren Anlass, und dauern etwa zwanzig Minuten. Er hat Angst vor der nächsten Attacke und fährt kaum noch U-Bahn.",
+  "questions": [
+   {
+    "q": "Welche Verdachtsdiagnose stellen Sie?",
+    "a": "Panikstörung (F41.0) mit beginnender Vermeidung, gegebenenfalls Agoraphobie mit Panikstörung (F40.01). Kennzeichen: wiederkehrende, unvorhersehbare Angstattacken mit körperlichen Symptomen und Erwartungsangst."
+   },
+   {
+    "q": "Welche körperlichen Ursachen müssen ausgeschlossen werden?",
+    "a": "Herzerkrankungen und Rhythmusstörungen, Schilddrüsenüberfunktion, Hypoglykämie, Lungenerkrankungen sowie Wirkung von Koffein, Drogen oder Medikamenten. Das klärt der Arzt ab, bevor die Störung als rein psychisch eingeordnet wird."
+   },
+   {
+    "q": "Wie erklären Sie dem Patienten das Entstehen der Angst?",
+    "a": "Mit dem Teufelskreis der Angst: Körperliche Empfindung (Herzklopfen) wird als bedrohlich bewertet, die Angst steigt, die Körperreaktion verstärkt sich, bis die Attacke ihren Höhepunkt erreicht. Vermeidung hält das Problem aufrecht, weil der Patient nie lernt, dass nichts Schlimmes passiert."
+   },
+   {
+    "q": "Welche psychotherapeutischen Maßnahmen kommen infrage?",
+    "a": "Psychoedukation, Angsttagebuch, Atem- und Entspannungstechniken, kognitive Umstrukturierung der Katastrophenbewertung und schrittweise Exposition: interozeptiv (z. B. Herzklopfen auslösen) und in vivo (U-Bahn fahren)."
+   }
+  ]
+ },
+ {
+  "id": "c03",
+  "title": "Fall 3: Herr T., 24 Jahre",
+  "vignette": "Die Mutter bringt ihren Sohn, Herrn T. Seit etwa sechs Wochen zieht er sich zurück, schläft schlecht und ist misstrauisch. Er hört Stimmen, die sein Handeln kommentieren, und ist überzeugt, dass ihm Gedanken aus dem Kopf genommen werden. Er sagt, Nachbarn überwachten ihn.",
+  "questions": [
+   {
+    "q": "Welche Symptome erkennen Sie und wie ordnen Sie sie ein?",
+    "a": "Kommentierende akustische Halluzinationen und Gedankenentzug (Ich-Störung) sind Erstrangsymptome nach Schneider. Der Überwachungsgedanke spricht für Verfolgungswahn. Zusätzlich bestehen sozialer Rückzug und Schlafstörung."
+   },
+   {
+    "q": "Welche Verdachtsdiagnose und welches Zeitkriterium?",
+    "a": "Verdacht auf Schizophrenie (F20, paranoide Form F20.0). Das Zeitkriterium von mindestens einem Monat ist mit sechs Wochen erfüllt."
+   },
+   {
+    "q": "Welche Differenzialdiagnosen kommen infrage?",
+    "a": "Substanzinduzierte psychotische Störung (Cannabis, Stimulanzien), organisch bedingte Psychose, akute vorübergehende psychotische Störung (F23), schizoaffektive Störung und wahnhafte Störung."
+   },
+   {
+    "q": "Wie gehen Sie vor, wo liegen Ihre Grenzen?",
+    "a": "Selbst- und Fremdgefährdung abklären. Bei akuter Psychose hat ärztliche, in der Regel fachärztliche Behandlung Vorrang (Antipsychotika kann nur der Arzt verordnen), gegebenenfalls Klinik. Beziehung ruhig und wertschätzend gestalten, den Wahn nicht bestätigen und nicht bekämpfen. Psychotherapeutisch später Psychoedukation und Rückfallprophylaxe in Abstimmung mit dem Arzt."
+   }
+  ]
+ },
+ {
+  "id": "m04",
+  "title": "Fall 4: Anhaltend gedrückte Stimmung seit drei Jahren",
+  "vignette": "Eine 45-jährige Patientin berichtet, seit über drei Jahren sei sie fast durchgehend gedrückter Stimmung, müde und freudlos. Sie hat nie ganz mit der Arbeit aussetzen müssen und funktioniert im Alltag, aber „alles ist grau“. Es gab keine Phase mit gehobener Stimmung.",
+  "questions": [
+   {
+    "q": "Welche Verdachtsdiagnose stellen Sie?",
+    "a": "Dysthymia (F34.1): chronisch gedrückte Stimmung über mindestens zwei Jahre, die nicht die Kriterien einer mittelgradigen oder schweren depressiven Episode erfüllt."
+   },
+   {
+    "q": "Wie grenzen Sie die Dysthymia ab?",
+    "a": "Von der depressiven Episode (F32/F33): kürzere, aber schwerere Phasen mit mehr Symptomen. Von der Zyklothymia (F34.0): dort wechseln sich leicht depressive und leicht gehobene Phasen ab. Von der bipolaren Störung: voll ausgeprägte manische oder hypomane Episoden fehlen hier. Außerdem organische Ursachen (z. B. Schilddrüse) ärztlich ausschließen lassen."
+   },
+   {
+    "q": "Welche Schritte planen Sie?",
+    "a": "Ausführliche Anamnese, Suizidalität erfragen, Abklärung körperlicher Ursachen durch einen Arzt, Aufklärung über Behandlungsmöglichkeiten, bei Bedarf Zusammenarbeit mit Hausarzt oder Psychiater (z. B. für Medikation)."
+   }
+  ]
+ },
+ {
+  "id": "m05",
+  "title": "Fall 5: Plötzliche Ruhe nach schwerer Depression",
+  "vignette": "Ein Patient war wochenlang schwer depressiv, hoffnungslos und hat zuvor über den Tod gesprochen. Heute kommt er auffallend gelassen und erleichtert in die Praxis, bedankt sich überschwänglich für „alles“ und sagt, er habe jetzt „alles geregelt“.",
+  "questions": [
+   {
+    "q": "Welche Gefahr müssen Sie sofort abklären?",
+    "a": "Akute Suizidalität. Die plötzliche Ruhe nach schwerer Verzweiflung kann bedeuten, dass der Suizidentschluss gefasst ist (präsuizidales Syndrom nach Ringel: Einengung, Aggressionsumkehr, Suizidphantasien). Dass „alles geregelt“ ist, verstärkt den Verdacht."
+   },
+   {
+    "q": "Wie gehen Sie im Gespräch vor?",
+    "a": "Offen und direkt ansprechen: Gedanken an Suizid, Pläne, Methode, Zeitpunkt, Zugang zu Mitteln, Schutzfaktoren. Ruhig bleiben, ernst nehmen, nicht allein lassen. Fragen nach Suizid verstärken ihn nicht."
+   },
+   {
+    "q": "Was tun Sie bei konkreter akuter Gefahr?",
+    "a": "Notruf 112 oder Einweisung über Rettungsdienst/Klinik. Bei erheblicher akuter Eigengefährdung greift das PsychKG; die Unterbringung veranlassen Behörden und Ärzte, nicht der Heilpraktiker selbst. Dokumentation. Offenbarung ist über den rechtfertigenden Notstand (§ 34 StGB) gedeckt."
+   }
+  ]
+ },
+ {
+  "id": "m06",
+  "title": "Fall 6: Gedanken sind hörbar",
+  "vignette": "Ein Patient berichtet, seine eigenen Gedanken seien „laut im Raum zu hören“ und andere Menschen könnten sie mitlesen. Er fühle sich völlig durchsichtig. Er schläft kaum und hat sich zurückgezogen.",
+  "questions": [
+   {
+    "q": "Welcher psychopathologischen Kategorie ordnen Sie das zu?",
+    "a": "Ich-Störungen: Gedankenlautwerden (Gedanken werden als hörbar erlebt) und Gedankenausbreitung (andere können Gedanken wahrnehmen). Beide gehören zu den Erstrangsymptomen nach Kurt Schneider."
+   },
+   {
+    "q": "Welche Verdachtsdiagnose ist naheliegend und was ist der nächste Schritt?",
+    "a": "Verdacht auf Schizophrenie (F20), bei Erstmanifestation und akuter Psychose rasch fachärztlich abklären lassen (Psychiater, Klinik). Differenzialdiagnostisch organische Ursachen und Substanzgebrauch ausschließen."
+   },
+   {
+    "q": "Wie grenzen Sie von formalen Denkstörungen ab?",
+    "a": "Formale Denkstörungen (Ideenflucht, Gedankensperre, Zerfahrenheit) betreffen den Ablauf des Denkens. Ich-Störungen betreffen die Grenze zwischen Ich und Umwelt."
+   }
+  ]
+ },
+ {
+  "id": "m07",
+  "title": "Fall 7: Zittern, Schwitzen, kleine Tiere",
+  "vignette": "Ein Patient hat seit zwei Tagen keinen Alkohol getrunken. Er zittert stark, schwitzt massiv, weiß nicht, welcher Tag ist, und sieht kleine Tiere an den Wänden.",
+  "questions": [
+   {
+    "q": "Was ist Ihr Verdacht?",
+    "a": "Delirium tremens (Alkoholentzugsdelir): Desorientiertheit, starke vegetative Symptome, oft optische Halluzinationen. Es ist ein lebensbedrohlicher medizinischer Notfall."
+   },
+   {
+    "q": "Wie handeln Sie?",
+    "a": "Sofort Notruf 112, Patient nicht allein lassen, ruhig und orientierend ansprechen. Keine ambulante Behandlung in der Praxis. Auch eine Alkoholhalluzinose (klare Orientierung, akustische Halluzinationen) oder ein Korsakow-Syndrom sind ärztlich zu behandeln."
+   },
+   {
+    "q": "Warum ist das für Heilpraktiker für Psychotherapie ein Grenzfall?",
+    "a": "Die sektorale Erlaubnis umfasst Psychotherapie, aber keine somatische Heilkunde. Körperliche Entzugsbehandlung und Medikation sind ärztliche Aufgabe."
+   }
+  ]
+ },
+ {
+  "id": "m08",
+  "title": "Fall 8: Drohung gegen die Ehefrau",
+  "vignette": "Ein Patient verlässt wütend Ihre Praxis und kündigt konkret an, seiner Ehefrau körperliche Gewalt anzutun. Sie halten die Drohung für ernst.",
+  "questions": [
+   {
+    "q": "Dürfen Sie die Polizei informieren?",
+    "a": "Ja. Der rechtfertigende Notstand (§ 34 StGB) erlaubt die Offenbarung, wenn eine gegenwärtige, nicht anders abwendbare Gefahr für Leib oder Leben besteht und das geschützte Interesse überwiegt. Bei einer angekündigten schweren Straftat besteht zudem eine Anzeigepflicht nach § 138 StGB."
+   },
+   {
+    "q": "Gilt die Schweigepflicht sonst unbegrenzt?",
+    "a": "Nein, aber Ausnahmen sind eng: Einwilligung des Patienten, gesetzliche Pflichten oder Notstand. Die Schweigepflicht folgt aus dem Behandlungsvertrag und dem Datenschutzrecht. Ein Zeugnisverweigerungsrecht nach § 53 StPO haben Heilpraktiker nicht."
+   },
+   {
+    "q": "Was dokumentieren Sie?",
+    "a": "Inhalt der Drohung, Ihre Einschätzung der Ernsthaftigkeit, Ihre Abwägung und welche Stellen Sie wann informiert haben."
+   }
+  ]
+ },
+ {
+  "id": "m09",
+  "title": "Fall 9: Depression – körperliche Abklärung",
+  "vignette": "Eine Patientin kommt mit Antriebslosigkeit, Müdigkeit, Gewichtszunahme und gedrückter Stimmung. Sie war seit Jahren nicht beim Arzt.",
+  "questions": [
+   {
+    "q": "Welche Abklärung veranlassen Sie vor der Psychotherapie?",
+    "a": "Eine ärztliche Abklärung organischer Ursachen, vor allem der Schilddrüse (Hypothyreose imitiert eine Depression). Weitere Ursachen: Anämie, Vitaminmangel, Medikamente, Hirnerkrankungen."
+   },
+   {
+    "q": "Warum?",
+    "a": "Als sektoraler Heilpraktiker dürfen Sie keine körperliche Diagnostik oder Therapie durchführen. Die Sorgfaltspflicht verlangt, körperliche Ursachen durch einen Arzt ausschließen zu lassen, bevor Sie rein psychisch behandeln."
+   },
+   {
+    "q": "Was ist ein typischer Fehler?",
+    "a": "Eine Depression vorschnell als rein psychisch einzuordnen oder selbst körperlich zu untersuchen."
+   }
+  ]
+ },
+ {
+  "id": "m10",
+  "title": "Fall 10: Quälende Sorgen seit sechs Monaten",
+  "vignette": "Ein Patient hat seit etwa sechs Monaten fast täglich quälende Sorgen, Verwandte könnten verunglücken. Dazu Muskelverspannungen, Zittern, Unruhe und Einschlafstörungen. Es gibt keinen bestimmten Auslöser.",
+  "questions": [
+   {
+    "q": "Welche Diagnose stellen Sie?",
+    "a": "Generalisierte Angststörung (F41.1): anhaltende, frei flottierende Sorgen und Angst, nicht auf Situationen beschränkt, mit vegetativen Zeichen und Anspannung."
+   },
+   {
+    "q": "Wie grenzen Sie ab?",
+    "a": "Panikstörung: kurze, intensive Anfälle. Agoraphobie und soziale Phobie: situationsgebunden. Spezifische Phobie: umschriebenes Objekt. PTBS: Bezug zu einem traumatischen Ereignis. Zusätzlich körperliche Ursachen wie Hyperthyreose ausschließen."
+   },
+   {
+    "q": "Welche Dauer ist gefordert?",
+    "a": "Die ICD-10 nennt mehrere Wochen, in der Regel Monate. In der Praxis wird oft der Zeitraum von sechs Monaten genannt (so in DSM-5)."
+   }
+  ]
+ },
+ {
+  "id": "m11",
+  "title": "Fall 11: Erbrechen – Anorexie oder Bulimie?",
+  "vignette": "Zwei junge Patientinnen erbrechen regelmäßig nach dem Essen. Die eine ist normalgewichtig und hat Essanfälle, die andere ist deutlich untergewichtig und kontrolliert strikt ihr Essen.",
+  "questions": [
+   {
+    "q": "Was ist das entscheidende Unterscheidungsmerkmal?",
+    "a": "Das Gewicht: Bei Anorexia nervosa (F50.0) besteht Untergewicht (BMI höchstens 17,5 bzw. mindestens 15 % unter dem Erwartungswert), unabhängig vom Erbrechen. Bei der Bulimia nervosa (F50.2) liegt meist Normalgewicht vor, mit Heißhungerattacken und gegensteuernden Maßnahmen."
+   },
+   {
+    "q": "Was ist beiden gemeinsam?",
+    "a": "Übermäßige Beschäftigung mit Figur und Gewicht und Angst vor Gewichtszunahme (Körperschemastörung). Beide Störungen haben körperliche Risiken, z. B. Elektrolytstörungen, Herzrhythmusstörungen. Ärztliche Mitbehandlung ist erforderlich."
+   },
+   {
+    "q": "Wann besteht Handlungsbedarf?",
+    "a": "Bei starkem Untergewicht, Kreislaufproblemen, Elektrolytentgleisung oder Suizidalität: sofort ärztlich bzw. klinisch abklären lassen."
+   }
+  ]
+ },
+ {
+  "id": "m12",
+  "title": "Fall 12: Plötzliche Lähmung im Arm",
+  "vignette": "Ein 34-jähriger Patient kommt in Ihre Praxis. Nach einem heftigen Beziehungsstreit kann er seit drei Tagen den linken Arm nicht mehr bewegen. Die neurologische Abklärung in der Klinik hat keinen organischen Befund ergeben. Er wirkt dabei auffallend gelassen.",
+  "questions": [
+   {
+    "q": "Welche Diagnose ist am wahrscheinlichsten?",
+    "a": "Dissoziative Bewegungsstörung (F44.4, früher Konversionsstörung): Ein Teil oder die gesamte Willkürbewegung ist verloren, ohne organische Ursache, oft nach einer psychosozialen Belastung oder einem Konflikt."
+   },
+   {
+    "q": "Wie grenzen Sie ab von Simulation und artifizieller Störung?",
+    "a": "Bei der dissoziativen Störung entstehen die Symptome unbewusst, der Patient erlebt sie als real. Bei der Simulation werden sie bewusst vorgetäuscht, um einen äußeren Vorteil zu erreichen (z. B. Rente), bei der artifiziellen Störung bewusst erzeugt, um die Krankenrolle einzunehmen. Die gelassene Haltung („belle indifférence“) ist kein sicheres Unterscheidungsmerkmal."
+   },
+   {
+    "q": "Wie gehen Sie therapeutisch vor und was beachten Sie rechtlich?",
+    "a": "Die körperliche Abklärung hat bereits ein Arzt gemacht, das gehört zur Sorgfaltspflicht. Dann Psychoedukation (Symptom ist real, aber seelisch mitbedingt), Konfliktbearbeitung, Stressbewältigung, Aktivierung statt Schonung. Nicht den Patienten beschuldigen, keine Selbstbehandlung durch körperliche Maßnahmen."
+   }
+  ]
+ },
+ {
+  "id": "m13",
+  "title": "Fall 13: „Meine Organe verfaulen“",
+  "vignette": "Eine 58-jährige Patientin war zuletzt wochenlang schwer depressiv und kaum ansprechbar. Heute erklärt sie unerschütterlich, ihre inneren Organe verfaulten und sie sei eigentlich schon tot. Sie isst und trinkt kaum noch.",
+  "questions": [
+   {
+    "q": "Um welche Wahnform handelt es sich?",
+    "a": "Nihilistischer Wahn (Cotard-Syndrom): Überzeugung, nicht zu existieren, tot zu sein oder dass Organe aufgelöst sind. Er tritt vor allem bei schweren depressiven Episoden mit psychotischen Symptomen auf (F32.3)."
+   },
+   {
+    "q": "Wie grenzen Sie vom hypochondrischen Wahn ab?",
+    "a": "Beim hypochondrischen Wahn besteht die wahnhafte Überzeugung, an einer bestimmten schweren Krankheit zu leiden. Beim nihilistischen Wahn geht es um die Auflösung, Verneinung oder den Tod des eigenen Körpers oder der Welt. Beide sind inhaltliche Denkstörungen."
+   },
+   {
+    "q": "Welche Gefahren bestehen und wie handeln Sie?",
+    "a": "Hohe Suizidalität, Nahrungs- und Flüssigkeitsverweigerung (körperliche Gefährdung). Psychotische Depression ist ein Fall für fachärztliche und meist stationäre Behandlung. Bei erheblicher akuter Gefährdung Rettungsdienst oder Klinikeinweisung, ggf. nach PsychKG."
+   }
+  ]
+ },
+ {
+  "id": "m14",
+  "title": "Fall 14: Immer neue Untersuchungen",
+  "vignette": "Ein 40-jähriger Patient berichtet, er habe seit Jahren wechselnde Beschwerden: Bauchschmerzen, Herzstolpern, Schwindel, Kribbeln, Rückenschmerzen. Trotz mehrerer gründlicher Untersuchungen findet sich kein organischer Befund. Er drängt auf immer neue Untersuchungen und wechselt häufig den Arzt.",
+  "questions": [
+   {
+    "q": "Welche Diagnose stellen Sie?",
+    "a": "Somatisierungsstörung (F45.0): multiple, wechselnde körperliche Beschwerden über mindestens zwei Jahre ohne ausreichende körperliche Erklärung, mit wiederholten Arztbesuchen und Widerstand, die Ergebnislosigkeit zu akzeptieren."
+   },
+   {
+    "q": "Wie grenzen Sie von der hypochondrischen Störung ab?",
+    "a": "Hypochondrie (F45.2): Angst oder Überzeugung, an einer bestimmten schweren Krankheit zu leiden, im Mittelpunkt steht die Krankheitsbefürchtung. Somatisierung: die Vielzahl wechselnder Symptome. Weitere Abgrenzungen: Neurasthenie, Angststörungen, Depression, organische Erkrankungen."
+   },
+   {
+    "q": "Wie führen Sie das Gespräch und die Therapie?",
+    "a": "Beschwerden ernst nehmen, nicht als „eingebildet“ abtun, zugleich nicht ständig neue Diagnostik fördern. Feste Ansprechpartner (Hausarzt), Verbindung von Belastungen und Symptomen herstellen, Entspannung und Stressbewältigung, Aufbau von Aktivität."
+   }
+  ]
+ }
 ]

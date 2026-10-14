@@ -606,20 +606,6 @@
   "explanation": "Es gibt vier Qualitäten: zeitlich, örtlich, situativ und zur eigenen Person. Typischerweise geht die zeitliche Orientierung zuerst verloren, die Orientierung zur eigenen Person zuletzt."
  },
  {
-  "id": "q44",
-  "topic": "Affekt & Angst",
-  "text": "Welche Mindestdauer wird in der ICD-10 für die Diagnose einer Dysthymie (F34.1) gefordert?",
-  "options": [
-   "Zwei Wochen",
-   "Zwei Monate",
-   "Sechs Monate",
-   "Zwei Jahre",
-   "Zehn Jahre"
-  ],
-  "correct": 3,
-  "explanation": "Die Dysthymie ist eine chronische, meist leichte depressive Verstimmung, die mindestens zwei Jahre besteht, ohne dass die Kriterien einer depressiven Episode durchgehend erfüllt sind."
- },
- {
   "id": "q45",
   "topic": "Recht & Praxis",
   "text": "Welche Aussagen zur Suizidalität sind richtig?",
@@ -1065,19 +1051,6 @@
   "explanation": "Citalopram ist ein SSRI. Es blockiert den Serotonin-Transporter, sodass mehr Serotonin im synaptischen Spalt bleibt. Die Wirkung setzt meist nach zwei bis vier Wochen ein."
  },
  {
-  "id": "k08",
-  "topic": "Recht & Praxis",
-  "text": "Welche rechtliche Voraussetzung muss für eine öffentlich-rechtliche Unterbringung (z.B. nach PsychKG der Länder) zwingend vorliegen?",
-  "options": [
-   "Jede beliebige depressive Verstimmung ohne Außenkontakt.",
-   "Ein freiwilliger Aufnahmeantrag des Patienten.",
-   "Eine erhebliche Eigen- oder Fremdgefährdung infolge einer psychischen Erkrankung",
-   "Ein beschlossener Betreuungsantrag des zuständigen Finanzamtes."
-  ],
-  "correct": 2,
-  "explanation": "Eine Unterbringung gegen den Willen (z. B. nach PsychKG) setzt eine erhebliche Eigen- oder Fremdgefährdung infolge einer psychischen Erkrankung voraus, die nicht anders abwendbar ist. Über sie entscheidet das Gericht."
- },
- {
   "id": "k09",
   "topic": "Sucht",
   "text": "Welches klinische Zeichen spricht im Rahmen eines Alkoholentzugs für ein drohendes oder manifesteres Delirium tremens (F10.4)?",
@@ -1143,19 +1116,6 @@
   "explanation": "Das Betreuungsgericht bestellt den Betreuer. Heilpraktiker, Ordnungsamt oder Krankenkasse können das nicht anordnen."
  },
  {
-  "id": "k14",
-  "topic": "Trauma & Belastung",
-  "text": "Welches Kernsymptom ist für die Posttraumatische Belastungsstörung (PTBS, F43.1) typisch und unterscheidet sie von einfachen Angstreaktionen?",
-  "options": [
-   "Chronischer, unveränderter Appetitverlust ohne Erinnerung an ein Trauma",
-   "Wiedererleben des Traumas in Form von intrusiven Erinnerungen, Flashbacks oder Albträumen",
-   "Generalisierter Haarausfall unmittelbar nach dem Ereignis",
-   "Ständige Euphorie und Größenideen"
-  ],
-  "correct": 1,
-  "explanation": "Typisch für die PTBS sind Wiedererleben (Intrusionen, Flashbacks, Albträume), Vermeidung und Übererregung nach einem Ereignis von außergewöhnlicher Bedrohung."
- },
- {
   "id": "k15",
   "topic": "Organisch",
   "text": "Welche histopathologischen Veränderungen im Gehirn gelten als neurobiologisches Korrelat der Alzheimer-Demenz (F00)?",
@@ -1193,32 +1153,6 @@
   ],
   "correct": 0,
   "explanation": "Bei meldepflichtigen übertragbaren Krankheiten nach dem Infektionsschutzgesetz dürfen Heilpraktiker nicht behandeln (Behandlungsverbot). Sie verweisen an einen Arzt, Meldepflichten richten sich nach dem IfSG."
- },
- {
-  "id": "k18",
-  "topic": "Somatoform & Dissoziativ",
-  "text": "Was ist ein wesentliches Kennzeichen der Somatisierungsstörung (F45.0) nach ICD-10?",
-  "options": [
-   "Wahnhafte Überzeugung, an einer Schizophrenie zu leiden",
-   "Vielzahl wechselnder körperlicher Beschwerden über mindestens 2 Jahre, ohne dass eine hinreichende somatische Erklärung gefunden wird",
-   "Kompletter Verlust des Sehvermögens nach einem Unfall mit organischem Schaden",
-   "Nur eine einzige fixierte Kopfschmerzepisode"
-  ],
-  "correct": 1,
-  "explanation": "Somatisierungsstörung: multiple, wechselnde körperliche Beschwerden über mindestens zwei Jahre ohne ausreichenden organischen Befund, mit wiederholten Arztbesuchen."
- },
- {
-  "id": "k19",
-  "topic": "Kinder & Jugend",
-  "text": "Welche drei Kernsymptome definieren die Aufmerksamkeitsdefizit-/Hyperaktivitätsstörung (ADHS, F90.0)?",
-  "options": [
-   "Angst, Zwang, Agoraphobie",
-   "Logorrhoe, Halluzinationen, Katatonie",
-   "Mutismus, Tic, Eneuresis",
-   "Aufmerksamkeitsstörung, Hyperaktivität und Impulsivität"
-  ],
-  "correct": 3,
-  "explanation": "ADHS: Unaufmerksamkeit, Hyperaktivität und Impulsivität, in mehreren Lebensbereichen und früh beginnend."
  },
  {
   "id": "k20",
@@ -1530,20 +1464,6 @@
   "explanation": "Die bipolare Störung verläuft in manischen und depressiven Episoden mit meist symptomfreien Intervallen. Medikamente (z. B. Lithium) darf nur der Arzt verordnen. Sie beginnt meist im jungen Erwachsenenalter, Frauen und Männer sind etwa gleich häufig betroffen."
  },
  {
-  "id": "k41",
-  "topic": "Affekt & Angst",
-  "text": "Welches Kriterium unterscheidet eine Zyklothymia von einer bipolaren affektiven Störung?",
-  "options": [
-   "Die Zyklothymia verläuft ohne depressive Phasen.",
-   "Die Stimmungsschwankungen bei Zyklothymia erreichen nicht die Intensität einer Manie oder schweren Depression.",
-   "Zyklothymia ist immer organisch bedingt.",
-   "Zyklothymia dauert maximal zwei Wochen im Leben.",
-   "Bei Zyklothymia treten ausschließlich Wahnideen auf."
-  ],
-  "correct": 1,
-  "explanation": "Zyklothymie (F34.0): anhaltende Stimmungsschwankungen mit leichter Depression und leichter Hochstimmung, ohne die Intensität einer Manie oder schweren Depression."
- },
- {
   "id": "k42",
   "topic": "Diagnostik & Therapie",
   "text": "Was gehört nach Carl Rogers zu den drei Basisvariablen (Grundhaltungen) des Therapeuten in der Personenzentrierten Gesprächspsychotherapie?",
@@ -1790,23 +1710,6 @@
   ],
   "correct": 1,
   "explanation": "F50 umfasst die Essstörungen (Anorexie, Bulimie). Schlafstörungen sind F51, sexuelle Funktionsstörungen F52, Persönlichkeitsstörungen F60, pathologisches Spielen F63.0."
- },
- {
-  "id": "k58",
-  "topic": "Persönlichkeit",
-  "text": "Welche Merkmale kennzeichnen die schizoide Persönlichkeitsstörung (F60.1)?",
-  "options": [
-   "Emotionale Kälte, Distanziertheit oder abgeflachte Affektivität",
-   "Ausgeprägtes Verlangen nach engen sozialen Beziehungen und Geselligkeit",
-   "Übertriebener Hang zu dramatischem Auftreten und Theatralik",
-   "Einzelgängerisches Verhalten und Vorliebe für Aktivitäten, die man alleine durchführt",
-   "Ständige Angst vor Ablehnung wegen körperlicher Makel"
-  ],
-  "correct": [
-   0,
-   3
-  ],
-  "explanation": "Schizoide Persönlichkeit: emotionale Kühle, Einzelgängertum, wenig Interesse an engen Beziehungen. Verlangen nach Nähe passt nicht, Theatralik wäre histrionisch."
  },
  {
   "id": "k59",
@@ -2101,19 +2004,6 @@
   "explanation": "Zu F45 gehören Somatisierungsstörung (F45.0), hypochondrische Störung (F45.2), somatoforme autonome Funktionsstörung (F45.3) und Schmerzstörung (F45.4). Die Anorexie gehört zu F50, die PTBS zu F43."
  },
  {
-  "id": "b79",
-  "topic": "Psychosen",
-  "text": "Wie lange müssen die Symptome einer Schizophrenie nach den Leitlinien der ICD-10 mindestens durchgehend anhalten, um diese Diagnose sicher stellen zu können?",
-  "options": [
-   "Mindestens eine Woche",
-   "Mindestens ein Monat",
-   "Mindestens sechs Monate",
-   "Mindestens ein Jahr"
-  ],
-  "correct": 1,
-  "explanation": "Die charakteristischen Symptome müssen die meiste Zeit über mindestens einen Monat bestehen. Bei kürzerer Dauer kommt eine akute vorübergehende psychotische Störung (F23) in Betracht."
- },
- {
   "id": "b80",
   "topic": "Recht & Praxis",
   "text": "Welche rechtlichen Konsequenzen hat das Vorliegen einer gesetzlichen Betreuung (nach BGB) für den Betroffenen im Regelfall?",
@@ -2244,19 +2134,6 @@
    2
   ],
   "explanation": "Paranoide Persönlichkeitsstörung (F60.0): Misstrauen, Deutung harmloser Handlungen als feindselig, Nachtragen von Kränkungen und hartnäckiges Beharren auf eigenen Rechten. Unterwürfigkeit wäre abhängig."
- },
- {
-  "id": "b89",
-  "topic": "Diagnostik & Therapie",
-  "text": "Welches Medikament gehört zur Stoffgruppe der Phasenprophylaktika (Stimmungsstabilisierer) und wird primär zur Rezidivprophylaxe bei bipolaren affektiven Störungen eingesetzt?",
-  "options": [
-   "Diazepam",
-   "Haloperidol",
-   "Lithiumcarbonat",
-   "Methylphenidat"
-  ],
-  "correct": 2,
-  "explanation": "Lithium ist ein Phasenprophylaktikum bei bipolarer Störung. Diazepam ist ein Benzodiazepin, Haloperidol ein Neuroleptikum, Methylphenidat ein Stimulans bei ADHS."
  },
  {
   "id": "b90",
@@ -2950,22 +2827,6 @@
   "explanation": "Bulimie (F50.2): Heißhungerattacken, gegensteuernde Maßnahmen wie Erbrechen oder Abführmittel und ständige Beschäftigung mit dem Gewicht, meist bei Normalgewicht. Bei der Anorexie liegt der BMI höchstens bei 17,5."
  },
  {
-  "id": "pA14",
-  "topic": "Persönlichkeit",
-  "text": "Welche der folgenden Merkmale sind typisch für die Schizoide Persönlichkeitsstörung (F60.1)?",
-  "options": [
-   "Emotionale Kälte, Distanziertheit oder abgeflachte Affektivität.",
-   "Ein starkes Verlangen nach engen sozialen Beziehungen und Anerkennung.",
-   "Einzelgängerisches Verhalten mit einer ausgeprägten Vorliebe für Aktivitäten, die alleine durchgeführt werden.",
-   "Leicht beeinflussbares Verhalten (Suggestibilität) und theatralischer Ausdruck von Gefühlen."
-  ],
-  "correct": [
-   0,
-   2
-  ],
-  "explanation": "Schizoide Persönlichkeitsstörung: emotionale Kühle, Distanziertheit, Einzelgängertum. Starkes Verlangen nach Nähe passt nicht, Suggestibilität und Theatralik gehören zur histrionischen Störung."
- },
- {
   "id": "pA15",
   "topic": "Organisch",
   "text": "Unter welchem ICD-10-Code werden Störungen zusammengefasst, die als direkte Folge einer nachweisbaren Gehirnerkrankung oder systemischen Erkrankung auftreten (z. B. Demenzen oder das organische Delir)?",
@@ -3064,22 +2925,6 @@
   ],
   "correct": 1,
   "explanation": "Tics (F95) sind plötzliche, unwillkürliche, wiederholte Bewegungen oder Lautäußerungen. Zwangshandlungen werden dagegen gegen inneren Widerstand ausgeführt und sollen Anspannung reduzieren."
- },
- {
-  "id": "pA22",
-  "topic": "Trauma & Belastung",
-  "text": "Welche der folgenden Aussagen zur Posttraumatischen Belastungsstörung (PTBS, F43.1) treffen zu?",
-  "options": [
-   "Sie entsteht als verzögerte Reaktion auf ein traumatisches Ereignis von außergewöhnlicher Bedrohung.",
-   "Das Trauma wird wiederholt in Form von unwillkürlichen Flashbacks oder Albträumen erlebt.",
-   "Die Symptome treten fast immer innerhalb der ersten 24 Stunden nach dem Ereignis auf und klingen nach 3 Tagen ab.",
-   "Situationen oder Reize, die an das Trauma erinnern, werden von den Betroffenen aktiv aufgesucht und herbeigesehnt."
-  ],
-  "correct": [
-   0,
-   1
-  ],
-  "explanation": "Die PTBS ist eine verzögerte oder protrahierte Reaktion auf ein außergewöhnlich bedrohliches Ereignis mit Flashbacks, Albträumen, Vermeidung und Übererregung. Betroffene meiden Erinnerungsreize meist."
  },
  {
   "id": "pA23",
@@ -3227,35 +3072,6 @@
   "explanation": "Nach dem Infektionsschutzgesetz besteht für Heilpraktiker ein Behandlungsverbot für bestimmte übertragbare Krankheiten. Verstöße können strafbar sein."
  },
  {
-  "id": "pB5",
-  "topic": "Recht & Praxis",
-  "text": "Wer ist für die Einrichtung einer rechtlichen Betreuung (nach dem Bürgerlichen Gesetzbuch, BGB) für einen volljährigen Menschen, der aufgrund einer psychischen Krankheit seine Angelegenheiten nicht mehr regeln kann, ausschließlich zuständig?",
-  "options": [
-   "Das zuständige Gesundheitsamt",
-   "Das Betreuungsgericht (Amtsgericht)",
-   "Der behandelnde Psychotherapeut eigenmächtig",
-   "Das örtliche Ordnungsamt"
-  ],
-  "correct": 1,
-  "explanation": "Das Betreuungsgericht (beim Amtsgericht) ordnet die Betreuung an. Therapeuten, Behörden oder Krankenkassen können das nicht."
- },
- {
-  "id": "pB6",
-  "topic": "Recht & Praxis",
-  "text": "Welche Pflichten ergeben sich für Sie aus dem Patientenrechtegesetz (integriert im BGB)?",
-  "options": [
-   "Die Pflicht, den Patienten vor Beginn der Behandlung über die voraussichtlichen Kosten in Textform zu informieren (Wirtschaftliche Aufklärungspflicht).",
-   "Die Pflicht zur Führung einer zeitnahen und fachgerechten Behandlungsdokumentation (Patientenakte).",
-   "Die Verpflichtung, jeden Patienten mindestens ein Jahr lang therapeutisch zu begleiten.",
-   "Das Recht, dem Patienten die Einsicht in seine Akte ohne Angabe von Gründen dauerhaft zu verweigern."
-  ],
-  "correct": [
-   0,
-   1
-  ],
-  "explanation": "Aus dem Behandlungsvertragsrecht (§§ 630a ff. BGB) folgen die wirtschaftliche Information in Textform bei nicht gesicherter Kostenübernahme und die Dokumentationspflicht. Eine Mindestbehandlungsdauer gibt es nicht, und das Einsichtsrecht kann nicht beliebig verweigert werden."
- },
- {
   "id": "pB7",
   "topic": "Recht & Praxis",
   "text": "Ein langjähriger Patient mit einer bekannten schweren rezidivierenden Depression wirkt in der Sitzung plötzlich extrem ruhig, distanziert und \"aufgeräumt\". Er berichtet, er habe nun endlich eine \"endgültige Lösung\" für all seine Probleme gefunden und alle Vorbereitungen getroffen. Wie müssen Sie diese Situation klinisch bewerten?",
@@ -3267,22 +3083,6 @@
   ],
   "correct": 1,
   "explanation": "Plötzliche Ruhe nach schwerer Depression mit Äußerungen über eine endgültige Lösung und getroffenen Vorbereitungen kann bedeuten, dass der Suizidentschluss gefasst ist. Es besteht akute Gefahr: ansprechen, nicht allein lassen, Hilfe organisieren."
- },
- {
-  "id": "pB8",
-  "topic": "Recht & Praxis",
-  "text": "Welche rechtlichen Voraussetzungen müssen für eine öffentlich-rechtliche Unterbringung nach den Landesgesetzen (PsychKG) erfüllt sein?",
-  "options": [
-   "Eine psychische Erkrankung oder geistige Behinderung des Betroffenen.",
-   "Eine gegenwärtige, erhebliche Eigengefährdung (z. B. akute Suizidalität) oder Fremdgefährdung infolge der Erkrankung.",
-   "Der schriftliche Antrag der Vermieters des Betroffenen.",
-   "Die betroffene Person muss mit der Unterbringung ausdrücklich einverstanden sein."
-  ],
-  "correct": [
-   0,
-   1
-  ],
-  "explanation": "Eine Unterbringung nach PsychKG setzt eine psychische Erkrankung mit gegenwärtiger erheblicher Eigen- oder Fremdgefährdung voraus, die nicht anders abwendbar ist. Einverständnis ist nicht nötig, das Gericht entscheidet."
  },
  {
   "id": "pB9",
@@ -3691,19 +3491,6 @@
   "explanation": "Benzodiazepine wirken angstlösend, sedierend, muskelentspannend und antikonvulsiv. Antipsychotisch oder antriebssteigernd wirken sie nicht."
  },
  {
-  "id": "pC9",
-  "topic": "Diagnostik & Therapie",
-  "text": "Welches Medikament gilt als Goldstandard in der Phasenprophylaxe (Stimmungsstabilisierung) zur Verhinderung von manischen und depressiven Schüben bei der bipolaren affektiven Störung?",
-  "options": [
-   "Lorazepam",
-   "Lithiumcarbonat",
-   "Fluoxetin",
-   "Olanzapin"
-  ],
-  "correct": 1,
-  "explanation": "Lithium ist ein Standardmedikament der Phasenprophylaxe bei bipolarer Störung. Lorazepam ist ein Benzodiazepin, Fluoxetin ein SSRI, Olanzapin ein Antipsychotikum."
- },
- {
   "id": "pC10",
   "topic": "Diagnostik & Therapie",
   "text": "Welche therapeutischen Kernvariablen definieren die Gesprächspsychotherapie nach Carl Rogers?",
@@ -3981,32 +3768,6 @@
   "explanation": "Serotoninsyndrom: Tremor, Hyperreflexie, Myoklonien sowie Fieber, Schwitzen, Tachykardie und Durchfall. Es entsteht durch einen Serotoninüberschuss, z. B. bei Kombination serotonerger Wirkstoffe, und ist ein Notfall."
  },
  {
-  "id": "d01",
-  "topic": "Diagnostik & Therapie",
-  "text": "Welches Merkmal unterscheidet ein akutes Delir primär von einer demenziellen Entwicklung?",
-  "options": [
-   "Chronisch-progredienter Verlauf über Jahre",
-   "Akute Bewusstseinstrübung und Fluktuation der Symptome im Tagesverlauf",
-   "Ausschließliches Fehlen von vegetativen Begleitsymptomen",
-   "Vollständiger Erhalt der Orientierung zur Person"
-  ],
-  "correct": 1,
-  "explanation": "Das Delir beginnt akut, die Bewusstseinslage schwankt im Tagesverlauf (nachts oft schlechter). Eine Demenz entwickelt sich dagegen schleichend über Monate bis Jahre bei meist klarem Bewusstsein."
- },
- {
-  "id": "d02",
-  "topic": "Diagnostik & Therapie",
-  "text": "Welche Gefahr ist bei der langfristigen Verordnung von Benzodiazepinen primär zu beachten?",
-  "options": [
-   "Entwicklung einer irreversiblen tardiven Dyskinesie",
-   "Hohes Risiko einer physischen und psychischen Abhängigkeit schon nach wenigen Wochen",
-   "Auslösung eines malignen neuroleptischen Syndroms",
-   "Drastischer Blutdruckanstieg durch Tyramin-Interaktion"
-  ],
-  "correct": 1,
-  "explanation": "Benzodiazepine haben ein hohes Abhängigkeitspotenzial, auch bei niedriger Dosis (Niedrigdosisabhängigkeit). Deshalb werden sie nur kurzzeitig (meist höchstens 2–4 Wochen) gegeben. Spätdyskinesien und malignes neuroleptisches Syndrom betreffen Neuroleptika, der Tyramin-Effekt MAO-Hemmer."
- },
- {
   "id": "d03",
   "topic": "Recht & Praxis",
   "text": "Woraus folgt die Verschwiegenheitspflicht eines Heilpraktikers vor allem?",
@@ -4033,32 +3794,6 @@
   "explanation": "Hauptsymptome: gedrückte Stimmung, Interessen-/Freudlosigkeit und verminderter Antrieb mit erhöhter Ermüdbarkeit. Suizidgedanken, Schlaf- und Appetitstörungen, Minderwertigkeitsgefühle sind Zusatzsymptome."
  },
  {
-  "id": "d05",
-  "topic": "Psychosen",
-  "text": "Welches Symptom zählt nach Kurt Schneider zu den Erstrangsymptomen der Schizophrenie?",
-  "options": [
-   "Ambivalenz im Gefühlsleben",
-   "Affektive Verflachung",
-   "Gedankeneingebung oder Gedankenentzug",
-   "Optische Illusionen im Dunkeln"
-  ],
-  "correct": 2,
-  "explanation": "Gedankeneingebung, -entzug und -ausbreitung sind Ich-Störungen und gehören zu den Erstrangsymptomen. Ambivalenz ist ein Grundsymptom nach Bleuler, Affektverflachung gehört zur Negativsymptomatik."
- },
- {
-  "id": "d06",
-  "topic": "Affekt & Angst",
-  "text": "Was ist das typische Kennzeichen einer Agoraphobie?",
-  "options": [
-   "Angst vor der Bewertung durch andere Menschen in Gruppen",
-   "Furcht vor Schmutz, Bakterien und Kontamination",
-   "Angst vor öffentlichen Plätzen, Menschenmengen oder weiten Reisen ohne Fluchtmöglichkeit",
-   "Spezifische Angst vor dem Anblick von Blut oder Spritzen"
-  ],
-  "correct": 2,
-  "explanation": "Agoraphobie ist die Angst vor Situationen, aus denen eine Flucht schwierig oder peinlich wäre oder keine Hilfe verfügbar ist. Angst vor Bewertung ist soziale Phobie, Angst vor Blut oder Spritzen spezifische Phobie, Furcht vor Schmutz eher Zwang."
- },
- {
   "id": "d07",
   "topic": "Diagnostik & Therapie",
   "text": "Zu welcher Wirkstoffklasse gehört das Antidepressivum Citalopram?",
@@ -4070,45 +3805,6 @@
   ],
   "correct": 1,
   "explanation": "Citalopram, Escitalopram, Sertralin, Fluoxetin und Paroxetin sind SSRI."
- },
- {
-  "id": "d08",
-  "topic": "Recht & Praxis",
-  "text": "Welche Kernvoraussetzung muss für eine öffentlich-rechtliche Zwangseinweisung (PsychKG) vorliegen?",
-  "options": [
-   "Eine bestehende chronische Arbeitslosigkeit",
-   "Eine erhebliche Eigen- oder Fremdgefährdung infolge einer psychischen Erkrankung",
-   "Der schriftliche Antrag naher Familienangehöriger ohne ärztliches Zeugnis",
-   "Die Feststellung einer dauerhaften Geschäftsunfähigkeit"
-  ],
-  "correct": 1,
-  "explanation": "Das PsychKG dient der Gefahrenabwehr: Erforderlich sind eine psychische Erkrankung und eine gegenwärtige erhebliche Gefahr für sich oder andere, die nicht anders abwendbar ist. Ein Antrag von Angehörigen oder Geschäftsunfähigkeit reichen nicht."
- },
- {
-  "id": "d09",
-  "topic": "Sucht",
-  "text": "Welche Symptomkombination ist typisch für ein Delirium tremens beim Alkoholentzug?",
-  "options": [
-   "Ausgeprägte depressive Verstimmung ohne vegetative Zeichen",
-   "Grobschlägiger Tremor, Desorientiertheit, visuelle Halluzinationen und starkes Schwitzen",
-   "Hypotone Bradykardie und tiefer, komatöser Dauerschlaf",
-   "Isolierter Verlust des Kurzzeitgedächtnisses bei voller Orientierung"
-  ],
-  "correct": 1,
-  "explanation": "Das Alkoholentzugsdelir kombiniert Bewusstseins- und Orientierungsstörung, oft optische Halluzinationen (z. B. kleine Tiere) mit starker vegetativer Übererregung (Schwitzen, Tachykardie, Tremor, Fieber). Es ist lebensbedrohlich und ein medizinischer Notfall."
- },
- {
-  "id": "d10",
-  "topic": "Essstörungen",
-  "text": "Welcher BMI-Wert gilt in der ICD-10 als Orientierungsschwelle für die Diagnose einer Anorexia nervosa?",
-  "options": [
-   "Unter 20,0 kg/m²",
-   "Unter 18,5 kg/m²",
-   "Höchstens 17,5 kg/m²",
-   "Unter 15,0 kg/m²"
-  ],
-  "correct": 2,
-  "explanation": "Die ICD-10 nennt einen BMI von höchstens 17,5 kg/m² als Orientierung beim Erwachsenen. Bei Kindern und Jugendlichen werden Perzentilen herangezogen."
  },
  {
   "id": "d11",
@@ -4124,32 +3820,6 @@
   "explanation": "Borderline (F60.31): instabile Beziehungen, Selbstbild und Affekte, Impulsivität, chronisches Leeregefühl, Selbstverletzung. Theatralik passt zur histrionischen, Distanziertheit zur schizoiden und Anklammern zur abhängigen Störung."
  },
  {
-  "id": "d12",
-  "topic": "Diagnostik & Therapie",
-  "text": "Welche Überwachung ist bei einer Langzeittherapie mit Lithium erforderlich?",
-  "options": [
-   "Wöchentliches Blutbild zum Ausschluss einer Agranulozytose",
-   "Kontrolle des Lithium-Serumspiegels sowie der Nieren- und Schilddrüsenwerte",
-   "Zweistündliche Blutzuckermessungen nach den Mahlzeiten",
-   "Ausschließliche Kontrolle des Blutdrucks im Stehen und Liegen"
-  ],
-  "correct": 1,
-  "explanation": "Lithium hat eine geringe therapeutische Breite, wird über die Niere ausgeschieden und kann Niere und Schilddrüse schädigen. Regelmäßige Spiegel- und Organkontrollen sind nötig. Regelmäßige Blutbilder gelten eher für Clozapin."
- },
- {
-  "id": "d13",
-  "topic": "Recht & Praxis",
-  "text": "Wer ist für die Bestellung eines rechtlichen Betreuers für einen Erwachsenen zuständig?",
-  "options": [
-   "Der behandelnde Heilpraktiker",
-   "Das zuständige Betreuungsgericht",
-   "Das örtliche Ordnungsamt",
-   "Die Krankenkasse"
-  ],
-  "correct": 1,
-  "explanation": "Eine Betreuung wird vom Betreuungsgericht (beim Amtsgericht) angeordnet. Der Betreuer wird gerichtlich bestellt."
- },
- {
   "id": "d14",
   "topic": "Trauma & Belastung",
   "text": "Welches Symptom ist charakteristisch für die Posttraumatische Belastungsstörung?",
@@ -4163,32 +3833,6 @@
   "explanation": "Kernsymptome der PTBS: Wiedererleben (Intrusionen, Flashbacks, Albträume), Vermeidung und vegetative Übererregung."
  },
  {
-  "id": "d15",
-  "topic": "Organisch",
-  "text": "Welche histopathologischen Veränderungen im Gehirn sind typisch für die Alzheimer-Erkrankung?",
-  "options": [
-   "Vaskuläre Infarkte in den Basalganglien",
-   "Lewy-Körperchen in der Hirnrinde",
-   "Beta-Amyloid-Plaques und neurofibrilläre Tau-Fibrillen",
-   "Entzündliche Demyelinisierung des Rückenmarks"
-  ],
-  "correct": 2,
-  "explanation": "Typisch für Alzheimer sind extrazelluläre Amyloid-Plaques und intrazelluläre Tau-Fibrillen. Lewy-Körperchen gehören zur Lewy-Körper-Demenz, Infarkte zur vaskulären Demenz, Demyelinisierung zur Multiplen Sklerose."
- },
- {
-  "id": "d16",
-  "topic": "Diagnostik & Therapie",
-  "text": "Welchen Vorteil bieten atypische Antipsychotika primär gegenüber klassischen Neuroleptika?",
-  "options": [
-   "Sie verursachen keinerlei Gewichtszunahme",
-   "Sie wirken ausschließlich stimmungsaufhellend",
-   "Ein deutlich geringeres Risiko für extrapyramidal-motorische Nebenwirkungen",
-   "Sie heben die Blut-Hirn-Schranke vollständig auf"
-  ],
-  "correct": 2,
-  "explanation": "Atypika verursachen seltener Früh- und Spätdyskinesien und Parkinsonoid. Dafür drohen häufiger Gewichtszunahme und Stoffwechselstörungen."
- },
- {
   "id": "d17",
   "topic": "Somatoform & Dissoziativ",
   "text": "Was ist ein wesentliches Kennzeichen der Somatisierungsstörung?",
@@ -4200,32 +3844,6 @@
   ],
   "correct": 1,
   "explanation": "Somatisierungsstörung (F45.0): multiple, wechselnde körperliche Beschwerden über mindestens zwei Jahre, wiederholte Arztbesuche, keine ausreichende organische Erklärung."
- },
- {
-  "id": "d18",
-  "topic": "Kinder & Jugend",
-  "text": "Welche drei Kernsymptome definieren die ADHS im Kindesalter?",
-  "options": [
-   "Angst, Zwang und Platzangst",
-   "Logorrhoe, Halluzinationen und Katatonie",
-   "Aufmerksamkeitsstörung, Hyperaktivität und Impulsivität",
-   "Mutismus, Tics und Enuresis"
-  ],
-  "correct": 2,
-  "explanation": "Kernsymptome der ADHS: Unaufmerksamkeit, Hyperaktivität und Impulsivität, mit Beginn vor dem 7. Lebensjahr (ICD-10: F90) und situationsübergreifend."
- },
- {
-  "id": "d19",
-  "topic": "Diagnostik & Therapie",
-  "text": "Welche Gefahr droht bei unselektiven, irreversiblen MAO-Hemmern in Kombination mit tyraminreichen Lebensmitteln?",
-  "options": [
-   "Ein plötzlicher anaphylaktischer Schock mit Blutdruckabfall",
-   "Eine lebensbedrohliche hypertensive Krise",
-   "Eine akute Hypoglykämie",
-   "Eine irreversible Niereninsuffizienz"
-  ],
-  "correct": 1,
-  "explanation": "Der „Cheese-Effekt“: Tyramin (Käse, Rotwein, Salami) wird nicht abgebaut, es kommt zu massiver Noradrenalinfreisetzung und Blutdruckkrisen."
  },
  {
   "id": "d20",
@@ -4252,45 +3870,6 @@
   ],
   "correct": 1,
   "explanation": "Leichte und mittelgradige Episoden verlangen mindestens zwei Hauptsymptome (mittelgradig zusätzlich 3–4 Zusatzsymptome), die schwere Episode alle drei Hauptsymptome plus mindestens vier Zusatzsymptome."
- },
- {
-  "id": "d22",
-  "topic": "Affekt & Angst",
-  "text": "Was versteht man unter einer Zwangshandlung?",
-  "options": [
-   "Jede willkürliche, angenehme Freizeitbeschäftigung",
-   "Wiederholte, stereotyp ausgeführte Rituale, die als unsinnig erlebt, aber nicht unterlassen werden können",
-   "Automatische Reflexe bei neurologischen Läsionen",
-   "Unkontrollierte Tics wie wiederholtes Blinzeln"
-  ],
-  "correct": 1,
-  "explanation": "Zwangshandlungen werden gegen inneren Widerstand wiederholt, vom Betroffenen als übertrieben oder sinnlos erkannt und dienen der Angstreduktion. Tics sind nicht zweckgerichtet."
- },
- {
-  "id": "d23",
-  "topic": "Diagnostik & Therapie",
-  "text": "Welches Phänomen kann auftreten, wenn SSRI abrupt abgesetzt werden?",
-  "options": [
-   "Sofortiger Übergang in eine dauerhafte Manie",
-   "Ein Absetzsyndrom mit Schwindel, Parästhesien, Übelkeit und Schlafstörungen",
-   "Unmittelbare Verdopplung der Gedächtnisleistung",
-   "Permanente Erblindung"
-  ],
-  "correct": 1,
-  "explanation": "Absetzsymptome (Schwindel, „Stromschläge“, Übelkeit, Unruhe, Schlafstörungen) treten häufig bei abruptem Absetzen auf, daher werden SSRI ausgeschlichen. Sie bedeuten keine Abhängigkeit."
- },
- {
-  "id": "d24",
-  "topic": "Recht & Praxis",
-  "text": "Unter welcher Voraussetzung darf die Schweigepflicht nach § 34 StGB gebrochen werden?",
-  "options": [
-   "Sobald der Ehepartner des Patienten Auskunft verlangt",
-   "Zur Abwendung einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leib, Leben oder ein anderes Rechtsgut",
-   "Wenn die Polizei allgemeine statistische Fragen stellt",
-   "Niemals, die Schweigepflicht ist ausnahmslos absolut"
-  ],
-  "correct": 1,
-  "explanation": "Der rechtfertigende Notstand erlaubt die Offenbarung, wenn eine gegenwärtige, nicht anders abwendbare Gefahr besteht und das geschützte Interesse das beeinträchtigte wesentlich überwiegt. Neugier von Angehörigen genügt nicht."
  },
  {
   "id": "d25",
@@ -4345,32 +3924,6 @@
   "explanation": "Bei der Projektion werden eigene abgelehnte Anteile nach außen verlagert und bei anderen bekämpft. Sublimierung lenkt Triebenergie in sozial akzeptierte Ziele."
  },
  {
-  "id": "d29",
-  "topic": "Diagnostik & Therapie",
-  "text": "Welche therapeutische Grundhaltung gehört zu den Basisvariablen nach Carl Rogers?",
-  "options": [
-   "Sokratische Gesprächsführung",
-   "Unbedingte positive Wertschätzung",
-   "Traumdeutung",
-   "Gegenkonditionierung"
-  ],
-  "correct": 1,
-  "explanation": "Basisvariablen der Gesprächspsychotherapie: Empathie, bedingungslose Wertschätzung (Akzeptanz) und Kongruenz (Echtheit). Sokratischer Dialog gehört zur kognitiven Therapie, Gegenkonditionierung zur Verhaltenstherapie."
- },
- {
-  "id": "d30",
-  "topic": "Somatoform & Dissoziativ",
-  "text": "Was beschreibt der Begriff „Konversion“ im Rahmen dissoziativer Störungen?",
-  "options": [
-   "Den Wechsel des behandelnden Therapeuten",
-   "Die Umsetzung seelischer Konflikte in körperliche, meist neurologische Symptome",
-   "Das unbewusste Nachahmen eines Verhaltensmodells",
-   "Den plötzlichen Phasenwechsel von Depression zu Manie"
-  ],
-  "correct": 1,
-  "explanation": "Dissoziative Störungen der Bewegung und Sinnesempfindung (frühere „Konversionsstörung“) zeigen z. B. Lähmungen, Blindheit oder Krampfanfälle ohne organischen Befund, oft nach Konflikt oder Stress."
- },
- {
   "id": "e01",
   "topic": "Affekt & Angst",
   "text": "Ein Patient berichtet, dass er seit Monaten unter anhaltenden, unbegründeten Sorgen bezüglich verschiedener Alltagsereignisse leidet, begleitet von Muskelverspannungen, Ruhelosigkeit und Schlafstörungen. Die Symptome sind nicht auf bestimmte Situationen beschränkt. Welche Diagnose nach ICD-10 ist am wahrscheinlichsten?",
@@ -4423,19 +3976,6 @@
   "explanation": "Schizoide Persönlichkeit: Distanziertheit, geringes Interesse an engen Beziehungen, emotionale Kühle und Vorliebe für einsame Tätigkeiten. Theatralik ist histrionisch, Misstrauen paranoid, Instabilität Borderline."
  },
  {
-  "id": "e05",
-  "topic": "Essstörungen",
-  "text": "Ein Body-Mass-Index (BMI) von höchstens welchem Wert gilt bei Erwachsenen als Richtkriterium für die Anorexia nervosa (F50.0)?",
-  "options": [
-   "15,0 kg/m²",
-   "17,5 kg/m²",
-   "19,0 kg/m²",
-   "20,0 kg/m²"
-  ],
-  "correct": 1,
-  "explanation": "Die ICD-10 nennt als Richtwert einen BMI von höchstens 17,5 kg/m² (Körpergewicht mindestens 15 % unter dem erwarteten Gewicht). Ein BMI unter 15 kennzeichnet bereits eine schwere Untergewichtigkeit."
- },
- {
   "id": "e06",
   "topic": "Diagnostik & Therapie",
   "text": "Welche Wirkung im Synapsenspalt zeichnet klassische hochpotente Neuroleptika wie Haloperidol primär aus?",
@@ -4486,19 +4026,6 @@
   ],
   "correct": 2,
   "explanation": "Gedankenentzug ist eine Ich-Störung: Die Grenze zwischen Ich und Umwelt ist durchlässig, die Gedanken werden als von außen weggenommen erlebt. Es ist ein Erstrangsymptom nach Schneider."
- },
- {
-  "id": "f02",
-  "topic": "Affekt & Angst",
-  "text": "Welcher zeitliche Mindestverlauf ist laut ICD-10 für die Vergabe einer Dysthymia (chronisch depressive Verstimmung) gefordert?",
-  "options": [
-   "Mindestens zwei Wochen",
-   "Mindestens sechs Monate",
-   "Mindestens ein Jahr",
-   "Mindestens zwei Jahre"
-  ],
-  "correct": 3,
-  "explanation": "Dysthymia (F34.1): mindestens zwei Jahre anhaltende, gedrückte Stimmung, die in ihrer Ausprägung nicht für eine mittelgradige oder schwere depressive Episode ausreicht."
  },
  {
   "id": "f03",
@@ -4618,19 +4145,6 @@
   "explanation": "Craving bezeichnet das starke, oft übermächtige innere Verlangen oder eine Art Zwang, eine Substanz oder ein bestimmtes Verhalten zu konsumieren bzw. auszuführen. Es ist eines der sechs ICD-10-Kriterien für Abhängigkeit."
  },
  {
-  "id": "g05",
-  "topic": "Sucht",
-  "text": "Welche Symptomkonstellation deutet akut auf ein lebensbedrohliches Delirium tremens bei Alkoholentzug hin?",
-  "options": [
-   "Hypotension, Bradykardie und tiefer Koma-Schlaf",
-   "Grobschlägiger Tremor, Desorientiertheit, Hyperhidrose und visuelle Halluzinationen",
-   "Gesteigerter Zukunftsoptimismus und Logorrhoe",
-   "Selektive Amnesie für Kindheitserinnerungen ohne vegetative Symptome"
-  ],
-  "correct": 1,
-  "explanation": "Das Delirium tremens ist eine lebensbedrohliche Entgleisung beim Alkoholentzug: grobschlägiger Tremor, starkes Schwitzen, Tachykardie, Desorientiertheit und oft optische Halluzinationen (z. B. kleine Tiere). Es ist ein medizinischer Notfall."
- },
- {
   "id": "g06",
   "topic": "Sucht",
   "text": "Welche Substanzklasse führt bei chronischem Konsum und abruptem Absetzen zu einem potenziell lebensbedrohlichen Entzugssyndrom mit Krampfanfällen?",
@@ -4642,32 +4156,6 @@
   ],
   "correct": 1,
   "explanation": "Der abrupte Entzug von Benzodiazepinen nach Langzeiteinnahme kann schwere körperliche Entzugssymptome auslösen, darunter epileptische Grand-Mal-Anfälle (Entzugskrämpfe) und psychotische Zustände."
- },
- {
-  "id": "g07",
-  "topic": "Psychosen",
-  "text": "Welches der folgenden Symptome zählt nach Kurt Schneider zu den Erstrangsymptomen der Schizophrenie?",
-  "options": [
-   "Optische Halluzinationen von Landschaften",
-   "Gedankeneingebung",
-   "Affektverflachung",
-   "Katatone Erregung"
-  ],
-  "correct": 1,
-  "explanation": "Gedankeneingebung, Gedankenentzug und Gedankenlautwerden sind Ich-Störungen, bei denen die Barriere zwischen dem Ich und der Umwelt aufgehoben ist. Sie zählen nach Kurt Schneider zu den wegweisenden Erstrangsymptomen."
- },
- {
-  "id": "g08",
-  "topic": "Psychosen",
-  "text": "Was versteht man unter einer Wahnwahrnehmung bei einer Schizophrenie?",
-  "options": [
-   "Das Hören von Stimmen, obwohl im Raum absolute Stille herrscht",
-   "Die wahnhafte Fehlinterpretation einer realen und korrekten Sinneswahrnehmung",
-   "Das Gefühl, dass die eigenen Glieder von außen bewegt werden",
-   "Das plötzliche Auftreten eines Wahngedankens ohne äußeren Anlass"
-  ],
-  "correct": 1,
-  "explanation": "Bei der Wahnwahrnehmung wird ein realer, richtig wahrgenommener Umweltreiz (z. B. ein rotes Auto biegt um die Ecke) in einem zweiten Schritt mit einer unkorrigierbaren, wahnhaften Bedeutung belegt (z. B. das Zeichen der Spionage)."
  },
  {
   "id": "g09",
@@ -4761,19 +4249,6 @@
   "explanation": "Zwangsgedanken werden als eigene Gedanken erlebt, aber als sinnlos, quälend und übertrieben erkannt (Einsicht ist meist erhalten). Bei Ich-Störungen der Schizophrenie werden Gedanken dagegen als von außen gemacht erlebt."
  },
  {
-  "id": "g16",
-  "topic": "Essstörungen",
-  "text": "Welcher Schwellenwert des Body-Mass-Index (BMI) gilt bei Erwachsenen als ein diagnostisches Kriterium für die Anorexia nervosa?",
-  "options": [
-   "Höchstens 20,0 kg/m²",
-   "Höchstens 17,5 kg/m²",
-   "Höchstens 15,0 kg/m²",
-   "Höchstens 22,5 kg/m²"
-  ],
-  "correct": 1,
-  "explanation": "Als Richtwert nennt die ICD-10 einen BMI von höchstens 17,5 kg/m² (Gewicht mindestens 15 % unter dem erwarteten). Bei Kindern und Jugendlichen werden Perzentilen benutzt."
- },
- {
   "id": "g17",
   "topic": "Persönlichkeit",
   "text": "Welche Persönlichkeitsstörung ist durch emotionale Kälte, Distanziertheit, mangelndes Interesse an sozialen Beziehungen und Vorliebe für Einzelgängeraktivitäten geprägt?",
@@ -4811,19 +4286,6 @@
   ],
   "correct": 0,
   "explanation": "Die Verschwiegenheit folgt aus dem Behandlungsvertrag und der DSGVO und gilt auch nach Behandlungsende. § 203 StGB nennt Heilpraktiker nicht ausdrücklich, weil ihr Beruf keine staatlich geregelte Ausbildung voraussetzt. Das Zeugnisverweigerungsrecht nach § 53 StPO haben Ärzte und approbierte Psychotherapeuten, Heilpraktiker nicht."
- },
- {
-  "id": "g20",
-  "topic": "Recht & Praxis",
-  "text": "Welche rechtliche Voraussetzung ist zwingend erforderlich, um eine öffentlich-rechtliche Unterbringung nach dem PsychKG durchzuführen?",
-  "options": [
-   "Eine reine Unzufriedenheit der Familie mit dem Lebensstil des Betroffenen",
-   "Eine akute, erhebliche Eigen- oder Fremdgefährdung infolge einer psychischen Erkrankung",
-   "Der Nachweis von Steuerschulden beim Finanzamt",
-   "Die freiwillige, schriftliche Anmeldung des Patienten am Vortag"
-  ],
-  "correct": 1,
-  "explanation": "Das PsychKG (öffentlich-rechtliche Unterbringung der Bundesländer) greift als Zwangsmaßnahme nur dann ein, wenn eine psychische Störung vorliegt UND eine gegenwärtige, erhebliche Gefahr für das Leben/die Gesundheit des Betroffenen oder Dritter besteht."
  },
  {
   "id": "g21",
@@ -4928,5 +4390,31 @@
   ],
   "correct": 1,
   "explanation": "Flooding bedeutet Reizüberflutung. Der Patient begibt sich nach Vorbereitung direkt in die am stärksten gefürchtete Situation (z. B. Menschenmenge) und verbleibt dort, bis die physiologische Angstreaktion (Katastrophenerwartung) nachlässt."
+ },
+ {
+  "id": "h01",
+  "topic": "Somatoform & Dissoziativ",
+  "text": "Ein Patient hat nach einem heftigen Beziehungsstreit plötzlich eine Lähmung im linken Arm. Die neurologische Abklärung ergibt keinen organischen Befund. Welche Diagnose ist am wahrscheinlichsten?",
+  "options": [
+   "Dissoziative Bewegungsstörung",
+   "Hypochondrische Störung",
+   "Organische Hemiparese",
+   "Simulation zur Erlangung einer Rente"
+  ],
+  "correct": 0,
+  "explanation": "Die dissoziative Bewegungsstörung (F44.4) bedeutet teilweisen oder vollständigen Verlust der Willkürbewegung ohne organische Ursache, meist nach psychosozialer Belastung. Eine organische Hemiparese ist ausgeschlossen. Bei der Simulation werden Symptome bewusst vorgetäuscht, die Hypochondrie ist die Angst vor einer bestimmten Krankheit."
+ },
+ {
+  "id": "h02",
+  "topic": "Psychosen",
+  "text": "Eine Patientin ist überzeugt, ihre inneren Organe verfaulten und sie sei eigentlich schon tot. Um welche Wahnform handelt es sich?",
+  "options": [
+   "Nihilistischer Wahn (Cotard-Syndrom)",
+   "Verfolgungswahn",
+   "Größenwahn",
+   "Hypochondrischer Wahn"
+  ],
+  "correct": 0,
+  "explanation": "Beim nihilistischen Wahn glaubt der Betroffene, nicht zu existieren, tot zu sein oder dass Organe zerfallen. Er tritt vor allem bei schweren psychotischen Depressionen auf. Beim hypochondrischen Wahn besteht die Überzeugung, an einer bestimmten Krankheit zu leiden, nicht jedoch, tot zu sein."
  }
 ]

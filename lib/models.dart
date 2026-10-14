@@ -202,6 +202,7 @@ class Progress {
   static const wrongKey = 'wrong_question_ids';
   static const knownKey = 'known_flashcard_ids';
   static const historyKey = 'exam_history';
+  static const statsKey = 'topic_stats';
 
   static Future<Set<String>> ids(String key) async {
     final p = await SharedPreferences.getInstance();
@@ -236,4 +237,80 @@ class Progress {
     final p = await SharedPreferences.getInstance();
     return p.getStringList(historyKey) ?? <String>[];
   }
+  /// Je Themenbereich: [richtig, gesamt] über alle bisher beantworteten Fragen.
+  static Future<Map<String, List<int>>> topicStats() async {
+    final p = await SharedPreferences.getInstance();
+    final m = <String, List<int>>{};
+    for (final s in p.getStringList(statsKey) ?? <String>[]) {
+      final parts = s.split('|');
+      if (parts.length == 3) {
+        m[parts[0]] = [int.tryParse(parts[1]) ?? 0, int.tryParse(parts[2]) ?? 0];
+      }
+    }
+    return m;
+  }
+
+  static Future<void> recordTopics(Map<String, List<int>> add) async {
+    final cur = await topicStats();
+    add.forEach((topic, v) {
+      final c = cur.putIfAbsent(topic, () => [0, 0]);
+      c[0] += v[0];
+      c[1] += v[1];
+    });
+    final p = await SharedPreferences.getInstance();
+    await p.setStringList(statsKey,
+        cur.entries.map((e) => '${e.key}|${e.value[0]}|${e.value[1]}').toList());
+  }
+}
+
+/// Gewichtung der Themenbereiche in der schriftlichen Prüfung (Summe 28).
+/// Schwerpunkte: Diagnosen nach ICD-10 (v. a. affektive, Angst-, psychotische
+/// Störungen), Therapie/Pharmakologie sowie Recht und Berufskunde.
+const examTopicWeights = <String, int>{
+  'Affekt & Angst': 5,
+  'Diagnostik & Therapie': 4,
+  'Recht & Praxis': 4,
+  'Psychosen': 3,
+  'Sucht': 2,
+  'Persönlichkeit': 2,
+  'Somatoform & Dissoziativ': 2,
+  'Essstörungen': 1,
+  'Trauma & Belastung': 1,
+  'Organisch': 1,
+  'Kinder & Jugend': 1,
+  'Grundlagen': 1,
+  'Weitere Störungen': 1,
+};
+
+/// Stellt einen prüfungsnahen Fragensatz zusammen: Themenmix nach
+/// [examTopicWeights], Fragen aus Themen mit offenen Fehlern bevorzugt,
+/// und eine Mischung aus Einfachauswahl, Aussagenkombination und
+/// Mehrfachauswahl.
+List<Question> buildExamSet(List<Question> all, int count,
+    {Set<String> wrongIds = const {}}) {
+  final total = examTopicWeights.values.fold<int>(0, (a, b) => a + b);
+  final picked = <Question>[];
+  final used = <String>{};
+  final byTopic = <String, List<Question>>{};
+  for (final q in all) {
+    byTopic.putIfAbsent(q.topic, () => []).add(q);
+  }
+  examTopicWeights.forEach((topic, w) {
+    final pool = List<Question>.of(byTopic[topic] ?? <Question>[])..shuffle();
+    // bisher falsch beantwortete Fragen zuerst
+    pool.sort((a, b) =>
+        (wrongIds.contains(b.id) ? 1 : 0) - (wrongIds.contains(a.id) ? 1 : 0));
+    final quota = (w * count / total).round().clamp(1, count);
+    for (final q in pool.take(quota)) {
+      picked.add(q);
+      used.add(q.id);
+    }
+  });
+  final rest = all.where((q) => !used.contains(q.id)).toList()..shuffle();
+  for (final q in rest) {
+    if (picked.length >= count) break;
+    picked.add(q);
+  }
+  picked.shuffle();
+  return picked.length > count ? picked.sublist(0, count) : picked;
 }
