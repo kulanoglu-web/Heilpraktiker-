@@ -4564,5 +4564,369 @@
   ],
   "correct": 2,
   "explanation": "Das Patientenrechtegesetz führte die §§ 630a ff. BGB ein. Nach § 630c Abs. 3 BGB muss der Behandelnde den Patienten vor Behandlungsbeginn in Textform über die voraussichtlichen Kosten informieren, wenn eine Übernahme durch Dritte nicht gesichert ist, bei Heilpraktikern meist die Regel."
+ },
+ {
+  "id": "g01",
+  "topic": "Organisch",
+  "text": "Welches akute klinische Merkmal unterscheidet ein Delir primär von einer chronischen Demenz?",
+  "options": [
+   "Schleichender Beginn über Monate",
+   "Fluktuierende Bewusstseinsstörung im Tagesverlauf",
+   "Vollständig ungestörte Aufmerksamkeit",
+   "Isolierter Verlust des Langzeitgedächtnisses"
+  ],
+  "correct": 1,
+  "explanation": "Das Delir beginnt akut, mit Bewusstseinstrübung, Aufmerksamkeitsstörung und Schwankungen im Tagesverlauf, nachts oft stärker. Demenzen verlaufen chronisch-fortschreitend bei meist klarem Bewusstsein."
+ },
+ {
+  "id": "g02",
+  "topic": "Organisch",
+  "text": "Welche Demenzform ist typischerweise durch einen stufenförmigen Verlauf und neurologische Herdsymptome gekennzeichnet?",
+  "options": [
+   "Alzheimer-Demenz",
+   "Vaskuläre Demenz",
+   "Frontotemporale Demenz",
+   "Pick-Krankheit"
+  ],
+  "correct": 1,
+  "explanation": "Die vaskuläre Demenz entsteht durch Durchblutungsstörungen (z. B. Mikroinfarkte). Typisch sind ein stufenförmiger Verlauf und neurologische Herdsymptome wie leichte Lähmungen. Alzheimer verläuft dagegen schleichend und gleichmäßig."
+ },
+ {
+  "id": "g03",
+  "topic": "Organisch",
+  "text": "Welches Symptom ist ein Kernmerkmal der frontotemporalen Demenz (Morbus Pick) im Frühstadium?",
+  "options": [
+   "Frühzeitige schwere räumliche Desorientierung",
+   "Ausgeprägte Persönlichkeitsveränderungen und sozialer Kontrollverlust",
+   "Optische Halluzinationen von Kleintieren",
+   "Grobschlägiger Ruhetremor"
+  ],
+  "correct": 1,
+  "explanation": "Im Gegensatz zur Alzheimer-Demenz stehen bei der frontotemporalen Demenz im Frühstadium nicht Gedächtnisverluste, sondern Veränderungen des Sozialverhaltens, Enthemmung, Impulskontrollverlust und Persönlichkeitsveränderungen im Vordergrund."
+ },
+ {
+  "id": "g04",
+  "topic": "Sucht",
+  "text": "Welches psychopathologische Phänomen beschreibt das unbezwingbare Verlangen nach einer Substanz im Rahmen eines Abhängigkeitssyndroms?",
+  "options": [
+   "Konfabulation",
+   "Craving",
+   "Flashback",
+   "Ambivalenz"
+  ],
+  "correct": 1,
+  "explanation": "Craving bezeichnet das starke, oft übermächtige innere Verlangen oder eine Art Zwang, eine Substanz oder ein bestimmtes Verhalten zu konsumieren bzw. auszuführen. Es ist eines der sechs ICD-10-Kriterien für Abhängigkeit."
+ },
+ {
+  "id": "g05",
+  "topic": "Sucht",
+  "text": "Welche Symptomkonstellation deutet akut auf ein lebensbedrohliches Delirium tremens bei Alkoholentzug hin?",
+  "options": [
+   "Hypotension, Bradykardie und tiefer Koma-Schlaf",
+   "Grobschlägiger Tremor, Desorientiertheit, Hyperhidrose und visuelle Halluzinationen",
+   "Gesteigerter Zukunftsoptimismus und Logorrhoe",
+   "Selektive Amnesie für Kindheitserinnerungen ohne vegetative Symptome"
+  ],
+  "correct": 1,
+  "explanation": "Das Delirium tremens ist eine lebensbedrohliche Entgleisung beim Alkoholentzug: grobschlägiger Tremor, starkes Schwitzen, Tachykardie, Desorientiertheit und oft optische Halluzinationen (z. B. kleine Tiere). Es ist ein medizinischer Notfall."
+ },
+ {
+  "id": "g06",
+  "topic": "Sucht",
+  "text": "Welche Substanzklasse führt bei chronischem Konsum und abruptem Absetzen zu einem potenziell lebensbedrohlichen Entzugssyndrom mit Krampfanfällen?",
+  "options": [
+   "Cannabinoide",
+   "Benzodiazepine",
+   "Amphetamine",
+   "Halluzinogene"
+  ],
+  "correct": 1,
+  "explanation": "Der abrupte Entzug von Benzodiazepinen nach Langzeiteinnahme kann schwere körperliche Entzugssymptome auslösen, darunter epileptische Grand-Mal-Anfälle (Entzugskrämpfe) und psychotische Zustände."
+ },
+ {
+  "id": "g07",
+  "topic": "Psychosen",
+  "text": "Welches der folgenden Symptome zählt nach Kurt Schneider zu den Erstrangsymptomen der Schizophrenie?",
+  "options": [
+   "Optische Halluzinationen von Landschaften",
+   "Gedankeneingebung",
+   "Affektverflachung",
+   "Katatone Erregung"
+  ],
+  "correct": 1,
+  "explanation": "Gedankeneingebung, Gedankenentzug und Gedankenlautwerden sind Ich-Störungen, bei denen die Barriere zwischen dem Ich und der Umwelt aufgehoben ist. Sie zählen nach Kurt Schneider zu den wegweisenden Erstrangsymptomen."
+ },
+ {
+  "id": "g08",
+  "topic": "Psychosen",
+  "text": "Was versteht man unter einer Wahnwahrnehmung bei einer Schizophrenie?",
+  "options": [
+   "Das Hören von Stimmen, obwohl im Raum absolute Stille herrscht",
+   "Die wahnhafte Fehlinterpretation einer realen und korrekten Sinneswahrnehmung",
+   "Das Gefühl, dass die eigenen Glieder von außen bewegt werden",
+   "Das plötzliche Auftreten eines Wahngedankens ohne äußeren Anlass"
+  ],
+  "correct": 1,
+  "explanation": "Bei der Wahnwahrnehmung wird ein realer, richtig wahrgenommener Umweltreiz (z. B. ein rotes Auto biegt um die Ecke) in einem zweiten Schritt mit einer unkorrigierbaren, wahnhaften Bedeutung belegt (z. B. das Zeichen der Spionage)."
+ },
+ {
+  "id": "g09",
+  "topic": "Psychosen",
+  "text": "Welches Symptom gehört zur typischen Negativ- bzw. Minussymptomatik einer Schizophrenie?",
+  "options": [
+   "Massiver Verfolgungswahn",
+   "Körperhalluzinationen",
+   "Affektverflachung und Antriebsminderung",
+   "Logorrhoe und Ideenflucht"
+  ],
+  "correct": 2,
+  "explanation": "Die Negativ-Symptomatik beschreibt das Defizit oder Fehlen normaler psychischer Funktionen. Dazu gehören emotionaler Rückzug, Verarmung der Sprache, Apathie, Antriebslosigkeit und ein flacher Affekt."
+ },
+ {
+  "id": "g10",
+  "topic": "Affekt & Angst",
+  "text": "Welche Symptomtrias bildet die Hauptsymptome einer depressiven Episode nach den Leitlinien der ICD-10?",
+  "options": [
+   "Schlafstörungen, Suizidgedanken, Appetitverlust",
+   "Gedrückte Stimmung, Interessenverlust/Anhedonie, Antriebsminderung",
+   "Minderwertigkeitsgefühle, Konzentrationsstörungen, Schuldgefühle",
+   "Libidoverlust, soziale Isolation, Gewichtsabnahme"
+  ],
+  "correct": 1,
+  "explanation": "Die ICD-10 unterscheidet strikt zwischen den drei Hauptsymptomen (gedrückte Stimmung, Verlust von Freude/Interesse, erhöhte Ermüdbarkeit/Antriebsminderung) und den Nebensymptomen zur Bestimmung des Schweregrads."
+ },
+ {
+  "id": "g11",
+  "topic": "Affekt & Angst",
+  "text": "Wie viele Haupt- und Nebensymptome müssen für die Diagnose einer mittelgradigen depressiven Episode mindestens vorliegen?",
+  "options": [
+   "Ein Hauptsymptom und ein Nebensymptom",
+   "Mindestens zwei Hauptsymptome und drei bis vier Nebensymptome",
+   "Drei Hauptsymptome und alle Nebensymptome",
+   "Keine Hauptsymptome, nur somatische Beschwerden"
+  ],
+  "correct": 1,
+  "explanation": "Gemäß ICD-10-Kriterien erfordert eine leichte Episode zwei Haupt- und zwei Nebensymptome. Eine mittelgradige Episode verlangt mindestens zwei Hauptsymptome und drei bis vier Nebensymptome (insgesamt mindestens 5-6 Symptome)."
+ },
+ {
+  "id": "g12",
+  "topic": "Affekt & Angst",
+  "text": "Welches Merkmal grenzt eine Zyklothymia von einer klassischen Bipolaren Affektiven Störung ab?",
+  "options": [
+   "Die Zyklothymia verläuft vollständig ohne depressive Phasen",
+   "Die chronischen Stimmungsschwankungen erreichen nie die volle Intensität einer Manie oder schweren Depression",
+   "Sie ist immer die Folge eines Hirntumors",
+   "Sie tritt ausschließlich im Seniorenalter auf"
+  ],
+  "correct": 1,
+  "explanation": "Die Zyklothymia (F34.0) ist eine anhaltende (mindestens zwei Jahre dauernde) Instabilität der Stimmung mit zahlreichen Phasen von Depression und leicht gehobener Stimmung (Hypomanie), die jedoch nie die Kriterien für eine manische oder schwere depressive Episode erfüllen."
+ },
+ {
+  "id": "g13",
+  "topic": "Affekt & Angst",
+  "text": "Was ist das charakteristische Definitionsmerkmal der Generalisierten Angststörung?",
+  "options": [
+   "Plötzliche, anfallsartige Angst vor geschlossenen Räumen",
+   "Anhaltende, frei flottierende Ängste und übermäßige Sorgen, die nicht an bestimmte Situationen gebunden sind",
+   "Die Angst, im Zentrum der Aufmerksamkeit zu stehen und sich zu blamieren",
+   "Angst vor Schmutz und Infektionen mit Waschzwang"
+  ],
+  "correct": 1,
+  "explanation": "Die generalisierte Angststörung (F41.1) ist durch chronische, unrealistische Sorgen und Ängste über Alltagsereignisse gekennzeichnet, die 'frei flottieren' (also situationsunabhängig auftreten) und von Muskelspannung und vegetativer Hyperaktivität begleitet werden."
+ },
+ {
+  "id": "g14",
+  "topic": "Affekt & Angst",
+  "text": "Welche Phobie liegt vor, wenn ein Patient massive Angst vor der Bewertung durch andere Menschen in Leistungssituationen zeigt und diese meidet?",
+  "options": [
+   "Agoraphobie",
+   "Soziale Phobie",
+   "Klaustrophobie",
+   "Akrophobie"
+  ],
+  "correct": 1,
+  "explanation": "Die Soziale Phobie (F40.1) ist durch eine ausgeprägte Furcht vor Prüfungssituationen, öffentlichen Reden oder sozialen Interaktionen gekennzeichnet, bei denen die Gefahr besteht, von anderen kritisch bewertet zu werden."
+ },
+ {
+  "id": "g15",
+  "topic": "Affekt & Angst",
+  "text": "Wie werden Zwangsgedanken im Gegensatz zu schizophrenen Wahnideen vom Betroffenen im Regelfall erlebt?",
+  "options": [
+   "Als von außen in den Kopf eingegebene Fremdgedanken",
+   "Als eigene Gedanken, die jedoch als unsinnig, quälend und übertrieben erkannt werden",
+   "Als logische und absolut notwendige Wahrheiten über die Welt",
+   "Als angenehme Tagträume ohne Krankheitswert"
+  ],
+  "correct": 1,
+  "explanation": "Zwangsgedanken werden als eigene Gedanken erlebt, aber als sinnlos, quälend und übertrieben erkannt (Einsicht ist meist erhalten). Bei Ich-Störungen der Schizophrenie werden Gedanken dagegen als von außen gemacht erlebt."
+ },
+ {
+  "id": "g16",
+  "topic": "Essstörungen",
+  "text": "Welcher Schwellenwert des Body-Mass-Index (BMI) gilt bei Erwachsenen als ein diagnostisches Kriterium für die Anorexia nervosa?",
+  "options": [
+   "Höchstens 20,0 kg/m²",
+   "Höchstens 17,5 kg/m²",
+   "Höchstens 15,0 kg/m²",
+   "Höchstens 22,5 kg/m²"
+  ],
+  "correct": 1,
+  "explanation": "Als Richtwert nennt die ICD-10 einen BMI von höchstens 17,5 kg/m² (Gewicht mindestens 15 % unter dem erwarteten). Bei Kindern und Jugendlichen werden Perzentilen benutzt."
+ },
+ {
+  "id": "g17",
+  "topic": "Persönlichkeit",
+  "text": "Welche Persönlichkeitsstörung ist durch emotionale Kälte, Distanziertheit, mangelndes Interesse an sozialen Beziehungen und Vorliebe für Einzelgängeraktivitäten geprägt?",
+  "options": [
+   "Paranoide Persönlichkeitsstörung",
+   "Schizoide Persönlichkeitsstörung",
+   "Histrionische Persönlichkeitsstörung",
+   "Antisoziale Persönlichkeitsstörung"
+  ],
+  "correct": 1,
+  "explanation": "Die schizoide Persönlichkeitsstörung (F60.1) führt zu einem freiwilligen Rückzug aus interpersonellen Kontakten. Betroffene wirken emotional abgeflacht und benötigen keine oder nur sehr wenige soziale Bindungen."
+ },
+ {
+  "id": "g18",
+  "topic": "Weitere Störungen",
+  "text": "Welche Störung der Impulskontrolle ist durch das wiederholte, absichtliche Legen von Bränden ohne erkennbares profitorientiertes Motiv definiert?",
+  "options": [
+   "Kleptomanie",
+   "Pyromanie",
+   "Trichotillomanie",
+   "Pathologisches Spielen"
+  ],
+  "correct": 1,
+  "explanation": "Die Pyromanie (F63.1) beschreibt das pathologische Verhalten, Brände zu legen, getrieben von einer inneren Anspannung und einer anschließenden Faszination oder Erleichterung beim Anblick des Feuers."
+ },
+ {
+  "id": "g19",
+  "topic": "Recht & Praxis",
+  "text": "Welche Aussage zur Verschwiegenheit des Heilpraktikers trifft zu?",
+  "options": [
+   "Sie folgt aus dem Behandlungsvertrag (BGB) und dem Datenschutzrecht; ein Verstoß kann Schadensersatz auslösen",
+   "Sie gilt nur gegenüber gesetzlich Versicherten",
+   "Sie endet automatisch mit dem Ende der Behandlung",
+   "Heilpraktiker haben im Strafprozess stets ein Zeugnisverweigerungsrecht nach § 53 StPO"
+  ],
+  "correct": 0,
+  "explanation": "Die Verschwiegenheit folgt aus dem Behandlungsvertrag und der DSGVO und gilt auch nach Behandlungsende. § 203 StGB nennt Heilpraktiker nicht ausdrücklich, weil ihr Beruf keine staatlich geregelte Ausbildung voraussetzt. Das Zeugnisverweigerungsrecht nach § 53 StPO haben Ärzte und approbierte Psychotherapeuten, Heilpraktiker nicht."
+ },
+ {
+  "id": "g20",
+  "topic": "Recht & Praxis",
+  "text": "Welche rechtliche Voraussetzung ist zwingend erforderlich, um eine öffentlich-rechtliche Unterbringung nach dem PsychKG durchzuführen?",
+  "options": [
+   "Eine reine Unzufriedenheit der Familie mit dem Lebensstil des Betroffenen",
+   "Eine akute, erhebliche Eigen- oder Fremdgefährdung infolge einer psychischen Erkrankung",
+   "Der Nachweis von Steuerschulden beim Finanzamt",
+   "Die freiwillige, schriftliche Anmeldung des Patienten am Vortag"
+  ],
+  "correct": 1,
+  "explanation": "Das PsychKG (öffentlich-rechtliche Unterbringung der Bundesländer) greift als Zwangsmaßnahme nur dann ein, wenn eine psychische Störung vorliegt UND eine gegenwärtige, erhebliche Gefahr für das Leben/die Gesundheit des Betroffenen oder Dritter besteht."
+ },
+ {
+  "id": "g21",
+  "topic": "Recht & Praxis",
+  "text": "Darf ein Inhaber der sektoralen Heilpraktikererlaubnis für Psychotherapie verschreibungspflichtige Antidepressiva verordnen?",
+  "options": [
+   "Ja, sofern es sich um pflanzliche SSRI handelt",
+   "Nein, das Verordnen von verschreibungspflichtigen Medikamenten ist Ärzten vorbehalten",
+   "Ja, bei Privatpatienten mit schwerer Depression",
+   "Nur nach Absprache mit dem Heilpraktikerverband"
+  ],
+  "correct": 1,
+  "explanation": "Heilpraktiker, auch sektorale für Psychotherapie, dürfen keine verschreibungspflichtigen Arzneimittel verordnen. Das ist Ärzten vorbehalten. Auch bei Privatpatienten oder mit Verbandsabsprache ändert sich daran nichts."
+ },
+ {
+  "id": "g22",
+  "topic": "Recht & Praxis",
+  "text": "Wie lange muss die Behandlungsdokumentation (Patientenakte) nach Abschluss der Therapie laut Patientenrechtegesetz mindestens aufbewahrt werden?",
+  "options": [
+   "2 Jahre",
+   "5 Jahre",
+   "10 Jahre",
+   "30 Jahre"
+  ],
+  "correct": 2,
+  "explanation": "Das Patientenrechtegesetz (§ 630f BGB) schreibt vor, dass die Patientenakte nach Abschluss der Behandlung für die Dauer von 10 Jahren sicher aufbewahrt werden muss."
+ },
+ {
+  "id": "g23",
+  "topic": "Affekt & Angst",
+  "text": "Welcher klinische Zustand signalisiert bei einem depressiven Patienten höchste suizidale Gefahr?",
+  "options": [
+   "Anhaltendes Weinen und Klagen über Traurigkeit",
+   "Eine plötzliche, unerklärliche Ruhe und Gelassenheit nach schwerer depressiver Phase",
+   "Das Äußern von vagen Zukunftsplänen für das nächste Jahr",
+   "Eine gesteigerte Reizbarkeit im therapeutischen Gespräch"
+  ],
+  "correct": 1,
+  "explanation": "Die sogenannte 'Ruhe vor dem Sturm' tritt häufig ein, wenn ein suizidaler Patient den festen Entschluss zum Suizid gefasst hat. Die Ambivalenz schwindet, was fälschlicherweise als Besserung interpretiert werden kann."
+ },
+ {
+  "id": "g24",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welches Phänomen beschreibt den zeitlichen Verzug zwischen der antriebssteigernden und der stimmungsaufhellenden Wirkung bei SSRI-Antidepressiva?",
+  "options": [
+   "Rebound-Effekt",
+   "Antriebs-Stimmungs-Hiatus (Aktivierungslücke)",
+   "Anticholinergisches Syndrom",
+   "Tachyphylaxie"
+  ],
+  "correct": 1,
+  "explanation": "Viele Antidepressiva (SSRI) wirken zuerst antriebssteigernd (nach wenigen Tagen) und erst verzögert stimmungsaufhellend (nach 2-3 Wochen). In diesem Zeitraum (Aktivierungslücke) ist das Suizidrisiko erhöht, da der Antrieb für eine Umsetzung vorhanden ist."
+ },
+ {
+  "id": "g25",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welches Medikament wird primär als Phasenprophylaktikum bei bipolaren affektiven Störungen eingesetzt und besitzt eine geringe therapeutische Breite?",
+  "options": [
+   "Diazepam",
+   "Lithiumcarbonat",
+   "Haloperidol",
+   "Citalopram"
+  ],
+  "correct": 1,
+  "explanation": "Lithium wird zur Stabilisierung der Phasen eingesetzt. Da die therapeutische Breite sehr gering ist (die toxische Dosis liegt nahe an der therapeutischen Dosis), müssen Serumspiegel, Nieren- und Schilddrüsenwerte engmaschig kontrolliert werden."
+ },
+ {
+  "id": "g26",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche therapeutische Grundhaltung gehört nicht zu den drei Basisvariablen nach Carl Rogers?",
+  "options": [
+   "Empathie",
+   "Bedingungslose positive Wertschätzung",
+   "Systematische Konfrontation",
+   "Kongruenz / Echtheit"
+  ],
+  "correct": 2,
+  "explanation": "Carl Rogers definiert für die personenzentrierte Gesprächspsychotherapie drei notwendige Haltungen des Therapeuten: Empathie, Wertschätzung/Akzeptanz und Kongruenz. Konfrontation ist eine Technik der Verhaltenstherapie."
+ },
+ {
+  "id": "g27",
+  "topic": "Diagnostik & Therapie",
+  "text": "Wie nennt man in der Psychoanalyse das unbewusste Projizieren von alten Gefühlsmustern gegenüber Bezugspersonen auf den aktuellen Therapeuten?",
+  "options": [
+   "Widerstand",
+   "Übertragung",
+   "Sublimierung",
+   "Gegenübertragung"
+  ],
+  "correct": 1,
+  "explanation": "Übertragung beschreibt den Prozess, bei dem ein Patient Gefühle, Erwartungen oder Ängste, die er in der Kindheit gegenüber prägenden Bezugspersonen (z. B. Eltern) entwickelt hat, unbewusst auf den Therapeuten strukturiert."
+ },
+ {
+  "id": "g28",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche verhaltenstherapeutische Methode konfrontiert den Patienten in der Realität direkt mit dem am stärksten angstauslösenden Reiz?",
+  "options": [
+   "Systematische Desensibilisierung",
+   "Flooding (Reizüberflutung in vivo)",
+   "Gedankenstopp",
+   "Shaping"
+  ],
+  "correct": 1,
+  "explanation": "Flooding bedeutet Reizüberflutung. Der Patient begibt sich nach Vorbereitung direkt in die am stärksten gefürchtete Situation (z. B. Menschenmenge) und verbleibt dort, bis die physiologische Angstreaktion (Katastrophenerwartung) nachlässt."
  }
 ]
