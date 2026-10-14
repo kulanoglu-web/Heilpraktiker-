@@ -4369,5 +4369,109 @@
   ],
   "correct": 1,
   "explanation": "Dissoziative Störungen der Bewegung und Sinnesempfindung (frühere „Konversionsstörung“) zeigen z. B. Lähmungen, Blindheit oder Krampfanfälle ohne organischen Befund, oft nach Konflikt oder Stress."
+ },
+ {
+  "id": "e01",
+  "topic": "Affekt & Angst",
+  "text": "Ein Patient berichtet, dass er seit Monaten unter anhaltenden, unbegründeten Sorgen bezüglich verschiedener Alltagsereignisse leidet, begleitet von Muskelverspannungen, Ruhelosigkeit und Schlafstörungen. Die Symptome sind nicht auf bestimmte Situationen beschränkt. Welche Diagnose nach ICD-10 ist am wahrscheinlichsten?",
+  "options": [
+   "Panikstörung",
+   "Agoraphobie",
+   "Generalisierte Angststörung",
+   "Soziale Phobie"
+  ],
+  "correct": 2,
+  "explanation": "Die generalisierte Angststörung (F41.1) zeigt anhaltende, frei flottierende Sorgen und Ängste mit Anspannung, Unruhe und Schlafstörungen, nicht an eine Situation gebunden. Panik kommt als kurze Anfälle, Agoraphobie und soziale Phobie sind situationsgebunden."
+ },
+ {
+  "id": "e02",
+  "topic": "Psychosen",
+  "text": "Welches Symptom gehört im psychopathologischen Befund klassisch zu den Ich-Störungen?",
+  "options": [
+   "Ideenflucht",
+   "Gedankeneingebung",
+   "Grübeln",
+   "Denkverlangsamung"
+  ],
+  "correct": 1,
+  "explanation": "Bei der Gedankeneingebung erlebt der Patient seine Gedanken als von außen gemacht oder eingegeben. Die Grenze zwischen Ich und Umwelt ist gestört. Ideenflucht, Grübeln und Denkverlangsamung sind formale Denkstörungen."
+ },
+ {
+  "id": "e03",
+  "topic": "Affekt & Angst",
+  "text": "Wie lange müssen die Symptome einer depressiven Episode nach ICD-10 in der Regel mindestens anhalten?",
+  "options": [
+   "Mindestens 1 Woche",
+   "Mindestens 2 Wochen",
+   "Mindestens 1 Monat",
+   "Mindestens 6 Monate"
+  ],
+  "correct": 1,
+  "explanation": "Für eine depressive Episode (F32) fordert die ICD-10 in der Regel eine Mindestdauer von zwei Wochen. Bei ungewöhnlich schwerem oder rasch beginnendem Verlauf kann auch eine kürzere Dauer genügen."
+ },
+ {
+  "id": "e04",
+  "topic": "Persönlichkeit",
+  "text": "Welches Kernmerkmal kennzeichnet die schizoide Persönlichkeitsstörung (F60.1)?",
+  "options": [
+   "Übersteigerter Drang nach Aufmerksamkeit und Theatralik",
+   "Ständiges Misstrauen und Verfolgungsideen",
+   "Emotionaler Rückzug, emotionale Kälte und Vorliebe für Einzelgängeraktivitäten",
+   "Instabilität im Selbstbild und in zwischenmenschlichen Beziehungen"
+  ],
+  "correct": 2,
+  "explanation": "Schizoide Persönlichkeit: Distanziertheit, geringes Interesse an engen Beziehungen, emotionale Kühle und Vorliebe für einsame Tätigkeiten. Theatralik ist histrionisch, Misstrauen paranoid, Instabilität Borderline."
+ },
+ {
+  "id": "e05",
+  "topic": "Essstörungen",
+  "text": "Ein Body-Mass-Index (BMI) von höchstens welchem Wert gilt bei Erwachsenen als Richtkriterium für die Anorexia nervosa (F50.0)?",
+  "options": [
+   "15,0 kg/m²",
+   "17,5 kg/m²",
+   "19,0 kg/m²",
+   "20,0 kg/m²"
+  ],
+  "correct": 1,
+  "explanation": "Die ICD-10 nennt als Richtwert einen BMI von höchstens 17,5 kg/m² (Körpergewicht mindestens 15 % unter dem erwarteten Gewicht). Ein BMI unter 15 kennzeichnet bereits eine schwere Untergewichtigkeit."
+ },
+ {
+  "id": "e06",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche Wirkung im Synapsenspalt zeichnet klassische hochpotente Neuroleptika wie Haloperidol primär aus?",
+  "options": [
+   "Blockade von Dopamin-D2-Rezeptoren",
+   "Verstärkung der Serotonin-Wiederaufnahme",
+   "Stimulation von GABA-Rezeptoren",
+   "Hemmung der Monoaminooxidase"
+  ],
+  "correct": 0,
+  "explanation": "Klassische Antipsychotika blockieren postsynaptische Dopamin-D2-Rezeptoren und lindern so v. a. Positivsymptome wie Wahn und Halluzinationen. Nebenwirkung: extrapyramidal-motorische Störungen."
+ },
+ {
+  "id": "e07",
+  "topic": "Recht & Praxis",
+  "text": "Welche Voraussetzung ist für eine öffentlich-rechtliche Unterbringung nach dem PsychKG (z. B. Berlin) zwingend?",
+  "options": [
+   "Das Vorliegen einer mittelschweren Depression ohne Suizidalität",
+   "Eine akute, erhebliche Eigen- oder Fremdgefährdung infolge einer psychischen Erkrankung",
+   "Der Antrag eines nahen Verwandten bei Geschäftsunfähigkeit",
+   "Die Weigerung des Patienten, verschriebene Medikamente einzunehmen"
+  ],
+  "correct": 1,
+  "explanation": "Zwangsunterbringung nach Landesrecht (PsychKG) setzt eine psychische Erkrankung und eine gegenwärtige, erhebliche Gefahr für das Leben oder die Gesundheit des Betroffenen oder anderer voraus, die nicht anders abwendbar ist. Medikamentenverweigerung allein reicht nicht."
+ },
+ {
+  "id": "e08",
+  "topic": "Affekt & Angst",
+  "text": "Was versteht man unter Ideenflucht im psychiatrischen Befund?",
+  "options": [
+   "Das dauerhafte Festhalten an einer unkorrigierbaren Wahnidee",
+   "Ein rasanter Wechsel von Gedankengängen, bei dem der rote Faden durch ständige Assoziationen verloren geht",
+   "Das plötzliche, als Blockade erlebte Abreißen des Denkflusses",
+   "Die Fixierung auf ein einziges, quälendes Thema"
+  ],
+  "correct": 1,
+  "explanation": "Ideenflucht: beschleunigtes Denken, sprunghafte Einfälle ohne Ziel, typisch für die Manie (F30). Das Abreißen des Denkflusses ist Gedankensperre, das Festhalten an einem Thema Eingeengtes Denken oder Grübeln."
  }
 ]
