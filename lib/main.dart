@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+import 'info.dart';
 import 'learn.dart';
 import 'models.dart';
 import 'quiz.dart';
@@ -227,10 +228,12 @@ class _HomeScreenState extends State<HomeScreen> {
                     for (final h in history.take(5)) _historyRow(context, h),
                   ],
                   const SizedBox(height: 24),
+                  const InfoCard(),
+                  const SizedBox(height: 16),
                   Text(
                     'Lernhilfe: Alle Fragen, Karten und Fälle sind eigene '
                     'Formulierungen und keine Original-Prüfungsfragen. '
-                    'Verbindliche Regeln gibt das zuständige Gesundheitsamt.',
+                    'Alles ohne Gewähr. Verbindliche Regeln gibt das zuständige Gesundheitsamt.',
                     style: TextStyle(
                         fontSize: 12,
                         height: 1.4,

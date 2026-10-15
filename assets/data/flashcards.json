@@ -1666,5 +1666,443 @@
   "topic": "Recht & Praxis",
   "front": "Was ist bei Schweigepflicht und Dokumentation wichtig?",
   "back": "Vertraulichkeit, rechtmäßige Datenverarbeitung, sachliche Dokumentation und Ausnahmen bei akuter Gefährdung differenziert beachten."
+ },
+ {
+  "id": "er001",
+  "topic": "Organisch",
+  "front": "Delir: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: akuter Beginn, fluktuierende Aufmerksamkeit und Bewusstseinsstörung.\nDifferenzialdiagnosen: Demenz, Intoxikation, Psychose.\nWarnzeichen/Vorgehen: Infekt, Dehydratation, Medikamente; umgehend somatisch abklären."
+ },
+ {
+  "id": "er002",
+  "topic": "Organisch",
+  "front": "Demenz bei Alzheimer: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: schleichender Beginn, progrediente Gedächtnis- und Alltagsdefizite.\nDifferenzialdiagnosen: Depression, Delir, Normaldruckhydrozephalus.\nWarnzeichen/Vorgehen: Delir und Depression können gleichzeitig bestehen; ärztliche Diagnostik."
+ },
+ {
+  "id": "er003",
+  "topic": "Organisch",
+  "front": "Vaskuläre Demenz: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: kognitive Defizite bei zerebrovaskulärer Erkrankung, teils stufenweise.\nDifferenzialdiagnosen: Alzheimer, Delir.\nWarnzeichen/Vorgehen: vaskuläre Risikofaktoren und Schlaganfallsymptome beachten."
+ },
+ {
+  "id": "er004",
+  "topic": "Organisch",
+  "front": "Organische Halluzinose: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Halluzinationen bei nachweisbarem organischem Zusammenhang.\nDifferenzialdiagnosen: Schizophrenie, Substanzwirkung.\nWarnzeichen/Vorgehen: Medikamentenliste und neurologische Ursachen prüfen."
+ },
+ {
+  "id": "er005",
+  "topic": "Organisch",
+  "front": "Amnestisches Syndrom: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: ausgeprägte Gedächtnisstörung bei relativ erhaltener Wachheit.\nDifferenzialdiagnosen: Demenz, Dissoziation.\nWarnzeichen/Vorgehen: Thiaminmangel und Alkoholfolgeerkrankungen bedenken."
+ },
+ {
+  "id": "er006",
+  "topic": "Sucht",
+  "front": "Alkoholabhängigkeit: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Kontrollverlust, Craving, Toleranz und Entzug.\nDifferenzialdiagnosen: schädlicher Gebrauch, Depression.\nWarnzeichen/Vorgehen: Entzug kann Krampfanfälle und Delir verursachen; ärztlich absichern."
+ },
+ {
+  "id": "er007",
+  "topic": "Sucht",
+  "front": "Alkoholentzugsdelir: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: vegetative Entgleisung, Desorientierung, Halluzinationen.\nDifferenzialdiagnosen: primäre Psychose, Delir anderer Ursache.\nWarnzeichen/Vorgehen: medizinischer Notfall."
+ },
+ {
+  "id": "er008",
+  "topic": "Sucht",
+  "front": "Opioidintoxikation: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Miosis, Atemdepression, Bewusstseinsminderung.\nDifferenzialdiagnosen: Sedativaintoxikation, neurologischer Notfall.\nWarnzeichen/Vorgehen: Rettungsdienst alarmieren."
+ },
+ {
+  "id": "er009",
+  "topic": "Sucht",
+  "front": "Benzodiazepinabhängigkeit: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Toleranz, Entzugssymptome, Kontrollverlust.\nDifferenzialdiagnosen: Angststörung, Insomnie.\nWarnzeichen/Vorgehen: abruptes Absetzen kann gefährlich sein."
+ },
+ {
+  "id": "er010",
+  "topic": "Sucht",
+  "front": "Cannabisinduzierte Psychose: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: psychotische Symptome in zeitlichem Zusammenhang mit Konsum.\nDifferenzialdiagnosen: Schizophrenie, Manie.\nWarnzeichen/Vorgehen: Abstinenzverlauf und weitere Substanzen abklären."
+ },
+ {
+  "id": "er011",
+  "topic": "Psychosen",
+  "front": "Schizophrenie: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Wahn, Halluzinationen, Ich-Störungen, formale Denkstörungen.\nDifferenzialdiagnosen: affektive Psychose, Delir, Drogenwirkung.\nWarnzeichen/Vorgehen: akute Eigen- oder Fremdgefährdung einschätzen."
+ },
+ {
+  "id": "er012",
+  "topic": "Psychosen",
+  "front": "Anhaltende wahnhafte Störung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: persistierender Wahn bei sonst teils relativ erhaltener Funktion.\nDifferenzialdiagnosen: Schizophrenie, organische Ursache.\nWarnzeichen/Vorgehen: nicht konfrontativ argumentieren."
+ },
+ {
+  "id": "er013",
+  "topic": "Psychosen",
+  "front": "Akute vorübergehende psychotische Störung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: rascher Beginn psychotischer Symptome.\nDifferenzialdiagnosen: Intoxikation, Delir, Manie.\nWarnzeichen/Vorgehen: somatische und psychiatrische Akutabklärung."
+ },
+ {
+  "id": "er014",
+  "topic": "Psychosen",
+  "front": "Schizoaffektive Störung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: affektive und schizophrene Symptome im selben Krankheitsabschnitt.\nDifferenzialdiagnosen: bipolare Störung mit psychotischen Symptomen.\nWarnzeichen/Vorgehen: zeitlichen Verlauf sorgfältig erheben."
+ },
+ {
+  "id": "er015",
+  "topic": "Psychosen",
+  "front": "Negativsymptomatik: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Affektverflachung, Antriebsmangel, sozialer Rückzug.\nDifferenzialdiagnosen: Depression, Medikamentennebenwirkung.\nWarnzeichen/Vorgehen: Funktionsniveau und Suizidrisiko prüfen."
+ },
+ {
+  "id": "er016",
+  "topic": "Affekt & Angst",
+  "front": "Depressive Episode: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: gedrückte Stimmung, Interessenverlust, Antriebsminderung.\nDifferenzialdiagnosen: Trauer, Hypothyreose, Anpassungsstörung.\nWarnzeichen/Vorgehen: Suizidalität direkt ansprechen."
+ },
+ {
+  "id": "er017",
+  "topic": "Affekt & Angst",
+  "front": "Manische Episode: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: gehobene oder gereizte Stimmung, Antriebssteigerung, Schlafbedürfnis vermindert.\nDifferenzialdiagnosen: Stimulanzien, Hyperthyreose, ADHS.\nWarnzeichen/Vorgehen: Selbstgefährdung und fehlende Krankheitseinsicht."
+ },
+ {
+  "id": "er018",
+  "topic": "Affekt & Angst",
+  "front": "Bipolare Störung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: anamnestisch manische/hypomanische und depressive Phasen.\nDifferenzialdiagnosen: rezidivierende Depression, Borderline.\nWarnzeichen/Vorgehen: Antidepressiva und Phasenwechsel ärztlich beurteilen."
+ },
+ {
+  "id": "er019",
+  "topic": "Affekt & Angst",
+  "front": "Dysthymie: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: langandauernde depressive Verstimmung.\nDifferenzialdiagnosen: depressive Episode, Persönlichkeitsstörung.\nWarnzeichen/Vorgehen: zusätzliche depressive Episoden möglich."
+ },
+ {
+  "id": "er020",
+  "topic": "Affekt & Angst",
+  "front": "Psychotische Depression: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: schwere Depression mit Wahn oder Halluzinationen.\nDifferenzialdiagnosen: schizoaffektive Störung, Schizophrenie.\nWarnzeichen/Vorgehen: dringende fachärztliche Behandlung."
+ },
+ {
+  "id": "er021",
+  "topic": "Affekt & Angst",
+  "front": "Panikstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: wiederkehrende unerwartete Panikattacken.\nDifferenzialdiagnosen: Arrhythmie, Hyperthyreose, Substanzen.\nWarnzeichen/Vorgehen: erstmalige Brustschmerzen somatisch abklären."
+ },
+ {
+  "id": "er022",
+  "topic": "Affekt & Angst",
+  "front": "Agoraphobie: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Angst in Situationen mit erschwerter Flucht oder Hilfe.\nDifferenzialdiagnosen: soziale Phobie, Panikstörung.\nWarnzeichen/Vorgehen: Vermeidungsverhalten erfragen."
+ },
+ {
+  "id": "er023",
+  "topic": "Affekt & Angst",
+  "front": "Soziale Phobie: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Angst vor negativer Bewertung in sozialen Situationen.\nDifferenzialdiagnosen: Autismus, vermeidend-unsichere Persönlichkeit.\nWarnzeichen/Vorgehen: Leidensdruck und Funktionsbeeinträchtigung."
+ },
+ {
+  "id": "er024",
+  "topic": "Affekt & Angst",
+  "front": "Generalisierte Angststörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: anhaltende Sorgen in mehreren Lebensbereichen.\nDifferenzialdiagnosen: Depression, Schilddrüsenerkrankung.\nWarnzeichen/Vorgehen: Schlafstörung und Substanzgebrauch prüfen."
+ },
+ {
+  "id": "er025",
+  "topic": "Affekt & Angst",
+  "front": "Zwangsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: aufdringliche Gedanken und/oder ritualisierte Handlungen.\nDifferenzialdiagnosen: Psychose, zwanghafte Persönlichkeit.\nWarnzeichen/Vorgehen: Einsicht und Zeitaufwand prüfen."
+ },
+ {
+  "id": "er026",
+  "topic": "Affekt & Angst",
+  "front": "PTBS: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Wiedererleben, Vermeidung, Übererregung nach Trauma.\nDifferenzialdiagnosen: Anpassungsstörung, Depression, Dissoziation.\nWarnzeichen/Vorgehen: Sicherheit, Stabilisierung und Suizidalität prüfen."
+ },
+ {
+  "id": "er027",
+  "topic": "Affekt & Angst",
+  "front": "Dissoziative Störung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Funktionsausfälle oder verändertes Erleben ohne ausreichende organische Erklärung.\nDifferenzialdiagnosen: Epilepsie, neurologische Erkrankung.\nWarnzeichen/Vorgehen: organische Diagnostik nicht überspringen."
+ },
+ {
+  "id": "er028",
+  "topic": "Affekt & Angst",
+  "front": "Somatisierungsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: multiple wiederkehrende körperliche Beschwerden mit hoher Belastung.\nDifferenzialdiagnosen: organische Erkrankung, Depression.\nWarnzeichen/Vorgehen: körperliche Erkrankungen können komorbid sein."
+ },
+ {
+  "id": "er029",
+  "topic": "Essstörungen",
+  "front": "Anorexia nervosa: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: restriktives Essen, Untergewicht, Gewichtsangst.\nDifferenzialdiagnosen: körperliche Gewichtsverlustursachen, Depression.\nWarnzeichen/Vorgehen: Bradykardie, Elektrolyte und akute Gefährdung ärztlich prüfen."
+ },
+ {
+  "id": "er030",
+  "topic": "Essstörungen",
+  "front": "Bulimia nervosa: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Essanfälle und kompensatorische Maßnahmen.\nDifferenzialdiagnosen: Binge-Eating, Anorexie.\nWarnzeichen/Vorgehen: Elektrolytstörungen und Zahnschäden."
+ },
+ {
+  "id": "er031",
+  "topic": "Essstörungen",
+  "front": "Nichtorganische Insomnie: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Ein- oder Durchschlafstörung mit Belastung.\nDifferenzialdiagnosen: Schlafapnoe, Depression, Substanzen.\nWarnzeichen/Vorgehen: Schlafanamnese und somatische Abklärung."
+ },
+ {
+  "id": "er032",
+  "topic": "Essstörungen",
+  "front": "Nichtorganische sexuelle Funktionsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: sexuelle Funktionsprobleme mit psychischen Einflussfaktoren.\nDifferenzialdiagnosen: endokrine, vaskuläre, medikamentöse Ursachen.\nWarnzeichen/Vorgehen: einfühlsam und ohne vorschnelle Psychologisierung."
+ },
+ {
+  "id": "er033",
+  "topic": "Essstörungen",
+  "front": "Psychogene Essstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: auffälliges Essverhalten mit psychischer Belastung.\nDifferenzialdiagnosen: somatische Erkrankung, andere Essstörung.\nWarnzeichen/Vorgehen: Gewicht, Ernährung, Risikofaktoren erheben."
+ },
+ {
+  "id": "er034",
+  "topic": "Persönlichkeit",
+  "front": "Emotional instabile Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Impulsivität, instabile Beziehungen, Affektregulationsprobleme.\nDifferenzialdiagnosen: bipolare Störung, PTBS, ADHS.\nWarnzeichen/Vorgehen: Selbstverletzung und Suizidalität sorgfältig prüfen."
+ },
+ {
+  "id": "er035",
+  "topic": "Persönlichkeit",
+  "front": "Dissoziale Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: andauernde Missachtung sozialer Normen und Rechte anderer.\nDifferenzialdiagnosen: Substanzstörung, Manie.\nWarnzeichen/Vorgehen: Gefährdungsbeurteilung ohne Stigmatisierung."
+ },
+ {
+  "id": "er036",
+  "topic": "Persönlichkeit",
+  "front": "Ängstlich-vermeidende Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: tiefgreifende Unsicherheit, Kritikempfindlichkeit, Vermeidung.\nDifferenzialdiagnosen: soziale Phobie.\nWarnzeichen/Vorgehen: Beginn und situationsübergreifendes Muster."
+ },
+ {
+  "id": "er037",
+  "topic": "Persönlichkeit",
+  "front": "Anankastische Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Perfektionismus, Kontrollbedürfnis, Rigidität.\nDifferenzialdiagnosen: Zwangsstörung.\nWarnzeichen/Vorgehen: ich-syntone Muster versus ich-dystone Zwänge."
+ },
+ {
+  "id": "er038",
+  "topic": "Persönlichkeit",
+  "front": "Paranoide Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: anhaltendes Misstrauen und Überempfindlichkeit.\nDifferenzialdiagnosen: wahnhafte Störung, Trauma.\nWarnzeichen/Vorgehen: Realitätsprüfung und Verlauf."
+ },
+ {
+  "id": "er039",
+  "topic": "Kinder & Jugend",
+  "front": "Leichte Intelligenzstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Beeinträchtigung intellektueller und adaptiver Fähigkeiten seit Entwicklung.\nDifferenzialdiagnosen: Lernstörung, mangelnde Beschulung.\nWarnzeichen/Vorgehen: standardisierte Diagnostik und Ressourcen."
+ },
+ {
+  "id": "er040",
+  "topic": "Kinder & Jugend",
+  "front": "Mittelgradige Intelligenzstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: deutlich eingeschränkte adaptive und kognitive Fähigkeiten.\nDifferenzialdiagnosen: Autismus, Sinnesbehinderung.\nWarnzeichen/Vorgehen: Kommunikation und Unterstützung bedarfsgerecht."
+ },
+ {
+  "id": "er041",
+  "topic": "Kinder & Jugend",
+  "front": "Schwere Intelligenzstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: ausgeprägte Einschränkungen in Alltag und Lernen.\nDifferenzialdiagnosen: neurologische Erkrankung.\nWarnzeichen/Vorgehen: somatische Komorbiditäten."
+ },
+ {
+  "id": "er042",
+  "topic": "Kinder & Jugend",
+  "front": "Verhaltensauffälligkeit bei Intelligenzstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: belastendes Verhalten im Kontext begrenzter Ausdrucksmöglichkeiten.\nDifferenzialdiagnosen: Schmerz, Überforderung, psychische Störung.\nWarnzeichen/Vorgehen: zuerst Ursachen und Umweltfaktoren prüfen."
+ },
+ {
+  "id": "er043",
+  "topic": "Kinder & Jugend",
+  "front": "Intelligenzdiagnostik: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: kognitive Tests plus adaptive Alltagsfunktion.\nDifferenzialdiagnosen: Sprachbarriere, Hörstörung.\nWarnzeichen/Vorgehen: Einzelwert nicht isoliert bewerten."
+ },
+ {
+  "id": "er044",
+  "topic": "Kinder & Jugend",
+  "front": "Autismus-Spektrum: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Besonderheiten sozialer Kommunikation und repetitive Muster seit Entwicklung.\nDifferenzialdiagnosen: soziale Angst, ADHS, Sprachstörung.\nWarnzeichen/Vorgehen: sensorische Belastung und Komorbiditäten."
+ },
+ {
+  "id": "er045",
+  "topic": "Kinder & Jugend",
+  "front": "Umschriebene Lesestörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: spezifische Schwierigkeiten beim Lesen.\nDifferenzialdiagnosen: Intelligenzstörung, Seh- oder Hörproblem.\nWarnzeichen/Vorgehen: Entwicklungs- und Schulverlauf."
+ },
+ {
+  "id": "er046",
+  "topic": "Kinder & Jugend",
+  "front": "Umschriebene Rechenstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: spezifische Schwierigkeiten im Rechnen.\nDifferenzialdiagnosen: unzureichender Unterricht, Intelligenzstörung.\nWarnzeichen/Vorgehen: gezielte Diagnostik."
+ },
+ {
+  "id": "er047",
+  "topic": "Kinder & Jugend",
+  "front": "Sprachentwicklungsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Entwicklungsdefizite des Sprachverständnisses oder Ausdrucks.\nDifferenzialdiagnosen: Hörstörung, Autismus.\nWarnzeichen/Vorgehen: Hörprüfung und Entwicklungsanamnese."
+ },
+ {
+  "id": "er048",
+  "topic": "Kinder & Jugend",
+  "front": "Motorische Entwicklungsstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: ausgeprägte motorische Koordinationsprobleme.\nDifferenzialdiagnosen: neurologische Erkrankung, Sehproblem.\nWarnzeichen/Vorgehen: neuropädiatrische Abklärung."
+ },
+ {
+  "id": "er049",
+  "topic": "Kinder & Jugend",
+  "front": "ADHS: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: Unaufmerksamkeit und/oder Hyperaktivität-Impulsivität situationsübergreifend.\nDifferenzialdiagnosen: Angst, Schlafmangel, Trauma.\nWarnzeichen/Vorgehen: Beginn in Kindheit und Funktionsbeeinträchtigung."
+ },
+ {
+  "id": "er050",
+  "topic": "Kinder & Jugend",
+  "front": "Störung des Sozialverhaltens: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: anhaltendes Muster schwerer Regelverletzungen.\nDifferenzialdiagnosen: ADHS, Trauma, Manie.\nWarnzeichen/Vorgehen: familiären Kontext und Gefährdung prüfen."
+ },
+ {
+  "id": "er051",
+  "topic": "Kinder & Jugend",
+  "front": "Trennungsangst des Kindesalters: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: entwicklungsunangemessene Angst vor Trennung.\nDifferenzialdiagnosen: generalisierte Angst, Anpassungsstörung.\nWarnzeichen/Vorgehen: Schulbesuch und Belastungen."
+ },
+ {
+  "id": "er052",
+  "topic": "Kinder & Jugend",
+  "front": "Ticstörung: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: plötzliche wiederholte motorische oder vokale Tics.\nDifferenzialdiagnosen: Stereotypien, neurologische Bewegungsstörung.\nWarnzeichen/Vorgehen: Verlauf, Belastung und Komorbidität ADHS/Zwang."
+ },
+ {
+  "id": "er053",
+  "topic": "Kinder & Jugend",
+  "front": "Enuresis: Leitsymptome, Differenzialdiagnosen, Warnzeichen?",
+  "back": "Leitsymptome: wiederholtes Einnässen jenseits des üblichen Entwicklungsalters.\nDifferenzialdiagnosen: Harnwegsinfekt, Diabetes, neurologische Ursache.\nWarnzeichen/Vorgehen: pädiatrische Abklärung und keine Beschämung."
+ },
+ {
+  "id": "er054",
+  "topic": "Recht & Praxis",
+  "front": "Wie fragen Sie konkret nach Suizidalität?",
+  "back": "Direkt und wertfrei nach Todeswünschen, Gedanken, Plänen, Mitteln, Vorbereitungen, früheren Versuchen und Schutzfaktoren fragen."
+ },
+ {
+  "id": "er055",
+  "topic": "Recht & Praxis",
+  "front": "Was tun Sie bei konkretem Suizidplan und verfügbarer Methode?",
+  "back": "Nicht allein lassen, akute Hilfe über Rettungsdienst/psychiatrischen Krisendienst organisieren; Schutz und Übergabe dokumentieren."
+ },
+ {
+  "id": "er056",
+  "topic": "Psychopathologie",
+  "front": "Welche Dimensionen gehören in den psychopathologischen Befund?",
+  "back": "Bewusstsein, Orientierung, Aufmerksamkeit, Gedächtnis, Denken, Wahrnehmung, Ich-Erleben, Affekt, Antrieb, Psychomotorik und Gefährdung."
+ },
+ {
+  "id": "er057",
+  "topic": "Psychopathologie",
+  "front": "Was unterscheidet formale und inhaltliche Denkstörungen?",
+  "back": "Formal betrifft Denkablauf (z.B. Ideenflucht); inhaltlich betrifft Überzeugungsinhalte (z.B. Wahn)."
+ },
+ {
+  "id": "er058",
+  "topic": "Recht & Praxis",
+  "front": "Darf ein HPP Psychopharmaka verordnen?",
+  "back": "Nein, eine Verordnung verschreibungspflichtiger Psychopharmaka gehört nicht zur HPP-Befugnis."
+ },
+ {
+  "id": "er059",
+  "topic": "Recht & Praxis",
+  "front": "Was ist bei möglicher akuter Kindeswohlgefährdung wichtig?",
+  "back": "Gefährdung konkret einschätzen, Schutz organisieren, einschlägige Melde- und Schweigepflichtregeln prüfen und fachliche Hilfe hinzuziehen."
+ },
+ {
+  "id": "er060",
+  "topic": "Differenzialdiagnose",
+  "front": "Welche Zeichen sprechen für ein Delir statt einer primären Psychose?",
+  "back": "Akute Fluktuation, Aufmerksamkeits- und Bewusstseinsstörung sowie möglicher somatischer Auslöser."
+ },
+ {
+  "id": "er061",
+  "topic": "Differenzialdiagnose",
+  "front": "Was ist bei plötzlicher Lähmung oder Sprachstörung zu tun?",
+  "back": "Schlaganfallverdacht: sofort 112; keine psychogene Ursache annehmen."
+ },
+ {
+  "id": "er062",
+  "topic": "Differenzialdiagnose",
+  "front": "Wie unterscheiden Sie Trauer und depressive Episode?",
+  "back": "Zeitlicher Kontext, Selbstwert, pervasive Anhedonie, Schuld, Funktion und Suizidalität prüfen; keine einfache starre Grenze."
+ },
+ {
+  "id": "er063",
+  "topic": "Differenzialdiagnose",
+  "front": "Welche körperlichen Ursachen können Angstsymptome auslösen?",
+  "back": "Unter anderem Schilddrüsenüberfunktion, Arrhythmie, Hypoglykämie und Substanzwirkungen."
+ },
+ {
+  "id": "er064",
+  "topic": "Differenzialdiagnose",
+  "front": "Warum ist Substanzkonsum bei psychischen Störungen routinemäßig zu erheben?",
+  "back": "Substanzen können Symptome auslösen, verstärken, maskieren und Behandlungen beeinflussen."
+ },
+ {
+  "id": "er065",
+  "topic": "Differenzialdiagnose",
+  "front": "Eine Klientin hört Stimmen mit Befehlen zur Selbstverletzung. Wie reagieren Sie?",
+  "back": "Art der Stimmen, Befehlscharakter, Absicht und Fähigkeit zur Distanzierung erfragen; bei akuter Gefahr Notfallhilfe."
+ },
+ {
+  "id": "er066",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein Klient schläft seit vier Nächten kaum und tätigt riskante Käufe. Was prüfen Sie?",
+  "back": "Manie/Hypomanie, Substanzen und körperliche Ursachen; Eigengefährdung und zeitnahe psychiatrische Abklärung."
+ },
+ {
+  "id": "er067",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein älterer Mensch ist seit gestern verwirrt und fiebrig. Was ist prioritär?",
+  "back": "Delir und Infektion als akuten medizinischen Notfall abklären lassen."
+ },
+ {
+  "id": "er068",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein Jugendlicher zeigt Konzentrationsprobleme nach belastendem Ereignis. Warum nicht sofort ADHS?",
+  "back": "Trauma, Schlaf, Angst, Depression und zeitlichen Beginn prüfen; ADHS verlangt Entwicklungsgeschichte und mehrere Lebensbereiche."
+ },
+ {
+  "id": "er069",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein Patient mit Essstörung berichtet Ohnmacht und Herzrasen. Wie gehen Sie vor?",
+  "back": "Sofortige medizinische Abklärung wegen Kreislauf- und Elektrolytrisiken."
+ },
+ {
+  "id": "er070",
+  "topic": "Differenzialdiagnose",
+  "front": "Eine Klientin schildert Zwänge, hält sie aber für unsinnig. Was differenzieren Sie?",
+  "back": "Ich-dystone Zwangsgedanken/-handlungen versus wahnhafte Überzeugungen und anankastische Persönlichkeitszüge."
+ },
+ {
+  "id": "er071",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein Klient berichtet Panik und Brustdruck beim ersten Auftreten. Wie handeln Sie?",
+  "back": "Akute kardiale/medizinische Ursachen ausschließen lassen, bei Warnzeichen Notruf."
+ },
+ {
+  "id": "er072",
+  "topic": "Differenzialdiagnose",
+  "front": "Eine Person berichtet Flashbacks und trinkt täglich Alkohol. Welche Komorbidität prüfen Sie?",
+  "back": "PTBS und Alkoholkonsumstörung getrennt erheben; Entzugs- und Suizidrisiken beachten."
+ },
+ {
+  "id": "er073",
+  "topic": "Differenzialdiagnose",
+  "front": "Eine depressive Klientin sagt: „Morgen ist alles vorbei.“ Wie reagieren Sie?",
+  "back": "Nicht bagatellisieren; unmittelbar Suizidalität, Plan, Mittel, Schutzfaktoren erfragen und Sicherheitsmaßnahmen einleiten."
  }
 ]

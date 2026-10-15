@@ -784,5 +784,396 @@
     "a": "Motivation, qualifizierter Entzug (ärztlich), Entwöhnungsbehandlung, Nachsorge und Selbsthilfe. Eine ambulante Entgiftung muss ärztlich begleitet werden."
    }
   ]
+ },
+ {
+  "id": "ev01",
+  "title": "Fall 47: Ein 79-Jähriger ist seit gestern desorientiert, nachts unruh",
+  "vignette": "Ein 79-Jähriger ist seit gestern desorientiert, nachts unruhig und tagsüber schläfrig.",
+  "questions": [
+   {
+    "q": "Welche Merkmale sprechen für Delir und was veranlassen Sie?",
+    "a": "Akuter Beginn, Fluktuation und Aufmerksamkeitsstörung sprechen für Delir. Unverzügliche ärztliche Notfallabklärung, Medikamente, Infektion, Stoffwechsel und Flüssigkeitshaushalt berücksichtigen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Akuter Beginn, Fluktuation und Aufmerksamkeitsstörung sprechen für Delir. Unverzügliche ärztliche Notfallabklärung, Medikamente, Infektion, Stoffwechsel und Flüssigkeitshaushalt berücksichtigen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Akuter Beginn, Fluktuation und Aufmerksamkeitsstörung sprechen für Delir. Unverzügliche ärztliche Notfallabklärung, Medikamente, Infektion, Stoffwechsel und Flüssigkeitshaushalt berücksichtigen."
+   }
+  ]
+ },
+ {
+  "id": "ev02",
+  "title": "Fall 48: Eine 43-Jährige berichtet über Antriebsmangel, Gewichtszunah",
+  "vignette": "Eine 43-Jährige berichtet über Antriebsmangel, Gewichtszunahme und Kälteempfindlichkeit.",
+  "questions": [
+   {
+    "q": "Wie grenzen Sie depressive Episode und körperliche Ursache ab?",
+    "a": "Depressive Kernsymptome und Dauer erheben; Hypothyreose und andere somatische Ursachen ärztlich abklären lassen. Suizidalität aktiv prüfen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Depressive Kernsymptome und Dauer erheben; Hypothyreose und andere somatische Ursachen ärztlich abklären lassen. Suizidalität aktiv prüfen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Depressive Kernsymptome und Dauer erheben; Hypothyreose und andere somatische Ursachen ärztlich abklären lassen. Suizidalität aktiv prüfen."
+   }
+  ]
+ },
+ {
+  "id": "ev03",
+  "title": "Fall 49: Ein 28-Jähriger ist seit fünf Tagen kaum müde, sehr redselig",
+  "vignette": "Ein 28-Jähriger ist seit fünf Tagen kaum müde, sehr redselig und kauft impulsiv ein.",
+  "questions": [
+   {
+    "q": "Welche Verlaufsmerkmale helfen bei der Differenzialdiagnose?",
+    "a": "Episodischer Beginn, deutlich vermindertes Schlafbedürfnis und Größenideen sprechen für Manie/Hypomanie; ADHS beginnt typischerweise in der Kindheit und ist längerfristig vorhanden. Ärztlich-psychiatrische Abklärung."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Episodischer Beginn, deutlich vermindertes Schlafbedürfnis und Größenideen sprechen für Manie/Hypomanie; ADHS beginnt typischerweise in der Kindheit und ist längerfristig vorhanden. Ärztlich-psychiatrische Abklärung."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Episodischer Beginn, deutlich vermindertes Schlafbedürfnis und Größenideen sprechen für Manie/Hypomanie; ADHS beginnt typischerweise in der Kindheit und ist längerfristig vorhanden. Ärztlich-psychiatrische Abklärung."
+   }
+  ]
+ },
+ {
+  "id": "ev04",
+  "title": "Fall 50: Eine 22-Jährige hört Stimmen nach einer Party und ist stark ",
+  "vignette": "Eine 22-Jährige hört Stimmen nach einer Party und ist stark misstrauisch.",
+  "questions": [
+   {
+    "q": "Wie gehen Sie diagnostisch und sicherheitsbezogen vor?",
+    "a": "Substanzen, Medikamente, Schlafentzug und somatische Ursachen abklären; Realitätsprüfung und Gefährdung prüfen; bei akuter Psychose oder Gefahr sofort psychiatrische Hilfe."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Substanzen, Medikamente, Schlafentzug und somatische Ursachen abklären; Realitätsprüfung und Gefährdung prüfen; bei akuter Psychose oder Gefahr sofort psychiatrische Hilfe."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Substanzen, Medikamente, Schlafentzug und somatische Ursachen abklären; Realitätsprüfung und Gefährdung prüfen; bei akuter Psychose oder Gefahr sofort psychiatrische Hilfe."
+   }
+  ]
+ },
+ {
+  "id": "ev05",
+  "title": "Fall 51: Ein 52-Jähriger hat plötzlich Herzrasen, Brustdruck und Tode",
+  "vignette": "Ein 52-Jähriger hat plötzlich Herzrasen, Brustdruck und Todesangst.",
+  "questions": [
+   {
+    "q": "Was hat Vorrang?",
+    "a": "Eine akute körperliche Ursache muss medizinisch ausgeschlossen werden; bei neuem Brustschmerz oder Warnzeichen Notruf 112. Erst danach Panikstörung differenzialdiagnostisch prüfen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Eine akute körperliche Ursache muss medizinisch ausgeschlossen werden; bei neuem Brustschmerz oder Warnzeichen Notruf 112. Erst danach Panikstörung differenzialdiagnostisch prüfen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Eine akute körperliche Ursache muss medizinisch ausgeschlossen werden; bei neuem Brustschmerz oder Warnzeichen Notruf 112. Erst danach Panikstörung differenzialdiagnostisch prüfen."
+   }
+  ]
+ },
+ {
+  "id": "ev06",
+  "title": "Fall 52: Eine 35-Jährige hat nach einem Überfall Intrusionen, Vermeid",
+  "vignette": "Eine 35-Jährige hat nach einem Überfall Intrusionen, Vermeidung und Übererregung.",
+  "questions": [
+   {
+    "q": "Welche Kriterien und Differenzialdiagnosen prüfen Sie?",
+    "a": "Traumaexposition, Wiedererleben, Vermeidung und Bedrohungserleben erfassen; Dauer und Funktionsbeeinträchtigung prüfen. Differenzialdiagnosen akute Belastungsreaktion, Depression, Angst und Dissoziation."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Traumaexposition, Wiedererleben, Vermeidung und Bedrohungserleben erfassen; Dauer und Funktionsbeeinträchtigung prüfen. Differenzialdiagnosen akute Belastungsreaktion, Depression, Angst und Dissoziation."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Traumaexposition, Wiedererleben, Vermeidung und Bedrohungserleben erfassen; Dauer und Funktionsbeeinträchtigung prüfen. Differenzialdiagnosen akute Belastungsreaktion, Depression, Angst und Dissoziation."
+   }
+  ]
+ },
+ {
+  "id": "ev07",
+  "title": "Fall 53: Ein 30-Jähriger kontrolliert die Tür 40-mal, hält sein Verha",
+  "vignette": "Ein 30-Jähriger kontrolliert die Tür 40-mal, hält sein Verhalten aber für übertrieben.",
+  "questions": [
+   {
+    "q": "Wie unterscheiden Sie Zwangsgedanken von Wahn?",
+    "a": "Zwangsgedanken werden häufig als eigene, aufdringliche und unerwünschte Gedanken erlebt; bei Wahn besteht meist starke Überzeugung. Einsicht kann bei Zwang variieren."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Zwangsgedanken werden häufig als eigene, aufdringliche und unerwünschte Gedanken erlebt; bei Wahn besteht meist starke Überzeugung. Einsicht kann bei Zwang variieren."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Zwangsgedanken werden häufig als eigene, aufdringliche und unerwünschte Gedanken erlebt; bei Wahn besteht meist starke Überzeugung. Einsicht kann bei Zwang variieren."
+   }
+  ]
+ },
+ {
+  "id": "ev08",
+  "title": "Fall 54: Eine 19-Jährige ist deutlich untergewichtig, friert und hat ",
+  "vignette": "Eine 19-Jährige ist deutlich untergewichtig, friert und hat Schwindel.",
+  "questions": [
+   {
+    "q": "Welche Risiken und Schritte sind vorrangig?",
+    "a": "Vitalgefährdung, Kreislauf, Elektrolyte, Herzrhythmus und Suizidalität beachten; zeitnahe somatische Untersuchung und spezialisierte Behandlung, bei Instabilität notfallmäßig."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Vitalgefährdung, Kreislauf, Elektrolyte, Herzrhythmus und Suizidalität beachten; zeitnahe somatische Untersuchung und spezialisierte Behandlung, bei Instabilität notfallmäßig."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Vitalgefährdung, Kreislauf, Elektrolyte, Herzrhythmus und Suizidalität beachten; zeitnahe somatische Untersuchung und spezialisierte Behandlung, bei Instabilität notfallmäßig."
+   }
+  ]
+ },
+ {
+  "id": "ev09",
+  "title": "Fall 55: Eine 26-Jährige erlebt intensive Beziehungskonflikte, Selbst",
+  "vignette": "Eine 26-Jährige erlebt intensive Beziehungskonflikte, Selbstverletzungen und schnelle Stimmungsschwankungen.",
+  "questions": [
+   {
+    "q": "Was grenzt emotional-instabile Persönlichkeitsstörung von bipolarer Störung ab?",
+    "a": "Längerfristiges Beziehungsmuster und reaktive Affektwechsel gegenüber klaren mehrtägigen Episoden mit Schlaf- und Aktivitätsveränderung prüfen; Komorbidität möglich. Selbstgefährdung erfassen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Längerfristiges Beziehungsmuster und reaktive Affektwechsel gegenüber klaren mehrtägigen Episoden mit Schlaf- und Aktivitätsveränderung prüfen; Komorbidität möglich. Selbstgefährdung erfassen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Längerfristiges Beziehungsmuster und reaktive Affektwechsel gegenüber klaren mehrtägigen Episoden mit Schlaf- und Aktivitätsveränderung prüfen; Komorbidität möglich. Selbstgefährdung erfassen."
+   }
+  ]
+ },
+ {
+  "id": "ev10",
+  "title": "Fall 56: Ein 14-Jähriger ist im Unterricht unkonzentriert und vermeid",
+  "vignette": "Ein 14-Jähriger ist im Unterricht unkonzentriert und vermeidet Referate.",
+  "questions": [
+   {
+    "q": "Welche Informationen benötigen Sie?",
+    "a": "Beginn in Kindheit, Symptome in mehreren Lebensbereichen, Entwicklungsverlauf, Leistungsdruck, Angst, Schlaf und Lernstörungen erheben; Fremdanamnese mit Einwilligung."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Beginn in Kindheit, Symptome in mehreren Lebensbereichen, Entwicklungsverlauf, Leistungsdruck, Angst, Schlaf und Lernstörungen erheben; Fremdanamnese mit Einwilligung."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Beginn in Kindheit, Symptome in mehreren Lebensbereichen, Entwicklungsverlauf, Leistungsdruck, Angst, Schlaf und Lernstörungen erheben; Fremdanamnese mit Einwilligung."
+   }
+  ]
+ },
+ {
+  "id": "ev11",
+  "title": "Fall 57: Eine 24-Jährige meidet Gruppen und versteht Ironie oft wörtl",
+  "vignette": "Eine 24-Jährige meidet Gruppen und versteht Ironie oft wörtlich.",
+  "questions": [
+   {
+    "q": "Welche Entwicklungsaspekte helfen?",
+    "a": "Seit früher Entwicklung bestehende Besonderheiten sozialer Kommunikation, Interessen und sensorischer Verarbeitung gegenüber primär angstbedingter Vermeidung differenzieren."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Seit früher Entwicklung bestehende Besonderheiten sozialer Kommunikation, Interessen und sensorischer Verarbeitung gegenüber primär angstbedingter Vermeidung differenzieren."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Seit früher Entwicklung bestehende Besonderheiten sozialer Kommunikation, Interessen und sensorischer Verarbeitung gegenüber primär angstbedingter Vermeidung differenzieren."
+   }
+  ]
+ },
+ {
+  "id": "ev12",
+  "title": "Fall 58: Ein Patient sagt: „Ich möchte morgen nicht mehr aufwachen",
+  "vignette": "Ein Patient sagt: „Ich möchte morgen nicht mehr aufwachen.“",
+  "questions": [
+   {
+    "q": "Wie fragen Sie konkret nach?",
+    "a": "Direkt nach Todeswunsch, Gedanken, Plan, Mitteln, Absicht, früheren Versuchen und Schutzfaktoren fragen; bei akuter Gefahr nicht allein lassen, Notruf 112 bzw. psychiatrische Krisenhilfe."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Direkt nach Todeswunsch, Gedanken, Plan, Mitteln, Absicht, früheren Versuchen und Schutzfaktoren fragen; bei akuter Gefahr nicht allein lassen, Notruf 112 bzw. psychiatrische Krisenhilfe."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Direkt nach Todeswunsch, Gedanken, Plan, Mitteln, Absicht, früheren Versuchen und Schutzfaktoren fragen; bei akuter Gefahr nicht allein lassen, Notruf 112 bzw. psychiatrische Krisenhilfe."
+   }
+  ]
+ },
+ {
+  "id": "ev13",
+  "title": "Fall 59: Ein 48-Jähriger hat nach abruptem Alkoholstopp Tremor, Schwi",
+  "vignette": "Ein 48-Jähriger hat nach abruptem Alkoholstopp Tremor, Schwitzen und optische Halluzinationen.",
+  "questions": [
+   {
+    "q": "Was ist zu tun?",
+    "a": "Verdacht auf komplizierten Entzug beziehungsweise Entzugsdelir: sofortige medizinische Notfallbehandlung, keine ambulante alleinige Psychotherapie."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Verdacht auf komplizierten Entzug beziehungsweise Entzugsdelir: sofortige medizinische Notfallbehandlung, keine ambulante alleinige Psychotherapie."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Verdacht auf komplizierten Entzug beziehungsweise Entzugsdelir: sofortige medizinische Notfallbehandlung, keine ambulante alleinige Psychotherapie."
+   }
+  ]
+ },
+ {
+  "id": "ev14",
+  "title": "Fall 60: Eine Patientin hat wiederkehrende Episoden von Nichtansprech",
+  "vignette": "Eine Patientin hat wiederkehrende Episoden von Nichtansprechbarkeit.",
+  "questions": [
+   {
+    "q": "Welche Abklärung ist nötig?",
+    "a": "Epileptische, kardiovaskuläre, metabolische und substanzbedingte Ursachen ärztlich abklären; dissoziative Diagnose nicht ohne somatische Differenzialdiagnostik stellen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Epileptische, kardiovaskuläre, metabolische und substanzbedingte Ursachen ärztlich abklären; dissoziative Diagnose nicht ohne somatische Differenzialdiagnostik stellen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Epileptische, kardiovaskuläre, metabolische und substanzbedingte Ursachen ärztlich abklären; dissoziative Diagnose nicht ohne somatische Differenzialdiagnostik stellen."
+   }
+  ]
+ },
+ {
+  "id": "ev15",
+  "title": "Fall 61: Ein 41-Jähriger berichtet seit Jahren wechselnde Schmerzen u",
+  "vignette": "Ein 41-Jähriger berichtet seit Jahren wechselnde Schmerzen und viele Untersuchungen.",
+  "questions": [
+   {
+    "q": "Wie vermeiden Sie Fehldiagnosen?",
+    "a": "Beschwerden ernst nehmen, vorhandene Befunde und neue Warnzeichen prüfen, somatische und psychische Faktoren gemeinsam berücksichtigen; keine vorschnelle Psychologisierung."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Beschwerden ernst nehmen, vorhandene Befunde und neue Warnzeichen prüfen, somatische und psychische Faktoren gemeinsam berücksichtigen; keine vorschnelle Psychologisierung."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Beschwerden ernst nehmen, vorhandene Befunde und neue Warnzeichen prüfen, somatische und psychische Faktoren gemeinsam berücksichtigen; keine vorschnelle Psychologisierung."
+   }
+  ]
+ },
+ {
+  "id": "ev16",
+  "title": "Fall 62: Eine Mutter ist wenige Tage nach der Geburt kaum schlafend, ",
+  "vignette": "Eine Mutter ist wenige Tage nach der Geburt kaum schlafend, verwirrt und hört Stimmen.",
+  "questions": [
+   {
+    "q": "Wie handeln Sie?",
+    "a": "Psychiatrischer Notfall: unverzüglich ärztliche/psychiatrische Notfallversorgung und Sicherheit von Mutter und Kind gewährleisten."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Psychiatrischer Notfall: unverzüglich ärztliche/psychiatrische Notfallversorgung und Sicherheit von Mutter und Kind gewährleisten."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Psychiatrischer Notfall: unverzüglich ärztliche/psychiatrische Notfallversorgung und Sicherheit von Mutter und Kind gewährleisten."
+   }
+  ]
+ },
+ {
+  "id": "ev17",
+  "title": "Fall 63: Eine 75-Jährige klagt über Gedächtnisverlust und Hoffnungslo",
+  "vignette": "Eine 75-Jährige klagt über Gedächtnisverlust und Hoffnungslosigkeit.",
+  "questions": [
+   {
+    "q": "Wie differenzieren Sie?",
+    "a": "Zeitverlauf, affektive Symptome, kognitive Testung und Alltagsfunktion prüfen; Depression kann kognitive Defizite verursachen oder mit Demenz koexistieren; somatische Abklärung."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Zeitverlauf, affektive Symptome, kognitive Testung und Alltagsfunktion prüfen; Depression kann kognitive Defizite verursachen oder mit Demenz koexistieren; somatische Abklärung."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Zeitverlauf, affektive Symptome, kognitive Testung und Alltagsfunktion prüfen; Depression kann kognitive Defizite verursachen oder mit Demenz koexistieren; somatische Abklärung."
+   }
+  ]
+ },
+ {
+  "id": "ev18",
+  "title": "Fall 64: Ein 33-Jähriger zieht sich zurück und vernachlässigt Hygiene",
+  "vignette": "Ein 33-Jähriger zieht sich zurück und vernachlässigt Hygiene nach einer psychotischen Episode.",
+  "questions": [
+   {
+    "q": "Welche Differenzialdiagnosen kommen infrage?",
+    "a": "Negativsymptome, Depression, Sedierung durch Medikamente, Substanzkonsum und soziale Folgen abgrenzen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Negativsymptome, Depression, Sedierung durch Medikamente, Substanzkonsum und soziale Folgen abgrenzen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Negativsymptome, Depression, Sedierung durch Medikamente, Substanzkonsum und soziale Folgen abgrenzen."
+   }
+  ]
+ },
+ {
+  "id": "ev19",
+  "title": "Fall 65: Eine 32-Jährige berichtet über Essanfälle mit Kontrollverlus",
+  "vignette": "Eine 32-Jährige berichtet über Essanfälle mit Kontrollverlust.",
+  "questions": [
+   {
+    "q": "Welche Zusatzfrage ist entscheidend?",
+    "a": "Nach regelmäßigen kompensatorischen Maßnahmen wie Erbrechen, Fasten oder exzessivem Sport fragen; bei Bulimie vorhanden, bei Binge-Eating-Störung nicht regelhaft."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Nach regelmäßigen kompensatorischen Maßnahmen wie Erbrechen, Fasten oder exzessivem Sport fragen; bei Bulimie vorhanden, bei Binge-Eating-Störung nicht regelhaft."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Nach regelmäßigen kompensatorischen Maßnahmen wie Erbrechen, Fasten oder exzessivem Sport fragen; bei Bulimie vorhanden, bei Binge-Eating-Störung nicht regelhaft."
+   }
+  ]
+ },
+ {
+  "id": "ev20",
+  "title": "Fall 66: Ein 10-jähriges Kind berichtet über Gewalt zu Hause",
+  "vignette": "Ein 10-jähriges Kind berichtet über Gewalt zu Hause.",
+  "questions": [
+   {
+    "q": "Wie reagieren Sie?",
+    "a": "Ruhig zuhören, keine Suggestivfragen, Sicherheit und Schutzbedarf klären, fachliche Beratung und zuständige Kinderschutzstrukturen einbeziehen; Vertraulichkeit nicht pauschal versprechen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Wichtigste Differenzialdiagnose?",
+    "a": "Ruhig zuhören, keine Suggestivfragen, Sicherheit und Schutzbedarf klären, fachliche Beratung und zuständige Kinderschutzstrukturen einbeziehen; Vertraulichkeit nicht pauschal versprechen."
+   },
+   {
+    "q": "Prüfer-Nachfrage: Nächster sicherer Schritt?",
+    "a": "Ruhig zuhören, keine Suggestivfragen, Sicherheit und Schutzbedarf klären, fachliche Beratung und zuständige Kinderschutzstrukturen einbeziehen; Vertraulichkeit nicht pauschal versprechen."
+   }
+  ]
+ },
+ {
+  "id": "ev99",
+  "title": "Fall 67: Unangemeldet mit Stimmenhören",
+  "vignette": "Eine Person mit neu aufgetretenem Stimmenhören, Schlafmangel und starker Unruhe kommt ohne Termin in Ihre Praxis.",
+  "questions": [
+   {
+    "q": "Wie strukturieren Sie die ersten fünf Minuten?",
+    "a": "Akute Gefahr und Orientierung prüfen, ruhig und wertfrei kommunizieren, somatische und substanzbedingte Ursachen bedenken, nicht über Stimmeninhalte streiten; dringende psychiatrische Abklärung organisieren. Regionale Abläufe und PsychKG-Regelungen des jeweiligen Bundeslandes gesondert prüfen."
+   }
+  ]
  }
 ]
