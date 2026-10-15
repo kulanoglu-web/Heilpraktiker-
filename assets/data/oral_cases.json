@@ -461,5 +461,328 @@
     "a": "Art und Ausstrahlung des Schmerzes, Atemnot, Schwitzen, Alter und Risikofaktoren (Rauchen, Bluthochdruck, Herzerkrankung), Dauer des Schmerzes, Unterschied zu früheren Attacken: bei Warnzeichen Notruf 112."
    }
   ]
+ },
+ {
+  "id": "oc01",
+  "title": "Fall 30: Frau L., 27: Selbstverletzung",
+  "vignette": "Die 27-jährige Frau L. kommt in die Praxis, weil sie sich nach einem Streit mit ihrem Partner die Unterarme aufgeritzt hat. Sie sagt, sie fühle sich innerlich leer, habe Angst, verlassen zu werden, und die Stimmung wechsle mehrmals am Tag. Seit der Jugend hat sie instabile Beziehungen.",
+  "questions": [
+   {
+    "q": "Welche Verdachtsdiagnose stellen Sie und welche Differenzialdiagnosen nennen Sie?",
+    "a": "Verdacht auf emotional instabile Persönlichkeitsstörung vom Borderline-Typ (F60.31): Impulsivität, instabile Beziehungen, Leeregefühl, Verlassenheitsangst, Selbstverletzung. Differenzialdiagnosen: bipolare Störung (Episoden statt situationsabhängiger Schwankungen), PTBS, ADHS, Depression, Substanzgebrauch."
+   },
+   {
+    "q": "Wie schätzen Sie die Gefahr ein?",
+    "a": "Selbstverletzung ist nicht gleich Suizidabsicht, aber das Suizidrisiko ist erhöht. Direkt nach Suizidgedanken, Plänen, Mitteln und früheren Versuchen fragen. Bei akuter Suizidalität nicht allein lassen und Notfallhilfe organisieren. Wunden müssen ärztlich versorgt werden."
+   },
+   {
+    "q": "Wie gestalten Sie die therapeutische Beziehung?",
+    "a": "Klare Struktur, verlässliche Absprachen und Grenzen, wertschätzende, validierende Haltung, keine Beschuldigung. Entwicklung von Fertigkeiten zur Spannungsregulation (z. B. DBT-Elemente). Bei fortbestehender Gefährdung Zusammenarbeit mit Arzt, Psychiater oder Klinik."
+   }
+  ]
+ },
+ {
+  "id": "oc02",
+  "title": "Fall 31: Herr B.: Nach dem Verkehrsunfall",
+  "vignette": "Herr B., 38, hatte vor drei Monaten einen schweren Verkehrsunfall, bei dem eine Mitfahrerin starb. Seitdem hat er Albträume, erlebt den Unfall in Bildern erneut, meidet Autofahrten, ist schreckhaft und schläft kaum. Er trinkt abends mehr Alkohol.",
+  "questions": [
+   {
+    "q": "Welche Diagnose ist am wahrscheinlichsten und warum?",
+    "a": "Posttraumatische Belastungsstörung (F43.1): außergewöhnlich bedrohliches Ereignis, Wiedererleben (Intrusionen, Albträume), Vermeidung und Übererregung (Schreckhaftigkeit, Schlafstörung). Beginn meist innerhalb von sechs Monaten."
+   },
+   {
+    "q": "Welche Differenzialdiagnosen und Komorbiditäten bedenken Sie?",
+    "a": "Differenzialdiagnosen: Anpassungsstörung, akute Belastungsreaktion (Dauer meist Tage), Depression, Panikstörung, organische Ursachen nach Kopfverletzung. Komorbiditäten: Depression, Substanzmissbrauch (hier Alkohol), Angststörung, dissoziative Symptome, Suizidalität."
+   },
+   {
+    "q": "Was beachten Sie zu Beginn der Behandlung?",
+    "a": "Sicherheit und Stabilisierung vor Traumabearbeitung, Psychoedukation, Suizidalität und Alkoholkonsum erfassen, ärztliche Abklärung (Verletzungsfolgen, Schlaf). Keine Traumakonfrontation bei unzureichender Stabilität."
+   }
+  ]
+ },
+ {
+  "id": "oc03",
+  "title": "Fall 32: Frau K.: Waschzwang",
+  "vignette": "Frau K., 31, wäscht sich täglich mehrere Stunden die Hände, aus Angst, sich oder ihre Kinder anzustecken. Sie weiß, dass das übertrieben ist, kann aber nicht aufhören. Die Haut ist wund, sie ist erschöpft und zieht sich zurück.",
+  "questions": [
+   {
+    "q": "Welche Diagnose stellen Sie und wie erkennen Sie die Zwangsstörung?",
+    "a": "Zwangsstörung (F42) mit Zwangsgedanken (Kontaminationsangst) und Zwangshandlungen (Waschen). Typisch: Gedanken werden als eigene, aber sinnlos und übertrieben erlebt, es besteht Widerstand, die Handlung senkt kurzfristig die Anspannung."
+   },
+   {
+    "q": "Welche Differenzialdiagnosen nennen Sie?",
+    "a": "Anankastische Persönlichkeitsstörung (Perfektionismus ich-synton), Wahnstörung (keine Einsicht), Depression, Phobie, Schizophrenie, organische Ursachen, Tic-Störung."
+   },
+   {
+    "q": "Welches Therapieverfahren ist Mittel der Wahl?",
+    "a": "Kognitive Verhaltenstherapie mit Exposition und Reaktionsverhinderung. Bei schwerer Ausprägung ärztliche Mitbehandlung (SSRI). Die Hautschäden sind ärztlich zu behandeln."
+   }
+  ]
+ },
+ {
+  "id": "oc04",
+  "title": "Fall 33: Herr D.: Psychose nach Cannabis",
+  "vignette": "Der 21-jährige Herr D. konsumiert seit Jahren regelmäßig Cannabis. Seit zwei Wochen hört er Stimmen, glaubt sich überwacht und schläft kaum. Er sagt, das komme vom Gras. Er ist misstrauisch und gereizt.",
+  "questions": [
+   {
+    "q": "Welche Diagnosen kommen infrage und wie unterscheiden Sie?",
+    "a": "Substanzinduzierte psychotische Störung (F12.5) versus Schizophrenie oder andere primäre Psychose. Zeitlicher Bezug zum Konsum, Verlauf unter Abstinenz und frühere Episoden sind entscheidend. Besteht die Psychose nach mehreren Wochen Abstinenz fort, spricht das für eine primäre Störung."
+   },
+   {
+    "q": "Wie gehen Sie als Heilpraktiker für Psychotherapie vor?",
+    "a": "Eigen- und Fremdgefährdung einschätzen, Substanzkonsum erfassen, zügig fachärztliche Abklärung (Psychiater) organisieren, da eine Erstpsychose vorliegt. Nicht über Wahninhalte diskutieren, ruhig und klar bleiben."
+   },
+   {
+    "q": "Welche Rolle spielt der Cannabiskonsum langfristig?",
+    "a": "Regelmäßiger Konsum erhöht das Risiko psychotischer Störungen, besonders bei Vulnerabilität. Daher Abstinenz und Suchtberatung. Der Zusammenhang wird in der Psychoedukation besprochen."
+   }
+  ]
+ },
+ {
+  "id": "oc05",
+  "title": "Fall 34: Erstgespräch in der Praxis",
+  "vignette": "Der Prüfer fragt: Eine neue Patientin kommt zum Erstgespräch. Sie beschreibt sich als „am Ende“ und sagt kaum mehr.",
+  "questions": [
+   {
+    "q": "Wie strukturieren Sie das Erstgespräch?",
+    "a": "Rahmen klären (Dauer, Vertraulichkeit, Kosten, Aufklärung), offene Fragen zum Anliegen, aktuelle Beschwerden, Beginn und Verlauf, Auslöser, Vorerkrankungen, Medikamente, Substanzen, Familienanamnese, Biografie, Ressourcen. Psychopathologischer Befund und Risikoeinschätzung."
+   },
+   {
+    "q": "Was gehört immer zur Risikoeinschätzung?",
+    "a": "Suizidalität (Gedanken, Absicht, Plan, Mittel, Vorbereitungen, frühere Versuche, Schutzfaktoren), Fremdgefährdung, Psychose, Substanzkonsum, soziale Situation. Bei akuter Gefahr hat die Sicherheit Vorrang."
+   },
+   {
+    "q": "Was klären Sie zur Behandlungsgrundlage?",
+    "a": "Behandlungsvertrag, Aufklärung (Informed Consent), wirtschaftliche Information in Textform, Datenschutz, Dokumentation, Kooperation mit Arzt (organische Abklärung) und Grenzen der sektoralen Erlaubnis."
+   }
+  ]
+ },
+ {
+  "id": "oc06",
+  "title": "Fall 35: Anruf der Eltern eines 25-Jährigen",
+  "vignette": "Die Eltern Ihres volljährigen Patienten rufen an und fragen, was ihr Sohn hat und ob er „gefährlich“ sei. Sie machen sich große Sorgen.",
+  "questions": [
+   {
+    "q": "Dürfen Sie Auskunft geben?",
+    "a": "Nicht ohne Einwilligung des Patienten. Die Verschwiegenheit gilt auch gegenüber Angehörigen. Sie dürfen ohne Zustimmung weder bestätigen, dass der Sohn Patient ist, noch Inhalte nennen."
+   },
+   {
+    "q": "Gibt es Ausnahmen?",
+    "a": "Ja: Einwilligung des Patienten, gesetzliche Pflichten und der rechtfertigende Notstand (§ 34 StGB) bei konkreter, akuter, nicht anders abwendbarer Gefahr für Leib und Leben. Zudem Anzeigepflicht bei geplanten schweren Straftaten (§ 138 StGB)."
+   },
+   {
+    "q": "Wie reagieren Sie im Gespräch?",
+    "a": "Verständnis zeigen, ohne Inhalte zu nennen. Die Eltern können Informationen mitteilen, die Sie anhören dürfen. Dem Sohn anbieten, sie ins Gespräch einzubeziehen, und eine Schweigepflichtentbindung besprechen."
+   }
+  ]
+ },
+ {
+  "id": "oc07",
+  "title": "Fall 36: Patient will Antidepressiva absetzen",
+  "vignette": "Ein Patient berichtet, er nehme seit sechs Monaten ein Antidepressivum und wolle es nun „von heute auf morgen“ absetzen, da es ihm besser gehe und er Nebenwirkungen habe.",
+  "questions": [
+   {
+    "q": "Wie reagieren Sie?",
+    "a": "Ich rate dringend von eigenmächtigem abruptem Absetzen ab und verweise auf die verordnende Ärztin bzw. den verordnenden Arzt. Abruptes Absetzen kann zu Absetzsyndrom (Schwindel, Übelkeit, Schlafstörungen) und Rückfall führen. Medikamentenentscheidungen gehören in ärztliche Hand."
+   },
+   {
+    "q": "Darf ein Heilpraktiker für Psychotherapie die Medikation ändern?",
+    "a": "Nein. Verordnung und Änderung verschreibungspflichtiger Arzneimittel sind Ärzten vorbehalten. Ich kann Nebenwirkungen und Beschwerden ernst nehmen, dokumentieren und die Rücksprache mit dem Arzt fördern."
+   },
+   {
+    "q": "Was ist zur Rückfallprophylaxe zu bedenken?",
+    "a": "Nach einer depressiven Episode wird die Medikation meist mindestens sechs Monate über die Remission hinaus fortgeführt, bei Rezidiven länger. Psychotherapie, Früherkennung von Frühwarnzeichen und Absprache mit dem Arzt unterstützen die Stabilität."
+   }
+  ]
+ },
+ {
+  "id": "oc08",
+  "title": "Fall 37: Verdacht auf Kindeswohlgefährdung",
+  "vignette": "Eine Mutter berichtet in Ihrer Praxis, ihr 6-jähriger Sohn habe blaue Flecken und sei still geworden. Sie sagt, der neue Lebensgefährte sei „manchmal streng“. Sie wirkt verängstigt.",
+  "questions": [
+   {
+    "q": "Welche Schritte gehen Sie?",
+    "a": "Sachverhalt sorgfältig erfragen, Gefährdung einschätzen, Schutzbedarf prüfen. Die Mutter ermutigen, Hilfe zu suchen (Kinderarzt, Jugendamt, Beratungsstelle). Dokumentation. Bei akuter Gefahr Notruf bzw. Polizei."
+   },
+   {
+    "q": "Dürfen Sie das Jugendamt informieren?",
+    "a": "Bei konkreter Gefährdung ist eine Offenbarung über den rechtfertigenden Notstand (§ 34 StGB) möglich, soweit sie erforderlich ist. Das Bundeskinderschutzgesetz sieht für Berufsgeheimnisträger ein Vorgehen mit Beratungsanspruch und Befugnis zur Information des Jugendamts vor. Zuerst wird möglichst auf Einwilligung und Hilfe hingewirkt."
+   },
+   {
+    "q": "Worauf achten Sie im Gespräch mit der Mutter?",
+    "a": "Nicht vorschnell beschuldigen, Schutz des Kindes hat Vorrang, Ressourcen und Hilfen aufzeigen, eigene Rolle und Kompetenzgrenzen klären (kinderärztliche Untersuchung)."
+   }
+  ]
+ },
+ {
+  "id": "oc09",
+  "title": "Fall 38: Herr W., 74: Vergesslichkeit",
+  "vignette": "Die Ehefrau von Herrn W. berichtet, ihr Mann werde seit einem Jahr zunehmend vergesslich, finde sich in der Nachbarschaft nicht mehr zurecht und verwechsle Dinge. Er selbst sagt, das sei „nichts Schlimmes“.",
+  "questions": [
+   {
+    "q": "Welche Verdachtsdiagnose haben Sie und wie grenzen Sie ab?",
+    "a": "Verdacht auf demenzielles Syndrom, z. B. Alzheimer-Demenz (schleichend, Gedächtnis, Orientierung). Differenzialdiagnosen: depressive Pseudodemenz, Delir, vaskuläre Demenz, Hypothyreose, Vitamin-B12-Mangel, Medikamente, Normaldruckhydrozephalus."
+   },
+   {
+    "q": "Wie gehen Sie vor?",
+    "a": "Ärztliche Abklärung (Labor, Bildgebung, kognitive Tests) veranlassen, Anamnese mit Angehörigen, Alltagsfunktion, Sturz- und Gefährdungsrisiken, Betreuungsbedarf. Heilpraktiker für Psychotherapie dürfen eine Demenz nicht medizinisch behandeln."
+   },
+   {
+    "q": "Welche rechtlichen Fragen können hier auftreten?",
+    "a": "Geschäfts- und Einwilligungsfähigkeit, Vorsorgevollmacht, Patientenverfügung, rechtliche Betreuung durch das Betreuungsgericht, Fahreignung. Aufklärung und Einwilligung sind an die Einwilligungsfähigkeit gebunden."
+   }
+  ]
+ },
+ {
+  "id": "oc10",
+  "title": "Fall 39: Panikstörung mit Agoraphobie",
+  "vignette": "Eine 29-jährige Frau berichtet von wiederholten Anfällen mit Herzrasen, Atemnot und Todesangst. Seit einigen Monaten meidet sie Bus, Supermarkt und Menschenmengen aus Angst vor einer erneuten Attacke.",
+  "questions": [
+   {
+    "q": "Welche Diagnose stellen Sie?",
+    "a": "Panikstörung (F41.0) mit Agoraphobie (F40.01). Kernmerkmale: unerwartete Panikattacken, Erwartungsangst, Vermeidung von Situationen, in denen Flucht oder Hilfe schwierig wäre."
+   },
+   {
+    "q": "Welche körperlichen Ursachen schließen Sie ärztlich aus?",
+    "a": "Herzrhythmusstörungen, Lungenerkrankungen, Hyperthyreose, Hypoglykämie und Substanzeffekte (Koffein, Stimulanzien). Die Abklärung ist ärztliche Aufgabe."
+   },
+   {
+    "q": "Welche Therapie ist wirksam?",
+    "a": "Kognitive Verhaltenstherapie: Psychoedukation, Interozeptive und situative Exposition mit Reaktionsverhinderung, Abbau von Sicherheitsverhalten, kognitive Umstrukturierung. Bei Bedarf ärztliche Mitbehandlung (SSRI). Benzodiazepine sind wegen Abhängigkeit nicht Mittel der Wahl."
+   }
+  ]
+ },
+ {
+  "id": "oc11",
+  "title": "Fall 40: Herr S., 35: ADHS im Erwachsenenalter",
+  "vignette": "Herr S., 35, hat ständig Probleme am Arbeitsplatz: Termine vergessen, unterbricht andere, ist innerlich unruhig. Seit der Schulzeit hatte er Konzentrationsprobleme. Er fragt, ob er ADHS habe.",
+  "questions": [
+   {
+    "q": "Was ist für die Diagnose entscheidend?",
+    "a": "Symptome von Unaufmerksamkeit und/oder Hyperaktivität-Impulsivität mit Beginn in der Kindheit (vor dem 7. Lebensjahr nach ICD-10), situationsübergreifend und mit Beeinträchtigung in mehreren Lebensbereichen."
+   },
+   {
+    "q": "Welche Differenzialdiagnosen und Komorbiditäten nennen Sie?",
+    "a": "Differenzialdiagnosen: Angststörung, Depression, bipolare Störung, Schlafmangel, Hyperthyreose, Substanzgebrauch, Trauma. Komorbiditäten: Lernstörungen, Depression, Angst, Suchtstörungen, Persönlichkeitsstörungen."
+   },
+   {
+    "q": "Wer darf Methylphenidat verordnen?",
+    "a": "Nur Ärzte. Der Wirkstoff unterliegt dem Betäubungsmittelgesetz. Der Heilpraktiker für Psychotherapie kann Psychoedukation und Verhaltenstherapie anbieten und an Fachärzte überweisen."
+   }
+  ]
+ },
+ {
+  "id": "oc12",
+  "title": "Fall 41: Frau R.: Autismus-Spektrum im Erwachsenenalter",
+  "vignette": "Frau R., 30, wirkt im Gespräch sachlich und wenig mimisch, meidet Blickkontakt, hat feste Routinen und stark ausgeprägte Spezialinteressen. Veränderungen überfordern sie. Sie kommt wegen Erschöpfung und Angst.",
+  "questions": [
+   {
+    "q": "Welche Diagnose ziehen Sie in Betracht?",
+    "a": "Autismus-Spektrum-Störung: anhaltende Besonderheiten in sozialer Kommunikation und Interaktion sowie eingeschränkte, repetitive Verhaltensmuster seit der frühen Entwicklung."
+   },
+   {
+    "q": "Welche Differenzialdiagnosen und Komorbiditäten nennen Sie?",
+    "a": "Differenzialdiagnosen: soziale Angststörung, schizoide Persönlichkeitsstörung, ADHS, Sprachentwicklungsstörung. Komorbiditäten: Angststörung, Depression, ADHS, Schlafstörungen."
+   },
+   {
+    "q": "Wie gestalten Sie die Gespräche?",
+    "a": "Klare, wörtliche Sprache, feste Struktur und Routinen, vorhersehbare Abläufe, Rücksicht auf Reizüberflutung, wertschätzend. Therapieziele auf Alltagsbewältigung und Stressreduktion."
+   }
+  ]
+ },
+ {
+  "id": "oc13",
+  "title": "Fall 42: Bulimie bei einer 22-jährigen Studentin",
+  "vignette": "Eine 22-jährige Studentin berichtet von Essanfällen mit anschließendem Erbrechen. Ihr Gewicht ist normal. Sie hat Zahnschäden, Muskelkrämpfe und manchmal Herzstolpern.",
+  "questions": [
+   {
+    "q": "Welche Diagnose und welche Differenzialdiagnosen nennen Sie?",
+    "a": "Bulimia nervosa (F50.2): Essanfälle, gegensteuernde Maßnahmen (Erbrechen), starke Beschäftigung mit Figur und Gewicht, meist Normalgewicht. Differenzialdiagnosen: Anorexie (Untergewicht), Binge-Eating-Störung (ohne Gegenregulation), somatische Ursachen von Erbrechen."
+   },
+   {
+    "q": "Welche körperlichen Risiken bestehen und wie reagieren Sie?",
+    "a": "Elektrolytstörungen (v. a. Kalium) mit Herzrhythmusstörungen, Zahnschäden, Speiseröhren- und Magenschäden. Die Muskelkrämpfe und das Herzstolpern erfordern zeitnahe ärztliche Abklärung (Elektrolyte, EKG)."
+   },
+   {
+    "q": "Welche Komorbiditäten sind häufig?",
+    "a": "Depression, Angststörungen, Zwangsstörung, Substanzmissbrauch, Persönlichkeitsstörungen. Das Suizidrisiko ist erhöht."
+   }
+  ]
+ },
+ {
+  "id": "oc14",
+  "title": "Fall 43: Student mit Angst vor dem Referat",
+  "vignette": "Ein 23-jähriger Student meidet Referate und Gruppenarbeiten, weil er fürchtet, sich zu blamieren. Er schwitzt, errötet und hat Herzklopfen, wenn er im Mittelpunkt steht. Er wünscht sich Freunde, traut sich aber nicht.",
+  "questions": [
+   {
+    "q": "Welche Diagnose stellen Sie?",
+    "a": "Soziale Phobie (F40.1): Angst vor negativer Bewertung in sozialen Situationen, Vermeidung, körperliche Angstsymptome, Wunsch nach Kontakt."
+   },
+   {
+    "q": "Wie grenzen Sie sie ab?",
+    "a": "Von Agoraphobie (Flucht- und Hilfeaspekte), schizoider Persönlichkeit (kein Kontaktwunsch), Autismus (Defizite im Verständnis sozialer Signale), ängstlich-vermeidender Persönlichkeitsstörung (tiefgreifendes Muster)."
+   },
+   {
+    "q": "Welche Therapie schlagen Sie vor?",
+    "a": "Kognitive Verhaltenstherapie mit Exposition, Aufbau sozialer Kompetenz, kognitive Umstrukturierung, Videofeedback. Alkohol als Bewältigungsstrategie ansprechen."
+   }
+  ]
+ },
+ {
+  "id": "oc15",
+  "title": "Fall 44: Frau T.: Wochenbett",
+  "vignette": "Frau T., 29, sechs Wochen nach der Geburt ihres ersten Kindes, ist bedrückt, weint viel, schläft trotz Müdigkeit nicht, fühlt sich als Mutter wertlos. Sie sagt leise, manchmal denke sie, ihr Kind wäre ohne sie besser dran.",
+  "questions": [
+   {
+    "q": "Welche Diagnose kommt infrage und wovon grenzen Sie sie ab?",
+    "a": "Depression im Wochenbett (postpartale Depression, F53.0 bzw. depressive Episode). Abgrenzung: Babyblues (wenige Tage, mild), postpartale Psychose (Wahn, Halluzinationen, Verwirrtheit; Notfall), Anpassungsstörung, Hypothyreose (Schilddrüsenentzündung nach der Geburt)."
+   },
+   {
+    "q": "Welche Gefahren müssen Sie klären?",
+    "a": "Suizidalität und mögliche Gefährdung des Kindes: direkt und wertfrei nach Gedanken, Plänen und Mitteln fragen. Bei Hinweisen auf akute Gefährdung sofort Notfallhilfe. Auf psychotische Symptome achten."
+   },
+   {
+    "q": "Wie gehen Sie weiter vor?",
+    "a": "Zeitnah ärztliche Abklärung (Schilddrüse, Medikation), Einbindung von Partner, Hebamme, Beratungsstellen, Entlastung im Alltag. Psychotherapie kann ergänzen. Bei schwerer Depression fachärztlich-psychiatrische Behandlung."
+   }
+  ]
+ },
+ {
+  "id": "oc16",
+  "title": "Fall 45: Trauer oder Depression?",
+  "vignette": "Ein 66-jähriger Mann kommt zwei Monate nach dem Tod seiner Frau. Er weint häufig, vermisst sie sehr, schläft schlecht und isst weniger. Er äußert aber auch Zukunftspläne und nimmt Unterstützung durch seine Tochter an.",
+  "questions": [
+   {
+    "q": "Wie unterscheiden Sie Trauer und depressive Episode?",
+    "a": "Trauer ist eine normale Reaktion mit Wellen von Traurigkeit, Sehnsucht und Erinnerungen, bei erhaltener Trostfähigkeit und Selbstwert. Hinweise auf Depression: anhaltende Hoffnungslosigkeit, ausgeprägte Wertlosigkeit und Schuld, psychotische Symptome, ausgeprägter Funktionsverlust, Suizidalität. Eine starre Zeitgrenze gibt es nicht."
+   },
+   {
+    "q": "Welche Diagnose kommt bei schwerem Verlauf infrage?",
+    "a": "Anpassungsstörung (F43.2) mit depressiver Reaktion oder eine depressive Episode. Anhaltende, schwere Trauer mit Funktionsverlust kann als verlängerte Trauerstörung beschrieben werden."
+   },
+   {
+    "q": "Wie gehen Sie therapeutisch vor?",
+    "a": "Begleitung, Psychoedukation zum Trauerprozess, Ressourcen und soziale Unterstützung, Rituale, Suizidalität erfragen. Bei Hinweisen auf depressive Episode strukturierte Depressionsbehandlung und ärztliche Mitbehandlung."
+   }
+  ]
+ },
+ {
+  "id": "oc17",
+  "title": "Fall 46: Herr H.: Motivierende Gesprächsführung",
+  "vignette": "Herr H., 48, trinkt täglich Alkohol. Seine Frau hat ihn zum Termin geschickt. Er sagt: „Ich habe alles im Griff, ich trinke nur zur Entspannung.“",
+  "questions": [
+   {
+    "q": "Welche Haltung nehmen Sie ein?",
+    "a": "Motivierende Gesprächsführung: empathisch, nicht konfrontativ, Ambivalenz erkunden, Autonomie achten, Veränderungsbereitschaft stärken, Widerstand nicht bekämpfen, sondern aufnehmen."
+   },
+   {
+    "q": "Welche Diagnostik und Abklärung ist nötig?",
+    "a": "Menge und Muster des Konsums, Abhängigkeitskriterien (z. B. Craving, Kontrollverlust, Toleranz, Entzug), Folgeschäden, Komorbiditäten (Depression, Angst), Suizidalität. Körperliche Folgen und Entzugsrisiko ärztlich abklären lassen."
+   },
+   {
+    "q": "Welche Behandlungsschritte folgen bei Abhängigkeit?",
+    "a": "Motivation, qualifizierter Entzug (ärztlich), Entwöhnungsbehandlung, Nachsorge und Selbsthilfe. Eine ambulante Entgiftung muss ärztlich begleitet werden."
+   }
+  ]
  }
 ]

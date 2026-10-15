@@ -4416,5 +4416,1127 @@
   ],
   "correct": 0,
   "explanation": "Beim nihilistischen Wahn glaubt der Betroffene, nicht zu existieren, tot zu sein oder dass Organe zerfallen. Er tritt vor allem bei schweren psychotischen Depressionen auf. Beim hypochondrischen Wahn besteht die Überzeugung, an einer bestimmten Krankheit zu leiden, nicht jedoch, tot zu sein."
+ },
+ {
+  "id": "dd01",
+  "topic": "Differenzialdiagnose",
+  "text": "Eine 70-jährige Frau ist seit gestern verwirrt, fiebrig und wechselt stark in der Aufmerksamkeit. Welche Verdachtsdiagnose und welche Maßnahme passen?",
+  "options": [
+   "Delir – sofortige ärztliche Notfallabklärung",
+   "Alzheimer-Demenz – Gedächtnistraining",
+   "Depressive Episode – Beginn einer Gesprächstherapie",
+   "Schizophrenie – Medikamentenverordnung durch den Heilpraktiker"
+  ],
+  "correct": 0,
+  "explanation": "Akuter Beginn, Fieber, schwankende Aufmerksamkeit und Verwirrtheit sprechen für ein Delir, oft durch Infekt oder Medikamente. Es ist ein medizinischer Notfall, der ärztlich abgeklärt werden muss. Eine Demenz verläuft schleichend."
+ },
+ {
+  "id": "dd02",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Befunde sprechen für ein Delir statt für eine Demenz? Wählen Sie zwei Antworten.",
+  "options": [
+   "Akuter Beginn innerhalb von Stunden bis Tagen",
+   "Fluktuierende Bewusstseins- und Aufmerksamkeitslage",
+   "Schleichender Beginn über Jahre",
+   "Durchgehend stabile Wachheit",
+   "Isolierter Verlust des Langzeitgedächtnisses"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Das Delir beginnt akut und schwankt im Tagesverlauf, mit Aufmerksamkeits- und Bewusstseinsstörung. Demenzen beginnen schleichend und haben bei klarem Bewusstsein ein stabileres Bild."
+ },
+ {
+  "id": "dd03",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein 72-jähriger Mann klagt über Gedächtnisprobleme, ist niedergeschlagen, betont seine Ausfälle und antwortet oft mit „Ich weiß nicht“. Woran ist zuerst zu denken?",
+  "options": [
+   "Depressive Pseudodemenz",
+   "Beginnende Alzheimer-Demenz",
+   "Korsakow-Syndrom",
+   "Schizophrenia simplex"
+  ],
+  "correct": 0,
+  "explanation": "Bei der depressiven Pseudodemenz klagen Betroffene über ihre Ausfälle und geben schnell auf, die Stimmung ist gedrückt. Bei der Alzheimer-Demenz werden Ausfälle eher bagatellisiert oder überspielt. Eine ärztliche Abklärung ist trotzdem nötig."
+ },
+ {
+  "id": "dd04",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Aussagen zu Komorbiditäten bei Demenz treffen zu?\n1) Depressive Symptome sind häufig.\n2) Ein Delir kann zusätzlich auftreten.\n3) Eine Demenz schließt eine Depression aus.\n4) Schlafstörungen und Unruhe kommen häufig vor.\n5) Psychotische Symptome kommen nie vor.",
+  "options": [
+   "Nur 1 und 2 sind richtig",
+   "Nur 1, 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Nur 2, 3 und 5 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 1,
+  "explanation": "Bei Demenz sind Depression, Delir, Schlafstörungen, Unruhe und psychotische Symptome häufig. Eine Demenz schließt eine Depression nicht aus, und psychotische Symptome sind möglich (z. B. Wahn, Halluzinationen).",
+  "kind": "combo"
+ },
+ {
+  "id": "dd05",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Mann mit langjährigem Alkoholkonsum zeigt eine schwere Merkfähigkeitsstörung, erfindet Erlebnisse und ist zeitlich desorientiert. Das Bewusstsein ist klar. Welche Diagnose ist am wahrscheinlichsten?",
+  "options": [
+   "Korsakow-Syndrom",
+   "Delirium tremens",
+   "Alkoholhalluzinose",
+   "Alzheimer-Demenz"
+  ],
+  "correct": 0,
+  "explanation": "Merkfähigkeitsstörung, Konfabulationen und Desorientiertheit bei klarem Bewusstsein und Alkoholanamnese sprechen für das Korsakow-Syndrom (amnestisches Syndrom, Thiaminmangel). Beim Delirium tremens besteht dagegen eine Bewusstseinsstörung mit vegetativer Entgleisung."
+ },
+ {
+  "id": "dd06",
+  "topic": "Differenzialdiagnose",
+  "text": "Nach plötzlicher Wesensänderung eines bisher unauffälligen 55-Jährigen (Enthemmung, Distanzlosigkeit) ist was als Erstes zu veranlassen?",
+  "options": [
+   "Ärztliche, auch neurologische Abklärung (z. B. Hirntumor, Demenz)",
+   "Beginn einer tiefenpsychologischen Therapie",
+   "Verordnung eines Antidepressivums",
+   "Abwarten, ob sich die Symptome von selbst legen"
+  ],
+  "correct": 0,
+  "explanation": "Eine plötzliche Persönlichkeitsveränderung im mittleren Alter kann auf Hirntumor, frontotemporale Demenz, Durchblutungsstörung oder Intoxikation hinweisen. Organische Ursachen müssen ärztlich abgeklärt werden, bevor psychotherapeutisch behandelt wird."
+ },
+ {
+  "id": "dd07",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Cannabiskonsument entwickelt Wahn und Halluzinationen. Welcher Befund spricht eher für eine Schizophrenie als für eine substanzinduzierte Psychose?",
+  "options": [
+   "Die Symptome bestehen auch nach längerer Abstinenz fort",
+   "Die Symptome klingen innerhalb weniger Tage bis Wochen nach Konsumende ab",
+   "Der Beginn liegt unmittelbar nach starkem Konsum",
+   "Die Symptome treten nur bei Intoxikation auf"
+  ],
+  "correct": 0,
+  "explanation": "Substanzinduzierte Psychosen klingen meist nach Abstinenz ab. Bestehen die Symptome nach Wochen ohne Konsum fort, ist eine primäre psychotische Störung wahrscheinlicher. Zeitlicher Bezug zum Konsum ist der Schlüssel."
+ },
+ {
+  "id": "dd08",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Störungen treten bei Alkoholabhängigkeit besonders häufig komorbid auf? Wählen Sie zwei Antworten.",
+  "options": [
+   "Depression",
+   "Angststörungen",
+   "Enuresis",
+   "Intelligenzminderung",
+   "Tic-Störung"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Bei Alkoholabhängigkeit sind Depressionen und Angststörungen häufig, dazu Traumafolgen und weitere Substanzstörungen. Das Suizidrisiko ist erhöht."
+ },
+ {
+  "id": "dd09",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Patient berichtet akustische Halluzinationen bei klarem Bewusstsein und voller Orientierung nach langjährigem Alkoholkonsum. Welche Diagnose liegt nahe?",
+  "options": [
+   "Alkoholhalluzinose",
+   "Delirium tremens",
+   "Korsakow-Syndrom",
+   "Hebephrene Schizophrenie"
+  ],
+  "correct": 0,
+  "explanation": "Die Alkoholhalluzinose (psychotische Störung, überwiegend halluzinatorisch) zeigt Stimmen bei klarem Bewusstsein. Beim Delirium tremens bestehen Bewusstseins- und Orientierungsstörungen mit vegetativer Entgleisung."
+ },
+ {
+  "id": "dd10",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Patient will nach jahrelangem hohem Alkoholkonsum sofort allein und ohne ärztliche Hilfe entziehen. Wie reagieren Sie?",
+  "options": [
+   "Auf Risiken (Krampfanfälle, Delir) hinweisen und eine ärztlich begleitete Entgiftung organisieren",
+   "Das Vorhaben unterstützen, da Willenskraft ausreicht",
+   "Ein Benzodiazepin aus Ihrer Praxis geben",
+   "Das Gespräch beenden, da das Thema nicht zuständig ist"
+  ],
+  "correct": 0,
+  "explanation": "Ein abrupter Alkoholentzug kann Krampfanfälle und Delirium tremens auslösen. Die Entgiftung gehört in ärztliche Hand. Der Heilpraktiker für Psychotherapie darf keine Medikamente verordnen oder abgeben."
+ },
+ {
+  "id": "dd11",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Patient zeigt Größenwahn bei stark gehobener Stimmung, Rededrang und Schlafminderung. Der Wahn passt zur Stimmung. Welche Diagnose ist am wahrscheinlichsten?",
+  "options": [
+   "Manische Episode mit psychotischen Symptomen",
+   "Paranoide Schizophrenie",
+   "Anhaltende wahnhafte Störung",
+   "Zyklothymia"
+  ],
+  "correct": 0,
+  "explanation": "Ein stimmungskongruenter Wahn bei ausgeprägter Manie ist eine affektive Störung mit psychotischen Symptomen (F30.2), nicht primär eine Schizophrenie. Treten affektive und schizophrene Symptome gleichzeitig deutlich auf, kommt eine schizoaffektive Störung infrage."
+ },
+ {
+  "id": "dd12",
+  "topic": "Differenzialdiagnose",
+  "text": "Seit zehn Tagen bestehen akut Wahn und Halluzinationen nach starkem Stress. Welche Diagnose ist nach ICD-10 vor einer Schizophrenie zu erwägen?",
+  "options": [
+   "Akute vorübergehende psychotische Störung (F23)",
+   "Anhaltende wahnhafte Störung (F22)",
+   "Dysthymia (F34.1)",
+   "Zyklothymia (F34.0)"
+  ],
+  "correct": 0,
+  "explanation": "Für die Schizophrenie müssen Symptome in der Regel mindestens einen Monat bestehen. Kürzere, akut beginnende psychotische Zustände gehören zur akuten vorübergehenden psychotischen Störung."
+ },
+ {
+  "id": "dd13",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Störungen treten bei Schizophrenie häufig komorbid auf? Wählen Sie zwei Antworten.",
+  "options": [
+   "Substanzgebrauchsstörungen",
+   "Depression",
+   "Enkopresis",
+   "Lesestörung",
+   "Pavor nocturnus"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Bei Schizophrenie sind Substanzgebrauch, depressive Episoden und Angststörungen häufig. Das Suizidrisiko ist erhöht, besonders in der postpsychotischen Phase."
+ },
+ {
+  "id": "dd14",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Patient ist seit Jahren überzeugt, von seinem Nachbarn systematisch verfolgt zu werden. Er arbeitet, hat keine Halluzinationen oder Ich-Störungen. Welche Diagnose passt?",
+  "options": [
+   "Anhaltende wahnhafte Störung",
+   "Paranoide Schizophrenie",
+   "Paranoide Persönlichkeitsstörung",
+   "Schizoide Persönlichkeitsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Ein über Monate bis Jahre bestehender, systematisierter Wahn ohne Halluzinationen oder Ich-Störungen bei erhaltener Funktion spricht für die anhaltende wahnhafte Störung (F22). Bei der paranoiden Persönlichkeit fehlt ein echter Wahn."
+ },
+ {
+  "id": "dd15",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Maßnahme gehört bei Erstmanifestation psychotischer Symptome zur Differenzialdiagnostik?",
+  "options": [
+   "Ärztliche Abklärung organischer und substanzbedingter Ursachen",
+   "Direkter Beginn einer Konfrontationstherapie",
+   "Absetzen aller Medikamente durch den Heilpraktiker",
+   "Warten bis zur nächsten Episode"
+  ],
+  "correct": 0,
+  "explanation": "Bei Erstpsychosen sind Substanzen, Epilepsie, Enzephalitis, Stoffwechsel- und Schilddrüsenerkrankungen auszuschließen. Das ist ärztliche Aufgabe, der Heilpraktiker für Psychotherapie veranlasst sie."
+ },
+ {
+  "id": "dd16",
+  "topic": "Differenzialdiagnose",
+  "text": "Eine Person hat seit fünf Tagen leicht gehobene Stimmung, mehr Energie und weniger Schlaf, arbeitet aber normal weiter. Es gibt keine Psychose. Welche Diagnose passt am ehesten?",
+  "options": [
+   "Hypomanie",
+   "Manie mit psychotischen Symptomen",
+   "Dysthymia",
+   "Schizoaffektive Störung"
+  ],
+  "correct": 0,
+  "explanation": "Hypomanie: leicht gehobene Stimmung und gesteigerte Aktivität ohne ausgeprägte Beeinträchtigung und ohne Psychose, Dauer meist mindestens mehrere Tage. Bei der Manie ist die Funktion deutlich gestört."
+ },
+ {
+  "id": "dd17",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Ursachen kommen differenzialdiagnostisch für eine manisch wirkende Symptomatik infrage? Wählen Sie zwei Antworten.",
+  "options": [
+   "Hyperthyreose",
+   "Stimulanzien (z. B. Amphetamine)",
+   "Hypothyreose",
+   "Demenz bei Alzheimer-Krankheit",
+   "Enuresis"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Stimulanzien und Schilddrüsenüberfunktion können Unruhe, Antriebssteigerung und Schlafminderung auslösen. Eine Hypothyreose verursacht eher depressive Symptome."
+ },
+ {
+  "id": "dd18",
+  "topic": "Differenzialdiagnose",
+  "text": "Drei Wochen nach dem Tod ihres Mannes ist eine Frau traurig, weint oft, sehnt sich nach ihm und schläft schlecht. Sie kann Trost annehmen, und die Stimmung schwankt. Was trifft am ehesten zu?",
+  "options": [
+   "Normale Trauerreaktion",
+   "Schwere depressive Episode",
+   "Dysthymia",
+   "Manie"
+  ],
+  "correct": 0,
+  "explanation": "Trauer ist keine Krankheit. Gedrückte Stimmung mit Weinen, Sehnsucht und Schwankungen bei erhaltener Trostfähigkeit und ohne Wertlosigkeit spricht für Trauer. Hinweise auf Depression sind anhaltende Hoffnungslosigkeit, Schuldwahn, Suizidalität und starker Funktionsverlust."
+ },
+ {
+  "id": "dd19",
+  "topic": "Differenzialdiagnose",
+  "text": "Eine Patientin kommt wegen einer depressiven Episode. Sie berichtet, vor Jahren eine Woche lang stark gehobene Stimmung mit wenig Schlaf gehabt zu haben. Welche Diagnose ist zu erwägen?",
+  "options": [
+   "Bipolare affektive Störung, gegenwärtig depressiv",
+   "Rezidivierende depressive Störung",
+   "Zyklothymia",
+   "Dysthymia"
+  ],
+  "correct": 0,
+  "explanation": "Eine frühere manische oder hypomane Episode macht aus der depressiven Phase eine bipolare Störung (F31.3). Das ist wichtig, weil Antidepressiva allein einen Phasenwechsel auslösen können. Deshalb gehört die Manie-Anamnese zu jeder Depressionsdiagnostik."
+ },
+ {
+  "id": "dd20",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Aussagen zu Depression und Komorbidität sind richtig?\n1) Depression und Angststörung treten häufig gemeinsam auf.\n2) Eine Depression schließt Persönlichkeitsstörungen aus.\n3) Chronische Schmerzen sind häufig mit Depression verbunden.\n4) Suizidalität ist nur bei schwerer Depression möglich.",
+  "options": [
+   "Nur 1 und 3 sind richtig",
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Angst, Schmerz, Substanzkonsum und Persönlichkeitsstörungen können gemeinsam mit einer Depression auftreten. Suizidalität kann bei jedem Schweregrad vorkommen und muss immer erfragt werden.",
+  "kind": "combo"
+ },
+ {
+  "id": "dd21",
+  "topic": "Differenzialdiagnose",
+  "text": "Wodurch unterscheidet sich die emotional instabile Persönlichkeitsstörung von der bipolaren Störung am besten?",
+  "options": [
+   "Überdauerndes Muster von Instabilität seit Jugend versus abgrenzbare affektive Episoden",
+   "Bei der bipolaren Störung gibt es nie depressive Phasen",
+   "Borderline tritt nur im Alter auf",
+   "Bei der Borderline-Störung fehlt jede Impulsivität"
+  ],
+  "correct": 0,
+  "explanation": "Borderline: situationsabhängige, rasch wechselnde Affekte (Stunden) in einem lebenslangen Muster. Bipolar: Episoden über Tage bis Wochen mit klarem Beginn und Ende. Beide können gemeinsam vorkommen."
+ },
+ {
+  "id": "dd22",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Patient mit bekannten Panikattacken klagt erstmals über starken, drückenden Brustschmerz mit Ausstrahlung in den Arm. Wie handeln Sie?",
+  "options": [
+   "Notruf bzw. sofortige ärztliche Abklärung, keine vorschnelle psychische Zuschreibung",
+   "Beruhigendes Gespräch und Atemübungen",
+   "Entspannungsverfahren in der Praxis fortsetzen",
+   "Verweis auf die nächste reguläre Sitzung"
+  ],
+  "correct": 0,
+  "explanation": "Erstmaliger oder veränderter Brustschmerz kann ein Herzinfarkt sein, auch bei Panikstörung. Körperliche Ursachen müssen akut abgeklärt werden. Psychische Erklärungen sind dann nachrangig."
+ },
+ {
+  "id": "dd23",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche körperlichen Ursachen können Panikattacken imitieren oder auslösen? Wählen Sie zwei Antworten.",
+  "options": [
+   "Hyperthyreose",
+   "Herzrhythmusstörungen",
+   "Hypothyreose",
+   "Katarakt",
+   "Myopie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Schilddrüsenüberfunktion, Arrhythmien, Hypoglykämie, Lungenembolie und Substanzwirkungen (Koffein, Stimulanzien) können Herzrasen, Atemnot und Angst auslösen."
+ },
+ {
+  "id": "dd24",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Patient hat sowohl Ängste als auch depressive Symptome, aber keine Störung erfüllt allein die Kriterien. Welche Diagnose ist möglich?",
+  "options": [
+   "Angst und depressive Störung, gemischt (F41.2)",
+   "Generalisierte Angststörung",
+   "Dysthymia",
+   "Schizoaffektive Störung"
+  ],
+  "correct": 0,
+  "explanation": "F41.2 wird vergeben, wenn Angst- und depressive Symptome gleichzeitig vorliegen, ohne dass eine der beiden Störungen für sich überwiegt oder die Kriterien erfüllt."
+ },
+ {
+  "id": "dd25",
+  "topic": "Differenzialdiagnose",
+  "text": "Wodurch unterscheidet sich die soziale Phobie von einer schizoiden Persönlichkeitsstörung?",
+  "options": [
+   "Bei der sozialen Phobie besteht der Wunsch nach Kontakt, aber Angst vor Bewertung",
+   "Bei der schizoiden Persönlichkeit besteht große Angst vor Ablehnung",
+   "Beide sind identisch",
+   "Soziale Phobie tritt nur bei Kindern auf"
+  ],
+  "correct": 0,
+  "explanation": "Bei sozialer Phobie wollen Betroffene Kontakt, vermeiden ihn aber aus Angst vor Blamage. Schizoide Persönlichkeiten haben wenig Interesse an Beziehungen und wirken emotional kühl, ohne dass Angst im Vordergrund steht."
+ },
+ {
+  "id": "dd26",
+  "topic": "Differenzialdiagnose",
+  "text": "Worin unterscheiden sich Zwangsstörung und anankastische Persönlichkeitsstörung am besten?",
+  "options": [
+   "Zwänge werden als ich-dyston, Perfektionismus als ich-synton erlebt",
+   "Zwangsstörung hat keine Gedanken, nur Handlungen",
+   "Anankastische Persönlichkeit hat immer Waschzwänge",
+   "Es gibt keinen Unterschied"
+  ],
+  "correct": 0,
+  "explanation": "Zwangsgedanken und -handlungen werden als eigene, aber sinnlos und quälend erlebt und bekämpft (ich-dyston). Anankastische Persönlichkeitszüge (Perfektionismus, Kontrolle) werden als richtig empfunden (ich-synton)."
+ },
+ {
+  "id": "dd27",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Störungen treten bei Zwangsstörung häufig komorbid auf? Wählen Sie zwei Antworten.",
+  "options": [
+   "Depression",
+   "Tic-Störungen",
+   "Alzheimer-Demenz",
+   "Korsakow-Syndrom",
+   "Delirium tremens"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Zwangsstörungen gehen häufig mit Depression, weiteren Angststörungen und Tics einher. Das Tourette-Syndrom ist besonders oft mit Zwängen verbunden."
+ },
+ {
+  "id": "dd28",
+  "topic": "Differenzialdiagnose",
+  "text": "Wie grenzen Sie eine Anpassungsstörung von einer PTBS ab?",
+  "options": [
+   "Anpassungsstörung folgt einer belastenden Lebensveränderung, PTBS einem außergewöhnlich bedrohlichen Ereignis",
+   "Die PTBS folgt nie einem Trauma",
+   "Die Anpassungsstörung dauert immer mehr als zehn Jahre",
+   "Beide sind identisch"
+  ],
+  "correct": 0,
+  "explanation": "PTBS (F43.1): Reaktion auf ein außergewöhnlich bedrohliches Ereignis mit Wiedererleben, Vermeidung und Übererregung. Anpassungsstörung (F43.2): Reaktion auf Lebensveränderungen wie Trennung, Jobverlust oder Krankheit, meist Beginn innerhalb eines Monats."
+ },
+ {
+  "id": "dd29",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Störungen treten nach einem Trauma häufig zusammen mit einer PTBS auf? Wählen Sie zwei Antworten.",
+  "options": [
+   "Depression",
+   "Substanzmissbrauch",
+   "Enuresis",
+   "Schlafwandeln als einzige Störung",
+   "Intelligenzminderung"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "PTBS tritt häufig gemeinsam mit Depression, Angststörungen, Substanzgebrauch, dissoziativen Symptomen und Somatisierung auf."
+ },
+ {
+  "id": "dd30",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Mann hat nach einem Streit plötzlich einen gelähmten Arm. Neurologisch gibt es keinen Befund. Welche Abgrenzung ist wichtig?",
+  "options": [
+   "Dissoziative Störung (unbewusst) versus Simulation (bewusst, mit Vorteil)",
+   "Dysthymia versus Zyklothymia",
+   "Delir versus Demenz",
+   "Anorexie versus Bulimie"
+  ],
+  "correct": 0,
+  "explanation": "Bei der dissoziativen Bewegungsstörung entstehen die Symptome unbewusst. Bei der Simulation werden sie bewusst vorgetäuscht, bei der artifiziellen Störung bewusst erzeugt, um Patient zu sein."
+ },
+ {
+  "id": "dd31",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Patient hat seit Jahren wechselnde Beschwerden an vielen Organen und fordert immer neue Untersuchungen. Welche Diagnose ist am wahrscheinlichsten?",
+  "options": [
+   "Somatisierungsstörung",
+   "Hypochondrische Störung",
+   "Neurasthenie",
+   "Panikstörung"
+  ],
+  "correct": 0,
+  "explanation": "Multiple, wechselnde körperliche Beschwerden über mindestens zwei Jahre ohne ausreichende organische Erklärung sind typisch für die Somatisierungsstörung (F45.0). Bei der Hypochondrie steht die Angst vor einer bestimmten Krankheit im Mittelpunkt."
+ },
+ {
+  "id": "dd32",
+  "topic": "Differenzialdiagnose",
+  "text": "Wodurch unterscheidet sich die Anorexia nervosa von einem depressionsbedingten Appetitverlust?",
+  "options": [
+   "Angst vor Gewichtszunahme und Körperschemastörung bei der Anorexie",
+   "Bei der Depression besteht immer Übergewicht",
+   "Anorexie führt nie zu Untergewicht",
+   "Depression zeigt immer Heißhungerattacken"
+  ],
+  "correct": 0,
+  "explanation": "Bei der Anorexie wird das Untergewicht aktiv herbeigeführt, getrieben von Angst vor Gewichtszunahme und gestörtem Körperbild. Bei der Depression verschwindet der Appetit, ohne diese Gewichtsangst."
+ },
+ {
+  "id": "dd34",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Störungen treten bei Essstörungen häufig komorbid auf? Wählen Sie zwei Antworten.",
+  "options": [
+   "Depression",
+   "Zwangsstörung oder Angststörung",
+   "Alzheimer-Demenz",
+   "Korsakow-Syndrom",
+   "Delirium tremens"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Essstörungen sind häufig mit Depression, Angst- und Zwangsstörungen, Persönlichkeitsstörungen und Substanzmissbrauch verbunden. Die ärztliche Mitbehandlung ist wegen körperlicher Risiken wichtig."
+ },
+ {
+  "id": "dd35",
+  "topic": "Differenzialdiagnose",
+  "text": "Bei der Diagnostik einer nichtorganischen Insomnie (F51.0) ist vorab auszuschließen:",
+  "options": [
+   "Substanzeinfluss, Schlafapnoe und andere körperliche Ursachen sowie Depression",
+   "Eine Intelligenzminderung",
+   "Eine Lesestörung",
+   "Ein Tic"
+  ],
+  "correct": 0,
+  "explanation": "Schlafstörungen haben oft körperliche oder substanzbedingte Ursachen (Koffein, Alkohol, Medikamente, Schlafapnoe, Schilddrüse) oder sind Symptom einer Depression. Erst danach wird eine nichtorganische Insomnie diagnostiziert."
+ },
+ {
+  "id": "dd36",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Aussagen zur emotional instabilen Persönlichkeitsstörung vom Borderline-Typ sind richtig?\n1) Depression tritt häufig komorbid auf.\n2) Selbstverletzendes Verhalten ist typisch.\n3) Die Störung dauert nur wenige Tage.\n4) Eine PTBS kann zusätzlich vorliegen.",
+  "options": [
+   "Nur 1 und 2 sind richtig",
+   "Nur 1, 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Nur 2, 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 1,
+  "explanation": "Borderline ist ein überdauerndes Muster, kein kurzfristiger Zustand. Häufig sind Depression, Angststörungen, Substanzmissbrauch, Essstörungen und Traumafolgen. Selbstverletzung und Suizidalität sind typisch.",
+  "kind": "combo"
+ },
+ {
+  "id": "dd37",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Mann ist seit der Jugend misstrauisch, trägt Kränkungen nach und unterstellt anderen böse Absichten. Es gibt keine Halluzinationen und keine Ich-Störungen. Welche Diagnose passt am ehesten?",
+  "options": [
+   "Paranoide Persönlichkeitsstörung",
+   "Paranoide Schizophrenie",
+   "Schizoide Persönlichkeitsstörung",
+   "Dissoziale Persönlichkeitsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Misstrauen und Kränkbarkeit als überdauerndes Muster ohne Wahnsystem, Halluzinationen und Ich-Störungen kennzeichnen die paranoide Persönlichkeitsstörung (F60.0). Bei Schizophrenie bestehen produktiv-psychotische Symptome."
+ },
+ {
+  "id": "dd38",
+  "topic": "Differenzialdiagnose",
+  "text": "Ab welchem Alter wird eine dissoziale Persönlichkeitsstörung diagnostiziert?",
+  "options": [
+   "Frühestens ab dem 18. Lebensjahr",
+   "Ab dem 3. Lebensjahr",
+   "Nur im Seniorenalter",
+   "Ab dem Schulbeginn"
+  ],
+  "correct": 0,
+  "explanation": "Persönlichkeitsstörungen werden in der Regel erst im Erwachsenenalter diagnostiziert. Bei Kindern und Jugendlichen wird eine Störung des Sozialverhaltens (F91) vergeben."
+ },
+ {
+  "id": "dd39",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche organischen Ursachen sind bei neu aufgetretener Persönlichkeitsveränderung im Erwachsenenalter abzuklären? Wählen Sie zwei Antworten.",
+  "options": [
+   "Frontalhirntumor",
+   "Frontotemporale Demenz",
+   "Dysthymia",
+   "Agoraphobie",
+   "Pavor nocturnus"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Neue Persönlichkeitsveränderungen (Enthemmung, Apathie) sind organisch verdächtig: Hirntumor, Demenz, Schädel-Hirn-Trauma, Enzephalitis oder Intoxikation."
+ },
+ {
+  "id": "dd40",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche drei Informationen sind für die Diagnose einer Intelligenzminderung notwendig?",
+  "options": [
+   "Intelligenzniveau, adaptive Alltagskompetenz und Beginn in der Entwicklungszeit",
+   "Nur ein Schulzeugnis",
+   "Nur das Alter der Eltern",
+   "Nur die Körpergröße"
+  ],
+  "correct": 0,
+  "explanation": "Intelligenzminderung verlangt ein deutlich unterdurchschnittliches Intelligenzniveau (IQ unter 70), eingeschränkte Anpassungsfähigkeit im Alltag und einen Beginn vor dem Erwachsenenalter. Differenzialdiagnosen sind mangelnde Beschulung, Sinnesbehinderung und Autismus."
+ },
+ {
+  "id": "dd41",
+  "topic": "Differenzialdiagnose",
+  "text": "Wodurch unterscheidet sich eine Autismus-Spektrum-Störung von einer sozialen Phobie?",
+  "options": [
+   "Autismus: seit früher Kindheit Defizite im Verständnis sozialer Signale und repetitive Interessen; Phobie: Angst vor Bewertung bei vorhandenen Fähigkeiten",
+   "Soziale Phobie beginnt immer im Säuglingsalter",
+   "Autismus zeigt nie stereotype Verhaltensmuster",
+   "Beide sind identisch"
+  ],
+  "correct": 0,
+  "explanation": "Autismus ist eine tiefgreifende Entwicklungsstörung seit der frühen Kindheit. Die soziale Phobie bezieht sich auf Angst vor Bewertung, die soziale Kompetenz ist vorhanden."
+ },
+ {
+  "id": "dd42",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Störungen treten bei Autismus-Spektrum-Störungen häufig komorbid auf? Wählen Sie zwei Antworten.",
+  "options": [
+   "ADHS",
+   "Angststörungen",
+   "Korsakow-Syndrom",
+   "Delirium tremens",
+   "Alzheimer-Demenz"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Häufige Begleiterkrankungen sind ADHS, Angststörungen, Depression, Schlafstörungen und Epilepsie."
+ },
+ {
+  "id": "dd43",
+  "topic": "Differenzialdiagnose",
+  "text": "Wie lässt sich ADHS am besten von einer bipolaren Störung abgrenzen?",
+  "options": [
+   "ADHS ist ein durchgehendes Muster seit der Kindheit, bipolare Störung verläuft in Episoden",
+   "ADHS tritt nur bei älteren Menschen auf",
+   "Die bipolare Störung beginnt immer vor dem 7. Lebensjahr",
+   "Beide verlaufen identisch"
+  ],
+  "correct": 0,
+  "explanation": "ADHS beginnt vor dem 7. Lebensjahr und besteht situationsübergreifend durchgehend. Die bipolare Störung zeigt abgrenzbare manische oder depressive Episoden mit Beginn und Ende."
+ },
+ {
+  "id": "dd44",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Ursachen sind bei Unaufmerksamkeit differenzialdiagnostisch zu prüfen? Wählen Sie zwei Antworten.",
+  "options": [
+   "Schlafmangel",
+   "Angststörung",
+   "Korsakow-Syndrom",
+   "Tic-Störung allein",
+   "Pyromanie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Konzentrationsprobleme haben viele Ursachen: Schlafmangel, Angst, Depression, Trauma, Schilddrüsenerkrankungen, Substanzen, Hör- und Sehstörungen und Lernstörungen. ADHS verlangt frühen Beginn und mehrere Lebensbereiche."
+ },
+ {
+  "id": "dd45",
+  "topic": "Differenzialdiagnose",
+  "text": "Wodurch unterscheidet sich die Störung mit oppositionellem Trotzverhalten (F91.3) von der Störung des Sozialverhaltens?",
+  "options": [
+   "Sie betrifft meist jüngere Kinder und beinhaltet keine schweren Verletzungen der Rechte anderer",
+   "Sie tritt nur bei Erwachsenen auf",
+   "Sie beinhaltet immer Brandstiftung",
+   "Es gibt keinen Unterschied"
+  ],
+  "correct": 0,
+  "explanation": "Oppositionelles Trotzverhalten: ungehorsames, trotziges, provokatives Verhalten, meist unter 10 Jahren, ohne schwere dissoziale Handlungen. Bei der Störung des Sozialverhaltens kommen Aggression, Gewalt, Diebstahl oder Zerstörung hinzu."
+ },
+ {
+  "id": "dd46",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein 8-jähriges Kind nässt wiederholt tagsüber ein. Was gehört zur Abklärung?",
+  "options": [
+   "Ärztliche Abklärung (z. B. Harnwegsinfekt, Diabetes)",
+   "Direkte Konfrontation mit Beschämung",
+   "Verordnung eines Medikaments durch den Heilpraktiker",
+   "Verzicht auf jede Diagnostik"
+  ],
+  "correct": 0,
+  "explanation": "Vor der Diagnose Enuresis (F98.0) sind organische Ursachen auszuschließen, z. B. Harnwegsinfekt, Diabetes oder neurologische Ursachen. Beschämung ist zu vermeiden."
+ },
+ {
+  "id": "dd47",
+  "topic": "Differenzialdiagnose",
+  "text": "Wodurch unterscheidet sich ein Tic von einer Zwangshandlung?",
+  "options": [
+   "Tics sind plötzliche, unwillkürliche, zwecklose Bewegungen oder Laute, Zwangshandlungen folgen Zwangsgedanken und senken Anspannung",
+   "Tics sind absichtlich und stets zielgerichtet",
+   "Zwangshandlungen sind unwillkürliche Reflexe",
+   "Es gibt keinen Unterschied"
+  ],
+  "correct": 0,
+  "explanation": "Tics treten ohne vorausgehenden Gedanken auf. Zwangshandlungen werden zur Abwehr von Befürchtungen ausgeführt und sind zielgerichtet. Beide können beim Tourette-Syndrom gemeinsam vorkommen."
+ },
+ {
+  "id": "dd48",
+  "topic": "Differenzialdiagnose",
+  "text": "Welche Störungen treten bei ADHS häufig komorbid auf?\n1) Lernstörungen\n2) Angststörungen\n3) Oppositionelles Trotzverhalten\n4) Alzheimer-Demenz",
+  "options": [
+   "Nur 1 und 2 sind richtig",
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Nur 2, 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 1,
+  "explanation": "ADHS tritt häufig zusammen mit Lernstörungen, Angst, Depression, oppositionellem Verhalten und Störungen des Sozialverhaltens auf. Alzheimer ist keine typische Komorbidität im Kindesalter.",
+  "kind": "combo"
+ },
+ {
+  "id": "dd49",
+  "topic": "Differenzialdiagnose",
+  "text": "Ein Jugendlicher zeigt nach einem belastenden Ereignis plötzlich Konzentrationsprobleme. Warum ist nicht sofort ADHS zu diagnostizieren?",
+  "options": [
+   "Trauma, Schlaf, Angst und Depression sind vorher zu prüfen, ADHS verlangt frühen Beginn und mehrere Lebensbereiche",
+   "ADHS kann nie bei Jugendlichen vorkommen",
+   "Konzentrationsprobleme sind nie ein Symptom",
+   "Nach Ereignissen entsteht immer ADHS"
+  ],
+  "correct": 0,
+  "explanation": "ADHS beginnt in der Kindheit und besteht situationsübergreifend. Neu aufgetretene Konzentrationsprobleme nach einem Ereignis sprechen eher für Trauma, Depression oder Angst."
+ },
+ {
+  "id": "pp01",
+  "topic": "Psychopathologie",
+  "text": "In welcher Reihenfolge gehen die Orientierungsqualitäten bei zunehmender Störung meist verloren?",
+  "options": [
+   "Zeit, Ort, Situation, Person",
+   "Person, Situation, Ort, Zeit",
+   "Ort, Person, Zeit, Situation",
+   "Situation, Zeit, Person, Ort"
+  ],
+  "correct": 0,
+  "explanation": "Zuerst geht meist die zeitliche Orientierung verloren, dann die örtliche, die situative und zuletzt die Orientierung zur eigenen Person. Der Befund ist wichtig bei Delir und Demenz."
+ },
+ {
+  "id": "pp02",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient wiederholt bei jeder Frage dasselbe Wort oder denselben Gedanken, obwohl die Frage wechselt. Welche formale Denkstörung liegt vor?",
+  "options": [
+   "Perseveration",
+   "Ideenflucht",
+   "Gedankensperre",
+   "Denkverlangsamung"
+  ],
+  "correct": 0,
+  "explanation": "Perseveration: Haften an einem Wort oder Gedanken, der nicht mehr zum Gespräch passt, typisch bei organischen Störungen (z. B. Demenz)."
+ },
+ {
+  "id": "pp03",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient bricht mitten im Satz ab und erklärt: „Mein Kopf ist plötzlich leer.“ Welche Störung liegt vor?",
+  "options": [
+   "Gedankenabreißen (Gedankensperre)",
+   "Ideenflucht",
+   "Perseveration",
+   "Eingeengtes Denken"
+  ],
+  "correct": 0,
+  "explanation": "Beim Gedankenabreißen bricht der Gedankengang plötzlich ab. Es ist eine formale Denkstörung und kann bei Schizophrenie auftreten. Erlebt der Betroffene das als von außen weggenommen, spricht man von Gedankenentzug."
+ },
+ {
+  "id": "pp04",
+  "topic": "Psychopathologie",
+  "text": "Welche formale Denkstörung ist typisch für die Depression?",
+  "options": [
+   "Verlangsamtes und eingeengtes Denken, Grübeln",
+   "Ideenflucht",
+   "Zerfahrenheit",
+   "Neologismen"
+  ],
+  "correct": 0,
+  "explanation": "Depressive Menschen denken verlangsamt, eingeengt auf negative Inhalte und grübeln. Ideenflucht gehört zur Manie, Zerfahrenheit und Neologismen zur Schizophrenie."
+ },
+ {
+  "id": "pp05",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient bildet neue, für andere unverständliche Wörter. Welches Phänomen ist das?",
+  "options": [
+   "Neologismus",
+   "Echolalie",
+   "Perseveration",
+   "Mutismus"
+  ],
+  "correct": 0,
+  "explanation": "Neologismen sind Wortneubildungen, typisch bei schizophrenen Störungen des Denkens und der Sprache. Echolalie ist das Nachsprechen von Gehörtem."
+ },
+ {
+  "id": "pp06",
+  "topic": "Psychopathologie",
+  "text": "Welche Kombination beschreibt Affektverflachung, inadäquaten Affekt und Ambivalenz am besten?",
+  "options": [
+   "Störungen des Affekts, die bei Schizophrenie vorkommen können",
+   "Gedächtnisstörungen",
+   "Störungen der Orientierung",
+   "Störungen des Antriebs bei Demenz"
+  ],
+  "correct": 0,
+  "explanation": "Affektverflachung (kaum emotionale Schwingung), Parathymie (inadäquate Gefühlsäußerung) und Ambivalenz (gleichzeitig gegensätzliche Gefühle) sind typische affektive Veränderungen bei Schizophrenie."
+ },
+ {
+  "id": "pp07",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient bewegt sich nicht, spricht nicht, ist aber wach. Welche Störung des Antriebs und der Psychomotorik beschreibt das?",
+  "options": [
+   "Stupor",
+   "Agitiertheit",
+   "Logorrhoe",
+   "Ideenflucht"
+  ],
+  "correct": 0,
+  "explanation": "Beim Stupor besteht eine ausgeprägte Bewegungs- und Sprachlosigkeit bei erhaltenem Bewusstsein. Er kommt bei Katatonie, schwerer Depression und organischen Störungen vor und ist ärztlich abzuklären."
+ },
+ {
+  "id": "pp08",
+  "topic": "Psychopathologie",
+  "text": "Welche zwei Phänomene gehören zu den katatonen Symptomen? Wählen Sie zwei Antworten.",
+  "options": [
+   "Katalepsie (Verharren in Haltungen)",
+   "Negativismus",
+   "Ideenflucht",
+   "Craving",
+   "Pseudologia phantastica"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Katatone Symptome: Stupor, Katalepsie, Negativismus, Echolalie, Echopraxie, Stereotypien, Rigidität. Ideenflucht gehört zur Manie, Craving zur Sucht."
+ },
+ {
+  "id": "pp09",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient glaubt plötzlich, ein vorbeifahrendes rotes Auto sei ein Zeichen, dass er überwacht wird. Welches Symptom beschreibt das?",
+  "options": [
+   "Wahnwahrnehmung",
+   "Illusion",
+   "Halluzination",
+   "Wahnstimmung"
+  ],
+  "correct": 0,
+  "explanation": "Bei der Wahnwahrnehmung wird eine reale Wahrnehmung (rotes Auto) wahnhaft umgedeutet. Sie ist ein Erstrangsymptom nach Schneider. Bei einer Wahnstimmung herrscht dagegen ein unheimliches Gefühl ohne konkrete Deutung."
+ },
+ {
+  "id": "pp10",
+  "topic": "Psychopathologie",
+  "text": "Welche Wahnform liegt vor, wenn jemand überzeugt ist, sein Partner sei ihm untreu, obwohl Belege fehlen?",
+  "options": [
+   "Eifersuchtswahn",
+   "Größenwahn",
+   "Nihilistischer Wahn",
+   "Verarmungswahn"
+  ],
+  "correct": 0,
+  "explanation": "Der Eifersuchtswahn ist die unkorrigierbare Überzeugung von der Untreue des Partners. Er tritt bei Schizophrenie, wahnhaften Störungen und im Zusammenhang mit Alkoholabhängigkeit auf."
+ },
+ {
+  "id": "pp11",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient glaubt, Insekten krabbelten unter seiner Haut. Welcher Begriff passt?",
+  "options": [
+   "Coenästhetische Halluzination bzw. Dermatozoenwahn",
+   "Illusion",
+   "Pseudohalluzination",
+   "Derealisation"
+  ],
+  "correct": 0,
+  "explanation": "Taktile oder Leibhalluzinationen (Coenästhesien) und der Dermatozoenwahn gehören zu den Wahrnehmungs- bzw. Denkstörungen. Sie kommen bei Psychosen, Entzug (z. B. Delirium tremens) und organischen Störungen vor."
+ },
+ {
+  "id": "pp12",
+  "topic": "Psychopathologie",
+  "text": "Welche Aussage zur Pseudohalluzination ist richtig?",
+  "options": [
+   "Der Betroffene erkennt, dass die Wahrnehmung nicht real ist",
+   "Der Betroffene hält sie für real",
+   "Sie ist eine Verkennung eines realen Reizes",
+   "Sie ist immer Zeichen für Schizophrenie"
+  ],
+  "correct": 0,
+  "explanation": "Pseudohalluzinationen werden im Gegensatz zu echten Halluzinationen als nicht real erkannt. Eine Illusion ist die Verkennung eines tatsächlich vorhandenen Reizes."
+ },
+ {
+  "id": "pp13",
+  "topic": "Psychopathologie",
+  "text": "Wodurch unterscheiden sich Konfabulation und Lüge?",
+  "options": [
+   "Konfabulationen füllen Gedächtnislücken unbewusst und ohne Täuschungsabsicht",
+   "Konfabulationen sind bewusste Täuschung",
+   "Konfabulationen sind immer Wahn",
+   "Es gibt keinen Unterschied"
+  ],
+  "correct": 0,
+  "explanation": "Bei Konfabulationen werden Erinnerungslücken unbewusst durch erfundene Inhalte gefüllt, typisch beim Korsakow-Syndrom. Eine Täuschungsabsicht besteht nicht."
+ },
+ {
+  "id": "pp14",
+  "topic": "Psychopathologie",
+  "text": "Was beschreibt eine anterograde Amnesie?",
+  "options": [
+   "Unfähigkeit, nach dem Ereignis neue Informationen zu speichern",
+   "Verlust der Erinnerung an die Zeit vor dem Ereignis",
+   "Verlust der Orientierung zur Person",
+   "Verlangsamtes Denken"
+  ],
+  "correct": 0,
+  "explanation": "Anterograd: Neues kann nicht mehr gespeichert werden (z. B. Korsakow). Retrograd: Erinnerungen an die Zeit vor einem Ereignis fehlen, z. B. nach Schädel-Hirn-Trauma."
+ },
+ {
+  "id": "pp15",
+  "topic": "Psychopathologie",
+  "text": "Welche Aussage zu quantitativen Bewusstseinsstörungen trifft zu?",
+  "options": [
+   "Reihenfolge nach zunehmender Tiefe: Benommenheit, Somnolenz, Sopor, Koma",
+   "Reihenfolge nach zunehmender Tiefe: Koma, Sopor, Somnolenz, Benommenheit",
+   "Es gibt keine abgestuften Formen",
+   "Sie betreffen nur den Inhalt des Bewusstseins"
+  ],
+  "correct": 0,
+  "explanation": "Quantitative Störungen sind Verminderungen der Wachheit: Benommenheit, Somnolenz (schläfrig, weckbar), Sopor (nur auf starke Reize weckbar), Koma. Qualitative Störungen betreffen den Bewusstseinsinhalt (z. B. Trübung, Einengung)."
+ },
+ {
+  "id": "pp16",
+  "topic": "Psychopathologie",
+  "text": "Was beschreibt der Begriff Einengung des Bewusstseins?",
+  "options": [
+   "Verengung des Erlebens auf wenige Inhalte bei gleichzeitig verminderter Reaktion auf anderes",
+   "Verlust der Wachheit",
+   "Beschleunigtes Denken",
+   "Ständiges Wiederholen von Wörtern"
+  ],
+  "correct": 0,
+  "explanation": "Bei der Bewusstseinseinengung ist die Aufmerksamkeit auf wenige Inhalte verengt (z. B. Dämmerzustand, affektive Ausnahmezustände). Sie gehört zu den qualitativen Bewusstseinsstörungen."
+ },
+ {
+  "id": "pp17",
+  "topic": "Psychopathologie",
+  "text": "Welcher Begriff beschreibt eine übermäßige, kaum zu stoppende Rede, zum Beispiel in der Manie?",
+  "options": [
+   "Logorrhoe",
+   "Mutismus",
+   "Echolalie",
+   "Perseveration"
+  ],
+  "correct": 0,
+  "explanation": "Logorrhoe: gesteigerter Rededrang. Mutismus ist Sprechverweigerung, Echolalie das Nachsprechen, Perseveration das Haften an Inhalten."
+ },
+ {
+  "id": "pp18",
+  "topic": "Psychopathologie",
+  "text": "Wodurch unterscheiden sich Zwangsgedanken von Grübeln?",
+  "options": [
+   "Zwangsgedanken drängen sich gegen inneren Widerstand auf und werden als sinnlos erkannt, Grübeln kreist um reale Sorgen",
+   "Grübeln wird als sinnlos erkannt",
+   "Beide sind identisch",
+   "Zwangsgedanken sind immer Wahn"
+  ],
+  "correct": 0,
+  "explanation": "Zwangsgedanken sind aufdrängende, als eigen, aber sinnlos erlebte Gedanken, die bekämpft werden. Grübeln ist das ständige Kreisen um reale Probleme, typisch bei Depression und generalisierter Angst."
+ },
+ {
+  "id": "pp19",
+  "topic": "Psychopathologie",
+  "text": "Welche Aussage zur Anosognosie bzw. fehlenden Krankheitseinsicht ist richtig?",
+  "options": [
+   "Sie tritt häufig bei Manie und Psychosen auf und ist für die Risikoeinschätzung wichtig",
+   "Sie ist ein Symptom der Zwangsstörung",
+   "Sie bedeutet Wahnstimmung",
+   "Sie betrifft nur Kinder"
+  ],
+  "correct": 0,
+  "explanation": "Fehlende Krankheitseinsicht ist bei Manie und Schizophrenie häufig. Sie beeinflusst Behandlungsbereitschaft, Selbstgefährdung und rechtliche Fragen, z. B. Unterbringung."
+ },
+ {
+  "id": "pp20",
+  "topic": "Psychopathologie",
+  "text": "Was gehört NICHT zu den Dimensionen des psychopathologischen Befundes?",
+  "options": [
+   "Blutdruck und Laborwerte",
+   "Bewusstsein und Orientierung",
+   "Denken und Wahrnehmung",
+   "Affekt und Antrieb"
+  ],
+  "correct": 0,
+  "explanation": "Der psychopathologische Befund beschreibt das psychische Zustandsbild: Bewusstsein, Orientierung, Aufmerksamkeit, Gedächtnis, Denken, Wahrnehmung, Ich-Erleben, Affekt, Antrieb, Psychomotorik, Suizidalität. Körperliche Messwerte gehören in die ärztliche Untersuchung."
+ },
+ {
+  "id": "pp21",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient glaubt, ein fremder Wille steuere seine Handlungen und Bewegungen. Was liegt vor?",
+  "options": [
+   "Fremdbeeinflussungserlebnis (Ich-Störung)",
+   "Ideenflucht",
+   "Zwangshandlung",
+   "Abulie"
+  ],
+  "correct": 0,
+  "explanation": "Das Erleben, von außen gesteuert zu werden („Gemachtes“), ist eine Ich-Störung und ein Erstrangsymptom der Schizophrenie."
+ },
+ {
+  "id": "pp22",
+  "topic": "Psychopathologie",
+  "text": "Welche Aussage zur Anhedonie ist richtig?",
+  "options": [
+   "Fähigkeit, Freude zu empfinden, ist vermindert oder verloren",
+   "Übersteigertes Glücksgefühl",
+   "Unfähigkeit zu sprechen",
+   "Verlust des Geruchssinns"
+  ],
+  "correct": 0,
+  "explanation": "Anhedonie ist die verminderte Fähigkeit, Freude zu erleben. Sie gehört zu den Hauptsymptomen der Depression und zu den Negativsymptomen der Schizophrenie."
+ },
+ {
+  "id": "ic01",
+  "topic": "Grundlagen",
+  "text": "Welcher ICD-10-Code gehört zur Schizophrenie?",
+  "options": [
+   "F20",
+   "F30",
+   "F40",
+   "F60"
+  ],
+  "correct": 0,
+  "explanation": "F20 Schizophrenie. F30 manische Episode, F40 phobische Störungen, F60 Persönlichkeitsstörungen."
+ },
+ {
+  "id": "ic02",
+  "topic": "Grundlagen",
+  "text": "Welchem Code ist die generalisierte Angststörung zugeordnet?",
+  "options": [
+   "F41.1",
+   "F40.0",
+   "F42",
+   "F43.1"
+  ],
+  "correct": 0,
+  "explanation": "F41.1 generalisierte Angststörung. F40.0 Agoraphobie, F42 Zwangsstörung, F43.1 PTBS."
+ },
+ {
+  "id": "ic03",
+  "topic": "Grundlagen",
+  "text": "Welcher Code steht für Anorexia nervosa?",
+  "options": [
+   "F50.0",
+   "F50.2",
+   "F51.0",
+   "F63.0"
+  ],
+  "correct": 0,
+  "explanation": "F50.0 Anorexia nervosa, F50.2 Bulimia nervosa, F51.0 nichtorganische Insomnie, F63.0 pathologisches Spielen."
+ },
+ {
+  "id": "ic04",
+  "topic": "Grundlagen",
+  "text": "Welcher Code bezeichnet die Posttraumatische Belastungsstörung?",
+  "options": [
+   "F43.1",
+   "F43.0",
+   "F43.2",
+   "F44.0"
+  ],
+  "correct": 0,
+  "explanation": "F43.0 akute Belastungsreaktion, F43.1 PTBS, F43.2 Anpassungsstörungen, F44.0 dissoziative Amnesie."
+ },
+ {
+  "id": "ic05",
+  "topic": "Grundlagen",
+  "text": "Zu welcher Hauptgruppe gehören Störungen durch psychotrope Substanzen?",
+  "options": [
+   "F1",
+   "F0",
+   "F3",
+   "F5"
+  ],
+  "correct": 0,
+  "explanation": "F1: psychische und Verhaltensstörungen durch psychotrope Substanzen. F0 organische Störungen, F3 affektive Störungen, F5 Verhaltensauffälligkeiten mit körperlichen Störungen."
+ },
+ {
+  "id": "ic06",
+  "topic": "Grundlagen",
+  "text": "Welcher Code gehört zur emotional instabilen Persönlichkeitsstörung vom Borderline-Typ?",
+  "options": [
+   "F60.31",
+   "F60.0",
+   "F60.1",
+   "F60.7"
+  ],
+  "correct": 0,
+  "explanation": "F60.31 Borderline-Typ. F60.0 paranoid, F60.1 schizoid, F60.7 abhängig."
+ },
+ {
+  "id": "ic07",
+  "topic": "Grundlagen",
+  "text": "Welcher Code gehört zur Zwangsstörung?",
+  "options": [
+   "F42",
+   "F41.0",
+   "F43.2",
+   "F45.0"
+  ],
+  "correct": 0,
+  "explanation": "F42 Zwangsstörung. F41.0 Panikstörung, F43.2 Anpassungsstörung, F45.0 Somatisierungsstörung."
+ },
+ {
+  "id": "ic08",
+  "topic": "Grundlagen",
+  "text": "Welcher Block umfasst Entwicklungsstörungen (z. B. Autismus, Lesestörung)?",
+  "options": [
+   "F8",
+   "F7",
+   "F9",
+   "F6"
+  ],
+  "correct": 0,
+  "explanation": "F8 Entwicklungsstörungen, F7 Intelligenzminderung, F9 Verhaltens- und emotionale Störungen mit Beginn in Kindheit und Jugend, F6 Persönlichkeitsstörungen."
+ },
+ {
+  "id": "ic09",
+  "topic": "Grundlagen",
+  "text": "Welcher Code bezeichnet die ADHS (einfache Aktivitäts- und Aufmerksamkeitsstörung)?",
+  "options": [
+   "F90.0",
+   "F91.3",
+   "F84.0",
+   "F95.2"
+  ],
+  "correct": 0,
+  "explanation": "F90.0 einfache Aktivitäts- und Aufmerksamkeitsstörung. F91.3 oppositionelles Trotzverhalten, F84.0 Kindheitsautismus, F95.2 Tourette-Syndrom."
+ },
+ {
+  "id": "ic10",
+  "topic": "Grundlagen",
+  "text": "Welche Diagnose gehört zu F34.1?",
+  "options": [
+   "Dysthymia",
+   "Zyklothymia",
+   "Manische Episode",
+   "Bipolare Störung"
+  ],
+  "correct": 0,
+  "explanation": "F34.0 Zyklothymia, F34.1 Dysthymia. F30 manische Episode, F31 bipolare affektive Störung."
+ },
+ {
+  "id": "ic11",
+  "topic": "Grundlagen",
+  "text": "Welcher Code gehört zum Delir, nicht durch Alkohol oder psychotrope Substanzen bedingt?",
+  "options": [
+   "F05",
+   "F10.4",
+   "F20.0",
+   "F32.2"
+  ],
+  "correct": 0,
+  "explanation": "F05 Delir, nicht durch Alkohol oder andere psychotrope Substanzen bedingt. F10.4 Alkoholentzugssyndrom mit Delir."
+ },
+ {
+  "id": "ic12",
+  "topic": "Grundlagen",
+  "text": "Welcher Code steht für die somatoforme Schmerzstörung?",
+  "options": [
+   "F45.4",
+   "F45.0",
+   "F45.2",
+   "F44.4"
+  ],
+  "correct": 0,
+  "explanation": "F45.4 anhaltende somatoforme Schmerzstörung, F45.0 Somatisierungsstörung, F45.2 hypochondrische Störung, F44.4 dissoziative Bewegungsstörung."
  }
 ]
