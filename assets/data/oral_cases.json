@@ -1175,5 +1175,43 @@
     "a": "Akute Gefahr und Orientierung prüfen, ruhig und wertfrei kommunizieren, somatische und substanzbedingte Ursachen bedenken, nicht über Stimmeninhalte streiten; dringende psychiatrische Abklärung organisieren. Regionale Abläufe und PsychKG-Regelungen des jeweiligen Bundeslandes gesondert prüfen."
    }
   ]
+ },
+ {
+  "id": "bo01",
+  "title": "Fall 68: Strukturiertes Vorgehen (SOSP)",
+  "vignette": "Der Prüfer sagt: „Eine 34-jährige Frau kommt in Ihre Praxis. Sie schläft seit drei Wochen kaum, fühlt sich verfolgt und hat in den letzten Tagen mehr Alkohol getrunken. Wie gehen Sie vor?“",
+  "questions": [
+   {
+    "q": "Welche Gefährdungen schließen Sie zuerst aus?",
+    "a": "Nach SOSP: Suizidalität (direkt nachfragen), organische Ursachen (Arztabklärung, Unfall, Infekt, Medikamente), Substanzen (Alkohol, Drogen, Medikamente) und Psychose (Verfolgungserleben, Stimmen). Diese sind nicht allein Aufgabe des Heilpraktikers für Psychotherapie."
+   },
+   {
+    "q": "Welche Diagnosen und Differenzialdiagnosen nennen Sie?",
+    "a": "Verdacht auf psychotische Störung (z. B. Schizophrenie, F20) mit Verfolgungswahn. Differenzialdiagnosen: substanzinduzierte psychotische Störung, Manie mit psychotischen Symptomen, wahnhafte Depression, organische Psychose bzw. Delir (HOPS: Trauma, Infarkt, Tumor, Toxine, Infektionen). Zeitverlauf und Konsum klären."
+   },
+   {
+    "q": "Wie handeln Sie weiter?",
+    "a": "Eigen- und Fremdgefährdung einschätzen, ruhig und wertfrei bleiben, nicht über Wahninhalte streiten, zeitnahe fachärztlich-psychiatrische Abklärung organisieren, bei akuter Gefahr Einweisung nach PsychKG bzw. Notruf anregen und dokumentieren."
+   }
+  ]
+ },
+ {
+  "id": "bo02",
+  "title": "Fall 69: Denkstörungen erkennen",
+  "vignette": "Der Prüfer spielt vor: Ein Patient antwortet auf „Wie geht es Ihnen?“ mit „Das Wetter ist grau, die Nelke blüht stahlblau, ich habe ein Plurzeln im Kopf.“ Er bricht mitten im Satz ab und beginnt neu.",
+  "questions": [
+   {
+    "q": "Welche formalen Denkstörungen erkennen Sie?",
+    "a": "Zerfahrenheit/Inkohärenz (Sätze ohne logischen Zusammenhang), Danebenreden, Neologismus („Plurzeln“) und Gedankenabriss. Gemeinsam typisch für eine Schizophrenie, aber auch bei organischen Störungen möglich."
+   },
+   {
+    "q": "Wie unterscheiden Sie formale und inhaltliche Denkstörungen?",
+    "a": "Formale Denkstörungen betreffen das Wie des Denkens (Tempo, Zusammenhang, Logik, Sprache). Inhaltliche betreffen das Was (Wahn, überwertige Idee, Zwang)."
+   },
+   {
+    "q": "Welche Abklärung veranlassen Sie?",
+    "a": "Psychopathologischen Befund vervollständigen, Wahn und Halluzinationen erfragen, Substanzen und organische Ursachen ausschließen lassen (ärztliche Abklärung), Suizidalität prüfen und fachärztlich-psychiatrische Vorstellung organisieren."
+   }
+  ]
  }
 ]

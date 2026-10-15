@@ -5538,5 +5538,565 @@
   ],
   "correct": 0,
   "explanation": "F45.4 anhaltende somatoforme Schmerzstörung, F45.0 Somatisierungsstörung, F45.2 hypochondrische Störung, F44.4 dissoziative Bewegungsstörung."
+ },
+ {
+  "id": "bi01",
+  "topic": "Recht & Praxis",
+  "text": "Was bedeutet das Merkwort „SOSP“ beim Vorgehen in Fallbeispielen?",
+  "options": [
+   "Suizidalität, organische Ursachen, Substanzen, Psychosen",
+   "Symptome, Ordnung, Struktur, Prognose",
+   "Selbstbild, Ohnmacht, Stress, Persönlichkeit",
+   "Schlaf, Orientierung, Stimmung, Psychomotorik",
+   "Syndrom, Organik, Setting, Prävention"
+  ],
+  "correct": 0,
+  "explanation": "SOSP erinnert an die Gefährdungen, die in jedem Fall zuerst bedacht werden: Suizidalität, Organische Ursachen, Substanzabhängige Störungen und Psychosen. Sie sind nicht Sache des Heilpraktikers für Psychotherapie allein und werden ärztlich abgeklärt."
+ },
+ {
+  "id": "bi02",
+  "topic": "Recht & Praxis",
+  "text": "Welche Reihenfolge ist für die Bearbeitung eines mündlichen Fallbeispiels sinnvoll?",
+  "options": [
+   "Leitsymptome, Zeitangaben, Suizidalität, körperliche Erkrankungen, Psychose-Hinweise, Zusammenschau, wahrscheinlichste Diagnose, Differenzialdiagnosen",
+   "Sofort eine Diagnose nennen und danach Symptome suchen",
+   "Nur die Therapie beschreiben",
+   "Zuerst die Kindheit schildern lassen",
+   "Differenzialdiagnosen weglassen, um nicht zu verwirren"
+  ],
+  "correct": 0,
+  "explanation": "Strukturiertes Vorgehen: Symptome herausarbeiten, Zeitangaben beachten, auf Suizidalität, körperliche Ursachen und Psychose achten, alles kombinieren und erst dann die wahrscheinlichste Diagnose nennen. Differenzialdiagnosen laut zu äußern zeigt dem Prüfer das Denken."
+ },
+ {
+  "id": "bi03",
+  "topic": "Recht & Praxis",
+  "text": "Warum sollten Sie im mündlichen Fallbeispiel keine vorschnelle Diagnose stellen?",
+  "options": [
+   "Weil Differenzialdiagnosen und fehlende Angaben zuerst bedacht und nachgefragt werden müssen",
+   "Weil Diagnosen dem Heilpraktiker verboten sind",
+   "Weil der Prüfer nur Symptome hören will",
+   "Weil Zeitangaben unwichtig sind",
+   "Weil nur Ärzte Verdachtsdiagnosen äußern dürfen"
+  ],
+  "correct": 0,
+  "explanation": "Erwartet wird eine begründete Verdachtsdiagnose samt Differenzialdiagnosen. Bei fehlenden Angaben soll gezielt nachgefragt werden. Eine Festlegung aus einem einzelnen Symptom gilt als Fehler."
+ },
+ {
+  "id": "bi04",
+  "topic": "Organisch",
+  "text": "Wofür steht die Merkhilfe „Tittis machen HOPS“?",
+  "options": [
+   "Ursachen eines hirnorganischen Psychosyndroms (HOPS)",
+   "Formen der Zwangsstörung",
+   "Phasen der Trauer",
+   "Wahnthemen",
+   "Stufen der Sucht"
+  ],
+  "correct": 0,
+  "explanation": "HOPS = hirnorganisches Psychosyndrom. Die Ursachen: Trauma, Infarkt (Schlaganfall), Tumor, Toxine, Infektionen, Sonstige (z. B. Stoffwechsel, Epilepsie)."
+ },
+ {
+  "id": "bi05",
+  "topic": "Organisch",
+  "text": "Welche Ursachengruppen gehören zur Merkhilfe für das hirnorganische Psychosyndrom?",
+  "options": [
+   "Trauma, Infarkt, Tumor, Toxine, Infektionen",
+   "Trauma, Impulsivität, Trauer, Tics, Isolation",
+   "Tumor, Trennung, Traum, Tinnitus, Intoxikation",
+   "Temperament, Intelligenz, Training, Therapie",
+   "Trauer, Infektion, Tabu, Trance"
+  ],
+  "correct": 0,
+  "explanation": "Trauma (Schädel-Hirn), Infarkt, Tumor, Toxine (Alkohol, Drogen, Medikamente), Infektionen (z. B. Enzephalitis) und Sonstige."
+ },
+ {
+  "id": "bi06",
+  "topic": "Recht & Praxis",
+  "text": "Wie fragen Sie bei Verdacht auf Suizidalität angemessen nach?",
+  "options": [
+   "Direkt und wertfrei nach Gedanken, Plänen und früheren Versuchen",
+   "Gar nicht, um keine Ideen zu wecken",
+   "Nur über Angehörige",
+   "Mit Suggestivfragen wie „Sie wollen sich doch nichts antun?“",
+   "Erst nach mehreren Sitzungen"
+  ],
+  "correct": 0,
+  "explanation": "Direktes Nachfragen erhöht das Suizidrisiko nicht. Sinnvoll: „Haben Sie schon einmal daran gedacht, sich das Leben zu nehmen?“, konkrete Ideen, Hoffnungslosigkeit, Freude am Leben. Bei Gefahr Einweisung anregen bzw. Notfallhilfe."
+ },
+ {
+  "id": "bi07",
+  "topic": "Recht & Praxis",
+  "text": "Wie gehen Sie bei Verdacht auf eine organische Ursache vor?",
+  "options": [
+   "Abklärung beim Hausarzt, Facharzt oder Psychiater veranlassen",
+   "Selbst Untersuchungen und Bildgebung durchführen",
+   "Psychotherapie ohne weitere Abklärung beginnen",
+   "Medikamente verordnen",
+   "Abwarten, bis die Symptome verschwinden"
+  ],
+  "correct": 0,
+  "explanation": "Der Heilpraktiker für Psychotherapie darf keine somatische Diagnostik und Therapie durchführen. Fragen: Arztbesuche, Operationen, Unfall, Sturz, Bewusstlosigkeit."
+ },
+ {
+  "id": "bi08",
+  "topic": "Recht & Praxis",
+  "text": "Welche Frage dient der Abklärung von Substanzproblemen im Fallbeispiel?",
+  "options": [
+   "„Nehmen Sie Medikamente, Alkohol oder Drogen, und wie häufig?“",
+   "„Wie war Ihre Schulzeit?“",
+   "„Haben Sie Geschwister?“",
+   "„Welche Hobbys haben Sie?“",
+   "„Seit wann wohnen Sie in Berlin?“"
+  ],
+  "correct": 0,
+  "explanation": "Substanzen können Symptome auslösen, verstärken oder maskieren. Bei Abhängigkeit wird eine stationäre Entgiftung angeregt, bei Medikamenten wird nach Nebenwirkungen gefragt."
+ },
+ {
+  "id": "bi09",
+  "topic": "Psychosen",
+  "text": "Welche Frage dient der Psychose-Abklärung?",
+  "options": [
+   "„Hatten Sie das Gefühl, dass Ihre Umwelt oder Sie selbst sich verändert haben?“",
+   "„Wie schlafen Sie?“",
+   "„Haben Sie Appetit?“",
+   "„Sind Sie verheiratet?“",
+   "„Arbeiten Sie Vollzeit?“"
+  ],
+  "correct": 0,
+  "explanation": "Fragen nach Derealisation und Depersonalisation, nach Halluzinationen („Dinge gesehen, die andere nicht sehen“) und Wahnerleben gehören zur Psychose-Abklärung. Bei Verdacht erfolgt die Abklärung beim Arzt, bei Eigen- oder Fremdgefährdung Einweisung anregen."
+ },
+ {
+  "id": "bi10",
+  "topic": "Recht & Praxis",
+  "text": "Welche Themen kommen in mündlichen Prüfungen besonders häufig vor?",
+  "options": [
+   "Suizidalität, Gesetzeskunde, affektive Störungen, Psychotherapie und Pharmakotherapie, Sucht, Angst, Anpassungsstörungen, Zwang",
+   "Nur Statistik",
+   "Nur Tiefenpsychologie",
+   "Ausschließlich Kinderpsychiatrie",
+   "Ausschließlich Anatomie"
+  ],
+  "correct": 0,
+  "explanation": "Häufig sind: Suizidalität, PsychKG, Betreuungsrecht, Verbote und Pflichten des Heilpraktikers, depressive und manische Episoden, Verhaltenstherapie, Antidepressiva, Antipsychotika, Benzodiazepine, Konsum und Entzug, Angststörungen, PTBS, Zwang, Persönlichkeitsstörungen, Demenz, Schizophrenie, Somatoforme und Dissoziative Störungen, Essstörungen, ADHS, Autismus. Die Reihenfolge kann je Gesundheitsamt abweichen."
+ },
+ {
+  "id": "bi11",
+  "topic": "Psychopathologie",
+  "text": "Was beschreiben formale Denkstörungen?",
+  "options": [
+   "Wie gedacht wird: Ablauf, Zusammenhang und sprachlicher Ausdruck",
+   "Was gedacht wird: die Inhalte",
+   "Die Stimmung",
+   "Die Wahrnehmung",
+   "Die Orientierung"
+  ],
+  "correct": 0,
+  "explanation": "Formale Denkstörungen betreffen die Art und Weise, wie Gedanken gebildet und organisiert werden (Tempo, Zusammenhang, Logik, sprachlicher Ausdruck). Inhaltliche Denkstörungen betreffen, was gedacht wird (z. B. Wahn, überwertige Ideen, Zwang)."
+ },
+ {
+  "id": "bi12",
+  "topic": "Psychopathologie",
+  "text": "Welche vier Bereiche formaler Denkstörungen werden unterschieden?",
+  "options": [
+   "Denkgeschwindigkeit, Zusammenhang/Gedankenfluss, Logik der Denkvorgänge, sprachlich-formale Auffälligkeiten",
+   "Orientierung, Gedächtnis, Aufmerksamkeit, Intelligenz",
+   "Affekt, Antrieb, Schlaf, Appetit",
+   "Wahn, Zwang, Phobie, überwertige Idee",
+   "Halluzination, Illusion, Pseudohalluzination, Ich-Störung"
+  ],
+  "correct": 0,
+  "explanation": "1) Tempo/Denkgeschwindigkeit, 2) Zusammenhang/Gedankenfluss, 3) Logik der Denkvorgänge, 4) sprachlich-formale Auffälligkeiten."
+ },
+ {
+  "id": "bi13",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient sagt: „Ich habe das Gefühl, meine Gedanken stocken, als ob eine Blockade da wäre.“ Welche Denkstörung beschreibt das am ehesten?",
+  "options": [
+   "Denkhemmung",
+   "Ideenflucht",
+   "Gedankendrängen",
+   "Neologismus",
+   "Zerfahrenheit"
+  ],
+  "correct": 0,
+  "explanation": "Bei der Denkhemmung kommen Gedanken nur schwer in Gang und werden subjektiv als leer erlebt. Typisch ist sie bei der Depression. Von der objektiven Denkverlangsamung mit langer Antwortlatenz unterscheidet sie das subjektive Erleben."
+ },
+ {
+  "id": "bi14",
+  "topic": "Psychopathologie",
+  "text": "Bei welcher Störung findet sich typischerweise eine Ideenflucht?",
+  "options": [
+   "Manie",
+   "Depression",
+   "Demenz",
+   "Zwangsstörung",
+   "Panikstörung"
+  ],
+  "correct": 0,
+  "explanation": "Ideenflucht: schneller, fließender Gedankenablauf mit raschem Themenwechsel und lockeren Assoziationen, leicht ablenkbar. Typisch bei Manie, auch bei Intoxikation."
+ },
+ {
+  "id": "bi15",
+  "topic": "Psychopathologie",
+  "text": "Wodurch ist die Denkverlangsamung gekennzeichnet?",
+  "options": [
+   "Deutlich verlangsamter Gedankenablauf mit langer Antwortlatenz und stockendem Sprechen",
+   "Rascher Themenwechsel",
+   "Plötzliches Abreißen mitten im Satz",
+   "Neue Wortschöpfungen",
+   "Wiederholung desselben Wortes"
+  ],
+  "correct": 0,
+  "explanation": "Die Denkverlangsamung tritt z. B. bei Depression, organischen Störungen und Demenz auf."
+ },
+ {
+  "id": "bi16",
+  "topic": "Psychopathologie",
+  "text": "Welches Phänomen beschreibt ein plötzliches Abreißen eines Gedankens mitten im Satz?",
+  "options": [
+   "Gedankenabriss (Gedankensperre)",
+   "Perseveration",
+   "Grübeln",
+   "Verbigeration",
+   "Konkretismus"
+  ],
+  "correct": 0,
+  "explanation": "Beim Gedankenabriss bricht der Gedanke ohne erkennbaren Grund ab, der Satz bleibt unvollständig und das wird meist selbst bemerkt. Typisch bei Schizophrenie, auch bei organischen Störungen."
+ },
+ {
+  "id": "bi17",
+  "topic": "Psychopathologie",
+  "text": "Wie nennt man das Haften an Gedanken oder Wörtern mit ständigem Wiederholen?",
+  "options": [
+   "Perseveration",
+   "Ideenflucht",
+   "Zerfahrenheit",
+   "Neologismus",
+   "Gedankenabriss"
+  ],
+  "correct": 0,
+  "explanation": "Perseveration: Der Betroffene bleibt an einem Gedanken oder Wort hängen und wiederholt es. Typisch bei organischen Störungen und Schizophrenie."
+ },
+ {
+  "id": "bi18",
+  "topic": "Psychopathologie",
+  "text": "Welche Beschreibung passt zu „umständlichem Denken“?",
+  "options": [
+   "Weitschweifig, viele Details, das Ziel wird erst spät erreicht",
+   "Sprunghafte, unzusammenhängende Sätze",
+   "Gedanken kreisen ohne neue Perspektive um ein Thema",
+   "Plötzlicher Abriss",
+   "Erfundene Wörter"
+  ],
+  "correct": 0,
+  "explanation": "Umständliches Denken ist typisch bei Persönlichkeitsstörungen (z. B. anankastisch) und organischen Störungen. Beim Grübeln dagegen kreisen Gedanken ohne neue Lösung, z. B. bei Depression und Angst."
+ },
+ {
+  "id": "bi19",
+  "topic": "Psychopathologie",
+  "text": "Was bedeutet eingeengtes Denken?",
+  "options": [
+   "Verhaftetsein an ein Thema mit fehlender gedanklicher Flexibilität und wenig Alternativen",
+   "Verlust der Satzstruktur",
+   "Wortneuschöpfungen",
+   "Wortwörtliches Verstehen von Metaphern",
+   "Gedankenleere"
+  ],
+  "correct": 0,
+  "explanation": "Eingeengtes Denken tritt z. B. bei Depression, Zwangsstörung und Schizophrenie auf."
+ },
+ {
+  "id": "bi20",
+  "topic": "Psychopathologie",
+  "text": "Wie nennt man unzusammenhängende, sprunghafte Gedanken, bei denen Sätze keinen Sinn ergeben und kein roter Faden erkennbar ist?",
+  "options": [
+   "Zerfahrenheit (Inkohärenz)",
+   "Ideenflucht",
+   "Perseveration",
+   "Umständliches Denken",
+   "Grübeln"
+  ],
+  "correct": 0,
+  "explanation": "Zerfahrenheit/Inkohärenz: Gedanken und Sätze stehen ohne logischen Zusammenhang. Typisch bei Schizophrenie und anderen psychotischen oder organischen Störungen. Bei der Ideenflucht bleibt der Zusammenhang zumindest assoziativ nachvollziehbar."
+ },
+ {
+  "id": "bi21",
+  "topic": "Psychopathologie",
+  "text": "Eine Patientin antwortet auf „Wie geht es Ihnen?“ mit einer Aussage zum Wetter, die nicht zur Frage passt. Wie heißt dieses Phänomen?",
+  "options": [
+   "Danebenreden (Vorbeireden)",
+   "Konkretismus",
+   "Perseveration",
+   "Verbigeration",
+   "Gedankensperre"
+  ],
+  "correct": 0,
+  "explanation": "Beim Danebenreden gehen die Antworten am Thema vorbei, die Antwort passt nicht zur Frage. Typisch bei Schizophrenie."
+ },
+ {
+  "id": "bi22",
+  "topic": "Psychopathologie",
+  "text": "Was versteht man unter Konkretismus?",
+  "options": [
+   "Abstrakte Begriffe und Redewendungen werden wörtlich verstanden",
+   "Wiederholtes Aussprechen eines Wortes",
+   "Erfundene Wörter",
+   "Plötzliche Gedankenleere",
+   "Rasche Gedankenfolge"
+  ],
+  "correct": 0,
+  "explanation": "Beim Konkretismus werden Metaphern oder Sprichwörter wörtlich genommen und die Antwort passt nicht zur Frage. Er kommt bei Schizophrenie und organischen Störungen vor. Auch bei Autismus kann wörtliches Verstehen auftreten, dort aber aus anderer Ursache."
+ },
+ {
+  "id": "bi23",
+  "topic": "Psychopathologie",
+  "text": "Was bedeutet Ich-Grenzen-Auflösung im Rahmen der Logik der Denkvorgänge?",
+  "options": [
+   "Die Grenze zwischen Selbst und Umwelt verschwimmt, Gedanken gehen nicht mehr als eigene verloren",
+   "Der Patient spricht in der dritten Person",
+   "Der Patient ist desorientiert",
+   "Der Patient hat Angst",
+   "Der Patient wiederholt Sätze"
+  ],
+  "correct": 0,
+  "explanation": "Bei einer Auflösung der Ich-Grenze kann das Gefühl verloren gehen, was zu einem selbst gehört. Das gehört zu den Ich-Störungen, z. B. Gedankeneingebung und Gedankenausbreitung bei Schizophrenie."
+ },
+ {
+  "id": "bi24",
+  "topic": "Psychopathologie",
+  "text": "Was sind Neologismen?",
+  "options": [
+   "Wortneuschöpfungen ohne verständlichen Kontext",
+   "Wiederholungen von Wörtern",
+   "Wörtliches Verstehen",
+   "Plötzlicher Gedankenabriss",
+   "Rasche Gedankenfolge"
+  ],
+  "correct": 0,
+  "explanation": "Neologismen sind neu geschaffene Wörter, oft nur im Satzkontext zu erahnen. Typisch bei Schizophrenie."
+ },
+ {
+  "id": "bi25",
+  "topic": "Psychopathologie",
+  "text": "Welche Aussage zur Verbigeration trifft zu?",
+  "options": [
+   "Wiederholtes, sinnloses Aufsagen von Wörtern oder Wortfragmenten, typisch bei katatonen Syndromen",
+   "Sie ist ein Wahnthema",
+   "Sie ist ein Zeichen der Manie",
+   "Sie bedeutet Gedankenarmut",
+   "Sie ist eine Wahrnehmungsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Verbigeration: sinnloses, wiederholtes Aufsagen von Wörtern oder Wortteilen ohne Zusammenhang. Vorkommen bei Katatonie und Schizophrenie."
+ },
+ {
+  "id": "bi26",
+  "topic": "Psychopathologie",
+  "text": "Was beschreibt „Manierismen des Denkens“?",
+  "options": [
+   "Gekünstelte, sonderbare Formulierungen und unpassende, originelle Wortwahl",
+   "Gedankenleere",
+   "Rasches Denken",
+   "Gedankenabriss",
+   "Perseveration"
+  ],
+  "correct": 0,
+  "explanation": "Manierismen sind gekünstelte, verschrobene Ausdrucksweisen. Vom stereotypen Denken (gleichförmige, wiederkehrende Gedankeninhalte oder Formulierungen) abzugrenzen."
+ },
+ {
+  "id": "bi27",
+  "topic": "Psychopathologie",
+  "text": "Was beschreibt der Wahn?",
+  "options": [
+   "Eine krankhaft veränderte Beurteilung der Realität mit subjektiver Gewissheit, die nicht korrigierbar ist",
+   "Eine übertriebene, aber nachvollziehbare Idee",
+   "Ein Wahrnehmungsfehler ohne Realitätsbezug",
+   "Ein Gedankenkreisen mit Einsicht",
+   "Ein Gedankenabriss"
+  ],
+  "correct": 0,
+  "explanation": "Merkmale: unrealistische, unerschütterliche Überzeugungen, fehlende Krankheitseinsicht, Beeinflussung von Verhalten und Wahrnehmung, kein Perspektivenabgleich möglich. Er tritt v. a. bei psychotischen Störungen auf, auch bei Intoxikation, Demenz und Delir."
+ },
+ {
+  "id": "bi28",
+  "topic": "Psychopathologie",
+  "text": "Welches Merkmal grenzt den Wahn von Zwangsgedanken ab?",
+  "options": [
+   "Zwangsgedanken werden als unsinnig erkannt und bekämpft, der Wahn wird für wahr gehalten",
+   "Wahn kommt nur bei Kindern vor",
+   "Zwangsgedanken sind unkorrigierbar",
+   "Wahn führt zu Einsicht",
+   "Es gibt keine Unterscheidung"
+  ],
+  "correct": 0,
+  "explanation": "Beim Zwang besteht meist Einsicht in die Übertriebenheit und innerer Widerstand (ich-dyston). Beim Wahn herrscht subjektive Gewissheit ohne Einsicht."
+ },
+ {
+  "id": "bi29",
+  "topic": "Psychopathologie",
+  "text": "Welche Aussage zur überwertigen Idee ist richtig?",
+  "options": [
+   "Sie ist für die Person nachvollziehbar und plausibel, stark emotional besetzt und noch korrigierbar",
+   "Sie ist unkorrigierbar und unverständlich",
+   "Sie ist immer ein Zeichen der Schizophrenie",
+   "Sie entspricht einer Halluzination",
+   "Sie ist ein Gedächtnisfehler"
+  ],
+  "correct": 0,
+  "explanation": "Überwertige Ideen sind übermäßig bedeutsame Vorstellungen mit besonderer emotionaler Bedeutung, z. B. eine Lebensaufgabe, Reformideen, Eifersucht oder Krankheitssorgen im realistischen Rahmen. Im Gegensatz zum Wahn sind sie im Prinzip verständlich und noch korrigierbar."
+ },
+ {
+  "id": "bi30",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient ist überzeugt, dass alle ihn verfolgen und beobachten. Welches Wahnthema liegt vor?",
+  "options": [
+   "Verfolgungswahn",
+   "Größenwahn",
+   "Verarmungswahn",
+   "Liebeswahn",
+   "Dermatozoenwahn"
+  ],
+  "correct": 0,
+  "explanation": "Verfolgungswahn: Überzeugung, bedroht oder beobachtet zu werden. Der Beziehungswahn bezieht Ereignisse auf die eigene Person, und eine Beeinträchtigung bzw. Schädigung wird als gezielt erlebt (Beeinträchtigungswahn)."
+ },
+ {
+  "id": "bi31",
+  "topic": "Psychopathologie",
+  "text": "Eine ältere Patientin ist überzeugt, sie sei völlig mittellos, obwohl sie ein ausreichendes Vermögen hat. Welches Wahnthema ist das?",
+  "options": [
+   "Verarmungswahn",
+   "Größenwahn",
+   "Eifersuchtswahn",
+   "Liebeswahn",
+   "Vergiftungswahn"
+  ],
+  "correct": 0,
+  "explanation": "Der Verarmungswahn tritt oft bei wahnhafter Depression auf. Verwandt sind Schuld- bzw. Versündigungswahn und der hypochondrische Wahn (Überzeugung, schwer krank zu sein)."
+ },
+ {
+  "id": "bi32",
+  "topic": "Psychopathologie",
+  "text": "Wie heißt die Überzeugung, die eigenen Körperteile oder Organe seien nicht mehr vorhanden oder die eigene Existenz sei verneint?",
+  "options": [
+   "Nihilistischer Wahn (Cotard-Syndrom)",
+   "Körperdysmorpher Wahn",
+   "Hypochondrischer Wahn",
+   "Größenwahn",
+   "Beziehungswahn"
+  ],
+  "correct": 0,
+  "explanation": "Nihilistischer Wahn: Verneinung der eigenen oder äußeren Existenz. Beim körperdysmorphen Wahn besteht die Überzeugung einer Entstellung, beim hypochondrischen Wahn die Überzeugung, schwer krank zu sein."
+ },
+ {
+  "id": "bi33",
+  "topic": "Psychopathologie",
+  "text": "Welcher Wahn ist durch die Überzeugung von Untreue des Partners gekennzeichnet?",
+  "options": [
+   "Eifersuchtswahn",
+   "Liebeswahn",
+   "Beziehungswahn",
+   "Verfolgungswahn",
+   "Verarmungswahn"
+  ],
+  "correct": 0,
+  "explanation": "Eifersuchtswahn: krankhafte Überzeugung von Untreue. Beim Liebeswahn (Erotomanie) glaubt die Person, jemand sei in sie verliebt. Er kann auch bei Alkoholabhängigkeit auftreten."
+ },
+ {
+  "id": "bi34",
+  "topic": "Psychopathologie",
+  "text": "Was ist ein Dermatozoenwahn?",
+  "options": [
+   "Die Überzeugung, von Hautparasiten befallen zu sein",
+   "Die Überzeugung, vergiftet zu werden",
+   "Die Überzeugung, entstellt zu sein",
+   "Die Überzeugung, verarmt zu sein",
+   "Die Überzeugung, besondere Fähigkeiten zu haben"
+  ],
+  "correct": 0,
+  "explanation": "Dermatozoenwahn: Überzeugung von Hautparasiten. Er kann bei Schizophrenie, wahnhaften Störungen, organischen Störungen und Substanzgebrauch (z. B. Kokain) auftreten."
+ },
+ {
+  "id": "bi35",
+  "topic": "Psychopathologie",
+  "text": "Wie nennt man ein diffuses, unheimliches Gefühl, dass „etwas im Gange ist“, das einem Wahn vorausgeht?",
+  "options": [
+   "Wahnstimmung",
+   "Wahneinfall",
+   "Wahnwahrnehmung",
+   "Wahnerinnerung",
+   "Wahndynamik"
+  ],
+  "correct": 0,
+  "explanation": "Wahnstimmung: Veränderungs- und Bedeutungserlebnisse, aus denen sich Wahngedanken entwickeln können."
+ },
+ {
+  "id": "bi36",
+  "topic": "Psychopathologie",
+  "text": "Ein Patient sieht eine rote Ampel und weiß sofort: „Das ist das Zeichen, dass die Welt untergeht.“ Welches Wahnphänomen liegt vor?",
+  "options": [
+   "Wahnwahrnehmung",
+   "Wahneinfall",
+   "Wahnerinnerung",
+   "Wahnstimmung",
+   "Wahndynamik"
+  ],
+  "correct": 0,
+  "explanation": "Wahnwahrnehmung: Eine real wahrgenommene Sache wird mit wahnhafter Bedeutung versehen, die Wahrnehmung selbst ist normal. Beim Wahneinfall tritt der Wahngedanke ohne äußeren Anlass plötzlich auf, bei der Wahnerinnerung wird eine Erinnerung wahnhaft verfälscht."
+ },
+ {
+  "id": "bi37",
+  "topic": "Psychopathologie",
+  "text": "Was versteht man unter einem systematisierten Wahn (Wahngebäude)?",
+  "options": [
+   "Einzelne Wahninhalte sind logisch miteinander verknüpft und bilden ein geschlossenes System",
+   "Ein einzelner plötzlicher Wahngedanke",
+   "Ein Wahn ohne Inhalt",
+   "Ein Wahn nach Drogeneinnahme",
+   "Ein Wahn im Schlaf"
+  ],
+  "correct": 0,
+  "explanation": "Beim systematisierten Wahn sind die Inhalte untereinander schlüssig verbunden. Die Wahndynamik beschreibt Antrieb und Affekt, die den Wahn begleiten und zu seiner Ausgestaltung beitragen."
+ },
+ {
+  "id": "bi38",
+  "topic": "Psychopathologie",
+  "text": "Wie nennt man das plötzliche, unvorbereitete Auftreten einer wahnhaften Überzeugung ohne äußeren Anlass?",
+  "options": [
+   "Wahneinfall (primäre Wahnidee)",
+   "Wahnwahrnehmung",
+   "Wahnerinnerung",
+   "Wahnstimmung",
+   "Systematisierter Wahn"
+  ],
+  "correct": 0,
+  "explanation": "Wahneinfall: plötzliche, unvermittelte Überzeugung. Er gehört zu den Wahnformen (Wahnerleben)."
+ },
+ {
+  "id": "bi39",
+  "topic": "Psychopathologie",
+  "text": "Welche Formen von Zwängen werden unterschieden?",
+  "options": [
+   "Zwangsgedanken, Zwangsimpulse, Zwangshandlungen",
+   "Wahneinfall, Wahnstimmung, Wahnwahrnehmung",
+   "Ideenflucht, Gedankenabriss, Perseveration",
+   "Denkhemmung, Denkverlangsamung, Konkretismus",
+   "Phobie, Panik, Generalisierung"
+  ],
+  "correct": 0,
+  "explanation": "Zwangsgedanken (aufdrängend, wiederkehrend, z. B. aggressiv, sexuell, blasphemisch), Zwangsimpulse (plötzliche Handlungsimpulse, die nicht ausgeführt werden) und Zwangshandlungen (wiederholte, stereotype Handlungen oder mentale Rituale, z. B. Kontrollieren, Waschen, Zählen)."
+ },
+ {
+  "id": "bi40",
+  "topic": "Psychopathologie",
+  "text": "Welche Merkmale sind für Zwänge typisch?",
+  "options": [
+   "Sie werden als sinnlos und übertrieben erkannt, lösen Angst oder Anspannung aus und werden bekämpft",
+   "Sie werden als fremdbestimmt von außen erlebt und für wahr gehalten",
+   "Sie treten nur im Schlaf auf",
+   "Sie gehen mit Euphorie einher",
+   "Sie sind nicht beeinflussbar und angenehm"
+  ],
+  "correct": 0,
+  "explanation": "Der Betroffene erlebt Gedanken oder Impulse als eigene, aber unsinnig (ich-dyston); es besteht innerer Widerstand, und Handlungen oder mentale Rituale senken kurzfristig die Anspannung. Vorkommen vor allem bei Zwangsstörung (F42), auch bei anderen Störungen."
  }
 ]

@@ -28,7 +28,7 @@ flutter build apk --release            # APK zum Installieren
 
 Alle Inhalte liegen als JSON in `assets/data/` (`questions.json`, `flashcards.json`,
 `oral_cases.json`). Für eine volle Simulation mit 28 Fragen mindestens 28 Fragen
-eintragen (aktuell 392 Fragen, 351 Kernkarten, 67 Fälle).
+eintragen (aktuell 432 Fragen, 371 Kernkarten, 69 Fälle).
 
 Frageformat:
 

@@ -2104,5 +2104,125 @@
   "topic": "Differenzialdiagnose",
   "front": "Eine depressive Klientin sagt: „Morgen ist alles vorbei.“ Wie reagieren Sie?",
   "back": "Nicht bagatellisieren; unmittelbar Suizidalität, Plan, Mittel, Schutzfaktoren erfragen und Sicherheitsmaßnahmen einleiten."
+ },
+ {
+  "id": "bf01",
+  "topic": "Psychopathologie",
+  "front": "SOSP: Gefährdungen im Fallbeispiel",
+  "back": "Suizidalität, Organische Ursachen (HOPS), Substanzabhängige Störungen, Psychosen. Diese sind nicht allein Sache des Heilpraktikers für Psychotherapie und müssen unverzüglich ärztlich abgeklärt bzw. bei Gefahr mit Einweisung begleitet werden."
+ },
+ {
+  "id": "bf02",
+  "topic": "Organisch",
+  "front": "Merkhilfe „Tittis machen HOPS“",
+  "back": "Ursachen des hirnorganischen Psychosyndroms: Trauma, Infarkt, Tumor, Toxine, Infektionen, Sonstige."
+ },
+ {
+  "id": "bf03",
+  "topic": "Recht & Praxis",
+  "front": "Vorgehen bei Fallbeispielen (Schritte)",
+  "back": "1. Wichtigste Symptome, 2. Zeitangaben, 3. Hinweise auf Suizidalität, 4. Hinweise auf körperliche Erkrankung, 5. Hinweise auf Psychose, 6. Kombination der Angaben, 7. wahrscheinlichste Diagnose, 8. Differenzialdiagnosen. Laut denken und nachfragen, keine vorschnelle Diagnose."
+ },
+ {
+  "id": "bf04",
+  "topic": "Recht & Praxis",
+  "front": "Fragen zur Suizidalität",
+  "back": "„Haben Sie schon einmal daran gedacht, sich das Leben zu nehmen, oder einen Versuch unternommen?“ „Haben Sie konkrete Ideen?“ „Fühlen Sie sich hoffnungslos?“ „Haben Sie Interessen und Freude am Leben?“ Direkt und wertfrei fragen."
+ },
+ {
+  "id": "bf05",
+  "topic": "Recht & Praxis",
+  "front": "Fragen zur organischen Abklärung",
+  "back": "Waren Sie beim Arzt? Behandlungen oder Operationen in letzter Zeit? Unfall, Sturz, Bewusstlosigkeit? Abklärung bei Hausarzt, Facharzt oder Psychiater."
+ },
+ {
+  "id": "bf06",
+  "topic": "Sucht",
+  "front": "Fragen zu Substanzen",
+  "back": "Medikamente (welche, wie häufig, Nebenwirkungen?), Alkohol, Drogen. Gedanken, weniger zu trinken, oder Schuldgefühle deswegen? Bei Abhängigkeit stationäre Entgiftung anregen."
+ },
+ {
+  "id": "bf06b",
+  "topic": "Psychosen",
+  "front": "Fragen zur Psychose-Abklärung",
+  "back": "Hatten Sie das Gefühl, Ihre Umwelt oder Sie selbst hätten sich verändert? Dinge gesehen oder gehört, die andere nicht wahrnehmen? Bei Verdacht ärztliche Abklärung, bei Eigen- oder Fremdgefährdung Einweisung anregen."
+ },
+ {
+  "id": "bf07",
+  "topic": "Psychopathologie",
+  "front": "Formale vs. inhaltliche Denkstörungen",
+  "back": "Formal: WIE wird gedacht (Tempo, Zusammenhang, Logik, sprachlicher Ausdruck). Inhaltlich: WAS wird gedacht (Wahn, überwertige Idee, Zwang)."
+ },
+ {
+  "id": "bf08",
+  "topic": "Psychopathologie",
+  "front": "Formale Denkstörungen: Tempo",
+  "back": "Denkverlangsamung (Depression, Organik), Denkhemmung (Blockade, Depression), Gedankenabriss/-sperre, Ideenflucht (Manie, Intoxikation), Gedankendrängen (Angst, Manie), Denkverlangsamung und Perseveration. Tempo = wie schnell laufen die Gedanken ab."
+ },
+ {
+  "id": "bf09",
+  "topic": "Psychopathologie",
+  "front": "Denkgeschwindigkeit: Verlangsamung, Hemmung, Ideenflucht, Gedankendrängen",
+  "back": "Verlangsamung: langsam, lange Antwortlatenz. Hemmung: subjektive Blockade, Gedanken kommen schwer in Gang (Depression). Ideenflucht: schnell, fließend, lockere Assoziationen (Manie). Gedankendrängen: viele gleichzeitig aufdrängende Gedanken, Druckgefühl (z. B. bei Angst, Manie)."
+ },
+ {
+  "id": "bf10",
+  "topic": "Psychopathologie",
+  "front": "Formale Denkstörungen: Zusammenhang/Gedankenfluss",
+  "back": "Gedankenabriss (plötzliches Abreißen, Schizophrenie), Perseveration (Haften, organisch/Schizophrenie), Umständliches Denken (Persönlichkeit, organisch), Grübeln (Depression, Angst), Eingeengtes Denken (Depression, Zwang, Schizophrenie)."
+ },
+ {
+  "id": "bf11",
+  "topic": "Psychopathologie",
+  "front": "Formale Denkstörungen: Logik der Denkvorgänge",
+  "back": "Zerfahrenheit/Inkohärenz (Schizophrenie, psychotisch, organisch), Danebenreden (Schizophrenie, organisch), Konkretismus (wörtliches Verstehen, Schizophrenie, organisch), Auflösung der Ich-Grenze (Schizophrenie)."
+ },
+ {
+  "id": "bf12",
+  "topic": "Psychopathologie",
+  "front": "Formale Denkstörungen: Sprachlich-formale Auffälligkeiten",
+  "back": "Neologismen (Wortneuschöpfungen), Verbigeration (sinnloses Wiederholen, Katatonie), Stereotypes Denken, Manierismen des Denkens (gekünstelt, originell)."
+ },
+ {
+  "id": "bf13",
+  "topic": "Psychopathologie",
+  "front": "Wahn: Definition und Merkmale",
+  "back": "Krankhafte Fehlbeurteilung der Realität mit subjektiver Gewissheit, nicht korrigierbar, ohne Krankheitseinsicht, beeinflusst Verhalten und Wahrnehmung, kein Perspektivenabgleich. Vorkommen: Schizophrenie, affektive Psychosen, Intoxikation, Demenz, Delir."
+ },
+ {
+  "id": "bf14",
+  "topic": "Psychopathologie",
+  "front": "Wahnthemen",
+  "back": "Beziehungswahn, Verfolgungswahn, Beeinträchtigungswahn, Eifersuchtswahn, Schuld-/Versündigungswahn, Verarmungswahn, hypochondrischer Wahn, nihilistischer Wahn, religiöser Wahn, körperdysmorpher Wahn, Dermatozoenwahn, Vergiftungswahn, Größenwahn, Kleinheitswahn, Liebeswahn (Erotomanie), symbiotischer Wahn."
+ },
+ {
+  "id": "bf15",
+  "topic": "Psychopathologie",
+  "front": "Wahnerleben (Wahnformen)",
+  "back": "Wahnstimmung (unheimlich, „etwas ist im Gange“), Wahneinfall (plötzlicher Gedanke), Wahnwahrnehmung (reale Wahrnehmung, wahnhaft gedeutet), Wahnerinnerung (Erinnerung wahnhaft verfälscht), systematisierter Wahn (Wahngebäude), Wahndynamik (Antrieb und Affekt)."
+ },
+ {
+  "id": "bf16",
+  "topic": "Psychopathologie",
+  "front": "Überwertige Idee vs. Wahn",
+  "back": "Überwertige Idee: übermäßig bedeutsame, nachvollziehbare Idee mit starker emotionaler Bedeutung, noch korrigierbar (z. B. Reformideen, Eifersucht, Krankheitssorgen). Wahn: nicht nachvollziehbar, nicht korrigierbar, ohne Einsicht."
+ },
+ {
+  "id": "bf17",
+  "topic": "Psychopathologie",
+  "front": "Zwangsformen",
+  "back": "Zwangsgedanken (aufdrängend, aggressiv, sexuell, blasphemisch), Zwangsimpulse (plötzliche Handlungsimpulse, werden nicht ausgeführt), Zwangshandlungen (Kontrollieren, Waschen, Zählen, mentale Rituale). Ich-dyston, als unsinnig erkannt, Widerstand, Angstreduktion. Vor allem Zwangsstörung F42."
+ },
+ {
+  "id": "bf18",
+  "topic": "Psychopathologie",
+  "front": "Zwang vs. Wahn",
+  "back": "Zwang: Einsicht, Widerstand, ich-dyston. Wahn: unerschütterliche Gewissheit, keine Einsicht, ich-synton. Wahnähnliche Überzeugungen im Zwang lassen sich durch Kontext und Gesamtsymptomatik abgrenzen."
+ },
+ {
+  "id": "bf19",
+  "topic": "Recht & Praxis",
+  "front": "Häufige Themen der mündlichen Prüfung",
+  "back": "Suizidalität, PsychKG, Betreuungsrecht, Verbote und Pflichten, affektive Störungen, Verhaltenstherapie, Antidepressiva, Antipsychotika, Benzodiazepine, Sucht und Entzug, Angst, Anpassung, Zwang, Persönlichkeit, Demenz/Delir/Depression, Schizophrenie, Somatoform, Dissoziation, Essstörungen, ADHS, Autismus."
  }
 ]

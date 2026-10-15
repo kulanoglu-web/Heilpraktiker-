@@ -4,11 +4,15 @@ import 'package:url_launcher/url_launcher.dart';
 import 'theme.dart';
 
 /// Hier Namen und Links der Praxis pflegen.
-const kAuthorName = 'Kulanoglu';
+const kAuthorName = 'Erdogan Kulanoglu';
+const kAuthorTitles = [
+  'Psychologe M.Sc.',
+  'Sozialarbeiter/Sozialpädagoge B.A.',
+  'Heilpraktiker (eingeschränkt auf den Bereich Psychotherapie)',
+];
 const kWebsite = 'https://www.psychologe-spandau.de';
-// Tipp: Den direkten Google-Rezensionslink der Praxis hier eintragen.
 const kReviewUrl =
-    'https://www.google.com/search?q=Psychologe+Spandau+Privatpraxis+Rezension';
+    'https://g.page/r/Ccxj8Rnh_iwAEB0/review';
 
 Future<void> _open(BuildContext context, String url) async {
   final ok = await launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication);
@@ -60,7 +64,7 @@ class InfoScreen extends StatelessWidget {
         children: [
           SoftCard(
             gradient: brandGradient(),
-            child: const Column(
+            child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Text('HP Psychotherapie Trainer',
@@ -70,7 +74,12 @@ class InfoScreen extends StatelessWidget {
                         fontSize: 20)),
                 SizedBox(height: 6),
                 Text('Entwickelt von $kAuthorName',
-                    style: TextStyle(color: Colors.white70)),
+                    style: TextStyle(
+                        color: Colors.white, fontWeight: FontWeight.w600)),
+                SizedBox(height: 4),
+                Text(
+                    kAuthorTitles.join('\n'),
+                    style: TextStyle(color: Colors.white70, height: 1.4)),
               ],
             ),
           ),
