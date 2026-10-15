@@ -586,5 +586,1085 @@
   "topic": "Weitere Störungen",
   "front": "Was sind Tic-Störungen?",
   "back": "Plötzliche, rasche, wiederholte Bewegungen oder Lautäußerungen ohne Zweck. Tourette-Syndrom: motorische und vokale Tics über mehr als ein Jahr (F95.2)."
+ },
+ {
+  "id": "gk01",
+  "topic": "Organisch",
+  "front": "Delir: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: akuter Beginn, fluktuierende Aufmerksamkeit und Bewusstseinsstörung.\n\nDifferenzialdiagnosen: Demenz, Intoxikation, Psychose.\n\nWorauf achten: Infekt, Dehydratation, Medikamente; umgehend somatisch abklären."
+ },
+ {
+  "id": "gk02",
+  "topic": "Organisch",
+  "front": "Demenz bei Alzheimer: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: schleichender Beginn, progrediente Gedächtnis- und Alltagsdefizite.\n\nDifferenzialdiagnosen: Depression, Delir, Normaldruckhydrozephalus.\n\nWorauf achten: Delir und Depression können gleichzeitig bestehen; ärztliche Diagnostik."
+ },
+ {
+  "id": "gk03",
+  "topic": "Organisch",
+  "front": "Vaskuläre Demenz: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: kognitive Defizite bei zerebrovaskulärer Erkrankung, teils stufenweise.\n\nDifferenzialdiagnosen: Alzheimer, Delir.\n\nWorauf achten: Vaskuläre Risikofaktoren und Schlaganfallsymptome beachten."
+ },
+ {
+  "id": "gk04",
+  "topic": "Organisch",
+  "front": "Organische Halluzinose: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Halluzinationen bei nachweisbarem organischem Zusammenhang.\n\nDifferenzialdiagnosen: Schizophrenie, Substanzwirkung.\n\nWorauf achten: Medikamentenliste und neurologische Ursachen prüfen."
+ },
+ {
+  "id": "gk05",
+  "topic": "Organisch",
+  "front": "Amnestisches Syndrom: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: ausgeprägte Gedächtnisstörung bei relativ erhaltener Wachheit.\n\nDifferenzialdiagnosen: Demenz, Dissoziation.\n\nWorauf achten: Thiaminmangel und Alkoholfolgeerkrankungen bedenken."
+ },
+ {
+  "id": "gk06",
+  "topic": "Sucht",
+  "front": "Alkoholabhängigkeit: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Kontrollverlust, Craving, Toleranz und Entzug.\n\nDifferenzialdiagnosen: schädlicher Gebrauch, Depression.\n\nWorauf achten: Entzug kann Krampfanfälle und Delir verursachen; ärztlich absichern."
+ },
+ {
+  "id": "gk07",
+  "topic": "Sucht",
+  "front": "Alkoholentzugsdelir: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: vegetative Entgleisung, Desorientierung, Halluzinationen.\n\nDifferenzialdiagnosen: primäre Psychose, Delir anderer Ursache.\n\nWorauf achten: Medizinischer Notfall."
+ },
+ {
+  "id": "gk08",
+  "topic": "Sucht",
+  "front": "Opioidintoxikation: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Miosis, Atemdepression, Bewusstseinsminderung.\n\nDifferenzialdiagnosen: Sedativaintoxikation, neurologischer Notfall.\n\nWorauf achten: Rettungsdienst alarmieren."
+ },
+ {
+  "id": "gk09",
+  "topic": "Sucht",
+  "front": "Benzodiazepinabhängigkeit: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Toleranz, Entzugssymptome, Kontrollverlust.\n\nDifferenzialdiagnosen: Angststörung, Insomnie.\n\nWorauf achten: Abruptes Absetzen kann gefährlich sein."
+ },
+ {
+  "id": "gk10",
+  "topic": "Sucht",
+  "front": "Cannabisinduzierte Psychose: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: psychotische Symptome in zeitlichem Zusammenhang mit Konsum.\n\nDifferenzialdiagnosen: Schizophrenie, Manie.\n\nWorauf achten: Abstinenzverlauf und weitere Substanzen abklären."
+ },
+ {
+  "id": "gk11",
+  "topic": "Psychosen",
+  "front": "Schizophrenie: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Wahn, Halluzinationen, Ich-Störungen, formale Denkstörungen.\n\nDifferenzialdiagnosen: affektive Psychose, Delir, Drogenwirkung.\n\nWorauf achten: Akute Eigen- oder Fremdgefährdung einschätzen."
+ },
+ {
+  "id": "gk12",
+  "topic": "Psychosen",
+  "front": "Anhaltende wahnhafte Störung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: persistierender Wahn bei sonst teils relativ erhaltener Funktion.\n\nDifferenzialdiagnosen: Schizophrenie, organische Ursache.\n\nWorauf achten: Nicht konfrontativ argumentieren."
+ },
+ {
+  "id": "gk13",
+  "topic": "Psychosen",
+  "front": "Akute vorübergehende psychotische Störung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: rascher Beginn psychotischer Symptome.\n\nDifferenzialdiagnosen: Intoxikation, Delir, Manie.\n\nWorauf achten: Somatische und psychiatrische Akutabklärung."
+ },
+ {
+  "id": "gk14",
+  "topic": "Psychosen",
+  "front": "Schizoaffektive Störung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: affektive und schizophrene Symptome im selben Krankheitsabschnitt.\n\nDifferenzialdiagnosen: bipolare Störung mit psychotischen Symptomen.\n\nWorauf achten: Zeitlichen Verlauf sorgfältig erheben."
+ },
+ {
+  "id": "gk15",
+  "topic": "Psychosen",
+  "front": "Negativsymptomatik: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Affektverflachung, Antriebsmangel, sozialer Rückzug.\n\nDifferenzialdiagnosen: Depression, Medikamentennebenwirkung.\n\nWorauf achten: Funktionsniveau und Suizidrisiko prüfen."
+ },
+ {
+  "id": "gk16",
+  "topic": "Affekt & Angst",
+  "front": "Depressive Episode: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: gedrückte Stimmung, Interessenverlust, Antriebsminderung.\n\nDifferenzialdiagnosen: Trauer, Hypothyreose, Anpassungsstörung.\n\nWorauf achten: Suizidalität direkt ansprechen."
+ },
+ {
+  "id": "gk17",
+  "topic": "Affekt & Angst",
+  "front": "Manische Episode: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: gehobene oder gereizte Stimmung, Antriebssteigerung, Schlafbedürfnis vermindert.\n\nDifferenzialdiagnosen: Stimulanzien, Hyperthyreose, ADHS.\n\nWorauf achten: Selbstgefährdung und fehlende Krankheitseinsicht."
+ },
+ {
+  "id": "gk18",
+  "topic": "Affekt & Angst",
+  "front": "Bipolare Störung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: anamnestisch manische/hypomanische und depressive Phasen.\n\nDifferenzialdiagnosen: rezidivierende Depression, Borderline.\n\nWorauf achten: Antidepressiva und Phasenwechsel ärztlich beurteilen."
+ },
+ {
+  "id": "gk19",
+  "topic": "Affekt & Angst",
+  "front": "Dysthymie: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: langandauernde depressive Verstimmung.\n\nDifferenzialdiagnosen: depressive Episode, Persönlichkeitsstörung.\n\nWorauf achten: Zusätzliche depressive Episoden möglich."
+ },
+ {
+  "id": "gk20",
+  "topic": "Affekt & Angst",
+  "front": "Psychotische Depression: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: schwere Depression mit Wahn oder Halluzinationen.\n\nDifferenzialdiagnosen: schizoaffektive Störung, Schizophrenie.\n\nWorauf achten: Dringende fachärztliche Behandlung."
+ },
+ {
+  "id": "gk21",
+  "topic": "Affekt & Angst",
+  "front": "Panikstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: wiederkehrende unerwartete Panikattacken.\n\nDifferenzialdiagnosen: Arrhythmie, Hyperthyreose, Substanzen.\n\nWorauf achten: Erstmalige Brustschmerzen somatisch abklären."
+ },
+ {
+  "id": "gk22",
+  "topic": "Affekt & Angst",
+  "front": "Agoraphobie: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Angst in Situationen mit erschwerter Flucht oder Hilfe.\n\nDifferenzialdiagnosen: soziale Phobie, Panikstörung.\n\nWorauf achten: Vermeidungsverhalten erfragen."
+ },
+ {
+  "id": "gk23",
+  "topic": "Affekt & Angst",
+  "front": "Soziale Phobie: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Angst vor negativer Bewertung in sozialen Situationen.\n\nDifferenzialdiagnosen: Autismus, vermeidend-unsichere Persönlichkeit.\n\nWorauf achten: Leidensdruck und Funktionsbeeinträchtigung."
+ },
+ {
+  "id": "gk24",
+  "topic": "Affekt & Angst",
+  "front": "Generalisierte Angststörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: anhaltende Sorgen in mehreren Lebensbereichen.\n\nDifferenzialdiagnosen: Depression, Schilddrüsenerkrankung.\n\nWorauf achten: Schlafstörung und Substanzgebrauch prüfen."
+ },
+ {
+  "id": "gk25",
+  "topic": "Affekt & Angst",
+  "front": "Zwangsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: aufdringliche Gedanken und/oder ritualisierte Handlungen.\n\nDifferenzialdiagnosen: Psychose, zwanghafte Persönlichkeit.\n\nWorauf achten: Einsicht und Zeitaufwand prüfen."
+ },
+ {
+  "id": "gk26",
+  "topic": "Trauma & Belastung",
+  "front": "PTBS: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Wiedererleben, Vermeidung, Übererregung nach Trauma.\n\nDifferenzialdiagnosen: Anpassungsstörung, Depression, Dissoziation.\n\nWorauf achten: Sicherheit, Stabilisierung und Suizidalität prüfen."
+ },
+ {
+  "id": "gk27",
+  "topic": "Somatoform & Dissoziativ",
+  "front": "Dissoziative Störung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Funktionsausfälle oder verändertes Erleben ohne ausreichende organische Erklärung.\n\nDifferenzialdiagnosen: Epilepsie, neurologische Erkrankung.\n\nWorauf achten: Organische Diagnostik nicht überspringen."
+ },
+ {
+  "id": "gk28",
+  "topic": "Somatoform & Dissoziativ",
+  "front": "Somatisierungsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: multiple wiederkehrende körperliche Beschwerden mit hoher Belastung.\n\nDifferenzialdiagnosen: organische Erkrankung, Depression.\n\nWorauf achten: Körperliche Erkrankungen können komorbid sein."
+ },
+ {
+  "id": "gk29",
+  "topic": "Essstörungen",
+  "front": "Anorexia nervosa: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: restriktives Essen, Untergewicht, Gewichtsangst.\n\nDifferenzialdiagnosen: körperliche Gewichtsverlustursachen, Depression.\n\nWorauf achten: Bradykardie, Elektrolyte und akute Gefährdung ärztlich prüfen."
+ },
+ {
+  "id": "gk30",
+  "topic": "Essstörungen",
+  "front": "Bulimia nervosa: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Essanfälle und kompensatorische Maßnahmen.\n\nDifferenzialdiagnosen: Binge-Eating, Anorexie.\n\nWorauf achten: Elektrolytstörungen und Zahnschäden."
+ },
+ {
+  "id": "gk31",
+  "topic": "Weitere Störungen",
+  "front": "Nichtorganische Insomnie: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Ein- oder Durchschlafstörung mit Belastung.\n\nDifferenzialdiagnosen: Schlafapnoe, Depression, Substanzen.\n\nWorauf achten: Schlafanamnese und somatische Abklärung."
+ },
+ {
+  "id": "gk32",
+  "topic": "Weitere Störungen",
+  "front": "Nichtorganische sexuelle Funktionsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: sexuelle Funktionsprobleme mit psychischen Einflussfaktoren.\n\nDifferenzialdiagnosen: endokrine, vaskuläre, medikamentöse Ursachen.\n\nWorauf achten: Einfühlsam und ohne vorschnelle Psychologisierung."
+ },
+ {
+  "id": "gk33",
+  "topic": "Essstörungen",
+  "front": "Psychogene Essstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: auffälliges Essverhalten mit psychischer Belastung.\n\nDifferenzialdiagnosen: somatische Erkrankung, andere Essstörung.\n\nWorauf achten: Gewicht, Ernährung, Risikofaktoren erheben."
+ },
+ {
+  "id": "gk34",
+  "topic": "Persönlichkeit",
+  "front": "Emotional instabile Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Impulsivität, instabile Beziehungen, Affektregulationsprobleme.\n\nDifferenzialdiagnosen: bipolare Störung, PTBS, ADHS.\n\nWorauf achten: Selbstverletzung und Suizidalität sorgfältig prüfen."
+ },
+ {
+  "id": "gk35",
+  "topic": "Persönlichkeit",
+  "front": "Dissoziale Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: andauernde Missachtung sozialer Normen und Rechte anderer.\n\nDifferenzialdiagnosen: Substanzstörung, Manie.\n\nWorauf achten: Gefährdungsbeurteilung ohne Stigmatisierung."
+ },
+ {
+  "id": "gk36",
+  "topic": "Persönlichkeit",
+  "front": "Ängstlich-vermeidende Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: tiefgreifende Unsicherheit, Kritikempfindlichkeit, Vermeidung.\n\nDifferenzialdiagnosen: soziale Phobie.\n\nWorauf achten: Beginn und situationsübergreifendes Muster."
+ },
+ {
+  "id": "gk37",
+  "topic": "Persönlichkeit",
+  "front": "Anankastische Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Perfektionismus, Kontrollbedürfnis, Rigidität.\n\nDifferenzialdiagnosen: Zwangsstörung.\n\nWorauf achten: Ich-syntone Muster versus ich-dystone Zwänge."
+ },
+ {
+  "id": "gk38",
+  "topic": "Persönlichkeit",
+  "front": "Paranoide Persönlichkeitsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: anhaltendes Misstrauen und Überempfindlichkeit.\n\nDifferenzialdiagnosen: wahnhafte Störung, Trauma.\n\nWorauf achten: Realitätsprüfung und Verlauf."
+ },
+ {
+  "id": "gk39",
+  "topic": "Weitere Störungen",
+  "front": "Leichte Intelligenzstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Beeinträchtigung intellektueller und adaptiver Fähigkeiten seit Entwicklung.\n\nDifferenzialdiagnosen: Lernstörung, mangelnde Beschulung.\n\nWorauf achten: Standardisierte Diagnostik und Ressourcen."
+ },
+ {
+  "id": "gk40",
+  "topic": "Weitere Störungen",
+  "front": "Mittelgradige Intelligenzstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: deutlich eingeschränkte adaptive und kognitive Fähigkeiten.\n\nDifferenzialdiagnosen: Autismus, Sinnesbehinderung.\n\nWorauf achten: Kommunikation und Unterstützung bedarfsgerecht."
+ },
+ {
+  "id": "gk41",
+  "topic": "Weitere Störungen",
+  "front": "Schwere Intelligenzstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: ausgeprägte Einschränkungen in Alltag und Lernen.\n\nDifferenzialdiagnosen: neurologische Erkrankung.\n\nWorauf achten: Somatische Komorbiditäten."
+ },
+ {
+  "id": "gk42",
+  "topic": "Weitere Störungen",
+  "front": "Verhaltensauffälligkeit bei Intelligenzstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: belastendes Verhalten im Kontext begrenzter Ausdrucksmöglichkeiten.\n\nDifferenzialdiagnosen: Schmerz, Überforderung, psychische Störung.\n\nWorauf achten: Zuerst Ursachen und Umweltfaktoren prüfen."
+ },
+ {
+  "id": "gk43",
+  "topic": "Weitere Störungen",
+  "front": "Intelligenzdiagnostik: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: kognitive Tests plus adaptive Alltagsfunktion.\n\nDifferenzialdiagnosen: Sprachbarriere, Hörstörung.\n\nWorauf achten: Einzelwert nicht isoliert bewerten."
+ },
+ {
+  "id": "gk44",
+  "topic": "Kinder & Jugend",
+  "front": "Autismus-Spektrum: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Besonderheiten sozialer Kommunikation und repetitive Muster seit Entwicklung.\n\nDifferenzialdiagnosen: soziale Angst, ADHS, Sprachstörung.\n\nWorauf achten: Sensorische Belastung und Komorbiditäten."
+ },
+ {
+  "id": "gk45",
+  "topic": "Kinder & Jugend",
+  "front": "Umschriebene Lesestörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: spezifische Schwierigkeiten beim Lesen.\n\nDifferenzialdiagnosen: Intelligenzstörung, Seh- oder Hörproblem.\n\nWorauf achten: Entwicklungs- und Schulverlauf."
+ },
+ {
+  "id": "gk46",
+  "topic": "Kinder & Jugend",
+  "front": "Umschriebene Rechenstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: spezifische Schwierigkeiten im Rechnen.\n\nDifferenzialdiagnosen: unzureichender Unterricht, Intelligenzstörung.\n\nWorauf achten: Gezielte Diagnostik."
+ },
+ {
+  "id": "gk47",
+  "topic": "Kinder & Jugend",
+  "front": "Sprachentwicklungsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Entwicklungsdefizite des Sprachverständnisses oder Ausdrucks.\n\nDifferenzialdiagnosen: Hörstörung, Autismus.\n\nWorauf achten: Hörprüfung und Entwicklungsanamnese."
+ },
+ {
+  "id": "gk48",
+  "topic": "Kinder & Jugend",
+  "front": "Motorische Entwicklungsstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: ausgeprägte motorische Koordinationsprobleme.\n\nDifferenzialdiagnosen: neurologische Erkrankung, Sehproblem.\n\nWorauf achten: Neuropädiatrische Abklärung."
+ },
+ {
+  "id": "gk49",
+  "topic": "Kinder & Jugend",
+  "front": "ADHS: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: Unaufmerksamkeit und/oder Hyperaktivität-Impulsivität situationsübergreifend.\n\nDifferenzialdiagnosen: Angst, Schlafmangel, Trauma.\n\nWorauf achten: Beginn in Kindheit und Funktionsbeeinträchtigung."
+ },
+ {
+  "id": "gk50",
+  "topic": "Kinder & Jugend",
+  "front": "Störung des Sozialverhaltens: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: anhaltendes Muster schwerer Regelverletzungen.\n\nDifferenzialdiagnosen: ADHS, Trauma, Manie.\n\nWorauf achten: Familiären Kontext und Gefährdung prüfen."
+ },
+ {
+  "id": "gk51",
+  "topic": "Kinder & Jugend",
+  "front": "Trennungsangst des Kindesalters: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: entwicklungsunangemessene Angst vor Trennung.\n\nDifferenzialdiagnosen: generalisierte Angst, Anpassungsstörung.\n\nWorauf achten: Schulbesuch und Belastungen."
+ },
+ {
+  "id": "gk52",
+  "topic": "Kinder & Jugend",
+  "front": "Ticstörung: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: plötzliche wiederholte motorische oder vokale Tics.\n\nDifferenzialdiagnosen: Stereotypien, neurologische Bewegungsstörung.\n\nWorauf achten: Verlauf, Belastung und Komorbidität ADHS/Zwang."
+ },
+ {
+  "id": "gk53",
+  "topic": "Kinder & Jugend",
+  "front": "Enuresis: Leitsymptome, Differenzialdiagnosen und worauf achten Sie?",
+  "back": "Leitsymptome: wiederholtes Einnässen jenseits des üblichen Entwicklungsalters.\n\nDifferenzialdiagnosen: Harnwegsinfekt, Diabetes, neurologische Ursache.\n\nWorauf achten: Pädiatrische Abklärung und keine Beschämung."
+ },
+ {
+  "id": "gk54",
+  "topic": "Affekt & Angst",
+  "front": "Wie fragen Sie konkret nach Suizidalität?",
+  "back": "Direkt und wertfrei nach Todeswünschen, Gedanken, Plänen, Mitteln, Vorbereitungen, früheren Versuchen und Schutzfaktoren fragen."
+ },
+ {
+  "id": "gk55",
+  "topic": "Affekt & Angst",
+  "front": "Was tun Sie bei konkretem Suizidplan und verfügbarer Methode?",
+  "back": "Nicht allein lassen, akute Hilfe über Rettungsdienst/psychiatrischen Krisendienst organisieren; Schutz und Übergabe dokumentieren."
+ },
+ {
+  "id": "gk56",
+  "topic": "Grundlagen",
+  "front": "Welche Dimensionen gehören in den psychopathologischen Befund?",
+  "back": "Bewusstsein, Orientierung, Aufmerksamkeit, Gedächtnis, Denken, Wahrnehmung, Ich-Erleben, Affekt, Antrieb, Psychomotorik und Gefährdung."
+ },
+ {
+  "id": "gk57",
+  "topic": "Grundlagen",
+  "front": "Was unterscheidet formale und inhaltliche Denkstörungen?",
+  "back": "Formal betrifft Denkablauf (z.B. Ideenflucht); inhaltlich betrifft Überzeugungsinhalte (z.B. Wahn)."
+ },
+ {
+  "id": "gk58",
+  "topic": "Recht & Praxis",
+  "front": "Darf ein HPP Psychopharmaka verordnen?",
+  "back": "Nein, eine Verordnung verschreibungspflichtiger Psychopharmaka gehört nicht zur HPP-Befugnis."
+ },
+ {
+  "id": "gk59",
+  "topic": "Recht & Praxis",
+  "front": "Was ist bei möglicher akuter Kindeswohlgefährdung wichtig?",
+  "back": "Gefährdung konkret einschätzen, Schutz organisieren, einschlägige Melde- und Schweigepflichtregeln prüfen und fachliche Hilfe hinzuziehen."
+ },
+ {
+  "id": "gk60",
+  "topic": "Differenzialdiagnose",
+  "front": "Welche Zeichen sprechen für ein Delir statt einer primären Psychose?",
+  "back": "Akute Fluktuation, Aufmerksamkeits- und Bewusstseinsstörung sowie möglicher somatischer Auslöser."
+ },
+ {
+  "id": "gk61",
+  "topic": "Differenzialdiagnose",
+  "front": "Was ist bei plötzlicher Lähmung oder Sprachstörung zu tun?",
+  "back": "Schlaganfallverdacht: sofort 112; keine psychogene Ursache annehmen."
+ },
+ {
+  "id": "gk62",
+  "topic": "Affekt & Angst",
+  "front": "Wie unterscheiden Sie Trauer und depressive Episode?",
+  "back": "Zeitlicher Kontext, Selbstwert, pervasive Anhedonie, Schuld, Funktion und Suizidalität prüfen; keine einfache starre Grenze."
+ },
+ {
+  "id": "gk63",
+  "topic": "Differenzialdiagnose",
+  "front": "Welche körperlichen Ursachen können Angstsymptome auslösen?",
+  "back": "Unter anderem Schilddrüsenüberfunktion, Arrhythmie, Hypoglykämie und Substanzwirkungen."
+ },
+ {
+  "id": "gk64",
+  "topic": "Differenzialdiagnose",
+  "front": "Warum ist Substanzkonsum bei psychischen Störungen routinemäßig zu erheben?",
+  "back": "Substanzen können Symptome auslösen, verstärken, maskieren und Behandlungen beeinflussen."
+ },
+ {
+  "id": "gk65",
+  "topic": "Differenzialdiagnose",
+  "front": "Eine Klientin hört Stimmen mit Befehlen zur Selbstverletzung. Wie reagieren Sie?",
+  "back": "Art der Stimmen, Befehlscharakter, Absicht und Fähigkeit zur Distanzierung erfragen; bei akuter Gefahr Notfallhilfe."
+ },
+ {
+  "id": "gk66",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein Klient schläft seit vier Nächten kaum und tätigt riskante Käufe. Was prüfen Sie?",
+  "back": "Manie/Hypomanie, Substanzen und körperliche Ursachen; Eigengefährdung und zeitnahe psychiatrische Abklärung."
+ },
+ {
+  "id": "gk67",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein älterer Mensch ist seit gestern verwirrt und fiebrig. Was ist prioritär?",
+  "back": "Delir und Infektion als akuten medizinischen Notfall abklären lassen."
+ },
+ {
+  "id": "gk68",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein Jugendlicher zeigt Konzentrationsprobleme nach belastendem Ereignis. Warum nicht sofort ADHS?",
+  "back": "Trauma, Schlaf, Angst, Depression und zeitlichen Beginn prüfen; ADHS verlangt Entwicklungsgeschichte und mehrere Lebensbereiche."
+ },
+ {
+  "id": "gk69",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein Patient mit Essstörung berichtet Ohnmacht und Herzrasen. Wie gehen Sie vor?",
+  "back": "Sofortige medizinische Abklärung wegen Kreislauf- und Elektrolytrisiken."
+ },
+ {
+  "id": "gk70",
+  "topic": "Differenzialdiagnose",
+  "front": "Eine Klientin schildert Zwänge, hält sie aber für unsinnig. Was differenzieren Sie?",
+  "back": "Ich-dystone Zwangsgedanken/-handlungen versus wahnhafte Überzeugungen und anankastische Persönlichkeitszüge."
+ },
+ {
+  "id": "gk71",
+  "topic": "Differenzialdiagnose",
+  "front": "Ein Klient berichtet Panik und Brustdruck beim ersten Auftreten. Wie handeln Sie?",
+  "back": "Akute kardiale/medizinische Ursachen ausschließen lassen, bei Warnzeichen Notruf."
+ },
+ {
+  "id": "gk72",
+  "topic": "Affekt & Angst",
+  "front": "Eine Person berichtet Flashbacks und trinkt täglich Alkohol. Welche Komorbidität prüfen Sie?",
+  "back": "PTBS und Alkoholkonsumstörung getrennt erheben; Entzugs- und Suizidrisiken beachten."
+ },
+ {
+  "id": "gk73",
+  "topic": "Affekt & Angst",
+  "front": "Eine depressive Klientin sagt: „Morgen ist alles vorbei.“ Wie reagieren Sie?",
+  "back": "Nicht bagatellisieren; unmittelbar Suizidalität, Plan, Mittel, Schutzfaktoren erfragen und Sicherheitsmaßnahmen einleiten."
+ },
+ {
+  "id": "hq001",
+  "topic": "Organisch",
+  "front": "Welche drei Kernmerkmale sprechen für ein Delir?",
+  "back": "Akuter Beginn, fluktuierender Verlauf und Aufmerksamkeitsstörung; häufig Bewusstseins- und Orientierungsstörungen. Somatische Notfallabklärung."
+ },
+ {
+  "id": "hq002",
+  "topic": "Organisch",
+  "front": "Wie grenzt man Delir und Demenz ab?",
+  "back": "Delir: Stunden bis Tage, schwankende Aufmerksamkeit. Demenz: meist schleichender Verlauf, anfangs relativ stabile Wachheit. Beide können gleichzeitig vorliegen."
+ },
+ {
+  "id": "hq003",
+  "topic": "Organisch",
+  "front": "Welche reversiblen Ursachen kognitiver Defizite sind wichtig?",
+  "back": "Depression, Hypothyreose, Vitamin-B12-Mangel, Medikamente, Schlafmangel, Infektion und metabolische Störungen ärztlich prüfen lassen."
+ },
+ {
+  "id": "hq004",
+  "topic": "Organisch",
+  "front": "Was kennzeichnet eine Alzheimer-Demenz?",
+  "back": "Meist schleichender Beginn und fortschreitende Beeinträchtigung mehrerer kognitiver Funktionen mit Alltagsrelevanz."
+ },
+ {
+  "id": "hq005",
+  "topic": "Organisch",
+  "front": "Welche Hinweise sprechen für vaskuläre kognitive Störungen?",
+  "back": "Vaskuläre Risikofaktoren, fokalneurologische Befunde, zeitlicher Bezug zu vaskulären Ereignissen; Verlauf kann stufenweise sein."
+ },
+ {
+  "id": "hq006",
+  "topic": "Organisch",
+  "front": "Was ist eine organische Halluzinose?",
+  "back": "Halluzinationen aufgrund einer körperlichen oder hirnorganischen Ursache; differenzialdiagnostisch Substanzen, Delir und Psychose prüfen."
+ },
+ {
+  "id": "hq007",
+  "topic": "Organisch",
+  "front": "Wie äußert sich ein amnestisches Syndrom?",
+  "back": "Ausgeprägte Störung des Neulernens/Gedächtnisses bei vergleichsweise erhaltener Wachheit; Ursachen wie Thiaminmangel prüfen."
+ },
+ {
+  "id": "hq008",
+  "topic": "Organisch",
+  "front": "Was ist bei plötzlicher Wesensänderung zu tun?",
+  "back": "Somatische Ursachen, neurologische Akutereignisse, Intoxikation und Delir priorisiert ärztlich abklären."
+ },
+ {
+  "id": "hq009",
+  "topic": "Organisch",
+  "front": "Welche Komorbiditäten treten bei Demenz häufig auf?",
+  "back": "Depressive Symptome, Angst, Schlafstörungen, psychotische Symptome und Delir; Belastung Angehöriger beachten."
+ },
+ {
+  "id": "hq011",
+  "topic": "Sucht",
+  "front": "Welche Kriterien sprechen für ein Abhängigkeitssyndrom?",
+  "back": "Unter anderem starkes Verlangen, Kontrollverlust, Entzug, Toleranz, Vernachlässigung anderer Interessen und Fortsetzung trotz Schäden; ICD-10: typischerweise drei Kriterien im selben Jahr."
+ },
+ {
+  "id": "hq012",
+  "topic": "Sucht",
+  "front": "Was unterscheidet schädlichen Gebrauch und Abhängigkeit?",
+  "back": "Schädlicher Gebrauch erfordert nachweisliche Gesundheitsschädigung; Abhängigkeit umfasst das charakteristische Syndrom aus mehreren Kriterien."
+ },
+ {
+  "id": "hq013",
+  "topic": "Sucht",
+  "front": "Welche Gefahr birgt Alkoholentzug?",
+  "back": "Krampfanfälle und Delirium tremens können lebensbedrohlich sein; medizinisch überwachte Entgiftung erforderlich."
+ },
+ {
+  "id": "hq014",
+  "topic": "Sucht",
+  "front": "Welche Zeichen sprechen für Opioidintoxikation?",
+  "back": "Miosis, Atemdepression und Bewusstseinsminderung sind typisch; Notruf und Akutversorgung."
+ },
+ {
+  "id": "hq015",
+  "topic": "Sucht",
+  "front": "Wie zeigt sich ein Alkoholentzugsdelir?",
+  "back": "Tremor, vegetative Übererregung, Desorientierung, Wahrnehmungsstörungen und fluktuierende Aufmerksamkeit; Notfall."
+ },
+ {
+  "id": "hq016",
+  "topic": "Sucht",
+  "front": "Was ist bei Benzodiazepinabhängigkeit zu beachten?",
+  "back": "Abruptes Absetzen kann schwere Entzugssymptome einschließlich Krampfanfällen auslösen; ärztlich begleitet ausschleichen."
+ },
+ {
+  "id": "hq017",
+  "topic": "Sucht",
+  "front": "Welche Differenzialdiagnosen hat eine substanzinduzierte Psychose?",
+  "back": "Primäre psychotische Störung, Delir, neurologische Erkrankung und Medikamentenwirkung; zeitlichen Substanzbezug prüfen."
+ },
+ {
+  "id": "hq018",
+  "topic": "Sucht",
+  "front": "Welche häufigen Komorbiditäten bestehen bei Alkoholabhängigkeit?",
+  "back": "Depression, Angststörungen, Traumafolgen und weitere Substanzstörungen; Suizidrisiko beachten."
+ },
+ {
+  "id": "hq019",
+  "topic": "Sucht",
+  "front": "Wie ist motivierende Gesprächsführung charakterisiert?",
+  "back": "Empathische, nicht konfrontative Gesprächsführung; Ambivalenz explorieren, Veränderungsbereitschaft stärken, Autonomie achten."
+ },
+ {
+  "id": "hq021",
+  "topic": "Psychosen",
+  "front": "Was unterscheidet Halluzination und Illusion?",
+  "back": "Halluzination: Wahrnehmung ohne entsprechenden äußeren Reiz. Illusion: Fehlinterpretation eines vorhandenen Reizes."
+ },
+ {
+  "id": "hq022",
+  "topic": "Psychosen",
+  "front": "Was ist eine Wahnwahrnehmung?",
+  "back": "Einer realen Wahrnehmung wird eine abnorme, meist selbstbezogene wahnhafte Bedeutung zugeschrieben."
+ },
+ {
+  "id": "hq023",
+  "topic": "Psychosen",
+  "front": "Welche Ich-Störungen sind prüfungsrelevant?",
+  "back": "Gedankeneingebung, Gedankenentzug, Gedankenausbreitung sowie Beeinflussungserlebnisse."
+ },
+ {
+  "id": "hq024",
+  "topic": "Psychosen",
+  "front": "Was sind Negativsymptome?",
+  "back": "Zum Beispiel Affektverflachung, Antriebsminderung, Sprachverarmung und sozialer Rückzug."
+ },
+ {
+  "id": "hq025",
+  "topic": "Psychosen",
+  "front": "Wie grenzt man Schizophrenie von schizoaffektiver Störung ab?",
+  "back": "Bei schizoaffektiver Störung treten ausgeprägte affektive und schizophrene Symptome in derselben Episode gemeinsam hervor."
+ },
+ {
+  "id": "hq026",
+  "topic": "Psychosen",
+  "front": "Welche organischen Ursachen psychotischer Symptome sind auszuschließen?",
+  "back": "Substanzen, Medikamente, Epilepsie, endokrine/metabolische Störungen, Delir und neurologische Erkrankungen."
+ },
+ {
+  "id": "hq027",
+  "topic": "Psychosen",
+  "front": "Was kennzeichnet eine anhaltende wahnhafte Störung?",
+  "back": "Über längere Zeit bestehender Wahn ohne das für Schizophrenie typische breite Symptombild."
+ },
+ {
+  "id": "hq028",
+  "topic": "Psychosen",
+  "front": "Was bedeutet formale Denkzerfahrenheit?",
+  "back": "Gedankengänge verlieren ihren nachvollziehbaren Zusammenhang; bis zu Inkohärenz."
+ },
+ {
+  "id": "hq029",
+  "topic": "Psychosen",
+  "front": "Wie reagiert man auf Verfolgungswahn im Erstgespräch?",
+  "back": "Nicht bestätigen oder konfrontativ widerlegen; Leidensdruck, Realitätsprüfung, Gefährdung und fachärztliche Versorgung klären."
+ },
+ {
+  "id": "hq031",
+  "topic": "Affekt & Angst",
+  "front": "Welche Hauptsymptome kennzeichnen eine depressive Episode?",
+  "back": "Gedrückte Stimmung, Interessen-/Freudverlust und verminderter Antrieb; Zusatzsymptome und Dauer berücksichtigen."
+ },
+ {
+  "id": "hq032",
+  "topic": "Affekt & Angst",
+  "front": "Was ist der Unterschied zwischen Depression und normaler Trauer?",
+  "back": "Bei Depression persistierende Symptomkonstellation mit deutlicher Funktionsbeeinträchtigung; Trauer kann wellenförmig und situationsbezogen sein. Überschneidungen möglich."
+ },
+ {
+  "id": "hq033",
+  "topic": "Affekt & Angst",
+  "front": "Was kennzeichnet eine Manie?",
+  "back": "Gehobene oder gereizte Stimmung, gesteigerter Antrieb/Aktivität, vermindertes Schlafbedürfnis, Enthemmung und mögliche Selbstüberschätzung."
+ },
+ {
+  "id": "hq034",
+  "topic": "Affekt & Angst",
+  "front": "Was unterscheidet Hypomanie und Manie?",
+  "back": "Hypomanie ist weniger schwer und führt nicht zu der für Manie typischen ausgeprägten Beeinträchtigung bzw. psychotischen Symptomen."
+ },
+ {
+  "id": "hq035",
+  "topic": "Affekt & Angst",
+  "front": "Was ist eine bipolare Störung?",
+  "back": "Wiederkehrende affektive Episoden mit mindestens einer manischen, hypomanischen oder gemischten Episode je nach Untertyp."
+ },
+ {
+  "id": "hq036",
+  "topic": "Affekt & Angst",
+  "front": "Warum ist bei Depression nach früherer Hypomanie zu fragen?",
+  "back": "Um bipolare Verläufe zu erkennen; die Behandlungsplanung unterscheidet sich wesentlich."
+ },
+ {
+  "id": "hq037",
+  "topic": "Affekt & Angst",
+  "front": "Welche somatischen Differenzialdiagnosen sind bei Depression wichtig?",
+  "back": "Hypothyreose, Anämie, Schlafapnoe, neurologische Erkrankungen, Medikamente und Substanzen."
+ },
+ {
+  "id": "hq038",
+  "topic": "Affekt & Angst",
+  "front": "Was ist Dysthymia?",
+  "back": "Chronisch anhaltende depressive Verstimmung, meist weniger ausgeprägt als eine depressive Episode, über Jahre."
+ },
+ {
+  "id": "hq039",
+  "topic": "Affekt & Angst",
+  "front": "Welche Komorbiditäten begleiten Depression häufig?",
+  "back": "Angststörungen, Substanzgebrauch, Schlafstörungen und somatische Erkrankungen."
+ },
+ {
+  "id": "hq041",
+  "topic": "Affekt & Angst",
+  "front": "Wie unterscheiden sich Panikattacke und Panikstörung?",
+  "back": "Panikattacke ist ein einzelnes Angstepisodenereignis; Panikstörung umfasst wiederkehrende unerwartete Attacken und Folgebefürchtungen."
+ },
+ {
+  "id": "hq042",
+  "topic": "Somatoform & Dissoziativ",
+  "front": "Welche somatischen Ursachen sind bei erstmaliger Paniksymptomatik wichtig?",
+  "back": "Unter anderem Herzrhythmusstörung, Hyperthyreose, Hypoglykämie, Asthma und Substanzeffekte; ärztlich abklären."
+ },
+ {
+  "id": "hq043",
+  "topic": "Affekt & Angst",
+  "front": "Was kennzeichnet Agoraphobie?",
+  "back": "Angst vor Situationen, aus denen Flucht schwierig oder Hilfe schwer erreichbar erscheint, oft mit Vermeidung."
+ },
+ {
+  "id": "hq044",
+  "topic": "Affekt & Angst",
+  "front": "Was ist eine soziale Phobie?",
+  "back": "Ausgeprägte Angst vor negativer Bewertung in sozialen oder Leistungssituationen mit Vermeidung/Leidensdruck."
+ },
+ {
+  "id": "hq045",
+  "topic": "Affekt & Angst",
+  "front": "Wie zeigt sich eine generalisierte Angststörung?",
+  "back": "Anhaltende, schwer kontrollierbare Sorgen in mehreren Lebensbereichen mit Anspannung und vegetativen Symptomen."
+ },
+ {
+  "id": "hq046",
+  "topic": "Affekt & Angst",
+  "front": "Was unterscheidet Zwangsgedanken und Wahn?",
+  "back": "Zwangsgedanken werden häufig als eigene, unerwünschte Gedanken erlebt; bei Wahn besteht oft hohe Überzeugung und eingeschränkte Korrigierbarkeit."
+ },
+ {
+  "id": "hq047",
+  "topic": "Affekt & Angst",
+  "front": "Was ist der Unterschied zwischen Zwangshandlung und Tic?",
+  "back": "Zwangshandlung folgt meist Regeln/Angstreduktion; Tic ist plötzlich, kurz und repetitiv, oft mit Vorgefühl."
+ },
+ {
+  "id": "hq048",
+  "topic": "Trauma & Belastung",
+  "front": "Welche Kernsymptome kennzeichnen PTBS?",
+  "back": "Wiedererleben, Vermeidung und anhaltendes Bedrohungserleben/Übererregung nach extrem belastendem Ereignis; ICD-10-spezifische Kriterien beachten."
+ },
+ {
+  "id": "hq049",
+  "topic": "Trauma & Belastung",
+  "front": "Wie grenzt man Anpassungsstörung und PTBS ab?",
+  "back": "Anpassungsstörung folgt identifizierbarer Belastung ohne zwingend außergewöhnliches Trauma; PTBS setzt entsprechend schweres Trauma voraus."
+ },
+ {
+  "id": "hq051",
+  "topic": "Essstörungen",
+  "front": "Was kennzeichnet Anorexia nervosa?",
+  "back": "Absichtlich herbeigeführtes Untergewicht, starke Angst vor Gewichtszunahme bzw. gewichtbezogene psychopathologische Merkmale; somatische Gefährdung prüfen."
+ },
+ {
+  "id": "hq052",
+  "topic": "Essstörungen",
+  "front": "Was kennzeichnet Bulimia nervosa?",
+  "back": "Wiederholte Essanfälle mit Kontrollverlust und kompensatorischem Verhalten wie Erbrechen oder Laxanzienmissbrauch."
+ },
+ {
+  "id": "hq053",
+  "topic": "Essstörungen",
+  "front": "Welche medizinischen Risiken bestehen bei Bulimie?",
+  "back": "Elektrolytstörungen, Herzrhythmusstörungen, Zahnschäden und Ösophagusprobleme; medizinische Abklärung."
+ },
+ {
+  "id": "hq054",
+  "topic": "Essstörungen",
+  "front": "Wie grenzt man Binge-Eating und Bulimie ab?",
+  "back": "Bei Binge-Eating fehlen regelmäßig eingesetzte unangemessene kompensatorische Maßnahmen."
+ },
+ {
+  "id": "hq055",
+  "topic": "Essstörungen",
+  "front": "Welche Differenzialdiagnosen bestehen bei Gewichtsverlust?",
+  "back": "Malignität, Hyperthyreose, gastrointestinale Erkrankungen, Depression, Substanzen und Essstörung."
+ },
+ {
+  "id": "hq056",
+  "topic": "Essstörungen",
+  "front": "Was ist psychophysiologische Insomnie?",
+  "back": "Schlafstörung mit erlernter Anspannung und ungünstigen Schlafassoziationen; andere Schlafursachen prüfen."
+ },
+ {
+  "id": "hq057",
+  "topic": "Essstörungen",
+  "front": "Welche häufige Komorbidität hat Anorexie?",
+  "back": "Angst- und Zwangssymptome sowie Depression; erhöhtes Suizid- und somatisches Risiko."
+ },
+ {
+  "id": "hq058",
+  "topic": "Essstörungen",
+  "front": "Was ist bei Verdacht auf Schlafapnoe zu tun?",
+  "back": "Bei Schnarchen, Atempausen und Tagesschläfrigkeit schlafmedizinische Abklärung veranlassen."
+ },
+ {
+  "id": "hq059",
+  "topic": "Essstörungen",
+  "front": "Was kennzeichnet nichtorganische sexuelle Funktionsstörungen?",
+  "back": "Sexuelle Funktionsprobleme mit wesentlichen psychischen/Beziehungsfaktoren, nachdem somatische und medikamentöse Ursachen berücksichtigt wurden."
+ },
+ {
+  "id": "hq061",
+  "topic": "Persönlichkeit",
+  "front": "Was sind allgemeine Merkmale einer Persönlichkeitsstörung?",
+  "back": "Überdauernde, unflexible Muster von Erleben und Verhalten mit Beeinträchtigung/Leidensdruck; seit Jugend/frühem Erwachsenenalter."
+ },
+ {
+  "id": "hq062",
+  "topic": "Persönlichkeit",
+  "front": "Welche Merkmale sind bei emotional-instabiler Persönlichkeitsstörung relevant?",
+  "back": "Impulsivität und Affektinstabilität; beim Borderline-Typ zusätzlich instabile Beziehungen, Selbstbildstörungen und Selbstverletzungsrisiko."
+ },
+ {
+  "id": "hq063",
+  "topic": "Persönlichkeit",
+  "front": "Wie grenzt man Borderline-Symptome von bipolarer Störung ab?",
+  "back": "Bipolare Episoden dauern typischerweise Tage bis Wochen; bei Borderline sind Affektwechsel oft schneller und interpersonell getriggert. Komorbidität möglich."
+ },
+ {
+  "id": "hq064",
+  "topic": "Persönlichkeit",
+  "front": "Was kennzeichnet paranoide Persönlichkeitsstörung?",
+  "back": "Überdauerndes Misstrauen und feindselige Interpretation anderer Motive ohne notwendigerweise fixierten Wahn."
+ },
+ {
+  "id": "hq065",
+  "topic": "Persönlichkeit",
+  "front": "Was kennzeichnet zwanghafte Persönlichkeitsstörung?",
+  "back": "Übermäßiger Perfektionismus, Kontrollbedürfnis und Starrheit; nicht gleichbedeutend mit Zwangsstörung."
+ },
+ {
+  "id": "hq066",
+  "topic": "Persönlichkeit",
+  "front": "Was kennzeichnet vermeidend-selbstunsichere Persönlichkeitsstörung?",
+  "back": "Soziale Hemmung, Insuffizienzgefühle und Überempfindlichkeit gegenüber Kritik trotz Wunsch nach Nähe."
+ },
+ {
+  "id": "hq067",
+  "topic": "Persönlichkeit",
+  "front": "Wie unterscheidet sich histrionische von narzisstischer Persönlichkeitsstörung?",
+  "back": "Histrionisch: starke Expressivität und Suche nach Aufmerksamkeit; narzisstisch: Grandiosität/Anspruchshaltung und Bedürfnis nach Bewunderung."
+ },
+ {
+  "id": "hq068",
+  "topic": "Persönlichkeit",
+  "front": "Welche Komorbiditäten sind bei Borderline häufig?",
+  "back": "Depression, PTBS, Substanzstörungen, Essstörungen und Angststörungen."
+ },
+ {
+  "id": "hq069",
+  "topic": "Persönlichkeit",
+  "front": "Welche Haltung ist bei Persönlichkeitsstörungen hilfreich?",
+  "back": "Validierend, strukturiert, transparent, mit klaren Grenzen und konsequenter Risikoabschätzung."
+ },
+ {
+  "id": "hq071",
+  "topic": "Weitere Störungen",
+  "front": "Was kennzeichnet eine Intelligenzminderung?",
+  "back": "Entwicklungsbedingt unterdurchschnittliche intellektuelle Fähigkeiten und eingeschränkte adaptive Funktionen; fachdiagnostisch erfassen."
+ },
+ {
+  "id": "hq072",
+  "topic": "Weitere Störungen",
+  "front": "Welche Bereiche adaptiver Fähigkeiten sind relevant?",
+  "back": "Konzeptuelle, soziale und praktische Alltagskompetenzen."
+ },
+ {
+  "id": "hq073",
+  "topic": "Weitere Störungen",
+  "front": "Was unterscheidet Intelligenzminderung von erworbener Demenz?",
+  "back": "Intelligenzminderung beginnt in der Entwicklung; Demenz ist erworbener kognitiver Abbau."
+ },
+ {
+  "id": "hq074",
+  "topic": "Weitere Störungen",
+  "front": "Welche Ursachen kommen bei Intelligenzminderung infrage?",
+  "back": "Genetische, pränatale, perinatale und postnatale Ursachen; häufig multifaktoriell."
+ },
+ {
+  "id": "hq075",
+  "topic": "Weitere Störungen",
+  "front": "Welche psychiatrischen Komorbiditäten können auftreten?",
+  "back": "ADHS, Autismus, Angst, Depression, Verhaltensauffälligkeiten und Epilepsie."
+ },
+ {
+  "id": "hq076",
+  "topic": "Weitere Störungen",
+  "front": "Wie passt man ein Anamnesegespräch an?",
+  "back": "Leichte Sprache, konkrete Fragen, ausreichend Zeit, Verständnis prüfen, unterstützte Kommunikation."
+ },
+ {
+  "id": "hq077",
+  "topic": "Weitere Störungen",
+  "front": "Warum dürfen Verhaltensänderungen nicht vorschnell psychiatrisiert werden?",
+  "back": "Schmerzen, Überforderung, sensorische Probleme und somatische Erkrankungen können Ursache sein."
+ },
+ {
+  "id": "hq078",
+  "topic": "Weitere Störungen",
+  "front": "Was ist diagnostisches Überschatten?",
+  "back": "Psychische oder körperliche Symptome werden fälschlich allein der Intelligenzminderung zugeschrieben."
+ },
+ {
+  "id": "hq079",
+  "topic": "Weitere Störungen",
+  "front": "Was ist bei Einwilligungsfähigkeit wichtig?",
+  "back": "Sie ist entscheidungs- und situationsbezogen zu beurteilen, nicht pauschal aus einer Diagnose abzuleiten."
+ },
+ {
+  "id": "hq081",
+  "topic": "Kinder & Jugend",
+  "front": "Was kennzeichnet eine umschriebene Entwicklungsstörung des Lesens?",
+  "back": "Deutliche, nicht allein durch mangelnde Beschulung oder Intelligenzminderung erklärte Schwierigkeiten beim Lesen."
+ },
+ {
+  "id": "hq082",
+  "topic": "Kinder & Jugend",
+  "front": "Was kennzeichnet eine Rechenstörung?",
+  "back": "Umschriebene und anhaltende Beeinträchtigung grundlegender Rechenfertigkeiten."
+ },
+ {
+  "id": "hq083",
+  "topic": "Kinder & Jugend",
+  "front": "Welche Kernbereiche sind bei Autismus betroffen?",
+  "back": "Soziale Kommunikation/Interaktion und eingeschränkte, repetitive Verhaltensmuster; ICD-10-F84-Untergruppen beachten."
+ },
+ {
+  "id": "hq084",
+  "topic": "Kinder & Jugend",
+  "front": "Wie unterscheiden sich Autismus und soziale Angst?",
+  "back": "Autismus ist neuroentwicklungsbedingt mit frühen Besonderheiten sozialer Kommunikation; soziale Angst beruht primär auf Bewertungsfurcht."
+ },
+ {
+  "id": "hq085",
+  "topic": "Kinder & Jugend",
+  "front": "Welche Komorbiditäten treten bei Autismus häufig auf?",
+  "back": "ADHS, Angst, Depression, Schlafprobleme und teils Intelligenzminderung."
+ },
+ {
+  "id": "hq086",
+  "topic": "Kinder & Jugend",
+  "front": "Was bedeutet Entwicklungsanamnese?",
+  "back": "Erfassung früher Meilensteine, Sprache, Sozialverhalten, Lernen und familiärem/medizinischem Kontext."
+ },
+ {
+  "id": "hq087",
+  "topic": "Kinder & Jugend",
+  "front": "Was kennzeichnet eine expressive Sprachentwicklungsstörung?",
+  "back": "Ausdruckssprachliche Fähigkeiten deutlich unter Altersniveau bei relativ besserem Sprachverständnis."
+ },
+ {
+  "id": "hq088",
+  "topic": "Kinder & Jugend",
+  "front": "Welche Differenzialdiagnosen sind bei Sprachverzögerung wichtig?",
+  "back": "Hörstörung, Intelligenzminderung, Autismus, neurologische Erkrankungen und mangelnde Sprachförderung."
+ },
+ {
+  "id": "hq089",
+  "topic": "Kinder & Jugend",
+  "front": "Was bedeutet Neurodiversität für die Gesprächsführung?",
+  "back": "Individuelle Bedürfnisse und Ressourcen berücksichtigen, nicht pauschal pathologisieren; funktionale Beeinträchtigungen dennoch ernst nehmen."
+ },
+ {
+  "id": "hq091",
+  "topic": "Kinder & Jugend",
+  "front": "Welche Kernsymptome kennzeichnen ADHS?",
+  "back": "Unaufmerksamkeit und/oder Hyperaktivität-Impulsivität mit Beginn in der Entwicklung und Beeinträchtigung in mehreren Lebensbereichen."
+ },
+ {
+  "id": "hq092",
+  "topic": "Kinder & Jugend",
+  "front": "Welche Differenzialdiagnosen sind bei ADHS zu prüfen?",
+  "back": "Schlafmangel, Angst, Depression, Trauma, Lernstörung, Autismus, Substanzen und Schilddrüsenstörung."
+ },
+ {
+  "id": "hq093",
+  "topic": "Kinder & Jugend",
+  "front": "Welche Komorbiditäten sind bei ADHS häufig?",
+  "back": "Lernstörungen, oppositionelles Verhalten, Angst, Depression, Substanzprobleme und Autismus."
+ },
+ {
+  "id": "hq094",
+  "topic": "Kinder & Jugend",
+  "front": "Was kennzeichnet eine Störung des Sozialverhaltens?",
+  "back": "Wiederholtes, anhaltendes Muster deutlicher Verletzung altersgemäßer Regeln oder Rechte anderer."
+ },
+ {
+  "id": "hq095",
+  "topic": "Kinder & Jugend",
+  "front": "Was unterscheidet oppositionelles Trotzverhalten von Störung des Sozialverhaltens?",
+  "back": "Oppositionell: reizbares/streitendes Verhalten; bei Störung des Sozialverhaltens schwerere Regel- und Rechtsverletzungen."
+ },
+ {
+  "id": "hq096",
+  "topic": "Kinder & Jugend",
+  "front": "Was sind typische Merkmale einer Trennungsangststörung?",
+  "back": "Entwicklungsunangemessen starke Angst vor Trennung von wichtigen Bezugspersonen mit Vermeidung und Belastung."
+ },
+ {
+  "id": "hq097",
+  "topic": "Kinder & Jugend",
+  "front": "Was ist elektiver Mutismus?",
+  "back": "Situationsgebundenes Nichtsprechen trotz Sprachfähigkeit in anderen Situationen; häufig mit Angst verbunden."
+ },
+ {
+  "id": "hq098",
+  "topic": "Kinder & Jugend",
+  "front": "Wie grenzt man Ticstörung und Zwangsstörung ab?",
+  "back": "Tics sind kurze motorische/vokale Phänomene; Zwänge sind ritualisierte Handlungen zur Neutralisierung von Angst oder innerem Druck."
+ },
+ {
+  "id": "hq099",
+  "topic": "Kinder & Jugend",
+  "front": "Was kennzeichnet Tourette-Syndrom?",
+  "back": "Mehrere motorische und mindestens ein vokaler Tic im Verlauf, mit Beginn in Kindheit/Jugend."
+ },
+ {
+  "id": "kp01",
+  "topic": "Organisch",
+  "front": "F0: Welche Hinweise sprechen für ein Delir statt Demenz?",
+  "back": "Akuter Beginn, fluktuierender Verlauf, Aufmerksamkeits- und Bewusstseinsstörung; Delir ist ein medizinischer Notfall.\n\nDifferenzialdiagnosen: Demenz, Intoxikation, Entzug, metabolische Entgleisung.\n\nHäufige Komorbiditäten: Demenz, Depression, Schlafstörung."
+ },
+ {
+  "id": "kp02",
+  "topic": "Sucht",
+  "front": "F1: Welche Merkmale sprechen für ein Alkoholentzugssyndrom mit Delir?",
+  "back": "Vegetative Übererregung, Tremor, Desorientierung, Halluzinationen und möglicher Krampfanfall nach Reduktion des Konsums; sofortige ärztliche Versorgung.\n\nDifferenzialdiagnosen: Primäre Psychose, Delir anderer Ursache, Hypoglykämie.\n\nHäufige Komorbiditäten: Depression, Angststörung, Persönlichkeitsstörung."
+ },
+ {
+  "id": "kp03",
+  "topic": "Psychosen",
+  "front": "F2: Welche Befunde legen eine schizophrene Psychose nahe?",
+  "back": "Zum Beispiel Stimmenhören, Ich-Störungen, Wahn und formale Denkstörungen; Diagnose nur nach sorgfältiger zeitlicher und organischer Abklärung.\n\nDifferenzialdiagnosen: Affektive Psychose, substanzinduzierte Psychose, neurologische Erkrankung.\n\nHäufige Komorbiditäten: Substanzgebrauchsstörung, Depression, Angststörung."
+ },
+ {
+  "id": "kp04",
+  "topic": "Affekt & Angst",
+  "front": "F3: Was unterscheidet Manie von Hypomanie?",
+  "back": "Manie geht mit ausgeprägter Beeinträchtigung, ggf. Psychose oder notwendiger stationärer Behandlung einher; Hypomanie ist weniger schwer ausgeprägt.\n\nDifferenzialdiagnosen: ADHS, Substanzwirkung, Hyperthyreose, schizoaffektive Störung.\n\nHäufige Komorbiditäten: Angst, Substanzkonsum, Schlafstörungen."
+ },
+ {
+  "id": "kp05",
+  "topic": "Affekt & Angst",
+  "front": "F4: Was unterscheidet Panikattacke von körperlicher Notfallsymptomatik?",
+  "back": "Panik kann Herzrasen und Atemnot auslösen; akute kardiale, pulmonale und metabolische Ursachen müssen bei entsprechenden Warnzeichen medizinisch ausgeschlossen werden.\n\nDifferenzialdiagnosen: Herzrhythmusstörung, Lungenembolie, Hyperthyreose, Hypoglykämie.\n\nHäufige Komorbiditäten: Depression, Agoraphobie, Substanzgebrauch."
+ },
+ {
+  "id": "kp06",
+  "topic": "Essstörungen",
+  "front": "F5: Welche Warnzeichen bestehen bei Anorexia nervosa?",
+  "back": "Deutliches Untergewicht, restriktives Essen, Angst vor Gewichtszunahme; Bradykardie, Elektrolytstörungen und Kreislaufinstabilität erfordern medizinische Abklärung.\n\nDifferenzialdiagnosen: Somatische Gewichtsverlustursachen, Depression, ARFID.\n\nHäufige Komorbiditäten: Zwang, Depression, Angst."
+ },
+ {
+  "id": "kp07",
+  "topic": "Persönlichkeit",
+  "front": "F6: Wie unterscheiden Sie emotional instabile Persönlichkeitsstörung von bipolarer Störung?",
+  "back": "Langjähriges situationsübergreifendes Muster von Instabilität versus abgrenzbare affektive Episoden; beides kann gemeinsam vorkommen.\n\nDifferenzialdiagnosen: Bipolare Störung, PTBS, ADHS.\n\nHäufige Komorbiditäten: Depression, Substanzkonsum, Essstörung."
+ },
+ {
+  "id": "kp08",
+  "topic": "Weitere Störungen",
+  "front": "F7: Welche Informationen sind für die diagnostische Einordnung einer Intelligenzminderung erforderlich?",
+  "back": "Intellektuelle Fähigkeiten, adaptive Alltagskompetenz und Entwicklungsbeginn; standardisierte Diagnostik und Kontext sind wichtig.\n\nDifferenzialdiagnosen: Autismus, Sprachstörung, mangelnde Beschulung, Sinnesbeeinträchtigung.\n\nHäufige Komorbiditäten: Epilepsie, Angst, ADHS."
+ },
+ {
+  "id": "kp09",
+  "topic": "Kinder & Jugend",
+  "front": "F8: Welche Kernbereiche prüfen Sie bei Autismus-Spektrum-Störung?",
+  "back": "Anhaltende Besonderheiten sozialer Kommunikation und Interaktion sowie eingeschränkte oder repetitive Verhaltensmuster seit der Entwicklung.\n\nDifferenzialdiagnosen: Soziale Angst, Sprachentwicklungsstörung, ADHS.\n\nHäufige Komorbiditäten: ADHS, Angst, Depression."
+ },
+ {
+  "id": "kp10",
+  "topic": "Kinder & Jugend",
+  "front": "F9: Welche Kriterien sind bei ADHS entscheidend?",
+  "back": "Anhaltende Unaufmerksamkeit und/oder Hyperaktivität-Impulsivität mit frühem Beginn, Beeinträchtigung in mehreren Lebensbereichen und Prüfung anderer Ursachen.\n\nDifferenzialdiagnosen: Schlafmangel, Trauma, Angst, Lernstörung, bipolare Störung.\n\nHäufige Komorbiditäten: Lernstörung, Angst, oppositionelles Verhalten."
+ },
+ {
+  "id": "kp11",
+  "topic": "Grundlagen",
+  "front": "Was gehört in den psychopathologischen Befund?",
+  "back": "Bewusstsein, Orientierung, Aufmerksamkeit, Gedächtnis, formales und inhaltliches Denken, Wahrnehmung, Ich-Erleben, Affekt, Antrieb, Psychomotorik, Suizidalität."
+ },
+ {
+  "id": "kp12",
+  "topic": "Affekt & Angst",
+  "front": "Wie explorieren Sie Suizidalität?",
+  "back": "Direkt und wertfrei nach Gedanken, Absicht, Plan, Mitteln, Vorbereitungen, früheren Versuchen und Schutzfaktoren fragen; bei akuter Gefahr nicht allein lassen und Notfallversorgung veranlassen."
+ },
+ {
+  "id": "kp13",
+  "topic": "Differenzialdiagnose",
+  "front": "Was bedeutet Komorbidität?",
+  "back": "Gleichzeitiges Vorliegen mehrerer diagnostisch abgrenzbarer Erkrankungen; Symptome nicht vorschnell einer einzigen Störung zuordnen."
+ },
+ {
+  "id": "kp14",
+  "topic": "Differenzialdiagnose",
+  "front": "Was ist eine Ausschlussdiagnose?",
+  "back": "Eine mögliche alternative Erklärung, die durch Anamnese, Untersuchung oder ärztliche Abklärung geprüft werden muss."
+ },
+ {
+  "id": "kp15",
+  "topic": "Psychosen",
+  "front": "Wie gehen Sie bei erstmaliger Psychose vor?",
+  "back": "Sicherheitslage prüfen, körperliche und substanzbezogene Ursachen berücksichtigen und unverzüglich fachärztliche Abklärung organisieren."
+ },
+ {
+  "id": "kp16",
+  "topic": "Recht & Praxis",
+  "front": "Was ist bei Verdacht auf Kindeswohlgefährdung wichtig?",
+  "back": "Sachverhalt und Gefährdung sorgfältig einschätzen, Schutzbedarf prüfen, rechtliche Pflichten und Befugnisse beachten und geeignete Fachstellen einbeziehen."
+ },
+ {
+  "id": "kp17",
+  "topic": "Recht & Praxis",
+  "front": "Was ist bei Schweigepflicht und Dokumentation wichtig?",
+  "back": "Vertraulichkeit, rechtmäßige Datenverarbeitung, sachliche Dokumentation und Ausnahmen bei akuter Gefährdung differenziert beachten."
  }
 ]

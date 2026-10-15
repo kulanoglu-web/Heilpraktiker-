@@ -61,6 +61,10 @@ TopicStyle topicStyle(String topic) {
       return const TopicStyle(Icons.child_care_rounded, Color(0xFF2E9E6B));
     case 'Recht & Praxis':
       return const TopicStyle(Icons.gavel_rounded, Color(0xFF8D6E4B));
+    case 'Differenzialdiagnose':
+      return const TopicStyle(Icons.compare_arrows_rounded, Color(0xFF0097A7));
+    case 'Psychopathologie':
+      return const TopicStyle(Icons.psychology_alt_rounded, Color(0xFF8E24AA));
     case 'Weitere Störungen':
       return const TopicStyle(Icons.category_rounded, Color(0xFF607D8B));
     default:

@@ -276,5 +276,190 @@
     "a": "Beschwerden ernst nehmen, nicht als „eingebildet“ abtun, zugleich nicht ständig neue Diagnostik fördern. Feste Ansprechpartner (Hausarzt), Verbindung von Belastungen und Symptomen herstellen, Entspannung und Stressbewältigung, Aufbau von Aktivität."
    }
   ]
+ },
+ {
+  "id": "hq01",
+  "title": "Kurzfall F0: 78-Jährige ist seit gestern verwirrt und sieht T…",
+  "vignette": "78-Jährige ist seit gestern verwirrt und sieht Tiere.",
+  "questions": [
+   {
+    "q": "Vorgehen?",
+    "a": "Delirverdacht: Vital- und Notfalllage einschätzen, sofortige ärztliche Abklärung veranlassen; nicht als primäre Psychose behandeln."
+   }
+  ]
+ },
+ {
+  "id": "hq02",
+  "title": "Kurzfall F1: Zittriger Patient will nach jahrelangem Trinken …",
+  "vignette": "Zittriger Patient will nach jahrelangem Trinken sofort allein entziehen.",
+  "questions": [
+   {
+    "q": "Antwort?",
+    "a": "Vor Risiken schwerer Entzüge warnen, dringende ärztliche Einschätzung und geeignete Entzugsbehandlung organisieren."
+   }
+  ]
+ },
+ {
+  "id": "hq03",
+  "title": "Kurzfall F2: Stimmen befehlen Selbstverletzung",
+  "vignette": "Stimmen befehlen Selbstverletzung.",
+  "questions": [
+   {
+    "q": "Vorgehen?",
+    "a": "Unmittelbar nach Handlungsdruck, Absicht, Mitteln und Schutzfaktoren fragen; bei akuter Gefahr Notruf/Krisendienst und Schutz organisieren."
+   }
+  ]
+ },
+ {
+  "id": "hq04",
+  "title": "Kurzfall F3: Depressiver Klient sagt, er habe Tabletten berei…",
+  "vignette": "Depressiver Klient sagt, er habe Tabletten bereitgelegt.",
+  "questions": [
+   {
+    "q": "Was tun?",
+    "a": "Konkrete Suizidabsicht und unmittelbare Gefahr klären; nicht allein lassen, Notruf/akute psychiatrische Hilfe veranlassen."
+   }
+  ]
+ },
+ {
+  "id": "hq05",
+  "title": "Kurzfall F4: Klient berichtet Brustschmerz und Atemnot als ve…",
+  "vignette": "Klient berichtet Brustschmerz und Atemnot als vermeintliche Panik.",
+  "questions": [
+   {
+    "q": "Vorgehen?",
+    "a": "Akute kardio-pulmonale Ursachen zuerst ausschließen; bei Warnzeichen Rettungsdienst statt psychologischer Beruhigung allein."
+   }
+  ]
+ },
+ {
+  "id": "hq06",
+  "title": "Kurzfall F5: Patientin mit Essstörung hat Synkopen und Herzra…",
+  "vignette": "Patientin mit Essstörung hat Synkopen und Herzrasen.",
+  "questions": [
+   {
+    "q": "Vorgehen?",
+    "a": "Akute somatische Gefährdung vermuten; unverzügliche medizinische Beurteilung, bei Instabilität Rettungsdienst."
+   }
+  ]
+ },
+ {
+  "id": "hq07",
+  "title": "Kurzfall F6: Klient droht bei Terminende mit Selbstverletzung",
+  "vignette": "Klient droht bei Terminende mit Selbstverletzung.",
+  "questions": [
+   {
+    "q": "Vorgehen?",
+    "a": "Ernst nehmen, akut nach Absicht/Mitteln fragen, Sicherheitsmaßnahmen und Krisenversorgung einleiten; Grenzen professionell wahren."
+   }
+  ]
+ },
+ {
+  "id": "hq08",
+  "title": "Kurzfall F7: Nichtsprechender Erwachsener wird plötzlich aggr…",
+  "vignette": "Nichtsprechender Erwachsener wird plötzlich aggressiv.",
+  "questions": [
+   {
+    "q": "Vorgehen?",
+    "a": "Schmerz, Infekt, Umgebung, Kommunikationsbedarf und akute Risiken prüfen; somatische Abklärung veranlassen."
+   }
+  ]
+ },
+ {
+  "id": "hq09",
+  "title": "Kurzfall F8: Kind mit Sprachverzögerung vermeidet Blickkontak…",
+  "vignette": "Kind mit Sprachverzögerung vermeidet Blickkontakt.",
+  "questions": [
+   {
+    "q": "Vorgehen?",
+    "a": "Keine vorschnelle Autismusdiagnose; Hörtest, Entwicklungsdiagnostik, Kontext und mehrere Entwicklungsbereiche prüfen."
+   }
+  ]
+ },
+ {
+  "id": "hq10",
+  "title": "Kurzfall F9: 10-Jähriger ist unruhig und schläft nur fünf Stu…",
+  "vignette": "10-Jähriger ist unruhig und schläft nur fünf Stunden.",
+  "questions": [
+   {
+    "q": "Vorgehen?",
+    "a": "Schlafstörung, Belastung, Medienkonsum, Entwicklung, Schule und somatische Faktoren erheben; ADHS nicht allein aus Unruhe ableiten."
+   }
+  ]
+ },
+ {
+  "id": "kp01",
+  "title": "Prüfersimulation A",
+  "vignette": "68-jährige Person plötzlich verwirrt, fiebrig, schwankende Aufmerksamkeit.",
+  "questions": [
+   {
+    "q": "Wie gehen Sie vor, welche Differenzialdiagnosen und Risiken nennen Sie?",
+    "a": "Verdacht auf Delir. Fragen zu Beginn, Medikamenten, Infekten, Flüssigkeitsaufnahme; Orientierung prüfen; unverzüglich medizinische Notfallabklärung."
+   },
+   {
+    "q": "Nachfrage des Prüfers: Welche zusätzlichen Angaben würden Ihre Entscheidung verändern?",
+    "a": "Neu begonnene Medikamente, Alkohol- oder Benzodiazepinentzug, Sturz oder Kopfverletzung, bekannte Demenz, Vitalzeichen (Fieber, Atemnot, Blutdruck), Dauer (Stunden bis Tage statt Monate)."
+   }
+  ]
+ },
+ {
+  "id": "kp02",
+  "title": "Prüfersimulation B",
+  "vignette": "24-jährige Person hört befehlende Stimmen und berichtet, sich verletzen zu sollen.",
+  "questions": [
+   {
+    "q": "Wie gehen Sie vor, welche Differenzialdiagnosen und Risiken nennen Sie?",
+    "a": "Suizid- und Fremdgefährdung direkt klären, Befehlscharakter und Handlungsdruck erfragen; akute psychiatrische Notfallhilfe organisieren."
+   },
+   {
+    "q": "Nachfrage des Prüfers: Welche zusätzlichen Angaben würden Ihre Entscheidung verändern?",
+    "a": "Ob der Patient sich von den Stimmen distanzieren kann, konkrete Pläne oder Mittel, Substanzkonsum, bekannte Erkrankung und Medikation, Erstmanifestation, Fremdgefährdung, soziale Einbindung."
+   }
+  ]
+ },
+ {
+  "id": "kp03",
+  "title": "Prüfersimulation C",
+  "vignette": "32-jährige Person schläft seit Tagen kaum, gibt sehr viel Geld aus und fühlt sich unbesiegbar.",
+  "questions": [
+   {
+    "q": "Wie gehen Sie vor, welche Differenzialdiagnosen und Risiken nennen Sie?",
+    "a": "Manie erwägen; Substanzen und organische Ursachen differenzialdiagnostisch prüfen, Selbst- und Fremdgefährdung einschätzen, dringende psychiatrische Beurteilung."
+   },
+   {
+    "q": "Nachfrage des Prüfers: Welche zusätzlichen Angaben würden Ihre Entscheidung verändern?",
+    "a": "Dauer (Hypomanie mindestens mehrere Tage), frühere depressive oder manische Phasen (bipolar), Stimulanzien oder Drogen, Schilddrüsenerkrankung, psychotische Symptome, Krankheitseinsicht, Gefährdung durch Geldausgaben."
+   }
+  ]
+ },
+ {
+  "id": "kp04",
+  "title": "Prüfersimulation D",
+  "vignette": "17-jährige Person verliert stark an Gewicht und kollabiert beim Aufstehen.",
+  "questions": [
+   {
+    "q": "Wie gehen Sie vor, welche Differenzialdiagnosen und Risiken nennen Sie?",
+    "a": "Essstörung und körperliche Instabilität prüfen; unverzügliche ärztliche Abklärung, ggf. Notfallversorgung; altersbezogene Sorge- und Schutzpflichten beachten."
+   },
+   {
+    "q": "Nachfrage des Prüfers: Welche zusätzlichen Angaben würden Ihre Entscheidung verändern?",
+    "a": "BMI und Vitalwerte, Dauer der Synkopen, Elektrolyte, Erbrechen oder Laxantien, Suizidalität, Einwilligungsfähigkeit, Sorgeberechtigte, bisherige Behandlung."
+   }
+  ]
+ },
+ {
+  "id": "kp05",
+  "title": "Prüfersimulation E",
+  "vignette": "Person mit wiederholten Panikattacken klagt heute erstmals über starken Brustschmerz.",
+  "questions": [
+   {
+    "q": "Wie gehen Sie vor, welche Differenzialdiagnosen und Risiken nennen Sie?",
+    "a": "Keine vorschnelle psychische Zuschreibung; mögliche akute körperliche Ursache notfallmäßig abklären lassen."
+   },
+   {
+    "q": "Nachfrage des Prüfers: Welche zusätzlichen Angaben würden Ihre Entscheidung verändern?",
+    "a": "Art und Ausstrahlung des Schmerzes, Atemnot, Schwitzen, Alter und Risikofaktoren (Rauchen, Bluthochdruck, Herzerkrankung), Dauer des Schmerzes, Unterschied zu früheren Attacken: bei Warnzeichen Notruf 112."
+   }
+  ]
  }
 ]

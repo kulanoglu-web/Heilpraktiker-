@@ -263,7 +263,7 @@ class Progress {
   }
 }
 
-/// Gewichtung der Themenbereiche in der schriftlichen Prüfung (Summe 28).
+/// Gewichtung der Themenbereiche in der schriftlichen Prüfung (wird auf die Fragenzahl umgerechnet).
 /// Schwerpunkte: Diagnosen nach ICD-10 (v. a. affektive, Angst-, psychotische
 /// Störungen), Therapie/Pharmakologie sowie Recht und Berufskunde.
 const examTopicWeights = <String, int>{
@@ -280,6 +280,8 @@ const examTopicWeights = <String, int>{
   'Kinder & Jugend': 1,
   'Grundlagen': 1,
   'Weitere Störungen': 1,
+  'Differenzialdiagnose': 3,
+  'Psychopathologie': 2,
 };
 
 /// Stellt einen prüfungsnahen Fragensatz zusammen: Themenmix nach

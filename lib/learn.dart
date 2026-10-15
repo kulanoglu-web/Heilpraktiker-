@@ -470,6 +470,7 @@ class OralCaseScreen extends StatefulWidget {
 
 class _OralCaseScreenState extends State<OralCaseScreen> {
   final Set<int> shown = {};
+  final Set<int> rated = {};
 
   @override
   Widget build(BuildContext context) {
@@ -577,8 +578,57 @@ class _OralCaseScreenState extends State<OralCaseScreen> {
                 ),
               ),
             ),
+          SoftCard(
+            borderColor: tint(kAccent, 0.5),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Row(
+                  children: [
+                    const Icon(Icons.fact_check_rounded, color: kAccent),
+                    const SizedBox(width: 8),
+                    const Expanded(
+                      child: Text('Selbstbewertung',
+                          style: TextStyle(
+                              fontSize: 16, fontWeight: FontWeight.w800)),
+                    ),
+                    Text('${rated.length} von 5 Punkten',
+                        style: const TextStyle(
+                            fontWeight: FontWeight.w800, color: kAccent)),
+                  ],
+                ),
+                const SizedBox(height: 4),
+                for (var i = 0; i < _criteria.length; i++)
+                  CheckboxListTile(
+                    contentPadding: EdgeInsets.zero,
+                    dense: true,
+                    controlAffinity: ListTileControlAffinity.leading,
+                    value: rated.contains(i),
+                    title: Text(_criteria[i]),
+                    onChanged: (v) => setState(() {
+                      if (v == true) {
+                        rated.add(i);
+                      } else {
+                        rated.remove(i);
+                      }
+                    }),
+                  ),
+                Text('Bei akutem Risiko hat die Sicherheit Vorrang.',
+                    style: TextStyle(
+                        fontSize: 12.5, color: scheme.onSurfaceVariant)),
+              ],
+            ),
+          ),
         ],
       ),
     );
   }
+
+  static const _criteria = <String>[
+    'Leitsymptome genannt',
+    'Differenzialdiagnosen genannt',
+    'Komorbiditäten bedacht',
+    'Risiko und Notfall eingeschätzt',
+    'Rechtlich und fachlich angemessenes Vorgehen',
+  ];
 }
