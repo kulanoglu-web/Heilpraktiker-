@@ -27,16 +27,23 @@ jobs:
       - name: Android-Projekt erzeugen
         run: flutter create --platforms=android --project-name hp_psych_trainer --org de.hptrainer .
 
-      - name: Feste Signatur verwenden (damit Updates installierbar bleiben)
+      - name: Feste Signatur einrichten (damit Updates installierbar bleiben)
         run: |
           mkdir -p ~/.android
           cp signing/debug.keystore ~/.android/debug.keystore
+          if [ -f android/app/build.gradle.kts ]; then
+            cat signing/append.gradle.kts >> android/app/build.gradle.kts
+          else
+            cat signing/append.gradle >> android/app/build.gradle
+          fi
 
       - run: flutter pub get
 
       - name: APK bauen
         run: |
           flutter build apk --release --build-name=1.0.${{ github.run_number }} --build-number=${{ github.run_number }} --dart-define=APP_VERSION=1.0.${{ github.run_number }}
+          keytool -exportcert -keystore signing/debug.keystore -storepass android -alias androiddebugkey -file our.der
+          python3 -c "import sys;a=open('build/app/outputs/flutter-apk/app-release.apk','rb').read();c=open('our.der','rb').read();sys.exit(0 if c in a else 1)" || { echo 'FEHLER: APK nicht mit festem Schlüssel signiert'; exit 1; }
           cp build/app/outputs/flutter-apk/app-release.apk HP-Trainer-v1.0.${{ github.run_number }}.apk
 
       - name: APK als Download bereitstellen
