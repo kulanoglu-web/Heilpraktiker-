@@ -10,6 +10,7 @@ const kAuthorTitles = [
   'Sozialarbeiter/Sozialpädagoge B.A.',
   'Heilpraktiker (eingeschränkt auf den Bereich Psychotherapie)',
 ];
+const kVersion = String.fromEnvironment('APP_VERSION', defaultValue: 'Entwicklung');
 const kWebsite = 'https://www.psychologe-spandau.de';
 const kReviewUrl =
     'https://g.page/r/Ccxj8Rnh_iwAEB0/review';
@@ -73,6 +74,9 @@ class InfoScreen extends StatelessWidget {
                         fontWeight: FontWeight.w800,
                         fontSize: 20)),
                 SizedBox(height: 6),
+                Text('Version $kVersion',
+                    style: const TextStyle(color: Colors.white70)),
+                const SizedBox(height: 4),
                 Text('Entwickelt von $kAuthorName',
                     style: TextStyle(
                         color: Colors.white, fontWeight: FontWeight.w600)),
