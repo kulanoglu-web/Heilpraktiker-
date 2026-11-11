@@ -85,6 +85,9 @@ class Question {
   final List<int> correctSet;
   final String explanation;
 
+  /// Frage zu Symptom-/Zeitkriterien (Dauer, Anzahl Haupt-/Nebensymptome).
+  final bool crit;
+
   const Question({
     required this.id,
     required this.topic,
@@ -93,6 +96,7 @@ class Question {
     required this.options,
     required this.correctSet,
     required this.explanation,
+    this.crit = false,
   });
 
   bool get isMulti => correctSet.length > 1;
@@ -125,6 +129,7 @@ class Question {
       options: opts,
       correctSet: set,
       explanation: j['explanation'] as String,
+      crit: (j['crit'] as bool?) ?? false,
     );
   }
 }
@@ -282,8 +287,10 @@ const examTopicWeights = <String, int>{
   'Weitere Störungen': 1,
   'Differenzialdiagnose': 3,
   'Psychopathologie': 2,
-  'Kriterien & Dauer': 3,
 };
+
+/// Zusätzlicher Übungsfilter: Fragen zu Kriterien und Dauer aus allen Themen.
+const critTopic = 'Kriterien & Dauer';
 
 /// Stellt einen prüfungsnahen Fragensatz zusammen: Themenmix nach
 /// [examTopicWeights], Fragen aus Themen mit offenen Fehlern bevorzugt,
@@ -313,6 +320,22 @@ List<Question> buildExamSet(List<Question> all, int count,
   for (final q in rest) {
     if (picked.length >= count) break;
     picked.add(q);
+  }
+  // Mindestens etwa jede sechste Frage prüft Symptom- und Zeitkriterien.
+  final minCrit = (count / 6).ceil();
+  var critCount = picked.where((q) => q.crit).length;
+  if (critCount < minCrit) {
+    final extra = all.where((q) => q.crit && !used.contains(q.id)).toList()
+      ..shuffle();
+    for (final c in extra) {
+      if (critCount >= minCrit) break;
+      final idx = picked.indexWhere((q) => !q.crit);
+      if (idx < 0) break;
+      used.remove(picked[idx].id);
+      picked[idx] = c;
+      used.add(c.id);
+      critCount++;
+    }
   }
   picked.shuffle();
   return picked.length > count ? picked.sublist(0, count) : picked;

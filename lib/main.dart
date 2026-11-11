@@ -86,7 +86,11 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _startPractice([String? topic]) async {
     final all = await loadQuestions();
-    final list = all.where((q) => topic == null || q.topic == topic).toList()
+    final list = all
+        .where((q) =>
+            topic == null ||
+            (topic == critTopic ? q.crit : q.topic == topic))
+        .toList()
       ..shuffle();
     await _openQuiz(list, false, topic ?? 'Übungsmodus');
   }
@@ -137,7 +141,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final topics = examTopicWeights.keys.toList();
+    final topics = [...examTopicWeights.keys, critTopic];
     return Scaffold(
       body: RefreshIndicator(
         onRefresh: _refresh,
