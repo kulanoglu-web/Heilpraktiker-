@@ -30,7 +30,7 @@ jobs:
       - name: Android-Lint-Kompatibilität herstellen
         run: |
           cp ci/lint-workaround.gradle android/lint-workaround.gradle
-          printf '\napply(from = "lint-workaround.gradle")\n' >> android/build.gradle.kts
+          python3 -c 'from pathlib import Path; p = Path("android/build.gradle.kts"); p.write_text("apply(from = \"lint-workaround.gradle\")\n" + p.read_text())'
 
       - name: Feste Signatur einrichten (damit Updates installierbar bleiben)
         run: |
