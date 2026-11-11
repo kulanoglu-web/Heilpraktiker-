@@ -1,0 +1,750 @@
+{
+  "title": "Lernkatalog Psychotherapie",
+  "date": "11.11.2026",
+  "totalQuestions": 120,
+  "chapters": [
+    {
+      "id": "chapter_01",
+      "title": "Erlaubnis, Erstgespräch und Verantwortung",
+      "cardIds": [
+        "catalog_card_001",
+        "catalog_card_002",
+        "catalog_card_003",
+        "catalog_card_004",
+        "catalog_card_005",
+        "catalog_card_006",
+        "catalog_card_007",
+        "catalog_card_008",
+        "catalog_card_009",
+        "catalog_card_010",
+        "catalog_card_011",
+        "catalog_card_012"
+      ]
+    },
+    {
+      "id": "chapter_02",
+      "title": "Organische Störungen: F0",
+      "cardIds": [
+        "catalog_card_013",
+        "catalog_card_014",
+        "catalog_card_015",
+        "catalog_card_016",
+        "catalog_card_017",
+        "catalog_card_018",
+        "catalog_card_019"
+      ]
+    },
+    {
+      "id": "chapter_03",
+      "title": "Substanzbezogene Störungen: F1",
+      "cardIds": [
+        "catalog_card_020",
+        "catalog_card_021",
+        "catalog_card_022",
+        "catalog_card_023",
+        "catalog_card_024",
+        "catalog_card_025",
+        "catalog_card_026"
+      ]
+    },
+    {
+      "id": "chapter_04",
+      "title": "Psychotische Störungen: F2",
+      "cardIds": [
+        "catalog_card_027",
+        "catalog_card_028",
+        "catalog_card_029",
+        "catalog_card_030",
+        "catalog_card_031",
+        "catalog_card_032",
+        "catalog_card_033"
+      ]
+    },
+    {
+      "id": "chapter_05",
+      "title": "Affektive Störungen: F3",
+      "cardIds": [
+        "catalog_card_034",
+        "catalog_card_035",
+        "catalog_card_036",
+        "catalog_card_037",
+        "catalog_card_038",
+        "catalog_card_039",
+        "catalog_card_040"
+      ]
+    },
+    {
+      "id": "chapter_06",
+      "title": "Angst, Zwang, Belastung und Dissoziation: F4",
+      "cardIds": [
+        "catalog_card_041",
+        "catalog_card_042",
+        "catalog_card_043",
+        "catalog_card_044",
+        "catalog_card_045",
+        "catalog_card_046",
+        "catalog_card_047",
+        "catalog_card_048",
+        "catalog_card_049"
+      ]
+    },
+    {
+      "id": "chapter_07",
+      "title": "Essstörungen, Schlaf und körperbezogene Themen: F5",
+      "cardIds": [
+        "catalog_card_050",
+        "catalog_card_051",
+        "catalog_card_052",
+        "catalog_card_053",
+        "catalog_card_054",
+        "catalog_card_055"
+      ]
+    },
+    {
+      "id": "chapter_08",
+      "title": "Persönlichkeitsstörungen: F6",
+      "cardIds": [
+        "catalog_card_056",
+        "catalog_card_057",
+        "catalog_card_058",
+        "catalog_card_059",
+        "catalog_card_060"
+      ]
+    },
+    {
+      "id": "chapter_09",
+      "title": "Entwicklung, Intelligenz und Kindheit: F7 bis F9",
+      "cardIds": [
+        "catalog_card_061",
+        "catalog_card_062",
+        "catalog_card_063",
+        "catalog_card_064",
+        "catalog_card_065",
+        "catalog_card_066",
+        "catalog_card_067"
+      ]
+    },
+    {
+      "id": "chapter_10",
+      "title": "Gefährdung, Behandlung und fachliche Entscheidungen",
+      "cardIds": [
+        "catalog_card_068",
+        "catalog_card_069",
+        "catalog_card_070",
+        "catalog_card_071",
+        "catalog_card_072",
+        "catalog_card_073",
+        "catalog_card_074",
+        "catalog_card_075",
+        "catalog_card_076",
+        "catalog_card_077"
+      ]
+    }
+  ],
+  "oralCaseIds": [
+    "catalog_oral_01",
+    "catalog_oral_02",
+    "catalog_oral_03",
+    "catalog_oral_04",
+    "catalog_oral_05",
+    "catalog_oral_06",
+    "catalog_oral_07",
+    "catalog_oral_08",
+    "catalog_oral_09",
+    "catalog_oral_10",
+    "catalog_oral_11",
+    "catalog_oral_12",
+    "catalog_oral_13",
+    "catalog_oral_14",
+    "catalog_oral_15"
+  ],
+  "examQuestionIds": [
+    "catalog_exam_01",
+    "catalog_exam_02",
+    "catalog_exam_03",
+    "catalog_exam_04",
+    "catalog_exam_05",
+    "catalog_exam_06",
+    "catalog_exam_07",
+    "catalog_exam_08",
+    "catalog_exam_09",
+    "catalog_exam_10",
+    "catalog_exam_11",
+    "catalog_exam_12",
+    "catalog_exam_13",
+    "catalog_exam_14",
+    "catalog_exam_15",
+    "catalog_exam_16",
+    "catalog_exam_17",
+    "catalog_exam_18",
+    "catalog_exam_19",
+    "catalog_exam_20",
+    "catalog_exam_21",
+    "catalog_exam_22",
+    "catalog_exam_23",
+    "catalog_exam_24",
+    "catalog_exam_25",
+    "catalog_exam_26",
+    "catalog_exam_27",
+    "catalog_exam_28"
+  ],
+  "regions": [
+    {
+      "id": "bw",
+      "name": "Baden-Württemberg",
+      "location": "Freiburg, April 2024",
+      "topic": "Anamnese",
+      "caseId": "catalog_oral_01",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/763/april-2024-freiburg"
+    },
+    {
+      "id": "by",
+      "name": "Bayern",
+      "location": "München-Stadt, November 2024",
+      "topic": "Anhaltende Sorgen und Angst",
+      "caseId": "catalog_oral_02",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/972/november-2024-munchen-stadt"
+    },
+    {
+      "id": "be",
+      "name": "Berlin",
+      "location": "Berlin, Mai 2024",
+      "topic": "Erstgespräch nach Trauma",
+      "caseId": "catalog_oral_03",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/817/mai-2024-berlin"
+    },
+    {
+      "id": "bb",
+      "name": "Brandenburg",
+      "location": "Potsdam, Mai 2024",
+      "topic": "Erlaubnis und Tätigkeitsgrenzen",
+      "caseId": "catalog_oral_04",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/836/mai-2024-potsdam"
+    },
+    {
+      "id": "hb",
+      "name": "Bremen",
+      "location": "Amtliche Verfahrensinformation",
+      "topic": "Kein mündliches Einzelprotokoll ausgewertet",
+      "caseId": null,
+      "url": "https://www.gesundheitsamt.bremen.de/was-wir-bieten/gesundheitsvorsorge-und-unterstuetzung/im-und-fuer-den-job/pruefungsanmeldung-heilpraktiker-in-erlaubnis/haeufig-gestellte-fragen-zur-heilpraktiker-in-erlaubnis-23950"
+    },
+    {
+      "id": "hh",
+      "name": "Hamburg",
+      "location": "Hamburg, November 2024",
+      "topic": "Motivation und Praxiskonzept",
+      "caseId": "catalog_oral_05",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/1320/november-2024-hamburg"
+    },
+    {
+      "id": "he",
+      "name": "Hessen",
+      "location": "Gelnhausen, Mai 2024",
+      "topic": "Erstkontakt bis Verdachtsdiagnose",
+      "caseId": "catalog_oral_06",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/781/mai-2024-gelnhausen"
+    },
+    {
+      "id": "mv",
+      "name": "Mecklenburg-Vorpommern",
+      "location": "Neustrelitz, Oktober 2021",
+      "topic": "Heilpraktikergesetz",
+      "caseId": "catalog_oral_07",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/734/oktober-2021-neustrelitz"
+    },
+    {
+      "id": "ni",
+      "name": "Niedersachsen",
+      "location": "Lüneburg, April 2024",
+      "topic": "Psychopathologischer Befund",
+      "caseId": "catalog_oral_08",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/741/april-2024-luneburg"
+    },
+    {
+      "id": "nrw",
+      "name": "Nordrhein-Westfalen",
+      "location": "Essen, September 2024",
+      "topic": "Erschöpfung und Suizidalität",
+      "caseId": "catalog_oral_09",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/862/september-2024-essen"
+    },
+    {
+      "id": "rp",
+      "name": "Rheinland-Pfalz",
+      "location": "Mainz, Juni 2024",
+      "topic": "Psychodynamisches Krankheitsmodell",
+      "caseId": "catalog_oral_10",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/859/juni-2024-mainz"
+    },
+    {
+      "id": "sl",
+      "name": "Saarland",
+      "location": "Saarbrücken, April 2024",
+      "topic": "Beruflicher Hintergrund",
+      "caseId": "catalog_oral_11",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/764/april-2024-saarbrucken"
+    },
+    {
+      "id": "sn",
+      "name": "Sachsen",
+      "location": "Löbau, April 2024",
+      "topic": "Erstgespräch im Rollenspiel",
+      "caseId": "catalog_oral_12",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/752/april-2024-lobau"
+    },
+    {
+      "id": "st",
+      "name": "Sachsen-Anhalt",
+      "location": "Wittenberg, Juni 2024",
+      "topic": "Motivation und Kompetenz",
+      "caseId": "catalog_oral_13",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/837/juni-2024-lutherstadt-wittenberg"
+    },
+    {
+      "id": "sh",
+      "name": "Schleswig-Holstein",
+      "location": "Husum, Mai 2021",
+      "topic": "Depressive Beschwerden nach Jobverlust",
+      "caseId": "catalog_oral_14",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/743/mai-2021-husum"
+    },
+    {
+      "id": "th",
+      "name": "Thüringen",
+      "location": "Erfurt, Juli 2024",
+      "topic": "Werdegang und ambulante Tätigkeit",
+      "caseId": "catalog_oral_15",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/pruefung-komplett/841/juli-2024-erfurt"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Bundesministerium für Gesundheit: Heilpraktikeranwärter-Leitlinie",
+      "url": "https://www.bundesgesundheitsministerium.de/heilpraktikeranwaerter-leitlinie",
+      "note": "Grundlage zum Zweck und Rahmen der Gefahrenabwehrüberprüfung."
+    },
+    {
+      "title": "Berlin-Lichtenberg: Überprüfung und Lösungsschlüssel",
+      "url": "https://www.berlin.de/ba-lichtenberg/auf-einen-blick/buergerservice/gesundheit/artikel.334742.php",
+      "note": "Amtliche Verfahrensinformation. Dort sind auch Lösungsschlüssel vom Oktober 2026 aufgeführt; diese wurden nicht als vollständiger Fragenbogen reproduziert."
+    },
+    {
+      "title": "Baden-Württemberg: Heilpraktikererlaubnis",
+      "url": "https://www.service-bw.de/zufi/leistungen/6027285",
+      "note": ""
+    },
+    {
+      "title": "Gesundheitsamt Bremen: häufige Fragen",
+      "url": "https://www.gesundheitsamt.bremen.de/was-wir-bieten/gesundheitsvorsorge-und-unterstuetzung/im-und-fuer-den-job/pruefungsanmeldung-heilpraktiker-in-erlaubnis/haeufig-gestellte-fragen-zur-heilpraktiker-in-erlaubnis-23950",
+      "note": "Für Bremen wurde die amtliche Verfahrensinformation berücksichtigt; kein authentisches mündliches Einzelprotokoll ausgewertet."
+    },
+    {
+      "title": "BfArM: ICD-10-GM 2026, Kapitel V",
+      "url": "https://klassifikationen.bfarm.de/icd-10-gm/kode-suche/htmlgm2026/chapter-v.htm",
+      "note": "Fachliche Grundlage der Krankheitsgruppen. Die Kurzantworten bilden die diagnostischen Einzelkriterien nicht vollständig ab."
+    },
+    {
+      "title": "Heilpraktikergesetz, insbesondere § 1",
+      "url": "https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html",
+      "note": ""
+    },
+    {
+      "title": "Psychotherapeutengesetz, insbesondere § 1",
+      "url": "https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html",
+      "note": ""
+    },
+    {
+      "title": "StGB § 34: rechtfertigender Notstand",
+      "url": "https://www.gesetze-im-internet.de/stgb/__34.html",
+      "note": "Keine pauschale Ermächtigung zu Zwangsmaßnahmen. Notwendigkeit und Verhältnismäßigkeit sind im Einzelfall zu prüfen."
+    },
+    {
+      "title": "NVL Unipolare Depression: Diagnostik",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/kapitel-2",
+      "note": ""
+    },
+    {
+      "title": "NVL Unipolare Depression: Suizidalität und Notfälle",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/kapitel-12",
+      "note": ""
+    },
+    {
+      "title": "G-BA: ambulante Psychotherapie",
+      "url": "https://www.g-ba.de/themen/psychotherapie/ambulante-psychotherapie/",
+      "note": ""
+    },
+    {
+      "title": "S3-Leitlinie Angststörungen, Fassung 2021",
+      "url": "https://register.awmf.org/assets/guidelines/051-028l_S3_Behandlung-von-Angststoerungen_2021-06.pdf",
+      "note": "Für die Grundidee der Exposition herangezogen. Die auf der AWMF-Seite angegebene Gültigkeit endete am 05.04.2026; diese ältere Fassung wird hier nicht als aktuell gültige Leitlinie bezeichnet."
+    },
+    {
+      "title": "Schriftliche Originalfragen: Paracelsus-Archiv",
+      "url": "https://www.paracelsus.de/pruefungsfragen-heilpraktiker-fuer-Psychotherapie-psychologischer-berater",
+      "note": "Verlinkte Jahrgänge reichen in der recherchierten Übersicht von 2002 bis 2024. Vollständige Originalbögen können dort separat geöffnet werden; diese PDF ist keine Zusammenführung aller Originalbögen."
+    },
+    {
+      "title": "Schriftlicher Bogen März 2024, Gruppe A",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2024/03_24.pdf",
+      "note": "Zur Orientierung an schriftlichen Fragetypen eingesehen. Die Probeprüfung dieser PDF wurde eigenständig erstellt."
+    },
+    {
+      "title": "Weiteres schriftliches Archiv",
+      "url": "https://www.fragmargit.de/heilpraktiker-psychotherapie/heilpraktiker-psychotherapie-pruefungsfragen/",
+      "note": "In der recherchierten Übersicht finden sich weitere Jahrgänge bis März 2026. Weiterführender Verweis; nicht sämtliche Bögen einzeln ausgewertet."
+    },
+    {
+      "title": "Mündliche Protokollübersicht: Likamundi",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/alle-pruefungen",
+      "note": "Persönliche Gedächtnisprotokolle und redaktionelle Kommentare sind keine amtlichen Fragenkataloge. Die regionalen Fallübungen greifen jeweils den eingesehenen Einstieg beziehungsweise die erste Fallaufgabe auf; sie sind keine vollständige Auswertung aller Protokollfragen."
+    },
+    {
+      "title": "Prüfungsbogen 2006 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/03_06.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2006 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/10_06.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2007 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2007/03_07.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2008 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2008/10_08.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2009 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2009/03_09.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2010 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/03_10.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2010 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/10_10.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2011 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/03_11.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2011 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/10_11.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2012 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/03_12.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2012 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/10_12.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2013 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/03_13.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2013 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/10_13.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2014 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/03_14.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2014 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/10_14.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2015 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/03_15.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2015 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/10_15.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2016 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/03_16.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2016 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/10_16.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2017 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/03_17.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2017 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/10_17.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2018 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/03_18.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2018 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/10_18.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2019 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/03_19.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2019 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/10_19.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2020 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2020/10_20.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2021 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/03_21.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2021 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/10_21.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2022 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/03_22.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2022 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/10_22.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2023 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/03_23.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2023 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/10_23.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2024 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2024/03_24.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2024 · Herbst",
+      "url": "https://www.fragmargit.de/wp-content/uploads/HPP2024-10.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2025 · Frühjahr",
+      "url": "https://www.fragmargit.de/wp-content/uploads/HPP2025-03_v3.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2025 · Herbst",
+      "url": "https://www.fragmargit.de/wp-content/uploads/HPP2025-10.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2026 · Frühjahr",
+      "url": "https://www.fragmargit.de/wp-content/uploads/HPP2026-03.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2026 · Herbst",
+      "url": "https://heilpraktiker-akademie.de/wp-content/uploads/Pruefung-2026-10-Pruefungsfragen-mit-Loesungen.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    }
+  ],
+  "introduction": "Wissensfragen nach Themen lernen, mündliche Antworten laut üben und anschließend die Probeprüfung bearbeiten. Antworten zunächst selbst formulieren, danach aufdecken und vergleichen.",
+  "framework": "Die Überprüfung dient der Gefahrenabwehr. Notfallerkennung, Differentialdiagnostik, Rechtskenntnisse und eigene Kompetenzgrenzen stehen im Mittelpunkt. Häufiges schriftliches Format: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindlich sind die Vorgaben des zuständigen Gesundheitsamtes.",
+  "note": "Die Sammlung verbindet eigenständig formulierte Fragen mit sinngemäß aufgegriffenen Themen persönlicher mündlicher Gedächtnisprotokolle. Sie ist kein vollständiger amtlicher Fragenbestand und enthält keine amtlichen Musterlösungen. Die regionale Übersicht nennt Fundorte, keine festen Landesschwerpunkte oder vollständige Zuständigkeitsliste. Für Bremen wurde kein mündliches Einzelprotokoll ausgewertet. Grundlage der Krankheitsgruppen ist die ICD-10-GM 2026. Rechtslage und örtliche Regeln zusätzlich prüfen.",
+  "extraQuestionIds": [
+    "deep_001",
+    "deep_002",
+    "deep_003",
+    "deep_004",
+    "deep_005",
+    "deep_006",
+    "deep_007",
+    "deep_008",
+    "deep_009",
+    "deep_010",
+    "deep_011",
+    "deep_012",
+    "deep_013",
+    "deep_014",
+    "deep_015",
+    "deep_016",
+    "deep_017",
+    "deep_018",
+    "deep_019",
+    "deep_020",
+    "deep_021",
+    "deep_022",
+    "deep_023",
+    "deep_024",
+    "deep_025",
+    "deep_026",
+    "deep_027",
+    "deep_028",
+    "deep_029",
+    "deep_030",
+    "deep_031",
+    "deep_032",
+    "deep_033",
+    "deep_034",
+    "deep_035",
+    "deep_036",
+    "deep_037",
+    "deep_038",
+    "deep_039",
+    "deep_040",
+    "deep_041",
+    "deep_042",
+    "deep_043",
+    "deep_044",
+    "deep_045",
+    "deep_046",
+    "deep_047",
+    "deep_048",
+    "deep_049",
+    "deep_050",
+    "deep_051",
+    "deep_052",
+    "deep_053",
+    "deep_054",
+    "deep_055",
+    "deep_056",
+    "deep_057",
+    "deep_058",
+    "deep_059",
+    "deep_060",
+    "deep_061",
+    "deep_062",
+    "deep_063",
+    "deep_064",
+    "deep_065",
+    "deep_066",
+    "deep_067",
+    "deep_068",
+    "deep_069",
+    "deep_070",
+    "deep_071",
+    "deep_072",
+    "deep_073",
+    "deep_074",
+    "deep_075",
+    "deep_076",
+    "deep_077",
+    "deep_078",
+    "deep_079",
+    "deep_080",
+    "deep_081",
+    "deep_082",
+    "deep_083",
+    "deep_084",
+    "deep_085",
+    "deep_086",
+    "deep_087",
+    "deep_088",
+    "deep_089",
+    "deep_090",
+    "deep_091",
+    "deep_092",
+    "deep_093",
+    "deep_094",
+    "deep_095",
+    "deep_096",
+    "deep_097",
+    "deep_098",
+    "deep_099",
+    "deep_100",
+    "deep_101",
+    "deep_102",
+    "deep_103",
+    "deep_104",
+    "deep_105",
+    "deep_106",
+    "deep_107",
+    "deep_108",
+    "deep_109",
+    "deep_110",
+    "deep_111",
+    "deep_112",
+    "deep_113",
+    "deep_114",
+    "deep_115",
+    "deep_116",
+    "deep_117",
+    "deep_118",
+    "deep_119",
+    "deep_120",
+    "deep_121",
+    "deep_122",
+    "deep_123",
+    "deep_124",
+    "deep_125",
+    "deep_126",
+    "deep_127",
+    "deep_128",
+    "deep_129",
+    "deep_130",
+    "deep_131",
+    "deep_132",
+    "deep_133",
+    "deep_134",
+    "deep_135",
+    "deep_136",
+    "deep_137",
+    "deep_138",
+    "deep_139",
+    "deep_140",
+    "deep_141",
+    "deep_142",
+    "deep_143",
+    "deep_144",
+    "deep_145",
+    "deep_146",
+    "deep_147",
+    "deep_148",
+    "deep_149",
+    "deep_150",
+    "deep_151",
+    "deep_152"
+  ]
+}

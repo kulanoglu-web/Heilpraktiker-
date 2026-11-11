@@ -1,7 +1,7 @@
 name: hp_psych_trainer
 description: Prüfungstrainer Heilpraktiker (Psychotherapie) - schriftlich und mündlich.
 publish_to: "none"
-version: 0.1.0+1
+version: 1.1.0+100
 
 environment:
   sdk: ^3.4.0

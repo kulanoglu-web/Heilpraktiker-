@@ -39,6 +39,11 @@ jobs:
 
       - run: flutter pub get
 
+      - name: Lerninhalte und Anwendung prüfen
+        run: |
+          flutter analyze lib test/catalog_test.dart test/catalog_widget_test.dart --no-fatal-infos --no-fatal-warnings
+          flutter test test/catalog_test.dart test/catalog_widget_test.dart
+
       - name: APK bauen
         run: |
           flutter build apk --release --build-name=1.0.${{ github.run_number }} --build-number=${{ github.run_number }} --dart-define=APP_VERSION=1.0.${{ github.run_number }}
@@ -51,6 +56,12 @@ jobs:
         with:
           tag_name: v1.0.${{ github.run_number }}
           name: HP Trainer Version 1.0.${{ github.run_number }}
-          body: Direkt auf dem Handy herunterladen und installieren (unbekannte Quellen erlauben).
+          body: |
+            Neuer Lernkatalog mit 120 Fragen aus der PDF und 152 zusätzlichen Übungen.
+            Insgesamt 714 Auswahlfragen, 472 Lernkarten und 90 mündliche Fälle.
+            Themenkapitel, Suche, gespeicherter Lernstand, 28-Fragen-Probeprüfung,
+            Lösungen, alle 16 Bundesländer und Links zu Original-PDFs.
+            Analyse und automatisierte Tests vor dem APK-Build.
+            Direkt auf Android herunterladen und installieren.
           files: HP-Trainer-v1.0.${{ github.run_number }}.apk
           make_latest: true

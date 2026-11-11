@@ -32,22 +32,16 @@ const examProfiles = <ExamProfile>[
     name: 'Berlin (Standard)',
     questionCount: 28,
     passRatio: 0.75,
-    minutes: 55,
-    oralMinutes: 60,
-    note: 'Berlin: schriftlich 28 Multiple-Choice-Fragen, 75 % nötig; Termine '
-        'im März und Oktober. Mündlich in der Regel höchstens 60 Minuten. '
-        'Die Dauer des schriftlichen Teils (hier 55 Min., Angabe von '
-        'Prüfungsvorbereitern) bitte beim Bezirksamt Tempelhof-Schöneberg '
-        'bestätigen.',
+    minutes: 60,
+    note: 'Berlin: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Mündlicher Ablauf und Dauer unterscheiden sich je Bezirksamt.',
   ),
   ExamProfile(
-    id: 'hh',
-    name: 'Hamburg',
+    id: 'bw',
+    name: 'Baden-Württemberg',
     questionCount: 28,
     passRatio: 0.75,
     minutes: 60,
-    oralMinutes: 45,
-    note: 'Hamburg: 28 Fragen, 1 Stunde, mündlich höchstens 45 Minuten.',
+    note: 'Baden-Württemberg: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten.',
   ),
   ExamProfile(
     id: 'by',
@@ -55,16 +49,55 @@ const examProfiles = <ExamProfile>[
     questionCount: 28,
     passRatio: 0.75,
     minutes: 60,
-    oralMinutes: 20,
-    note: 'Bayern: 28 Fragen, 60 Minuten, mündlich in der Regel 20 Minuten.',
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
   ),
   ExamProfile(
-    id: 'bw',
-    name: 'Baden-Württemberg',
+    id: 'bb',
+    name: 'Brandenburg',
     questionCount: 28,
     passRatio: 0.75,
-    minutes: 56,
-    note: 'Baden-Württemberg: 28 Fragen, 56 Minuten (je nach Amt auch 60).',
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'hb',
+    name: 'Bremen',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Bremen: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten.',
+  ),
+  ExamProfile(
+    id: 'hh',
+    name: 'Hamburg',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'he',
+    name: 'Hessen',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'mv',
+    name: 'Mecklenburg-Vorpommern',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'ni',
+    name: 'Niedersachsen',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
   ),
   ExamProfile(
     id: 'nrw',
@@ -72,7 +105,55 @@ const examProfiles = <ExamProfile>[
     questionCount: 28,
     passRatio: 0.75,
     minutes: 60,
-    note: 'NRW (z. B. Bielefeld): 28 Fragen, 60 Minuten, 21 richtige nötig.',
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'rp',
+    name: 'Rheinland-Pfalz',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'sl',
+    name: 'Saarland',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'sn',
+    name: 'Sachsen',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'st',
+    name: 'Sachsen-Anhalt',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'sh',
+    name: 'Schleswig-Holstein',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
+  ),
+  ExamProfile(
+    id: 'th',
+    name: 'Thüringen',
+    questionCount: 28,
+    passRatio: 0.75,
+    minutes: 60,
+    note: 'Trainingsvorgabe: 28 Fragen, 60 Minuten, mindestens 21 richtige Antworten. Verbindliche Dauer und mündlichen Ablauf beim zuständigen Gesundheitsamt prüfen.',
   ),
 ];
 
@@ -118,15 +199,15 @@ class Question {
     final opts = List<String>.from(j['options'] as List);
     final raw = j['correct'];
     final idx = raw is List ? raw.cast<int>() : <int>[raw as int];
-    final rights = idx.map((i) => opts[i]).toList();
-    opts.shuffle();
-    final set = rights.map(opts.indexOf).toList()..sort();
+    final order = List<int>.generate(opts.length, (i) => i)..shuffle();
+    final shuffled = order.map((i) => opts[i]).toList();
+    final set = idx.map(order.indexOf).toList()..sort();
     return Question(
       id: j['id'] as String,
       topic: j['topic'] as String,
       text: j['text'] as String,
       kind: (j['kind'] as String?) ?? '',
-      options: opts,
+      options: shuffled,
       correctSet: set,
       explanation: j['explanation'] as String,
       crit: (j['crit'] as bool?) ?? false,
@@ -148,11 +229,11 @@ class Flashcard {
   });
 
   factory Flashcard.fromJson(Map<String, dynamic> j) => Flashcard(
-        id: j['id'] as String,
-        topic: j['topic'] as String,
-        front: j['front'] as String,
-        back: j['back'] as String,
-      );
+    id: j['id'] as String,
+    topic: j['topic'] as String,
+    front: j['front'] as String,
+    back: j['back'] as String,
+  );
 }
 
 class OralQuestion {
@@ -175,20 +256,24 @@ class OralCase {
   });
 
   factory OralCase.fromJson(Map<String, dynamic> j) => OralCase(
-        id: j['id'] as String,
-        title: j['title'] as String,
-        vignette: j['vignette'] as String,
-        questions: (j['questions'] as List)
-            .map((e) => OralQuestion(
-                  question: (e as Map<String, dynamic>)['q'] as String,
-                  answer: e['a'] as String,
-                ))
-            .toList(),
-      );
+    id: j['id'] as String,
+    title: j['title'] as String,
+    vignette: j['vignette'] as String,
+    questions: (j['questions'] as List)
+        .map(
+          (e) => OralQuestion(
+            question: (e as Map<String, dynamic>)['q'] as String,
+            answer: e['a'] as String,
+          ),
+        )
+        .toList(),
+  );
 }
 
 Future<List<T>> _load<T>(
-    String file, T Function(Map<String, dynamic>) parse) async {
+  String file,
+  T Function(Map<String, dynamic>) parse,
+) async {
   final raw = await rootBundle.loadString('assets/data/$file');
   return (jsonDecode(raw) as List)
       .map((e) => parse(e as Map<String, dynamic>))
@@ -204,6 +289,22 @@ Future<List<OralCase>> loadOralCases() =>
 
 /// Lokaler Lernfortschritt (nur auf dem Gerät gespeichert).
 class Progress {
+  static const profileKey = 'selected_exam_profile';
+
+  static Future<ExamProfile> selectedProfile() async {
+    final p = await SharedPreferences.getInstance();
+    final id = p.getString(profileKey);
+    return examProfiles.firstWhere(
+      (e) => e.id == id,
+      orElse: () => examProfiles.first,
+    );
+  }
+
+  static Future<void> selectProfile(ExamProfile profile) async {
+    final p = await SharedPreferences.getInstance();
+    await p.setString(profileKey, profile.id);
+  }
+
   static const wrongKey = 'wrong_question_ids';
   static const knownKey = 'known_flashcard_ids';
   static const historyKey = 'exam_history';
@@ -242,6 +343,7 @@ class Progress {
     final p = await SharedPreferences.getInstance();
     return p.getStringList(historyKey) ?? <String>[];
   }
+
   /// Je Themenbereich: [richtig, gesamt] über alle bisher beantworteten Fragen.
   static Future<Map<String, List<int>>> topicStats() async {
     final p = await SharedPreferences.getInstance();
@@ -249,7 +351,10 @@ class Progress {
     for (final s in p.getStringList(statsKey) ?? <String>[]) {
       final parts = s.split('|');
       if (parts.length == 3) {
-        m[parts[0]] = [int.tryParse(parts[1]) ?? 0, int.tryParse(parts[2]) ?? 0];
+        m[parts[0]] = [
+          int.tryParse(parts[1]) ?? 0,
+          int.tryParse(parts[2]) ?? 0,
+        ];
       }
     }
     return m;
@@ -263,8 +368,10 @@ class Progress {
       c[1] += v[1];
     });
     final p = await SharedPreferences.getInstance();
-    await p.setStringList(statsKey,
-        cur.entries.map((e) => '${e.key}|${e.value[0]}|${e.value[1]}').toList());
+    await p.setStringList(
+      statsKey,
+      cur.entries.map((e) => '${e.key}|${e.value[0]}|${e.value[1]}').toList(),
+    );
   }
 }
 
@@ -296,8 +403,11 @@ const critTopic = 'Kriterien & Dauer';
 /// [examTopicWeights], Fragen aus Themen mit offenen Fehlern bevorzugt,
 /// und eine Mischung aus Einfachauswahl, Aussagenkombination und
 /// Mehrfachauswahl.
-List<Question> buildExamSet(List<Question> all, int count,
-    {Set<String> wrongIds = const {}}) {
+List<Question> buildExamSet(
+  List<Question> all,
+  int count, {
+  Set<String> wrongIds = const {},
+}) {
   final total = examTopicWeights.values.fold<int>(0, (a, b) => a + b);
   final picked = <Question>[];
   final used = <String>{};
@@ -308,8 +418,10 @@ List<Question> buildExamSet(List<Question> all, int count,
   examTopicWeights.forEach((topic, w) {
     final pool = List<Question>.of(byTopic[topic] ?? <Question>[])..shuffle();
     // bisher falsch beantwortete Fragen zuerst
-    pool.sort((a, b) =>
-        (wrongIds.contains(b.id) ? 1 : 0) - (wrongIds.contains(a.id) ? 1 : 0));
+    pool.sort(
+      (a, b) =>
+          (wrongIds.contains(b.id) ? 1 : 0) - (wrongIds.contains(a.id) ? 1 : 0),
+    );
     final quota = (w * count / total).round().clamp(1, count);
     for (final q in pool.take(quota)) {
       picked.add(q);

@@ -2368,5 +2368,467 @@
   "topic": "Kriterien & Dauer",
   "front": "ADHS und Autismus: Symptome und Zeit",
   "back": "ADHS: Unaufmerksamkeit, Hyperaktivität, Impulsivität; Beginn vor 7 J., mindestens 6 Monate, mehrere Lebensbereiche. Autismus: Trias aus sozialer Interaktion, Kommunikation, stereotypen Interessen; Beginn vor dem 3. Lebensjahr."
+ },
+ {
+  "id": "catalog_card_001",
+  "topic": "Recht & Praxis",
+  "front": "Was unterscheidet psychotherapeutische Heilkunde von allgemeiner Beratung?",
+  "back": "Heilkunde richtet sich auf Feststellung, Heilung oder Linderung von Erkrankungen. Beratung zu sozialen Konflikten ohne Krankheitsbehandlung ist davon zu unterscheiden; entscheidend ist die tatsächliche Tätigkeit."
+ },
+ {
+  "id": "catalog_card_002",
+  "topic": "Recht & Praxis",
+  "front": "Ersetzt ein Psychologiestudium die Heilerlaubnis?",
+  "back": "Nein. Ein akademischer Abschluss allein berechtigt nicht zur heilkundlichen Psychotherapie. Erforderlich ist eine passende gesetzliche Berufszulassung oder Erlaubnis."
+ },
+ {
+  "id": "catalog_card_003",
+  "topic": "Recht & Praxis",
+  "front": "Darf ein Heilpraktiker für Psychotherapie die geschützte Bezeichnung Psychotherapeut führen?",
+  "back": "Die sektorale Heilpraktikererlaubnis allein berechtigt dazu nicht. Die Berufsbezeichnung muss den tatsächlich erteilten Erlaubnisumfang transparent wiedergeben."
+ },
+ {
+  "id": "catalog_card_004",
+  "topic": "Recht & Praxis",
+  "front": "Was bedeutet die Beschränkung auf Psychotherapie?",
+  "back": "Die Erlaubnis deckt psychotherapeutische Heilkunde ab. Körperliche Erkrankungen behandelt man damit nicht; notwendige medizinische Diagnostik und Versorgung müssen ärztlich erfolgen."
+ },
+ {
+  "id": "catalog_card_005",
+  "topic": "Recht & Praxis",
+  "front": "Was muss vor Behandlungsbeginn besprochen werden?",
+  "back": "Vorgehen, Ziele, Risiken, Alternativen, Grenzen, voraussichtlicher Umfang und Kosten. Aufklärung muss verständlich und rechtzeitig erfolgen; eine informierte Einwilligung ist erforderlich."
+ },
+ {
+  "id": "catalog_card_006",
+  "topic": "Recht & Praxis",
+  "front": "Kann eine Einwilligung widerrufen werden?",
+  "back": "Ja, grundsätzlich jederzeit und ohne Begründung. Ein unterschriebener Behandlungsvertrag hebt dieses Recht nicht auf."
+ },
+ {
+  "id": "catalog_card_007",
+  "topic": "Recht & Praxis",
+  "front": "Was gehört in die Behandlungsdokumentation?",
+  "back": "Wesentliche Anamnese, Befunde, Diagnoseüberlegungen, Aufklärung, Einwilligung, Maßnahmen, Verlauf und relevante Arztbriefe. Bei Krisen insbesondere Risikoeinschätzung, Entscheidungen und Übergabe dokumentieren."
+ },
+ {
+  "id": "catalog_card_008",
+  "topic": "Recht & Praxis",
+  "front": "Wie lange ist die Behandlungsakte aufzubewahren?",
+  "back": "Grundsätzlich zehn Jahre nach Abschluss der Behandlung nach § 630f BGB, soweit keine anderen Vorschriften abweichende Fristen verlangen."
+ },
+ {
+  "id": "catalog_card_009",
+  "topic": "Recht & Praxis",
+  "front": "Dürfen Einträge nachträglich korrigiert werden?",
+  "back": "Ja, aber ursprünglicher Inhalt und Zeitpunkt der Änderung müssen nachvollziehbar bleiben. Das gilt auch für elektronische Akten."
+ },
+ {
+  "id": "catalog_card_010",
+  "topic": "Recht & Praxis",
+  "front": "Reicht die Erlaubnis für jede psychotherapeutische Methode?",
+  "back": "Nein. Behandelt werden darf nur innerhalb der eigenen nachweisbaren Kenntnisse und Fähigkeiten. Fehlende Qualifikation erfordert Weitervermittlung oder passende fachliche Unterstützung."
+ },
+ {
+  "id": "catalog_card_011",
+  "topic": "Recht & Praxis",
+  "front": "Darf man bei akuter Lebensgefahr Informationen weitergeben?",
+  "back": "Eine notwendige, angemessene Informationsweitergabe zur Gefahrenabwehr kann nach Interessenabwägung gerechtfertigt sein. Nur erforderliche Angaben übermitteln und die Entscheidung dokumentieren."
+ },
+ {
+  "id": "catalog_card_012",
+  "topic": "Recht & Praxis",
+  "front": "Wer ordnet eine unfreiwillige Unterbringung an?",
+  "back": "Nicht der Heilpraktiker selbst. Voraussetzungen, Zuständigkeiten und Verfahren richten sich nach dem einschlägigen Landesrecht beziehungsweise Betreuungsrecht; bei akuter Gefahr die zuständigen Notfalldienste einschalten."
+ },
+ {
+  "id": "catalog_card_013",
+  "topic": "Organisch",
+  "front": "Was ist ein Delir?",
+  "back": "Ein akut auftretendes, oft schwankendes Syndrom mit gestörter Aufmerksamkeit und Bewusstheit, häufig zusätzlich Desorientierung und Wahrnehmungsstörungen. Die zugrunde liegende körperliche Ursache muss dringend behandelt werden."
+ },
+ {
+  "id": "catalog_card_014",
+  "topic": "Organisch",
+  "front": "Wie unterscheidet sich Demenz vom Delir?",
+  "back": "Demenz verläuft meist längerfristig mit kognitivem Abbau; bei einem Delir fallen akuter Beginn und fluktuierende Aufmerksamkeit auf. Beides kann gleichzeitig vorliegen."
+ },
+ {
+  "id": "catalog_card_015",
+  "topic": "Organisch",
+  "front": "Ist das Bewusstsein bei Demenz grundsätzlich getrübt?",
+  "back": "Nein. Eine Bewusstseinstrübung gehört nicht zum typischen Demenzsyndrom. Neu aufgetretene Bewusstseinsveränderungen verlangen zusätzliche Abklärung."
+ },
+ {
+  "id": "catalog_card_016",
+  "topic": "Organisch",
+  "front": "Was ist das Korsakow-Syndrom?",
+  "back": "Ein ausgeprägtes amnestisches Syndrom, häufig mit gestörtem Neulernen und Konfabulationen. Es kann unter anderem im Zusammenhang mit Thiaminmangel auftreten."
+ },
+ {
+  "id": "catalog_card_017",
+  "topic": "Organisch",
+  "front": "Was bedeutet Konfabulation?",
+  "back": "Gedächtnislücken werden unbewusst mit erfundenen Inhalten gefüllt. Das ist keine absichtliche Lüge."
+ },
+ {
+  "id": "catalog_card_018",
+  "topic": "Organisch",
+  "front": "Kann eine körperliche Erkrankung psychische Symptome verursachen?",
+  "back": "Ja. Unter anderem Hirnerkrankungen und systemische Erkrankungen können psychische Veränderungen verursachen. Eine rein psychologische Erklärung darf die medizinische Abklärung nicht ersetzen."
+ },
+ {
+  "id": "catalog_card_019",
+  "topic": "Organisch",
+  "front": "Wie reagieren Sie auf plötzlich desorientiertes Verhalten?",
+  "back": "Eine akute organische Ursache oder Intoxikation erwägen, Sicherheit herstellen und umgehend medizinische Hilfe organisieren. Kein reguläres psychotherapeutisches Gespräch fortsetzen."
+ },
+ {
+  "id": "catalog_card_020",
+  "topic": "Sucht",
+  "front": "Was unterscheidet schädlichen Gebrauch von Abhängigkeit?",
+  "back": "Schädlicher Gebrauch verursacht gesundheitliche Schäden. Abhängigkeit umfasst ein charakteristisches Muster etwa aus starkem Verlangen, Kontrollverlust und zunehmender Vorrangigkeit des Konsums."
+ },
+ {
+  "id": "catalog_card_021",
+  "topic": "Sucht",
+  "front": "Welche sechs Merkmale sind bei Abhängigkeit zentral?",
+  "back": "Starkes Verlangen, Kontrollminderung, Entzug, Toleranz, Vernachlässigung anderer Interessen und Fortsetzung trotz schädlicher Folgen. Entscheidend sind die vollständigen diagnostischen Zeit- und Kombinationskriterien."
+ },
+ {
+  "id": "catalog_card_022",
+  "topic": "Sucht",
+  "front": "Beweist täglicher Konsum eine Abhängigkeit?",
+  "back": "Nein. Häufigkeit allein genügt nicht; maßgeblich ist das gesamte Abhängigkeitssyndrom. Auch nicht täglicher Konsum kann abhängigkeitsbedingt sein."
+ },
+ {
+  "id": "catalog_card_023",
+  "topic": "Sucht",
+  "front": "Was ist Toleranzentwicklung?",
+  "back": "Für eine vergleichbare Wirkung wird zunehmend mehr Substanz benötigt oder dieselbe Menge wirkt schwächer."
+ },
+ {
+  "id": "catalog_card_024",
+  "topic": "Sucht",
+  "front": "Warum ist Alkoholentzug potentiell gefährlich?",
+  "back": "Es können Krampfanfälle und ein Delir auftreten. Ein gefährdeter Entzug gehört in ärztlich geleitete Versorgung."
+ },
+ {
+  "id": "catalog_card_025",
+  "topic": "Sucht",
+  "front": "Was unterscheidet Entgiftung und Entwöhnung?",
+  "back": "Entgiftung behandelt akute körperliche Entzugsfolgen. Entwöhnung unterstützt längerfristige Veränderung des Konsumverhaltens und der zugrunde liegenden Bedingungen."
+ },
+ {
+  "id": "catalog_card_026",
+  "topic": "Sucht",
+  "front": "Was klären Sie bei substanzbezogenen Beschwerden ab?",
+  "back": "Substanz, Menge, Muster, letzten Konsum, Mischkonsum, Medikamente, frühere Entzugskomplikationen sowie akute Eigen- und Fremdgefährdung."
+ },
+ {
+  "id": "catalog_card_027",
+  "topic": "Psychosen",
+  "front": "Welche Symptome können für eine Schizophrenie sprechen?",
+  "back": "Wahn, bestimmte akustische Halluzinationen, Ich-Störungen, formale Denkstörungen und Negativsymptome. Ein einzelnes Symptom reicht nicht zur sicheren Diagnose."
+ },
+ {
+  "id": "catalog_card_028",
+  "topic": "Psychosen",
+  "front": "Was ist Gedankenentzug?",
+  "back": "Das Erleben, eigene Gedanken würden von außen weggenommen. Es wird den Ich-Störungen zugerechnet."
+ },
+ {
+  "id": "catalog_card_029",
+  "topic": "Psychosen",
+  "front": "Was ist Gedankenausbreitung?",
+  "back": "Die Überzeugung, eigene Gedanken seien anderen unmittelbar zugänglich oder würden sich nach außen verbreiten."
+ },
+ {
+  "id": "catalog_card_030",
+  "topic": "Psychosen",
+  "front": "Was sind Negativsymptome?",
+  "back": "Beispielsweise verminderter Antrieb, Sprachverarmung und Affektverflachung. Medikamenteneffekte und Depression sind differentialdiagnostisch zu beachten."
+ },
+ {
+  "id": "catalog_card_031",
+  "topic": "Psychosen",
+  "front": "Ist eine Psychose gleichbedeutend mit Schizophrenie?",
+  "back": "Nein. Psychotische Symptome können auch bei affektiven, organischen und substanzbedingten Störungen auftreten."
+ },
+ {
+  "id": "catalog_card_032",
+  "topic": "Psychosen",
+  "front": "Was kennzeichnet eine wahnhafte Störung?",
+  "back": "Anhaltender Wahn steht im Vordergrund; das Gesamtbild entspricht nicht notwendigerweise einer Schizophrenie. Organische und substanzbedingte Ursachen ausschließen lassen."
+ },
+ {
+  "id": "catalog_card_033",
+  "topic": "Psychosen",
+  "front": "Was bedeutet schizoaffektiv?",
+  "back": "Schizophrene und ausgeprägte affektive Symptome treten im selben Krankheitsgeschehen auf. Die Abgrenzung erfordert eine sorgfältige Verlaufsdiagnostik."
+ },
+ {
+  "id": "catalog_card_034",
+  "topic": "Affekt & Angst",
+  "front": "Was sind drei zentrale depressive Symptome?",
+  "back": "Gedrückte Stimmung, Interessen- oder Freudverlust sowie verminderter Antrieb beziehungsweise erhöhte Ermüdbarkeit."
+ },
+ {
+  "id": "catalog_card_035",
+  "topic": "Affekt & Angst",
+  "front": "Welche Zusatzsymptome einer Depression sind wichtig?",
+  "back": "Unter anderem Schuldgefühle, vermindertes Selbstwertgefühl, Konzentrationsprobleme, Schlaf- und Appetitveränderungen sowie Suizidgedanken."
+ },
+ {
+  "id": "catalog_card_036",
+  "topic": "Affekt & Angst",
+  "front": "Wie lange bestehen Beschwerden bei einer typischen depressiven Episode mindestens?",
+  "back": "In der Regel mindestens zwei Wochen. Schwere und rasch auftretende Zustände können eine frühere diagnostische Einordnung und sofortige Hilfe erfordern."
+ },
+ {
+  "id": "catalog_card_037",
+  "topic": "Affekt & Angst",
+  "front": "Was unterscheidet eine leichte von einer schweren depressiven Episode?",
+  "back": "Anzahl und Ausprägung der Symptome sowie funktionelle Beeinträchtigung. Eine schwere Episode kann psychotische Symptome aufweisen."
+ },
+ {
+  "id": "catalog_card_038",
+  "topic": "Affekt & Angst",
+  "front": "Was ist eine Manie?",
+  "back": "Anhaltend deutlich gehobene oder gereizte Stimmung mit gesteigertem Antrieb, vermindertem Schlafbedürfnis und weiteren Symptomen; erhebliche Beeinträchtigung oder Gefährdung ist möglich."
+ },
+ {
+  "id": "catalog_card_039",
+  "topic": "Affekt & Angst",
+  "front": "Warum nach früheren Hochphasen fragen?",
+  "back": "Frühere manische oder hypomanische Episoden können auf einen bipolaren Verlauf hinweisen und verändern die diagnostische Einordnung."
+ },
+ {
+  "id": "catalog_card_040",
+  "topic": "Affekt & Angst",
+  "front": "Was bedeutet Dysthymie?",
+  "back": "Eine lang anhaltende depressive Verstimmung mit meist geringerer episodischer Ausprägung. Verlauf, Beeinträchtigung und zusätzliche depressive Episoden müssen erfasst werden."
+ },
+ {
+  "id": "catalog_card_041",
+  "topic": "Affekt & Angst",
+  "front": "Wie unterscheiden sich Panikstörung und generalisierte Angst?",
+  "back": "Panikstörung: wiederkehrende unerwartete Attacken. Generalisierte Angst: anhaltende, breit gefächerte Sorgen und Anspannung."
+ },
+ {
+  "id": "catalog_card_042",
+  "topic": "Affekt & Angst",
+  "front": "Was bedeutet Agoraphobie?",
+  "back": "Angst vor Situationen, in denen Flucht oder Hilfe schwierig erscheinen; beispielsweise Menschenmengen oder öffentliche Verkehrsmittel."
+ },
+ {
+  "id": "catalog_card_043",
+  "topic": "Affekt & Angst",
+  "front": "Was ist eine soziale Phobie?",
+  "back": "Ausgeprägte Angst vor Bewertung in sozialen Situationen mit Vermeidung und relevanter Beeinträchtigung."
+ },
+ {
+  "id": "catalog_card_044",
+  "topic": "Affekt & Angst",
+  "front": "Was unterscheidet Zwangsgedanken von Wahn?",
+  "back": "Zwangsgedanken werden typischerweise als eigene, aufdringliche Gedanken erlebt, häufig mit Widerstand. Beim Wahn besteht eine andersartige subjektive Gewissheit; Einsicht kann variieren."
+ },
+ {
+  "id": "catalog_card_045",
+  "topic": "Affekt & Angst",
+  "front": "Was sind typische PTBS-Symptome?",
+  "back": "Wiedererleben, Vermeidung und anhaltende Übererregung nach einem außergewöhnlich bedrohlichen oder katastrophalen Ereignis."
+ },
+ {
+  "id": "catalog_card_046",
+  "topic": "Affekt & Angst",
+  "front": "Was ist eine Anpassungsstörung?",
+  "back": "Eine belastungsbezogene Störung mit emotionalen oder Verhaltenssymptomen. Zeitlicher Zusammenhang und Abgrenzung zu anderen Störungen sind wesentlich."
+ },
+ {
+  "id": "catalog_card_047",
+  "topic": "Affekt & Angst",
+  "front": "Was bedeutet Dissoziation?",
+  "back": "Eine Störung der üblichen Integration etwa von Erinnerung, Identität, Wahrnehmung oder Bewegungssteuerung."
+ },
+ {
+  "id": "catalog_card_048",
+  "topic": "Affekt & Angst",
+  "front": "Sind somatoforme Beschwerden vorgetäuscht?",
+  "back": "Nein. Beschwerden sind real erlebt. Körperliche Ursachen müssen angemessen abgeklärt werden; psychische und körperliche Erkrankungen können zusammen auftreten."
+ },
+ {
+  "id": "catalog_card_049",
+  "topic": "Affekt & Angst",
+  "front": "Was ist Depersonalisation?",
+  "back": "Das eigene Selbst oder der Körper wird als fremd oder unwirklich erlebt, gewöhnlich bei erhaltener Einsicht in den Erlebnischarakter."
+ },
+ {
+  "id": "catalog_card_050",
+  "topic": "Essstörungen",
+  "front": "Was kennzeichnet Anorexia nervosa?",
+  "back": "Selbst herbeigeführtes beziehungsweise aufrechterhaltenes Untergewicht, ausgeprägte Gewichtszunahmeangst und eine gestörte Bewertung von Körpergewicht oder Körperform."
+ },
+ {
+  "id": "catalog_card_051",
+  "topic": "Essstörungen",
+  "front": "Was kennzeichnet Bulimia nervosa?",
+  "back": "Wiederkehrende Essanfälle und gegensteuernde Maßnahmen bei ausgeprägter Beschäftigung mit Gewicht und Körperform. Das Gewicht kann im Normalbereich liegen."
+ },
+ {
+  "id": "catalog_card_052",
+  "topic": "Essstörungen",
+  "front": "Warum sind Essstörungen medizinisch relevant?",
+  "back": "Unterernährung oder kompensatorisches Verhalten können gefährliche körperliche Folgen verursachen. Ärztliche Mitbehandlung ist zentral."
+ },
+ {
+  "id": "catalog_card_053",
+  "topic": "Essstörungen",
+  "front": "Welche Beschwerden sprechen gegen eine vorschnelle Diagnose nichtorganischer Insomnie?",
+  "back": "Hinweise auf Schlafapnoe, Substanzeffekte, Schmerzen oder andere körperliche Ursachen. Ebenso psychische Grunderkrankungen prüfen."
+ },
+ {
+  "id": "catalog_card_054",
+  "topic": "Essstörungen",
+  "front": "Wie unterscheidet sich vermindertes Schlafbedürfnis von Schlaflosigkeit?",
+  "back": "Bei einer Hochphase kann wenig Schlaf ohne Müdigkeit genügen. Bei Insomnie besteht häufig Schlafwunsch mit Leidensdruck."
+ },
+ {
+  "id": "catalog_card_055",
+  "topic": "Essstörungen",
+  "front": "Wie gehen Sie mit sexuellen Beschwerden um?",
+  "back": "Respektvoll und ohne Wertung explorieren, körperliche und medikamentöse Ursachen berücksichtigen und bei fehlender Kompetenz passend weitervermitteln."
+ },
+ {
+  "id": "catalog_card_056",
+  "topic": "Persönlichkeit",
+  "front": "Was kennzeichnet eine Persönlichkeitsstörung?",
+  "back": "Überdauernde, wenig flexible Erlebens- und Verhaltensmuster mit deutlicher Beeinträchtigung. Lebensgeschichte und kultureller Kontext müssen einbezogen werden."
+ },
+ {
+  "id": "catalog_card_057",
+  "topic": "Persönlichkeit",
+  "front": "Welche Merkmale können beim Borderline-Typ auftreten?",
+  "back": "Instabile Beziehungen und Selbstbild, starke Affektschwankungen, Impulsivität, Leere und selbstschädigendes Verhalten. Nicht jede betroffene Person zeigt jedes Merkmal."
+ },
+ {
+  "id": "catalog_card_058",
+  "topic": "Persönlichkeit",
+  "front": "Was unterscheidet eine anankastische Persönlichkeit von einer Zwangsstörung?",
+  "back": "Bei ersterer prägen unter anderem Perfektionismus und Kontrolle das dauerhafte Persönlichkeitsmuster; bei letzterer stehen aufdringliche Zwänge im Vordergrund."
+ },
+ {
+  "id": "catalog_card_059",
+  "topic": "Persönlichkeit",
+  "front": "Was ist bei paranoiden Persönlichkeitszügen typisch?",
+  "back": "Ausgeprägtes Misstrauen und die Tendenz, Handlungen anderer als feindselig zu interpretieren. Eine wahnhafte Störung ist gesondert abzugrenzen."
+ },
+ {
+  "id": "catalog_card_060",
+  "topic": "Persönlichkeit",
+  "front": "Ist Selbstverletzung immer ein Suizidversuch?",
+  "back": "Nein. Funktion und Absicht müssen konkret erfragt werden. Selbstverletzung und Suizidalität können jedoch gleichzeitig vorliegen."
+ },
+ {
+  "id": "catalog_card_061",
+  "topic": "Kinder & Jugend",
+  "front": "Was unterscheidet Intelligenzminderung von Demenz?",
+  "back": "Intelligenzminderung betrifft die Entwicklung intellektueller Fähigkeiten; Demenz bezeichnet einen erworbenen Abbau. Alltagskompetenzen sind in beiden Fällen zu berücksichtigen."
+ },
+ {
+  "id": "catalog_card_062",
+  "topic": "Kinder & Jugend",
+  "front": "Reicht ein IQ-Wert für die gesamte Beurteilung?",
+  "back": "Nein. Zusätzlich sind klinische Beurteilung, adaptive Fähigkeiten und Kontext wichtig. Testergebnisse allein erfassen die Lebenssituation nicht ausreichend."
+ },
+ {
+  "id": "catalog_card_063",
+  "topic": "Kinder & Jugend",
+  "front": "Was ist eine umschriebene Entwicklungsstörung?",
+  "back": "Eine spezifische Entwicklungsbeeinträchtigung etwa von Sprache oder schulischen Fertigkeiten. Allgemeine Entwicklung und sensorische Ursachen müssen berücksichtigt werden."
+ },
+ {
+  "id": "catalog_card_064",
+  "topic": "Kinder & Jugend",
+  "front": "Welche Bereiche sind bei Autismus besonders relevant?",
+  "back": "Soziale Interaktion und Kommunikation sowie eingeschränkte, repetitive Verhaltensweisen und Interessen. Ausprägung und Unterstützungsbedarf unterscheiden sich stark."
+ },
+ {
+  "id": "catalog_card_065",
+  "topic": "Kinder & Jugend",
+  "front": "Welche Kernbereiche sind bei ADHS wichtig?",
+  "back": "Aufmerksamkeit, Hyperaktivität und Impulsivität. Entwicklungsverlauf, mehrere Lebensbereiche und andere Ursachen müssen geprüft werden."
+ },
+ {
+  "id": "catalog_card_066",
+  "topic": "Kinder & Jugend",
+  "front": "Kann ADHS im Erwachsenenalter fortbestehen?",
+  "back": "Ja. Das Erscheinungsbild kann sich verändern; eine Fortdauer ist grundsätzlich möglich."
+ },
+ {
+  "id": "catalog_card_067",
+  "topic": "Kinder & Jugend",
+  "front": "Was ist bei psychischen Beschwerden von Kindern besonders zu beachten?",
+  "back": "Entwicklungsstand, Familie, Schule, körperliche Ursachen und mögliche Gefährdungen. Behandlung erfordert spezielle Kompetenz sowie Klärung von Einwilligung und Sorgeberechtigung."
+ },
+ {
+  "id": "catalog_card_068",
+  "topic": "Diagnostik & Therapie",
+  "front": "Löst direktes Fragen nach Suizidgedanken Suizidalität aus?",
+  "back": "Nein. Ein sachliches, empathisches Ansprechen gehört zur Risikoeinschätzung und soll bei entsprechenden Hinweisen nicht aus Sorge vor Auslösung vermieden werden."
+ },
+ {
+  "id": "catalog_card_069",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was erfragen Sie zur Suizidalität?",
+  "back": "Aktuelle Gedanken, Absicht, konkrete Planung, Zugang zu Mitteln, frühere Versuche, aktuelle Belastungen und Schutzfaktoren. Auch Intoxikation, Psychose und aktuelle Handlungsfähigkeit berücksichtigen."
+ },
+ {
+  "id": "catalog_card_070",
+  "topic": "Diagnostik & Therapie",
+  "front": "Wie handeln Sie bei unmittelbar drohender Selbstgefährdung?",
+  "back": "Kontakt halten, soweit sicher nicht allein lassen, unverzüglich medizinisch-psychiatrische Notfallhilfe organisieren und eine verlässliche Übergabe sichern."
+ },
+ {
+  "id": "catalog_card_071",
+  "topic": "Diagnostik & Therapie",
+  "front": "Reicht ein Versprechen, sich nichts anzutun?",
+  "back": "Nein. Eine bloße Zusage ersetzt keine Risikoeinschätzung, keinen Sicherheitsplan und keine erforderliche Notfallversorgung."
+ },
+ {
+  "id": "catalog_card_072",
+  "topic": "Diagnostik & Therapie",
+  "front": "Wie reagieren Sie auf konkrete Fremdgefährdung?",
+  "back": "Eigenschutz und Abstand sichern, andere schützen und geeignete Notfallhilfe hinzuziehen. Keine körperliche Konfrontation provozieren; Beobachtungen und Maßnahmen dokumentieren."
+ },
+ {
+  "id": "catalog_card_073",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was meint Verhaltensanalyse?",
+  "back": "Auslösende und aufrechterhaltende Bedingungen sowie Folgen eines Problems untersuchen. Daraus werden gemeinsam nachvollziehbare Behandlungsziele abgeleitet."
+ },
+ {
+  "id": "catalog_card_074",
+  "topic": "Diagnostik & Therapie",
+  "front": "Wie funktioniert Exposition grundsätzlich?",
+  "back": "Eine vereinbarte, vorbereitete Konfrontation mit gefürchteten Reizen ermöglicht neue Lernerfahrungen. Vermeidung und Sicherheitsverhalten werden passend bearbeitet; keine unangekündigte Überforderung."
+ },
+ {
+  "id": "catalog_card_075",
+  "topic": "Diagnostik & Therapie",
+  "front": "Welche Rolle spielen Übertragung und Gegenübertragung?",
+  "back": "In psychodynamischen Verfahren werden Beziehungsmuster und die Reaktionen im therapeutischen Kontakt zum Verständnis und zur Behandlung genutzt."
+ },
+ {
+  "id": "catalog_card_076",
+  "topic": "Diagnostik & Therapie",
+  "front": "Was betont systemische Therapie?",
+  "back": "Wechselwirkungen zwischen Person, Beziehungen und sozialem Umfeld. Interventionen richten sich unter anderem auf Muster, Ressourcen und alternative Handlungsmöglichkeiten."
+ },
+ {
+  "id": "catalog_card_077",
+  "topic": "Diagnostik & Therapie",
+  "front": "Welche Verfahren zählen zu den Richtlinientherapien der GKV?",
+  "back": "Verhaltenstherapie, tiefenpsychologisch fundierte Psychotherapie, analytische Psychotherapie und systemische Therapie. Daraus folgt keine eigene Kassenzulassung für Heilpraktiker."
  }
 ]

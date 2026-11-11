@@ -1,45 +1,43 @@
-# HP Psychotherapie Trainer (Flutter, Android)
+# HP Psychotherapie Trainer
 
-Lern-App zur Vorbereitung auf die Heilpraktiker-Überprüfung (beschränkt auf Psychotherapie).
+Flutter-App zur Vorbereitung auf die Heilpraktiker-Überprüfung, beschränkt auf Psychotherapie.
 
-## Starten
+## Lernbereiche
 
-Flutter muss installiert sein (https://docs.flutter.dev/get-started/install).
+- **Lernkatalog mit 272 Fragen:** 77 Wissensfragen in zehn Kapiteln, 15 mündliche Fallübungen, eine feste Probeprüfung mit 28 Fragen und 152 zusätzliche Vertiefungsfragen.
+- Wissen durchsuchen, Antworten aufdecken, Gelerntes speichern, offene Fragen wiederholen und Kapitel als Lernkarten bearbeiten.
+- Feste Probeprüfung: 28 Fragen, 60 Minuten, mindestens 21 vollständig richtige Antworten. Lösungen werden im Prüfungsmodus erst nach Abgabe gezeigt; separate Lösungsliste zum Nacharbeiten.
+- Vertiefung mit Suche, Themenfilter und zufälligen Übungssätzen mit bis zu 20 Fragen.
+- Prüfungsrahmen und Übersicht aller 16 Bundesländer, regionale Fallübungen und gesammelte Quellen mit anklickbaren Original-PDFs.
+- **Gesamtbestand: 714 Auswahlfragen, 472 Lernkarten, 90 mündliche Fälle.** Bestehende Inhalte und Fortschritts-IDs bleiben erhalten.
+- Allgemeine Prüfungssimulation mit Themenmix, Fehlerwiederholung, Erklärungen und Themenstatistik.
+- Gespeichertes Bundeslandprofil; Berlin als Standard. 60 Minuten sind die Trainingsvorgabe. Abweichende Amtsvorgaben bleiben verbindlich.
+- Hell- und Dunkelmodus; Lernstand ausschließlich lokal auf dem Gerät.
+
+## Inhalte und Recherche
+
+`assets/data/learning_catalog.json` ordnet den Katalog den vorhandenen Fragen-, Karten- und Falldateien zu. Die 120 Kernfragen entsprechen der bereitgestellten PDF vom 11.11.2026. Weitere 152 Fragen wurden zu Themen von 38 eingesehenen schriftlichen Bögen aus 2006 bis 2026 eigenständig formuliert. Die Zuordnung der Vertiefungsfragen zu den Quellen steht in `research/content_sources.json`; die Quellen sind gesammelt in der App erreichbar. Einzelne Fragen tragen keine Herkunftskennzeichnungen.
+
+Die Sammlung ist kein vollständiger amtlicher Originalfragenbestand. Regionale Gedächtnisprotokolle sind subjektive Erinnerungen und belegen keine festen Landesschwerpunkte. Für Bremen wurde kein mündliches Einzelprotokoll ausgewertet. Antworten sind redaktionelle Lernantworten; ältere Rechts- und Klassifikationsangaben dürfen nicht ungeprüft übernommen werden.
+
+## Entwicklung
 
 ```bash
-cd hp_psych_trainer
-flutter create --platforms=android .   # erzeugt den android/-Ordner
+flutter create --platforms=android --project-name hp_psych_trainer --org de.hptrainer .
 flutter pub get
-flutter run                            # Handy per USB oder Emulator
-flutter build apk --release            # APK zum Installieren
+flutter analyze lib test/catalog_test.dart test/catalog_widget_test.dart --no-fatal-infos --no-fatal-warnings
+flutter test test/catalog_test.dart test/catalog_widget_test.dart
+flutter run
+flutter build apk --release
 ```
 
-## Funktionen
+GitHub Actions prüft die Anwendung vor dem APK-Build und veröffentlicht auf `main` die installierbare APK. Der vorhandene Signaturschlüssel und die Android-Anwendungskennung bleiben erhalten, damit Updates ohne absichtlichen Datenverlust installierbar bleiben.
 
-- Prüfungsprofil je Bundesland (Berlin ist Standard): Fragenzahl, Zeit, Bestehensgrenze
-- Prüfungssimulation mit Zeitlimit, Punkten und prüfungsrelevantem Themenmix (Gewichtung nach ICD-10-Schwerpunkten, Recht, Therapie)
-- Falsche Antworten werden erklärt: eigene Auswahl, richtige Antwort und Begründung, danach Wiederholung der Fehler
-- Lernstand je Themenbereich, Trefferquote, Hell- und Dunkelmodus
-- Übungsmodus mit sofortiger Erklärung, "Fehler wiederholen"
-- Kernkarten (98) nach Themenbereichen mit Umdreh-Animation (gewusst / nochmal, Wischgesten)
-- Mündliche Prüfung: 14 Fälle mit Fragen und Musterantworten
+## Datenformate
 
-## Inhalte erweitern
+- `questions.json`: Auswahlfragen; `correct` ist ein Index oder eine Liste von Indizes. Mehrfachauswahl zählt nur vollständig richtig.
+- `flashcards.json`: Lernkarten mit `front`, `back`, `topic` und stabiler `id`.
+- `oral_cases.json`: Fälle mit `vignette` und Fragen-/Antwortpaaren.
+- `learning_catalog.json`: Kapitel, Fragenreferenzen, Bundesländer und Quellen.
 
-Alle Inhalte liegen als JSON in `assets/data/` (`questions.json`, `flashcards.json`,
-`oral_cases.json`). Für eine volle Simulation mit 28 Fragen mindestens 28 Fragen
-eintragen (aktuell 534 Fragen, 395 Kernkarten, 75 Fälle).
-
-Frageformat:
-
-```json
-{"id":"q69","topic":"Sucht","kind":"combo","text":"...","options":["A","B","C","D","E"],"correct":2,"explanation":"..."}
-// Mehrfachauswahl: "correct":[0,3]
-```
-
-## Hinweise
-
-- Die Beispielinhalte sind eigene Formulierungen. Sie ersetzen keine Prüfungsliteratur.
-- Original-Prüfungsfragen aus Büchern, Kursen oder Foren sind urheberrechtlich
-  geschützt und dürfen nicht ohne Erlaubnis in die App kopiert werden.
-- Verbindliche Prüfungsregeln (Dauer, Termine) gibt das zuständige Gesundheitsamt vor.
+Die Tests prüfen Datenintegrität, Antwortzuordnung beim Mischen, Katalogreferenzen, Fortschrittsspeicherung, Suche, Antwortanzeige, Prüfungsauswertung und kleine Bildschirmgrößen.

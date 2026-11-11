@@ -1335,5 +1335,170 @@
     "a": "Eigen- und Fremdgefährdung einschätzen (Finanzen, Verkehr, Suizidalität), Beziehung wahren, ärztlich-psychiatrische Abklärung zeitnah organisieren. Bei erheblicher Gefährdung PsychKG-Verfahren anregen. Medikation ist Sache des Arztes (z. B. Stimmungsstabilisierer)."
    }
   ]
+ },
+ {
+  "id": "catalog_oral_01",
+  "title": "Wie strukturieren Sie eine vollständige Anamnese?",
+  "vignette": "Wie strukturieren Sie eine vollständige Anamnese?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Aktuelle Beschwerden mit Beginn, Verlauf und Beeinträchtigung erfragen; frühere psychische und körperliche Erkrankungen, Medikamente, Substanzen, Biografie, Familie und soziale Situation ergänzen. Ressourcen, Vorbehandlungen, Erwartungen und Gefährdung erfassen; den aktuellen psychopathologischen Befund gesondert beschreiben."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_02",
+  "title": "Eine Person sorgt sich seit Jahren um Geld, Arbeit und Angehörige. Wie gehen Sie vor?",
+  "vignette": "Eine Person sorgt sich seit Jahren um Geld, Arbeit und Angehörige. Wie gehen Sie vor?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Eine generalisierte Angststörung erwägen. Dauer, Kontrollierbarkeit, körperliche Begleitzeichen und Funktionsbeeinträchtigung erfragen. Panik, Depression, Zwänge, Substanzen und körperliche Ursachen abgrenzen. Gefährdung prüfen und eine Diagnose erst nach ausreichender Exploration stellen."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_03",
+  "title": "Nach einem Gewaltereignis sucht eine Patientin bei Ihnen Sicherheit. Was hat Vorrang?",
+  "vignette": "Nach einem Gewaltereignis sucht eine Patientin bei Ihnen Sicherheit. Was hat Vorrang?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Eine verlässliche und transparente Gesprächssituation schaffen; aktuelle Sicherheit, Suizidalität und Symptome klären. Nicht ungefragt detailliert konfrontieren. PTBS und andere Folgen erwägen. Bei fehlender Traumakompetenz geeignete Fachbehandlung vermitteln und die Übergangsunterstützung klar begrenzen."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_04",
+  "title": "Welche Grenzen Ihrer sektoralen Erlaubnis erläutern Sie einer Prüfungskommission?",
+  "vignette": "Welche Grenzen Ihrer sektoralen Erlaubnis erläutern Sie einer Prüfungskommission?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Ich beschränke mich auf psychotherapeutische Heilkunde und meine tatsächliche Qualifikation. Medizinische Ursachen lasse ich ärztlich abklären. Ich führe keine geschützte Berufsbezeichnung ohne Berechtigung und ändere keine ärztliche Medikation. Gesetzliche Verbote und Notfallzuständigkeiten sind zu beachten."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_05",
+  "title": "Wie erklären Sie Ihre Motivation und Ihr Praxiskonzept überzeugend?",
+  "vignette": "Wie erklären Sie Ihre Motivation und Ihr Praxiskonzept überzeugend?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Den eigenen Ausbildungsweg und praktische Erfahrungen wahrheitsgemäß darstellen. Zielgruppe, Methode, Indikation, Grenzen, Supervision und Kooperationsnetz nennen. Ein konkretes Beispiel ist überzeugender als eine allgemeine Behauptung, allen Menschen helfen zu können."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_06",
+  "title": "Was liegt zwischen Erstkontakt und einer begründeten Verdachtsdiagnose?",
+  "vignette": "Was liegt zwischen Erstkontakt und einer begründeten Verdachtsdiagnose?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Auftrag und Rahmen klären, Beschwerden und Verlauf explorieren, Gefährdung und organische Ursachen berücksichtigen, Anamnese und psychopathologischen Befund erheben. Symptome mit diagnostischen Kriterien abgleichen und alternative Erklärungen prüfen. Unsicherheiten und weitere Abklärung transparent benennen."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_07",
+  "title": "Seit wann besteht das Heilpraktikergesetz und was regelt es?",
+  "vignette": "Seit wann besteht das Heilpraktikergesetz und was regelt es?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Das Heilpraktikergesetz stammt vom 17. Februar 1939. Für die heutige Berufsausübung sind die geltende Fassung, die Durchführungsregelungen und die erteilte Erlaubnis entscheidend. Kern ist die Erlaubnispflicht für berufsmäßige Heilkunde ohne ärztliche Bestallung."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_08",
+  "title": "Welche Bereiche umfasst ein psychopathologischer Befund?",
+  "vignette": "Welche Bereiche umfasst ein psychopathologischer Befund?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Bewusstsein und Orientierung, Aufmerksamkeit und Gedächtnis, Denken, Wahrnehmung, Ich-Erleben, Affekt, Antrieb und Psychomotorik sowie Ängste und Zwänge erfassen. Schlaf, vegetative Beschwerden, Krankheitseinsicht und Gefährdung ergänzen. Beobachtungen von Angaben der Person unterscheiden."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_09",
+  "title": "Eine erschöpfte Mutter äußert, ihr Leben habe keinen Sinn mehr. Wie reagieren Sie?",
+  "vignette": "Eine erschöpfte Mutter äußert, ihr Leben habe keinen Sinn mehr. Wie reagieren Sie?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Die Aussage zeitnah und direkt aufgreifen und Suizidgedanken sowie Absicht und Planung erfragen. Bei akuter Gefahr sofortige Notfallversorgung organisieren. Anschließend beziehungsweise parallel depressive Symptome, körperliche Ursachen, Entlastungsmöglichkeiten und notwendige fachärztliche Mitbehandlung klären."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_10",
+  "title": "Wie erklären Sie das historische psychodynamische Neurosenmodell?",
+  "vignette": "Wie erklären Sie das historische psychodynamische Neurosenmodell?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "In diesem Modell können unbewusste Konflikte und ihre Abwehr zur Symptombildung beitragen. Symptome werden als Ausdruck einer Konfliktverarbeitung verstanden. Das ist ein theoretischer Zugang; eine vollständige Diagnostik muss auch biologische und soziale Einflussfaktoren berücksichtigen."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_11",
+  "title": "Wie stellen Sie praktische Erfahrung dar, ohne Kompetenz zu übertreiben?",
+  "vignette": "Wie stellen Sie praktische Erfahrung dar, ohne Kompetenz zu übertreiben?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Konkrete Tätigkeiten und verantwortete Aufgaben nennen, zwischen Beobachtung, Beratung und eigenständiger Behandlung unterscheiden. Beschreiben, wo Anleitung oder Supervision bestand. Fehlende Erfahrung offen benennen und erklären, wie dafür fachliche Unterstützung organisiert wird."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_12",
+  "title": "Beginnen Sie ein Erstgespräch im Rollenspiel.",
+  "vignette": "Beginnen Sie ein Erstgespräch im Rollenspiel.",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Ich begrüße die Person, stelle mich und meine Rolle vor und kläre Gesprächsrahmen, Vertraulichkeit und Kosten. Dann frage ich offen nach dem Anlass und höre zu. Bei Hinweisen auf akute Gefahr unterbreche ich die Routine und kläre diese unmittelbar."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_13",
+  "title": "Wie verbinden Sie Berufserfahrung mit Ihrer angestrebten heilkundlichen Tätigkeit?",
+  "vignette": "Wie verbinden Sie Berufserfahrung mit Ihrer angestrebten heilkundlichen Tätigkeit?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Relevante Erfahrungen erläutern und erklären, welche zusätzlichen diagnostischen und rechtlichen Anforderungen heilkundliche Behandlung stellt. Das gewünschte Verfahren und die geplante Qualifikation nennen. Beratungserfahrung nicht automatisch mit therapeutischer Behandlungskompetenz gleichsetzen."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_14",
+  "title": "Nach Arbeitsplatzverlust bestehen Niedergeschlagenheit und Antriebsmangel. Ist das eine Anpassungsstörung?",
+  "vignette": "Nach Arbeitsplatzverlust bestehen Niedergeschlagenheit und Antriebsmangel. Ist das eine Anpassungsstörung?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Möglich, aber nicht automatisch. Dauer, Schwere, depressive Kernsymptome und Suizidalität prüfen. Eine depressive Episode kann trotz erkennbarem Auslöser vorliegen. Auch körperliche Ursachen, Substanzen und normale belastungsbezogene Reaktionen berücksichtigen."
+   }
+  ]
+ },
+ {
+  "id": "catalog_oral_15",
+  "title": "Wie beschreiben Sie den Wechsel von klinischer Erfahrung zur ambulanten Arbeit?",
+  "vignette": "Wie beschreiben Sie den Wechsel von klinischer Erfahrung zur ambulanten Arbeit?",
+  "questions": [
+   {
+    "q": "Wie antworten Sie in der mündlichen Prüfung?",
+    "a": "Den beruflichen Weg, die erworbenen Kompetenzen und den geplanten ambulanten Rahmen erläutern. Benennen, welche Verantwortung ambulant hinzukommt: eigenständige Indikationsprüfung, Krisenplan, fachliche Kooperation und rechtzeitige Weitervermittlung bei Überschreiten eigener Grenzen."
+   }
+  ]
  }
 ]

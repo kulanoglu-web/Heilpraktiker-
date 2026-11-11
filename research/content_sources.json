@@ -1,0 +1,616 @@
+{
+  "date": "2026-11-11",
+  "questionCount": 152,
+  "documents": 38,
+  "note": "Themen aus eingesehenen Prüfungsbögen; eigenständige Formulierungen und redaktionelle Antworten. Keine amtlichen Musterlösungen. Historische Rechtsangaben nicht ungeprüft übernommen. Die Katalogfragen 001-120 entsprechen der bereitgestellten PDF.",
+  "questions": [
+    {
+      "questionId": "deep_001",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/03_06.pdf"
+    },
+    {
+      "questionId": "deep_002",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/03_06.pdf"
+    },
+    {
+      "questionId": "deep_003",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/03_06.pdf"
+    },
+    {
+      "questionId": "deep_004",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/03_06.pdf"
+    },
+    {
+      "questionId": "deep_005",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/10_06.pdf"
+    },
+    {
+      "questionId": "deep_006",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/10_06.pdf"
+    },
+    {
+      "questionId": "deep_007",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/10_06.pdf"
+    },
+    {
+      "questionId": "deep_008",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/10_06.pdf"
+    },
+    {
+      "questionId": "deep_009",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2007/03_07.pdf"
+    },
+    {
+      "questionId": "deep_010",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2007/03_07.pdf"
+    },
+    {
+      "questionId": "deep_011",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2007/03_07.pdf"
+    },
+    {
+      "questionId": "deep_012",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2007/03_07.pdf"
+    },
+    {
+      "questionId": "deep_013",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2008/10_08.pdf"
+    },
+    {
+      "questionId": "deep_014",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2008/10_08.pdf"
+    },
+    {
+      "questionId": "deep_015",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2008/10_08.pdf"
+    },
+    {
+      "questionId": "deep_016",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2008/10_08.pdf"
+    },
+    {
+      "questionId": "deep_017",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2009/03_09.pdf"
+    },
+    {
+      "questionId": "deep_018",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2009/03_09.pdf"
+    },
+    {
+      "questionId": "deep_019",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2009/03_09.pdf"
+    },
+    {
+      "questionId": "deep_020",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2009/03_09.pdf"
+    },
+    {
+      "questionId": "deep_021",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/03_10.pdf"
+    },
+    {
+      "questionId": "deep_022",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/03_10.pdf"
+    },
+    {
+      "questionId": "deep_023",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/03_10.pdf"
+    },
+    {
+      "questionId": "deep_024",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/03_10.pdf"
+    },
+    {
+      "questionId": "deep_025",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/10_10.pdf"
+    },
+    {
+      "questionId": "deep_026",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/10_10.pdf"
+    },
+    {
+      "questionId": "deep_027",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/10_10.pdf"
+    },
+    {
+      "questionId": "deep_028",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/10_10.pdf"
+    },
+    {
+      "questionId": "deep_029",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/03_11.pdf"
+    },
+    {
+      "questionId": "deep_030",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/03_11.pdf"
+    },
+    {
+      "questionId": "deep_031",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/03_11.pdf"
+    },
+    {
+      "questionId": "deep_032",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/03_11.pdf"
+    },
+    {
+      "questionId": "deep_033",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/10_11.pdf"
+    },
+    {
+      "questionId": "deep_034",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/10_11.pdf"
+    },
+    {
+      "questionId": "deep_035",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/10_11.pdf"
+    },
+    {
+      "questionId": "deep_036",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/10_11.pdf"
+    },
+    {
+      "questionId": "deep_037",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/03_12.pdf"
+    },
+    {
+      "questionId": "deep_038",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/03_12.pdf"
+    },
+    {
+      "questionId": "deep_039",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/03_12.pdf"
+    },
+    {
+      "questionId": "deep_040",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/03_12.pdf"
+    },
+    {
+      "questionId": "deep_041",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/10_12.pdf"
+    },
+    {
+      "questionId": "deep_042",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/10_12.pdf"
+    },
+    {
+      "questionId": "deep_043",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/10_12.pdf"
+    },
+    {
+      "questionId": "deep_044",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/10_12.pdf"
+    },
+    {
+      "questionId": "deep_045",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/03_13.pdf"
+    },
+    {
+      "questionId": "deep_046",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/03_13.pdf"
+    },
+    {
+      "questionId": "deep_047",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/03_13.pdf"
+    },
+    {
+      "questionId": "deep_048",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/03_13.pdf"
+    },
+    {
+      "questionId": "deep_049",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/10_13.pdf"
+    },
+    {
+      "questionId": "deep_050",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/10_13.pdf"
+    },
+    {
+      "questionId": "deep_051",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/10_13.pdf"
+    },
+    {
+      "questionId": "deep_052",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/10_13.pdf"
+    },
+    {
+      "questionId": "deep_053",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/03_14.pdf"
+    },
+    {
+      "questionId": "deep_054",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/03_14.pdf"
+    },
+    {
+      "questionId": "deep_055",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/03_14.pdf"
+    },
+    {
+      "questionId": "deep_056",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/03_14.pdf"
+    },
+    {
+      "questionId": "deep_057",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/10_14.pdf"
+    },
+    {
+      "questionId": "deep_058",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/10_14.pdf"
+    },
+    {
+      "questionId": "deep_059",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/10_14.pdf"
+    },
+    {
+      "questionId": "deep_060",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/10_14.pdf"
+    },
+    {
+      "questionId": "deep_061",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/03_15.pdf"
+    },
+    {
+      "questionId": "deep_062",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/03_15.pdf"
+    },
+    {
+      "questionId": "deep_063",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/03_15.pdf"
+    },
+    {
+      "questionId": "deep_064",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/03_15.pdf"
+    },
+    {
+      "questionId": "deep_065",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/10_15.pdf"
+    },
+    {
+      "questionId": "deep_066",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/10_15.pdf"
+    },
+    {
+      "questionId": "deep_067",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/10_15.pdf"
+    },
+    {
+      "questionId": "deep_068",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/10_15.pdf"
+    },
+    {
+      "questionId": "deep_069",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/03_16.pdf"
+    },
+    {
+      "questionId": "deep_070",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/03_16.pdf"
+    },
+    {
+      "questionId": "deep_071",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/03_16.pdf"
+    },
+    {
+      "questionId": "deep_072",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/03_16.pdf"
+    },
+    {
+      "questionId": "deep_073",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/10_16.pdf"
+    },
+    {
+      "questionId": "deep_074",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/10_16.pdf"
+    },
+    {
+      "questionId": "deep_075",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/10_16.pdf"
+    },
+    {
+      "questionId": "deep_076",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/10_16.pdf"
+    },
+    {
+      "questionId": "deep_077",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/03_17.pdf"
+    },
+    {
+      "questionId": "deep_078",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/03_17.pdf"
+    },
+    {
+      "questionId": "deep_079",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/03_17.pdf"
+    },
+    {
+      "questionId": "deep_080",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/03_17.pdf"
+    },
+    {
+      "questionId": "deep_081",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/10_17.pdf"
+    },
+    {
+      "questionId": "deep_082",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/10_17.pdf"
+    },
+    {
+      "questionId": "deep_083",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/10_17.pdf"
+    },
+    {
+      "questionId": "deep_084",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/10_17.pdf"
+    },
+    {
+      "questionId": "deep_085",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/03_18.pdf"
+    },
+    {
+      "questionId": "deep_086",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/03_18.pdf"
+    },
+    {
+      "questionId": "deep_087",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/03_18.pdf"
+    },
+    {
+      "questionId": "deep_088",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/03_18.pdf"
+    },
+    {
+      "questionId": "deep_089",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/10_18.pdf"
+    },
+    {
+      "questionId": "deep_090",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/10_18.pdf"
+    },
+    {
+      "questionId": "deep_091",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/10_18.pdf"
+    },
+    {
+      "questionId": "deep_092",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/10_18.pdf"
+    },
+    {
+      "questionId": "deep_093",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/03_19.pdf"
+    },
+    {
+      "questionId": "deep_094",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/03_19.pdf"
+    },
+    {
+      "questionId": "deep_095",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/03_19.pdf"
+    },
+    {
+      "questionId": "deep_096",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/03_19.pdf"
+    },
+    {
+      "questionId": "deep_097",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/10_19.pdf"
+    },
+    {
+      "questionId": "deep_098",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/10_19.pdf"
+    },
+    {
+      "questionId": "deep_099",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/10_19.pdf"
+    },
+    {
+      "questionId": "deep_100",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/10_19.pdf"
+    },
+    {
+      "questionId": "deep_101",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2020/10_20.pdf"
+    },
+    {
+      "questionId": "deep_102",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2020/10_20.pdf"
+    },
+    {
+      "questionId": "deep_103",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2020/10_20.pdf"
+    },
+    {
+      "questionId": "deep_104",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2020/10_20.pdf"
+    },
+    {
+      "questionId": "deep_105",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/03_21.pdf"
+    },
+    {
+      "questionId": "deep_106",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/03_21.pdf"
+    },
+    {
+      "questionId": "deep_107",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/03_21.pdf"
+    },
+    {
+      "questionId": "deep_108",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/03_21.pdf"
+    },
+    {
+      "questionId": "deep_109",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/10_21.pdf"
+    },
+    {
+      "questionId": "deep_110",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/10_21.pdf"
+    },
+    {
+      "questionId": "deep_111",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/10_21.pdf"
+    },
+    {
+      "questionId": "deep_112",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/10_21.pdf"
+    },
+    {
+      "questionId": "deep_113",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/03_22.pdf"
+    },
+    {
+      "questionId": "deep_114",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/03_22.pdf"
+    },
+    {
+      "questionId": "deep_115",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/03_22.pdf"
+    },
+    {
+      "questionId": "deep_116",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/03_22.pdf"
+    },
+    {
+      "questionId": "deep_117",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/10_22.pdf"
+    },
+    {
+      "questionId": "deep_118",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/10_22.pdf"
+    },
+    {
+      "questionId": "deep_119",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/10_22.pdf"
+    },
+    {
+      "questionId": "deep_120",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/10_22.pdf"
+    },
+    {
+      "questionId": "deep_121",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/03_23.pdf"
+    },
+    {
+      "questionId": "deep_122",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/03_23.pdf"
+    },
+    {
+      "questionId": "deep_123",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/03_23.pdf"
+    },
+    {
+      "questionId": "deep_124",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/03_23.pdf"
+    },
+    {
+      "questionId": "deep_125",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/10_23.pdf"
+    },
+    {
+      "questionId": "deep_126",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/10_23.pdf"
+    },
+    {
+      "questionId": "deep_127",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/10_23.pdf"
+    },
+    {
+      "questionId": "deep_128",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/10_23.pdf"
+    },
+    {
+      "questionId": "deep_129",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2024/03_24.pdf"
+    },
+    {
+      "questionId": "deep_130",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2024/03_24.pdf"
+    },
+    {
+      "questionId": "deep_131",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2024/03_24.pdf"
+    },
+    {
+      "questionId": "deep_132",
+      "source": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2024/03_24.pdf"
+    },
+    {
+      "questionId": "deep_133",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2024-10.pdf"
+    },
+    {
+      "questionId": "deep_134",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2024-10.pdf"
+    },
+    {
+      "questionId": "deep_135",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2024-10.pdf"
+    },
+    {
+      "questionId": "deep_136",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2024-10.pdf"
+    },
+    {
+      "questionId": "deep_137",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2025-03_v3.pdf"
+    },
+    {
+      "questionId": "deep_138",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2025-03_v3.pdf"
+    },
+    {
+      "questionId": "deep_139",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2025-03_v3.pdf"
+    },
+    {
+      "questionId": "deep_140",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2025-03_v3.pdf"
+    },
+    {
+      "questionId": "deep_141",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2025-10.pdf"
+    },
+    {
+      "questionId": "deep_142",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2025-10.pdf"
+    },
+    {
+      "questionId": "deep_143",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2025-10.pdf"
+    },
+    {
+      "questionId": "deep_144",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2025-10.pdf"
+    },
+    {
+      "questionId": "deep_145",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2026-03.pdf"
+    },
+    {
+      "questionId": "deep_146",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2026-03.pdf"
+    },
+    {
+      "questionId": "deep_147",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2026-03.pdf"
+    },
+    {
+      "questionId": "deep_148",
+      "source": "https://www.fragmargit.de/wp-content/uploads/HPP2026-03.pdf"
+    },
+    {
+      "questionId": "deep_149",
+      "source": "https://heilpraktiker-akademie.de/wp-content/uploads/Pruefung-2026-10-Pruefungsfragen-mit-Loesungen.pdf"
+    },
+    {
+      "questionId": "deep_150",
+      "source": "https://heilpraktiker-akademie.de/wp-content/uploads/Pruefung-2026-10-Pruefungsfragen-mit-Loesungen.pdf"
+    },
+    {
+      "questionId": "deep_151",
+      "source": "https://heilpraktiker-akademie.de/wp-content/uploads/Pruefung-2026-10-Pruefungsfragen-mit-Loesungen.pdf"
+    },
+    {
+      "questionId": "deep_152",
+      "source": "https://heilpraktiker-akademie.de/wp-content/uploads/Pruefung-2026-10-Pruefungsfragen-mit-Loesungen.pdf"
+    }
+  ]
+}

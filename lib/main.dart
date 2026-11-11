@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'info.dart';
+import 'catalog.dart';
 import 'learn.dart';
 import 'models.dart';
 import 'quiz.dart';
@@ -43,7 +44,20 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   void initState() {
     super.initState();
+    _restoreProfile();
     _refresh();
+  }
+
+  Future<void> _restoreProfile() async {
+    final saved = await Progress.selectedProfile();
+    if (mounted) setState(() => profile = saved);
+  }
+
+  Future<void> _openCatalog() async {
+    await Navigator.of(
+      context,
+    ).push(MaterialPageRoute(builder: (_) => CatalogScreen(profile: profile)));
+    await _refresh();
   }
 
   Future<void> _refresh() async {
@@ -86,12 +100,15 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _startPractice([String? topic]) async {
     final all = await loadQuestions();
-    final list = all
-        .where((q) =>
-            topic == null ||
-            (topic == critTopic ? q.crit : q.topic == topic))
-        .toList()
-      ..shuffle();
+    final list =
+        all
+            .where(
+              (q) =>
+                  topic == null ||
+                  (topic == critTopic ? q.crit : q.topic == topic),
+            )
+            .toList()
+          ..shuffle();
     await _openQuiz(list, false, topic ?? 'Übungsmodus');
   }
 
@@ -111,32 +128,38 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Future<void> _openQuiz(List<Question> qs, bool examMode, String title) async {
     if (!mounted) return;
-    await Navigator.of(context).push(MaterialPageRoute(
-      builder: (_) => QuizScreen(
-        profile: profile,
-        questions: qs,
-        examMode: examMode,
-        title: examMode ? '' : title,
+    await Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (_) => QuizScreen(
+          profile: profile,
+          questions: qs,
+          examMode: examMode,
+          title: examMode ? '' : title,
+        ),
       ),
-    ));
+    );
     _refresh();
   }
 
   Future<void> _openCards([String? topic]) async {
     final cards = await loadFlashcards();
     if (!mounted) return;
-    await Navigator.of(context).push(MaterialPageRoute(
-      builder: (_) => FlashcardScreen(cards: cards, initialTopic: topic),
-    ));
+    await Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (_) => FlashcardScreen(cards: cards, initialTopic: topic),
+      ),
+    );
     _refresh();
   }
 
   Future<void> _openOral() async {
     final cases = await loadOralCases();
     if (!mounted) return;
-    Navigator.of(context).push(MaterialPageRoute(
-      builder: (_) => OralListScreen(cases: cases, profile: profile),
-    ));
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (_) => OralListScreen(cases: cases, profile: profile),
+      ),
+    );
   }
 
   @override
@@ -156,6 +179,36 @@ class _HomeScreenState extends State<HomeScreen> {
                 children: [
                   _profileCard(context),
                   const SizedBox(height: 18),
+                  SoftCard(
+                    onTap: _openCatalog,
+                    color: tint(kAccent, 0.12),
+                    child: const Row(
+                      children: [
+                        Icon(Icons.menu_book_rounded, color: kAccent, size: 32),
+                        SizedBox(width: 14),
+                        Expanded(
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text(
+                                'Lernkatalog · 272 Fragen',
+                                style: TextStyle(
+                                  fontSize: 18,
+                                  fontWeight: FontWeight.w800,
+                                ),
+                              ),
+                              SizedBox(height: 4),
+                              Text(
+                                'Themenkapitel, mündliche Fälle, Probeprüfung und alle Bundesländer',
+                              ),
+                            ],
+                          ),
+                        ),
+                        Icon(Icons.chevron_right_rounded),
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 12),
                   _examTile(context),
                   const SizedBox(height: 12),
                   GridView.count(
@@ -166,44 +219,53 @@ class _HomeScreenState extends State<HomeScreen> {
                     crossAxisSpacing: 12,
                     childAspectRatio: 1.12,
                     children: [
-                      _modeTile(Icons.school_rounded, 'Übungsmodus',
-                          'Sofort erklärt', const Color(0xFF2F7DB5), _startPractice),
                       _modeTile(
-                          Icons.replay_rounded,
-                          'Fehler wiederholen',
-                          wrongCount == 0
-                              ? 'Noch keine Fehler'
-                              : '$wrongCount offen',
-                          const Color(0xFFE0603A),
-                          _startRepeatWrong),
+                        Icons.school_rounded,
+                        'Übungsmodus',
+                        'Sofort erklärt',
+                        const Color(0xFF2F7DB5),
+                        _startPractice,
+                      ),
                       _modeTile(
-                          Icons.style_rounded,
-                          'Kernkarten',
-                          '$knownCards von $totalCards gewusst',
-                          const Color(0xFF7E57C2),
-                          _openCards),
+                        Icons.replay_rounded,
+                        'Fehler wiederholen',
+                        wrongCount == 0
+                            ? 'Noch keine Fehler'
+                            : '$wrongCount offen',
+                        const Color(0xFFE0603A),
+                        _startRepeatWrong,
+                      ),
                       _modeTile(
-                          Icons.record_voice_over_rounded,
-                          'Mündliche Prüfung',
-                          'Fälle & Musterantworten',
-                          kAccent,
-                          _openOral),
+                        Icons.style_rounded,
+                        'Kernkarten',
+                        '$knownCards von $totalCards gewusst',
+                        const Color(0xFF7E57C2),
+                        _openCards,
+                      ),
+                      _modeTile(
+                        Icons.record_voice_over_rounded,
+                        'Mündliche Prüfung',
+                        'Fälle & Musterantworten',
+                        kAccent,
+                        _openOral,
+                      ),
                     ],
                   ),
                   const SizedBox(height: 24),
                   _sectionTitle(context, 'Nach Thema üben'),
                   const SizedBox(height: 4),
-                  Text('Tippen = Fragen, langes Drücken = Kernkarten',
-                      style: TextStyle(
-                          fontSize: 12.5,
-                          color: Theme.of(context).colorScheme.onSurfaceVariant)),
+                  Text(
+                    'Tippen = Fragen, langes Drücken = Kernkarten',
+                    style: TextStyle(
+                      fontSize: 12.5,
+                      color: Theme.of(context).colorScheme.onSurfaceVariant,
+                    ),
+                  ),
                   const SizedBox(height: 10),
                   Wrap(
                     spacing: 8,
                     runSpacing: 8,
-                    children: [
-                      for (final t in topics) _topicButton(t),
-                    ],
+                    children: [for (final t in topics) _topicButton(t)],
                   ),
                   if (stats.isNotEmpty) ...[
                     const SizedBox(height: 24),
@@ -239,9 +301,10 @@ class _HomeScreenState extends State<HomeScreen> {
                     'Formulierungen und keine Original-Prüfungsfragen. '
                     'Alles ohne Gewähr. Verbindliche Regeln gibt das zuständige Gesundheitsamt.',
                     style: TextStyle(
-                        fontSize: 12,
-                        height: 1.4,
-                        color: Theme.of(context).colorScheme.onSurfaceVariant),
+                      fontSize: 12,
+                      height: 1.4,
+                      color: Theme.of(context).colorScheme.onSurfaceVariant,
+                    ),
                   ),
                   const SizedBox(height: 24),
                 ],
@@ -264,9 +327,10 @@ class _HomeScreenState extends State<HomeScreen> {
         borderRadius: const BorderRadius.vertical(bottom: Radius.circular(32)),
         boxShadow: [
           BoxShadow(
-              color: tint(const Color(0xFF0F2A45), 0.35),
-              blurRadius: 24,
-              offset: const Offset(0, 10)),
+            color: tint(const Color(0xFF0F2A45), 0.35),
+            blurRadius: 24,
+            offset: const Offset(0, 10),
+          ),
         ],
       ),
       child: SafeArea(
@@ -281,22 +345,31 @@ class _HomeScreenState extends State<HomeScreen> {
                   children: [
                     Row(
                       children: [
-                        const Icon(Icons.psychology_rounded,
-                            color: Colors.white, size: 26),
+                        const Icon(
+                          Icons.psychology_rounded,
+                          color: Colors.white,
+                          size: 26,
+                        ),
                         const SizedBox(width: 8),
-                        Text('HP Psychotherapie',
-                            style: TextStyle(
-                                color: tint(Colors.white, 0.9),
-                                fontWeight: FontWeight.w700)),
+                        Text(
+                          'HP Psychotherapie',
+                          style: TextStyle(
+                            color: tint(Colors.white, 0.9),
+                            fontWeight: FontWeight.w700,
+                          ),
+                        ),
                       ],
                     ),
                     const SizedBox(height: 10),
-                    const Text('Bereit für\ndie Prüfung?',
-                        style: TextStyle(
-                            color: Colors.white,
-                            fontSize: 30,
-                            height: 1.1,
-                            fontWeight: FontWeight.w800)),
+                    const Text(
+                      'Bereit für\ndie Prüfung?',
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 30,
+                        height: 1.1,
+                        fontWeight: FontWeight.w800,
+                      ),
+                    ),
                     const SizedBox(height: 12),
                     Wrap(
                       spacing: 8,
@@ -304,8 +377,10 @@ class _HomeScreenState extends State<HomeScreen> {
                       children: [
                         _pill(Icons.quiz_rounded, '$totalQuestions Fragen'),
                         _pill(Icons.style_rounded, '$totalCards Karten'),
-                        _pill(Icons.check_circle_outline_rounded,
-                            '$answered beantwortet'),
+                        _pill(
+                          Icons.check_circle_outline_rounded,
+                          '$answered beantwortet',
+                        ),
                       ],
                     ),
                   ],
@@ -319,13 +394,18 @@ class _HomeScreenState extends State<HomeScreen> {
                 center: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    Text('${(accuracy * 100).round()}%',
-                        style: const TextStyle(
-                            color: Colors.white,
-                            fontSize: 24,
-                            fontWeight: FontWeight.w800)),
-                    const Text('Trefferquote',
-                        style: TextStyle(color: Colors.white70, fontSize: 10.5)),
+                    Text(
+                      '${(accuracy * 100).round()}%',
+                      style: const TextStyle(
+                        color: Colors.white,
+                        fontSize: 24,
+                        fontWeight: FontWeight.w800,
+                      ),
+                    ),
+                    const Text(
+                      'Trefferquote',
+                      style: TextStyle(color: Colors.white70, fontSize: 10.5),
+                    ),
                   ],
                 ),
               ),
@@ -337,24 +417,27 @@ class _HomeScreenState extends State<HomeScreen> {
   }
 
   Widget _pill(IconData icon, String text) => Container(
-        padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
-        decoration: BoxDecoration(
-          color: tint(Colors.white, 0.16),
-          borderRadius: BorderRadius.circular(20),
+    padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 6),
+    decoration: BoxDecoration(
+      color: tint(Colors.white, 0.16),
+      borderRadius: BorderRadius.circular(20),
+    ),
+    child: Row(
+      mainAxisSize: MainAxisSize.min,
+      children: [
+        Icon(icon, size: 14, color: Colors.white),
+        const SizedBox(width: 5),
+        Text(
+          text,
+          style: const TextStyle(
+            color: Colors.white,
+            fontSize: 12,
+            fontWeight: FontWeight.w600,
+          ),
         ),
-        child: Row(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Icon(icon, size: 14, color: Colors.white),
-            const SizedBox(width: 5),
-            Text(text,
-                style: const TextStyle(
-                    color: Colors.white,
-                    fontSize: 12,
-                    fontWeight: FontWeight.w600)),
-          ],
-        ),
-      );
+      ],
+    ),
+  );
 
   Widget _profileCard(BuildContext context) {
     return SoftCard(
@@ -363,36 +446,54 @@ class _HomeScreenState extends State<HomeScreen> {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           DropdownButtonFormField<ExamProfile>(
+            key: ValueKey(profile.id),
             initialValue: profile,
+            isExpanded: true,
             decoration: InputDecoration(
               labelText: 'Prüfungsprofil (Bundesland)',
               prefixIcon: const Icon(Icons.location_on_rounded),
-              border: OutlineInputBorder(borderRadius: BorderRadius.circular(14)),
+              border: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(14),
+              ),
             ),
             items: [
               for (final p in examProfiles)
-                DropdownMenuItem(value: p, child: Text(p.name)),
+                DropdownMenuItem(
+                  value: p,
+                  child: Text(p.name, overflow: TextOverflow.ellipsis),
+                ),
             ],
-            onChanged: (p) => setState(() => profile = p ?? profile),
+            onChanged: (p) async {
+              if (p == null) return;
+              setState(() => profile = p);
+              await Progress.selectProfile(p);
+            },
           ),
           const SizedBox(height: 10),
           Wrap(
             spacing: 8,
             runSpacing: 6,
             children: [
-              _infoChip(Icons.help_outline_rounded,
-                  '${profile.questionCount} Fragen'),
+              _infoChip(
+                Icons.help_outline_rounded,
+                '${profile.questionCount} Fragen',
+              ),
               _infoChip(Icons.timer_outlined, '${profile.minutes} Min.'),
-              _infoChip(Icons.flag_rounded,
-                  '${profile.passCount} richtig zum Bestehen'),
+              _infoChip(
+                Icons.flag_rounded,
+                '${profile.passCount} richtig zum Bestehen',
+              ),
             ],
           ),
           const SizedBox(height: 8),
-          Text(profile.note,
-              style: TextStyle(
-                  fontSize: 12,
-                  height: 1.4,
-                  color: Theme.of(context).colorScheme.onSurfaceVariant)),
+          Text(
+            profile.note,
+            style: TextStyle(
+              fontSize: 12,
+              height: 1.4,
+              color: Theme.of(context).colorScheme.onSurfaceVariant,
+            ),
+          ),
         ],
       ),
     );
@@ -411,9 +512,14 @@ class _HomeScreenState extends State<HomeScreen> {
         children: [
           Icon(icon, size: 15, color: c),
           const SizedBox(width: 5),
-          Text(text,
-              style: TextStyle(
-                  fontSize: 12.5, fontWeight: FontWeight.w700, color: c)),
+          Text(
+            text,
+            style: TextStyle(
+              fontSize: 12.5,
+              fontWeight: FontWeight.w700,
+              color: c,
+            ),
+          ),
         ],
       ),
     );
@@ -438,35 +544,51 @@ class _HomeScreenState extends State<HomeScreen> {
               color: tint(Colors.white, 0.16),
               borderRadius: BorderRadius.circular(18),
             ),
-            child: const Icon(Icons.timer_rounded, color: Colors.white, size: 30),
+            child: const Icon(
+              Icons.timer_rounded,
+              color: Colors.white,
+              size: 30,
+            ),
           ),
           const SizedBox(width: 16),
           const Expanded(
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text('Prüfungssimulation',
-                    style: TextStyle(
-                        color: Colors.white,
-                        fontSize: 19,
-                        fontWeight: FontWeight.w800)),
+                Text(
+                  'Prüfungssimulation',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontSize: 19,
+                    fontWeight: FontWeight.w800,
+                  ),
+                ),
                 SizedBox(height: 4),
                 Text(
-                    'Themenmix nach Prüfungsrelevanz, Zeitlimit und '
-                    'Bepunktung. Auswertung mit Erklärung jeder falschen Antwort.',
-                    style: TextStyle(color: Colors.white70, height: 1.35)),
+                  'Themenmix nach Prüfungsrelevanz, Zeitlimit und '
+                  'Bepunktung. Auswertung mit Erklärung jeder falschen Antwort.',
+                  style: TextStyle(color: Colors.white70, height: 1.35),
+                ),
               ],
             ),
           ),
-          const Icon(Icons.play_circle_fill_rounded,
-              color: Colors.white, size: 34),
+          const Icon(
+            Icons.play_circle_fill_rounded,
+            color: Colors.white,
+            size: 34,
+          ),
         ],
       ),
     );
   }
 
-  Widget _modeTile(IconData icon, String title, String sub, Color color,
-      VoidCallback onTap) {
+  Widget _modeTile(
+    IconData icon,
+    String title,
+    String sub,
+    Color color,
+    VoidCallback onTap,
+  ) {
     return SoftCard(
       gradient: colorGradient(color),
       borderColor: Colors.transparent,
@@ -487,16 +609,21 @@ class _HomeScreenState extends State<HomeScreen> {
           Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text(title,
-                  style: const TextStyle(
-                      color: Colors.white,
-                      fontSize: 16,
-                      fontWeight: FontWeight.w800)),
+              Text(
+                title,
+                style: const TextStyle(
+                  color: Colors.white,
+                  fontSize: 16,
+                  fontWeight: FontWeight.w800,
+                ),
+              ),
               const SizedBox(height: 2),
-              Text(sub,
-                  maxLines: 1,
-                  overflow: TextOverflow.ellipsis,
-                  style: const TextStyle(color: Colors.white70, fontSize: 12.5)),
+              Text(
+                sub,
+                maxLines: 1,
+                overflow: TextOverflow.ellipsis,
+                style: const TextStyle(color: Colors.white70, fontSize: 12.5),
+              ),
             ],
           ),
         ],
@@ -506,8 +633,9 @@ class _HomeScreenState extends State<HomeScreen> {
 
   Widget _topicButton(String t) {
     final st = stats[t];
-    final suffix =
-        st == null || st[1] == 0 ? null : '${(st[0] * 100 / st[1]).round()} %';
+    final suffix = st == null || st[1] == 0
+        ? null
+        : '${(st[0] * 100 / st[1]).round()} %';
     return GestureDetector(
       onLongPress: () => _openCards(t),
       child: TopicChip(
@@ -519,11 +647,11 @@ class _HomeScreenState extends State<HomeScreen> {
     );
   }
 
-  Widget _sectionTitle(BuildContext context, String text) => Text(text,
-      style: Theme.of(context)
-          .textTheme
-          .titleMedium
-          ?.copyWith(fontWeight: FontWeight.w800));
+  Widget _sectionTitle(BuildContext context, String text) => Text(
+    text,
+    style: Theme.of(context).textTheme.titleMedium
+        ?.copyWith(fontWeight: FontWeight.w800),
+  );
 
   Widget _historyRow(BuildContext context, String entry) {
     final parts = entry.split('|');
@@ -538,16 +666,21 @@ class _HomeScreenState extends State<HomeScreen> {
         padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 12),
         child: Row(
           children: [
-            Icon(passed ? Icons.check_circle_rounded : Icons.cancel_rounded,
-                color: c),
+            Icon(
+              passed ? Icons.check_circle_rounded : Icons.cancel_rounded,
+              color: c,
+            ),
             const SizedBox(width: 12),
             Expanded(
               child: Text(
-                  '${parts[0].replaceFirst('T', ' ')}  ·  ${parts[1]}',
-                  style: const TextStyle(fontSize: 13)),
+                '${parts[0].replaceFirst('T', ' ')}  ·  ${parts[1]}',
+                style: const TextStyle(fontSize: 13),
+              ),
             ),
-            Text('$score/$total',
-                style: TextStyle(fontWeight: FontWeight.w800, color: c)),
+            Text(
+              '$score/$total',
+              style: TextStyle(fontWeight: FontWeight.w800, color: c),
+            ),
           ],
         ),
       ),

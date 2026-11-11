@@ -7715,5 +7715,2509 @@
   "correct": 0,
   "explanation": "Ein Negativsymptom-Bild benötigt Verlaufsabklärung: Schizophrenia simplex (mindestens 1 Jahr), Depression (mindestens 2 Wochen, Stimmung), Substanzen, organische Ursachen.",
   "crit": true
+ },
+ {
+  "id": "catalog_exam_01",
+  "topic": "Organisch",
+  "text": "Welcher Befund spricht am stärksten für ein Delir?",
+  "options": [
+   "Seit Jahren unveränderte soziale Ängste",
+   "Akut fluktuierende Aufmerksamkeit mit Desorientierung",
+   "Lebenslange Rechtschreibschwäche",
+   "Isolierte Flugangst"
+  ],
+  "correct": 1,
+  "explanation": "Akuter Beginn und schwankende Aufmerksamkeit verlangen dringende organische Abklärung."
+ },
+ {
+  "id": "catalog_exam_02",
+  "topic": "Sucht",
+  "text": "Welche zwei Merkmale passen zu Abhängigkeit?",
+  "options": [
+   "Kontrollminderung",
+   "Obligat täglicher Konsum",
+   "Toleranzentwicklung",
+   "Immer fehlende körperliche Schäden"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explanation": "Kontrollminderung und Toleranz sind relevante Merkmale; täglicher Konsum ist keine notwendige Voraussetzung."
+ },
+ {
+  "id": "catalog_exam_03",
+  "topic": "Psychosen",
+  "text": "Eine Patientin erlebt ihre Gedanken als von außen entfernt. Was liegt nahe?",
+  "options": [
+   "Gedankenentzug",
+   "Anhedonie",
+   "Konfabulation",
+   "Dyslexie"
+  ],
+  "correct": 0,
+  "explanation": "Das Erleben einer äußeren Entnahme eigener Gedanken gehört zu den Ich-Störungen."
+ },
+ {
+  "id": "catalog_exam_04",
+  "topic": "Affekt & Angst",
+  "text": "Welcher Bereich steht bei sozialer Phobie im Vordergrund?",
+  "options": [
+   "Angst vor negativer Bewertung",
+   "Ausschließlich Gedächtnisverlust",
+   "Immer Bewusstseinstrübung",
+   "Nur nächtliche Atempausen"
+  ],
+  "correct": 0,
+  "explanation": "Die Angst bezieht sich auf soziale Situationen und mögliche Bewertung durch andere."
+ },
+ {
+  "id": "catalog_exam_05",
+  "topic": "Affekt & Angst",
+  "text": "Welche zwei Symptome gehören zu depressiven Kernsymptomen?",
+  "options": [
+   "Freudverlust",
+   "Gedankenausbreitung",
+   "Gedrückte Stimmung",
+   "Gesteigertes Selbstwertgefühl"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explanation": "Freudverlust und gedrückte Stimmung sind zentrale depressive Symptome."
+ },
+ {
+  "id": "catalog_exam_06",
+  "topic": "Affekt & Angst",
+  "text": "Warum erfragen Sie frühere manische Phasen?",
+  "options": [
+   "Sie sind für die Diagnose bedeutungslos",
+   "Sie können einen bipolaren Verlauf anzeigen",
+   "Sie beweisen eine Demenz",
+   "Sie schließen jede Depression aus"
+  ],
+  "correct": 1,
+  "explanation": "Frühere Hochphasen können die diagnostische Einordnung der aktuellen Depression verändern."
+ },
+ {
+  "id": "catalog_exam_07",
+  "topic": "Somatoform & Dissoziativ",
+  "text": "Was trifft auf somatoforme Beschwerden zu?",
+  "options": [
+   "Die Beschwerden werden definitionsgemäß absichtlich erzeugt",
+   "Jede körperliche Abklärung ist unnötig",
+   "Das Leiden wird real erlebt",
+   "Organische Krankheiten sind lebenslang ausgeschlossen"
+  ],
+  "correct": 2,
+  "explanation": "Somatoforme Beschwerden sind nicht mit Simulation gleichzusetzen; neue Befunde müssen erneut beurteilt werden."
+ },
+ {
+  "id": "catalog_exam_08",
+  "topic": "Trauma & Belastung",
+  "text": "Was ist bei vermuteter PTBS angemessen?",
+  "options": [
+   "Sofortige erzwungene Detailkonfrontation",
+   "Zuerst Sicherheit, Symptome und Behandlungskompetenz klären",
+   "Grundsätzlich jede fachliche Weitervermittlung vermeiden",
+   "Die Diagnose allein aus dem Ereignis ableiten"
+  ],
+  "correct": 1,
+  "explanation": "Das Ereignis allein sichert die Diagnose nicht. Sicherheit und passende Qualifikation sind wesentlich."
+ },
+ {
+  "id": "catalog_exam_09",
+  "topic": "Essstörungen",
+  "text": "Welche zwei Aussagen zur Anorexie treffen zu?",
+  "options": [
+   "Medizinische Risiken sind möglich",
+   "Normalgewicht schließt jede Essstörung aus",
+   "Ärztliche Mitbehandlung kann notwendig sein",
+   "Der BMI allein beschreibt den gesamten Schweregrad"
+  ],
+  "correct": [
+   0,
+   2
+  ],
+  "explanation": "Körperliche Gefahren und der Verlauf erfordern eine umfassende Beurteilung."
+ },
+ {
+  "id": "catalog_exam_10",
+  "topic": "Affekt & Angst",
+  "text": "Was passt eher zu einer manischen Hochphase?",
+  "options": [
+   "Wenig Schlaf ohne subjektive Müdigkeit",
+   "Nur Prüfungsangst",
+   "Ausschließlich Orientierungsverlust",
+   "Isolierter Verlust der Rechenfähigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Ein vermindertes Schlafbedürfnis kann ein Hinweis sein; es genügt allein nicht für die Diagnose."
+ },
+ {
+  "id": "catalog_exam_11",
+  "topic": "Persönlichkeit",
+  "text": "Welche Aussage zu Selbstverletzung ist richtig?",
+  "options": [
+   "Sie ist immer ein Suizidversuch",
+   "Suizidalität darf deshalb nicht erfragt werden",
+   "Absicht und aktuelle Gefährdung müssen individuell erfragt werden",
+   "Sie ist grundsätzlich ungefährlich"
+  ],
+  "correct": 2,
+  "explanation": "Selbstverletzung hat unterschiedliche Funktionen; zusätzliche Suizidalität ist möglich."
+ },
+ {
+  "id": "catalog_exam_12",
+  "topic": "Kinder & Jugend",
+  "text": "Welche Aussage zu ADHS ist richtig?",
+  "options": [
+   "Ein Fortbestehen im Erwachsenenalter ist möglich",
+   "Sie endet definitionsgemäß mit dem 18. Geburtstag",
+   "Sie ist stets durch einen einzelnen Laborwert beweisbar",
+   "Jede Unruhe beweist ADHS"
+  ],
+  "correct": 0,
+  "explanation": "Für die Diagnose sind Entwicklungsverlauf, Beeinträchtigung und Differentialdiagnostik entscheidend."
+ },
+ {
+  "id": "catalog_exam_13",
+  "topic": "Organisch",
+  "text": "Was unterscheidet Demenz und Intelligenzminderung grundsätzlich?",
+  "options": [
+   "Nur das Geschlecht",
+   "Erworbener Abbau gegenüber beeinträchtigter Entwicklung",
+   "Nur das Einkommen",
+   "Es gibt keinen Unterschied"
+  ],
+  "correct": 1,
+  "explanation": "Demenz bezeichnet einen Verlust zuvor erworbener Fähigkeiten; Intelligenzminderung ist entwicklungsbezogen."
+ },
+ {
+  "id": "catalog_exam_14",
+  "topic": "Recht & Praxis",
+  "text": "Wie lange gilt die grundsätzliche Aufbewahrungsfrist nach § 630f BGB?",
+  "options": [
+   "Ein Jahr ab Erstkontakt",
+   "Fünf Jahre ab Rechnungsdatum",
+   "Zehn Jahre nach Behandlungsabschluss",
+   "Immer zwanzig Jahre ab Geburt"
+  ],
+  "correct": 2,
+  "explanation": "Andere gesetzliche Aufbewahrungsfristen können im Einzelfall hinzutreten."
+ },
+ {
+  "id": "catalog_exam_15",
+  "topic": "Recht & Praxis",
+  "text": "Welche zwei Aussagen zur Einwilligung sind richtig?",
+  "options": [
+   "Sie setzt grundsätzlich verständliche Aufklärung voraus",
+   "Sie kann grundsätzlich widerrufen werden",
+   "Sie gilt stets unwiderruflich",
+   "Ein Vertrag macht jede Aufklärung überflüssig"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Aufklärung und freiwillige Entscheidung sind zentral; ein Widerruf ist möglich."
+ },
+ {
+  "id": "catalog_exam_16",
+  "topic": "Recht & Praxis",
+  "text": "Was berechtigt die sektorale Heilpraktikererlaubnis allein?",
+  "options": [
+   "Zur Führung jeder psychotherapeutischen Berufsbezeichnung",
+   "Zur eigenständigen Behandlung aller körperlichen Krankheiten",
+   "Zur Psychotherapie innerhalb des Erlaubnisumfangs und der eigenen Kompetenz",
+   "Zur Verordnung aller verschreibungspflichtigen Medikamente"
+  ],
+  "correct": 2,
+  "explanation": "Erlaubnisumfang und tatsächliche Qualifikation begrenzen die Tätigkeit."
+ },
+ {
+  "id": "catalog_exam_17",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was ist bei unmittelbar drohender Suizidgefahr angemessen?",
+  "options": [
+   "Nur einen Termin in vier Wochen geben",
+   "Verlässliche Notfallhilfe und Übergabe organisieren",
+   "Die Person aus dem Gespräch ausschließen",
+   "Ausschließlich einen Fragebogen versenden"
+  ],
+  "correct": 1,
+  "explanation": "Eine akute Gefährdung erfordert unmittelbare Versorgung und nachvollziehbare Dokumentation."
+ },
+ {
+  "id": "catalog_exam_18",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche Aussage zum direkten Fragen nach Suizidalität trifft zu?",
+  "options": [
+   "Es ist fachlich grundsätzlich verboten",
+   "Es ersetzt jede weitere Diagnostik",
+   "Es gehört bei Hinweisen zur fachlichen Risikoeinschätzung",
+   "Es beweist immer eine akute Lebensgefahr"
+  ],
+  "correct": 2,
+  "explanation": "Direktes und empathisches Nachfragen löst Suizidalität nicht aus und unterstützt die Abklärung."
+ },
+ {
+  "id": "catalog_exam_19",
+  "topic": "Organisch",
+  "text": "Was ist eine Konfabulation?",
+  "options": [
+   "Bewusste Täuschung aus finanziellen Motiven",
+   "Unbewusstes Ausfüllen von Gedächtnislücken",
+   "Jede Halluzination",
+   "Eine Form von Exposition"
+  ],
+  "correct": 1,
+  "explanation": "Konfabulation ist ein Gedächtnisphänomen und keine absichtliche Lüge."
+ },
+ {
+  "id": "catalog_exam_20",
+  "topic": "Affekt & Angst",
+  "text": "Was spricht für eine generalisierte Angstproblematik?",
+  "options": [
+   "Breit gefächerte anhaltende Sorgen",
+   "Nur eine einzelne objektiv gefährliche Situation",
+   "Ausschließlich akute Bewusstlosigkeit",
+   "Immer psychotisches Erleben"
+  ],
+  "correct": 0,
+  "explanation": "Die Sorgen betreffen oft mehrere Lebensbereiche und sind schwer kontrollierbar."
+ },
+ {
+  "id": "catalog_exam_21",
+  "topic": "Psychosen",
+  "text": "Welche Aussage zu Psychosen ist richtig?",
+  "options": [
+   "Jede Psychose ist eine Schizophrenie",
+   "Psychosen sind immer dauerhaft",
+   "Auch Substanzen oder körperliche Erkrankungen können beteiligt sein",
+   "Eine ärztliche Abklärung ist immer überflüssig"
+  ],
+  "correct": 2,
+  "explanation": "Psychotische Symptome müssen hinsichtlich unterschiedlicher Ursachen eingeordnet werden."
+ },
+ {
+  "id": "catalog_exam_22",
+  "topic": "Somatoform & Dissoziativ",
+  "text": "Was ist eine Depersonalisation?",
+  "options": [
+   "Fremdheitsgefühl gegenüber dem eigenen Selbst",
+   "Immer Bewusstlosigkeit",
+   "Zwingend ein Intelligenzabbau",
+   "Eine erhöhte Dosisverträglichkeit"
+  ],
+  "correct": 0,
+  "explanation": "Das Selbst wird verändert oder unwirklich erlebt; die Realitätseinsicht bleibt typischerweise erhalten."
+ },
+ {
+  "id": "catalog_exam_23",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche therapeutische Vorgehensweise ist bei Exposition wesentlich?",
+  "options": [
+   "Überraschung ohne Einwilligung",
+   "Gemeinsame Vorbereitung und passende Indikationsprüfung",
+   "Jede Angst um jeden Preis sofort verhindern",
+   "Körperliche Gefahren bewusst ignorieren"
+  ],
+  "correct": 1,
+  "explanation": "Exposition erfolgt nachvollziehbar, vereinbart und innerhalb eigener fachlicher Kompetenz."
+ },
+ {
+  "id": "catalog_exam_24",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was steht bei systemischer Therapie besonders im Blick?",
+  "options": [
+   "Nur einzelne Laborwerte",
+   "Beziehungsmuster und soziale Wechselwirkungen",
+   "Ausschließlich Medikamentenspiegel",
+   "Allein die Handschrift"
+  ],
+  "correct": 1,
+  "explanation": "Das soziale Umfeld und die Interaktionen erhalten eine besondere Bedeutung."
+ },
+ {
+  "id": "catalog_exam_25",
+  "topic": "Diagnostik & Therapie",
+  "text": "Wo ist die Arbeit mit Übertragung besonders zentral?",
+  "options": [
+   "Psychodynamische Verfahren",
+   "Audiometrie",
+   "Röntgendiagnostik",
+   "Reine Blutdruckmessung"
+  ],
+  "correct": 0,
+  "explanation": "Übertragung und Gegenübertragung helfen, Beziehungsmuster im therapeutischen Kontakt zu verstehen."
+ },
+ {
+  "id": "catalog_exam_26",
+  "topic": "Differenzialdiagnose",
+  "text": "Was ist bei Beschwerden nach Arbeitsplatzverlust richtig?",
+  "options": [
+   "Ein Auslöser schließt eine depressive Episode aus",
+   "Es liegt immer eine normale Reaktion vor",
+   "Anpassungsstörung und depressive Episode sind differentialdiagnostisch zu prüfen",
+   "Eine Gefährdungsabklärung ist unzulässig"
+  ],
+  "correct": 2,
+  "explanation": "Der Auslöser allein entscheidet die Diagnose nicht; Verlauf und Symptomatik sind wesentlich."
+ },
+ {
+  "id": "catalog_exam_27",
+  "topic": "Grundlagen",
+  "text": "Was ist ein häufiger Fehler bei regionalen Prüfungsprotokollen?",
+  "options": [
+   "Sie als subjektive Erinnerungen einzuordnen",
+   "Ihre Inhalte fachlich zu prüfen",
+   "Aus einem Bericht einen festen Landesschwerpunkt abzuleiten",
+   "Die aktuellen Amtsinformationen zusätzlich zu lesen"
+  ],
+  "correct": 2,
+  "explanation": "Einzelne Erinnerungsberichte belegen keine verlässliche Häufigkeitsverteilung eines Bundeslandes."
+ },
+ {
+  "id": "catalog_exam_28",
+  "topic": "Recht & Praxis",
+  "text": "Wie gehen Sie mit fehlender Behandlungskompetenz um?",
+  "options": [
+   "Die Methode trotzdem ohne Aufklärung ausprobieren",
+   "Kompetenzgrenze offenlegen und passende Versorgung vermitteln",
+   "Eine Qualifikation nur behaupten",
+   "Jede Kooperation beenden"
+  ],
+  "correct": 1,
+  "explanation": "Die Erlaubnis ersetzt keine verfahrens- und störungsspezifische Qualifikation."
+ },
+ {
+  "id": "deep_001",
+  "topic": "Sucht",
+  "text": "Was bezeichnet Craving bei einer Suchterkrankung?",
+  "options": [
+   "Starkes Verlangen nach Konsum",
+   "Verlust der Orientierung",
+   "Eine Muskellähmung",
+   "Eine Hörstörung"
+  ],
+  "correct": 0,
+  "explanation": "Craving beschreibt den drängenden Konsumwunsch.",
+  "crit": false
+ },
+ {
+  "id": "deep_002",
+  "topic": "Organisch",
+  "text": "Welche psychische Begleiterkrankung ist bei Parkinson besonders zu bedenken?",
+  "options": [
+   "Depression",
+   "Ausschließlich Flugangst",
+   "Nur Legasthenie",
+   "Immer Manie"
+  ],
+  "correct": 0,
+  "explanation": "Psychische Symptome können motorischen Beschwerden vorausgehen.",
+  "crit": false
+ },
+ {
+  "id": "deep_003",
+  "topic": "Psychosen",
+  "text": "Was gehört zu schizophrenen Ich-Störungen?",
+  "options": [
+   "Gedankeneingebung",
+   "Appetitverlust allein",
+   "Schreibkrampf",
+   "Kurzsichtigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Eigene Gedanken werden als von außen eingegeben erlebt.",
+  "crit": false
+ },
+ {
+  "id": "deep_004",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was ist beim Beginn einer antidepressiven Behandlung wichtig?",
+  "options": [
+   "Verlauf und Gefährdung ärztlich überwachen",
+   "Eigenmächtig Dosierungen ändern",
+   "Sofortige Heilung erwarten",
+   "Kontrollen grundsätzlich beenden"
+  ],
+  "correct": 0,
+  "explanation": "Wirkung und unerwünschte Effekte müssen beobachtet werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_005",
+  "topic": "Kinder & Jugend",
+  "text": "Welche Kombination passt zum Tourette-Syndrom?",
+  "options": [
+   "Motorische und vokale Tics",
+   "Nur Schlaflosigkeit",
+   "Ausschließlich Rechenprobleme",
+   "Nur depressive Stimmung"
+  ],
+  "correct": 0,
+  "explanation": "Für Tourette sind beide Tic-Arten im Verlauf relevant.",
+  "crit": false
+ },
+ {
+  "id": "deep_006",
+  "topic": "Psychosen",
+  "text": "Was sind kommentierende Stimmen?",
+  "options": [
+   "Stimmen sprechen über Handlungen der Person",
+   "Eine Erinnerung an Musik",
+   "Eine normale Unterhaltung",
+   "Schwerhörigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Das Phänomen zählt zu akustischen Halluzinationen.",
+  "crit": false
+ },
+ {
+  "id": "deep_007",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was kennzeichnet eine psychotherapeutische Behandlung?",
+  "options": [
+   "Geplantes Vorgehen bei psychischer Erkrankung",
+   "Jedes private Gespräch",
+   "Nur Laboruntersuchungen",
+   "Ausschließlich Medikamentenabgabe"
+  ],
+  "correct": 0,
+  "explanation": "Indikation, Aufklärung und fachliche Kompetenz sind erforderlich.",
+  "crit": false
+ },
+ {
+  "id": "deep_008",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche Grundlage ist für Verhaltenstherapie besonders relevant?",
+  "options": [
+   "Lernprozesse",
+   "Blutgruppen",
+   "Schädelumfang",
+   "Handschrift"
+  ],
+  "correct": 0,
+  "explanation": "Lernpsychologische Modelle erklären Erwerb und Aufrechterhaltung von Verhalten.",
+  "crit": false
+ },
+ {
+  "id": "deep_009",
+  "topic": "Persönlichkeit",
+  "text": "Wie werden Persönlichkeitsstörungen angemessen abgeklärt?",
+  "options": [
+   "Klinisch und bei Bedarf testpsychologisch",
+   "Nur durch ein Foto",
+   "Durch einen einzigen Blutwert",
+   "Allein anhand des Berufs"
+  ],
+  "correct": 0,
+  "explanation": "Verlauf und verschiedene Lebensbereiche müssen berücksichtigt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_010",
+  "topic": "Affekt & Angst",
+  "text": "Was ist für eine spezifische Phobie charakteristisch?",
+  "options": [
+   "Angst vor einem umschriebenen Reiz",
+   "Ständige Bewusstlosigkeit",
+   "Immer Wahn",
+   "Nur Gedächtnisverlust"
+  ],
+  "correct": 0,
+  "explanation": "Der Reiz wird vermieden oder unter erheblicher Angst ertragen.",
+  "crit": false
+ },
+ {
+  "id": "deep_011",
+  "topic": "Kinder & Jugend",
+  "text": "Was ist bei Intelligenzminderung ursächlich zu berücksichtigen?",
+  "options": [
+   "Genetische und erworbene Einflüsse",
+   "Immer mangelnder Wille",
+   "Ausschließlich Erziehungsstil",
+   "Nur Schulwechsel"
+  ],
+  "correct": 0,
+  "explanation": "Die Ursachen sind vielfältig und bedürfen individueller Abklärung.",
+  "crit": false
+ },
+ {
+  "id": "deep_012",
+  "topic": "Psychopathologie",
+  "text": "Welches Phänomen betrifft den Denkinhalt?",
+  "options": [
+   "Wahn",
+   "Denkverlangsamung",
+   "Ideenflucht",
+   "Gedankenabreißen"
+  ],
+  "correct": 0,
+  "explanation": "Inhalt und Ablauf des Denkens werden unterschieden.",
+  "crit": false
+ },
+ {
+  "id": "deep_013",
+  "topic": "Affekt & Angst",
+  "text": "Welche Intervention ist bei Waschzwängen fachlich naheliegend?",
+  "options": [
+   "Exposition mit Reaktionsmanagement",
+   "Rituale unbegrenzt unterstützen",
+   "Kontakt grundsätzlich abbrechen",
+   "Nur Gedächtnistraining"
+  ],
+  "correct": 0,
+  "explanation": "Angstauslöser werden vorbereitet aufgesucht, Rituale schrittweise unterlassen.",
+  "crit": false
+ },
+ {
+  "id": "deep_014",
+  "topic": "Organisch",
+  "text": "Welche Fähigkeit wird bei Demenz häufig zunehmend beeinträchtigt?",
+  "options": [
+   "Alltagsplanung",
+   "Nur Haarwachstum",
+   "Ausschließlich Farbwahrnehmung",
+   "Allein Muskelkraft"
+  ],
+  "correct": 0,
+  "explanation": "Kognitive Veränderungen wirken sich auf selbständige Alltagsbewältigung aus.",
+  "crit": false
+ },
+ {
+  "id": "deep_015",
+  "topic": "Persönlichkeit",
+  "text": "Was kann beim Borderline-Typ im Vordergrund stehen?",
+  "options": [
+   "Instabile Beziehungen",
+   "Immer unveränderte Affekte",
+   "Ausschließlich Demenz",
+   "Stets fehlende Impulsivität"
+  ],
+  "correct": 0,
+  "explanation": "Affektregulation und Beziehungsgestaltung sind wichtige Bereiche.",
+  "crit": false
+ },
+ {
+  "id": "deep_016",
+  "topic": "Sucht",
+  "text": "Kann eine Substanz psychotische Symptome auslösen?",
+  "options": [
+   "Ja, einschließlich Wahn oder Halluzinationen",
+   "Nein, grundsätzlich nie",
+   "Nur ohne Gehirnbeteiligung",
+   "Nur bei Kurzsichtigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Zeitlicher Zusammenhang und organische Ursachen müssen geprüft werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_017",
+  "topic": "Affekt & Angst",
+  "text": "Was passt zu einer manischen Enthemmung?",
+  "options": [
+   "Unüberlegte riskante Entscheidungen",
+   "Nur Antriebslosigkeit",
+   "Ausschließlich Müdigkeit",
+   "Stets geringe Gesprächigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Enthemmung kann die finanzielle und soziale Sicherheit gefährden.",
+  "crit": false
+ },
+ {
+  "id": "deep_018",
+  "topic": "Somatoform & Dissoziativ",
+  "text": "Welche Begleitprobleme können bei Somatisierung vorkommen?",
+  "options": [
+   "Angst und Depression",
+   "Nur Schwerhörigkeit",
+   "Stets vollständige Beschwerdefreiheit",
+   "Immer Bewusstlosigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Psychische Begleiterkrankungen sind zusätzlich zu prüfen.",
+  "crit": false
+ },
+ {
+  "id": "deep_019",
+  "topic": "Organisch",
+  "text": "Was unterscheidet Demenz von einer kurzfristigen Vergesslichkeit?",
+  "options": [
+   "Anhaltender Abbau mit Alltagsbeeinträchtigung",
+   "Jedes Verlegen eines Schlüssels",
+   "Eine einzige unruhige Nacht",
+   "Ein einmaliger Versprecher"
+  ],
+  "correct": 0,
+  "explanation": "Einzelne Alltagspannen reichen zur Diagnosestellung nicht aus.",
+  "crit": false
+ },
+ {
+  "id": "deep_020",
+  "topic": "Sucht",
+  "text": "Wie wird schädlicher Substanzgebrauch beurteilt?",
+  "options": [
+   "Anhand gesundheitlicher Schäden",
+   "Allein nach dem Getränkepreis",
+   "Nur anhand der Trinkgefäße",
+   "Ausschließlich nach dem Beruf"
+  ],
+  "correct": 0,
+  "explanation": "Konsummuster und Folgen müssen zusammen erfasst werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_021",
+  "topic": "Psychosen",
+  "text": "Was kann bei einem schizophrenen Residuum dominieren?",
+  "options": [
+   "Sprachverarmung und Antriebsverlust",
+   "Stets Größenwahn",
+   "Nur Flugangst",
+   "Immer Euphorie"
+  ],
+  "correct": 0,
+  "explanation": "Im Residuum stehen häufig Negativsymptome im Vordergrund.",
+  "crit": false
+ },
+ {
+  "id": "deep_022",
+  "topic": "Affekt & Angst",
+  "text": "Welcher Wahninhalt ist bei psychotischer Depression typisch?",
+  "options": [
+   "Unbegründete schwere Schuld",
+   "Außergewöhnliche Weltherrschaft",
+   "Immer Liebeswahn",
+   "Ausschließlich Abstammungswahn"
+  ],
+  "correct": 0,
+  "explanation": "Schuld- oder Verarmungswahn kann zur depressiven Stimmung passen.",
+  "crit": false
+ },
+ {
+  "id": "deep_023",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche Vorgeschichte erhöht das Suizidrisiko besonders?",
+  "options": [
+   "Früherer Suizidversuch",
+   "Eine bestandene Prüfung allein",
+   "Nur die Haarfarbe",
+   "Eine bestimmte Schuhgröße"
+  ],
+  "correct": 0,
+  "explanation": "Frühere Versuche gehören in jede fundierte Risikoeinschätzung.",
+  "crit": false
+ },
+ {
+  "id": "deep_024",
+  "topic": "Sucht",
+  "text": "Welche Kombination passt zum Alkoholentzugsdelir?",
+  "options": [
+   "Verwirrtheit, Zittern und vegetative Übererregung",
+   "Nur Schreibschwäche",
+   "Stets klares Bewusstsein",
+   "Isolierte Zahnschmerzen"
+  ],
+  "correct": 0,
+  "explanation": "Ein Entzugsdelir ist ein medizinischer Notfall.",
+  "crit": false
+ },
+ {
+  "id": "deep_025",
+  "topic": "Affekt & Angst",
+  "text": "Was wäre bei neuem Herzrasen und Angst ein Fehler?",
+  "options": [
+   "Organische Abklärung grundsätzlich weglassen",
+   "Medikamente erfragen",
+   "Verlauf erheben",
+   "Gefährdung prüfen"
+  ],
+  "correct": 0,
+  "explanation": "Körperliche Ursachen können eine Angstsymptomatik imitieren.",
+  "crit": false
+ },
+ {
+  "id": "deep_026",
+  "topic": "Persönlichkeit",
+  "text": "Was passt eher zur schizoiden Persönlichkeitsstörung?",
+  "options": [
+   "Distanz und eingeschränkter Gefühlsausdruck",
+   "Ständiges dramatisches Auftreten",
+   "Immer wechselnde Hochphasen",
+   "Obligate Halluzinationen"
+  ],
+  "correct": 0,
+  "explanation": "Das dauerhafte Muster muss von anderen Störungen abgegrenzt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_027",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was bedeutet Projektion im psychodynamischen Modell?",
+  "options": [
+   "Eigene Impulse anderen zuschreiben",
+   "Bewusst neue Vokabeln lernen",
+   "Den Puls messen",
+   "Gewohnheiten belohnen"
+  ],
+  "correct": 0,
+  "explanation": "Ein eigener konflikthafter Inhalt wird als Eigenschaft anderer erlebt.",
+  "crit": false
+ },
+ {
+  "id": "deep_028",
+  "topic": "Organisch",
+  "text": "Welcher Befund ist beim Delir besonders bedeutsam?",
+  "options": [
+   "Schwankende Wachheit und Aufmerksamkeit",
+   "Lebenslange stabile Schüchternheit",
+   "Nur Prüfungsangst",
+   "Ausschließlich Zahnschmerzen"
+  ],
+  "correct": 0,
+  "explanation": "Akute Veränderungen verlangen medizinische Ursachenklärung.",
+  "crit": false
+ },
+ {
+  "id": "deep_029",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was hat bei einem bewaffneten, wahnhaft bedrohten Patienten Vorrang?",
+  "options": [
+   "Eigenschutz und professionelle Notfallhilfe",
+   "Den Wahn ausdiskutieren",
+   "Nähe erzwingen",
+   "Allein körperlich festhalten"
+  ],
+  "correct": 0,
+  "explanation": "Distanz und sichere Hilfe gehen der regulären Exploration vor.",
+  "crit": false
+ },
+ {
+  "id": "deep_030",
+  "topic": "Trauma & Belastung",
+  "text": "Was spricht nach einem Unfall für PTBS?",
+  "options": [
+   "Unwillkürliches Wiedererleben und Vermeidung",
+   "Nur normale Erinnerung",
+   "Ausschließlich Freude",
+   "Obligate Manie"
+  ],
+  "correct": 0,
+  "explanation": "Traumabezogene Symptome und weitere Kriterien müssen erhoben werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_031",
+  "topic": "Organisch",
+  "text": "Wie ist eine akut fluktuierende Verwirrtheit einzuordnen?",
+  "options": [
+   "Delirverdacht",
+   "Sicher harmlose Nervosität",
+   "Immer Autismus",
+   "Nur Intelligenzminderung"
+  ],
+  "correct": 0,
+  "explanation": "Organische Ursachen und Intoxikationen müssen dringend geprüft werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_032",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was meint Gegenübertragung?",
+  "options": [
+   "Reaktionen des Therapeuten im Beziehungsgeschehen",
+   "Nur ein Diagnosecode",
+   "Ausschließlich die Patientenrechnung",
+   "Ein Gedächtnistest"
+  ],
+  "correct": 0,
+  "explanation": "Eigene Reaktionen werden reflektiert und fachlich eingeordnet.",
+  "crit": false
+ },
+ {
+  "id": "deep_033",
+  "topic": "Affekt & Angst",
+  "text": "Was erfordert eine mögliche postpartale Psychose?",
+  "options": [
+   "Dringende psychiatrische Abklärung",
+   "Nur einen späteren Routinetermin",
+   "Grundsätzlich keine Risikoprüfung",
+   "Allein Schlafhygiene"
+  ],
+  "correct": 0,
+  "explanation": "Mutter und Kind können gefährdet sein; sofortige fachliche Versorgung organisieren.",
+  "crit": false
+ },
+ {
+  "id": "deep_034",
+  "topic": "Recht & Praxis",
+  "text": "Was ist bei freiheitsentziehenden Maßnahmen grundsätzlich erforderlich?",
+  "options": [
+   "Eine passende gesetzliche Grundlage",
+   "Die Diagnose allein",
+   "Die Zustimmung des Nachbarn",
+   "Der Wunsch des Heilpraktikers"
+  ],
+  "correct": 0,
+  "explanation": "Voraussetzungen und Zuständigkeiten sind rechtlich geregelt.",
+  "crit": false
+ },
+ {
+  "id": "deep_035",
+  "topic": "Persönlichkeit",
+  "text": "Welcher Verlauf passt zu einer Persönlichkeitsstörung?",
+  "options": [
+   "Überdauerndes Muster in mehreren Lebensbereichen",
+   "Eine einzige schlechte Nacht",
+   "Nur ein kurzer Streit",
+   "Immer plötzlicher Beginn im Alter"
+  ],
+  "correct": 0,
+  "explanation": "Situationsreaktionen reichen für die Diagnose nicht aus.",
+  "crit": false
+ },
+ {
+  "id": "deep_036",
+  "topic": "Organisch",
+  "text": "Welche Störung kann bei Demenz auftreten?",
+  "options": [
+   "Orientierungsprobleme",
+   "Zwingend reine Euphorie",
+   "Nur Craving",
+   "Immer Schlaflosigkeit ohne Müdigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Kognitive Teilfunktionen und Alltagskompetenz werden gemeinsam untersucht.",
+  "crit": false
+ },
+ {
+  "id": "deep_037",
+  "topic": "Kinder & Jugend",
+  "text": "Was ist bei leichter Intelligenzminderung sinnvoll?",
+  "options": [
+   "Angepasste Unterstützung der Alltagskompetenzen",
+   "Jede Förderung aufgeben",
+   "Nur einen IQ-Wert betrachten",
+   "Selbständigkeit grundsätzlich verbieten"
+  ],
+  "correct": 0,
+  "explanation": "Fähigkeiten und Unterstützungsbedarf sind individuell zu beurteilen.",
+  "crit": false
+ },
+ {
+  "id": "deep_038",
+  "topic": "Persönlichkeit",
+  "text": "Welche Eigenschaft passt zum anankastischen Muster?",
+  "options": [
+   "Übermäßiger Perfektionismus",
+   "Stete Verantwortungslosigkeit",
+   "Immer Halluzinationen",
+   "Ausschließlich Gedächtnisverlust"
+  ],
+  "correct": 0,
+  "explanation": "Rigide Kontrolle und hohe Standards können die Anpassung erschweren.",
+  "crit": false
+ },
+ {
+  "id": "deep_039",
+  "topic": "Sucht",
+  "text": "Warum Benzodiazepine bei Abhängigkeit nicht abrupt absetzen?",
+  "options": [
+   "Gefahr schwerer Entzugskomplikationen",
+   "Weil Entzug unmöglich ist",
+   "Weil alle Beschwerden eingebildet sind",
+   "Weil sie keine Wirkung haben"
+  ],
+  "correct": 0,
+  "explanation": "Ärztlich gesteuertes Vorgehen ist erforderlich; Krampfanfälle sind möglich.",
+  "crit": false
+ },
+ {
+  "id": "deep_040",
+  "topic": "Sucht",
+  "text": "Welche langfristige Alkoholfolge ist psychiatrisch relevant?",
+  "options": [
+   "Organisches amnestisches Syndrom",
+   "Immer isolierte Flugangst",
+   "Nur Kurzsichtigkeit",
+   "Ausschließlich Legasthenie"
+  ],
+  "correct": 0,
+  "explanation": "Chronischer Konsum kann mit schweren kognitiven Schäden einhergehen.",
+  "crit": false
+ },
+ {
+  "id": "deep_041",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was bezeichnet Regression im Abwehrmodell?",
+  "options": [
+   "Rückgriff auf frühere Verhaltensweisen",
+   "Gezielten Muskelaufbau",
+   "Ausschließlich Schlafmangel",
+   "Erhöhte Gedächtnisleistung"
+  ],
+  "correct": 0,
+  "explanation": "Unter Belastung können frühere Bewältigungsformen wieder auftreten.",
+  "crit": false
+ },
+ {
+  "id": "deep_042",
+  "topic": "Organisch",
+  "text": "Frühe Persönlichkeitsveränderungen und Enthemmung lassen besonders woran denken?",
+  "options": [
+   "Frontotemporale Demenz",
+   "Nur spezifische Phobie",
+   "Immer leichte Depression",
+   "Ausschließlich Tinnitus"
+  ],
+  "correct": 0,
+  "explanation": "Das Anfangsbild kann stärker verhaltensbezogen als amnestisch sein.",
+  "crit": false
+ },
+ {
+  "id": "deep_043",
+  "topic": "Somatoform & Dissoziativ",
+  "text": "Wie verlaufen Beschwerden bei klassischer Somatisierung häufig?",
+  "options": [
+   "Vielfältig und wechselnd über längere Zeit",
+   "Immer nur minutenlang",
+   "Stets nur an einem Finger",
+   "Ausschließlich bewusst erzeugt"
+  ],
+  "correct": 0,
+  "explanation": "Verlauf und angemessene somatische Abklärung sind wesentlich.",
+  "crit": false
+ },
+ {
+  "id": "deep_044",
+  "topic": "Essstörungen",
+  "text": "Was kann Untergewicht bei Anorexie aufrechterhalten?",
+  "options": [
+   "Übermäßige körperliche Aktivität",
+   "Grundsätzlich nur Wassermangel",
+   "Immer eine Infektion",
+   "Ausschließlich Schlafwandeln"
+  ],
+  "correct": 0,
+  "explanation": "Gewichtsregulierendes Verhalten muss gezielt erfragt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_045",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was zählt zu psychotherapeutischen Verfahren?",
+  "options": [
+   "Analytische Psychotherapie",
+   "Audiometrie",
+   "Röntgendiagnostik",
+   "Blutgruppenbestimmung"
+  ],
+  "correct": 0,
+  "explanation": "Psychotherapie ist von körperlicher Diagnostik abzugrenzen.",
+  "crit": false
+ },
+ {
+  "id": "deep_046",
+  "topic": "Organisch",
+  "text": "Was ist für ein Demenzsyndrom wesentlich?",
+  "options": [
+   "Abbau kognitiver Fähigkeiten",
+   "Eine einzelne Panikattacke",
+   "Nur eine motorische Schwäche",
+   "Immer ein getrübtes Bewusstsein"
+  ],
+  "correct": 0,
+  "explanation": "Mehrere kognitive Funktionen und der Alltag können beeinträchtigt sein.",
+  "crit": false
+ },
+ {
+  "id": "deep_047",
+  "topic": "Organisch",
+  "text": "Was ist bei Korsakow häufig stark beeinträchtigt?",
+  "options": [
+   "Neulernen von Informationen",
+   "Nur die Sehschärfe",
+   "Ausschließlich Geschmack",
+   "Allein die Muskelkraft"
+  ],
+  "correct": 0,
+  "explanation": "Merkfähigkeitsstörungen sind beim amnestischen Syndrom zentral.",
+  "crit": false
+ },
+ {
+  "id": "deep_048",
+  "topic": "Psychosen",
+  "text": "Wie lange müssen typische Schizophreniesymptome nach ICD-10 in der Regel bestehen?",
+  "options": [
+   "Mindestens einen Monat",
+   "Immer nur eine Stunde",
+   "Zwingend zehn Jahre",
+   "Genau einen Tag"
+  ],
+  "correct": 0,
+  "explanation": "Zusätzlich sind Symptomkombination und Ausschluss anderer Ursachen erforderlich.",
+  "crit": false
+ },
+ {
+  "id": "deep_049",
+  "topic": "Recht & Praxis",
+  "text": "Reicht eine Demenzdiagnose allein für eine rechtliche Betreuung?",
+  "options": [
+   "Nein, konkrete Erforderlichkeit prüfen",
+   "Ja, immer automatisch",
+   "Ja, ohne jede Prüfung",
+   "Nur das Alter entscheidet"
+  ],
+  "correct": 0,
+  "explanation": "Unterstützungsbedarf und gesetzliche Voraussetzungen sind maßgeblich.",
+  "crit": false
+ },
+ {
+  "id": "deep_050",
+  "topic": "Affekt & Angst",
+  "text": "Warum kann eine Manie behandlungsbedürftig sein, obwohl Betroffene sich gut fühlen?",
+  "options": [
+   "Urteilskraft und Risikoverhalten können beeinträchtigt sein",
+   "Weil gute Stimmung immer krankhaft ist",
+   "Weil Freude verboten ist",
+   "Weil Schlaf bedeutungslos ist"
+  ],
+  "correct": 0,
+  "explanation": "Subjektives Wohlbefinden schließt erhebliche Gefährdung nicht aus.",
+  "crit": false
+ },
+ {
+  "id": "deep_051",
+  "topic": "Organisch",
+  "text": "Was unterscheidet Konfabulation von absichtlichem Lügen?",
+  "options": [
+   "Unbewusster Ersatz fehlender Erinnerungen",
+   "Stets geplante Täuschung",
+   "Immer vollständige Erinnerung",
+   "Nur eine Sprachstörung"
+  ],
+  "correct": 0,
+  "explanation": "Die betroffene Person erlebt die Ergänzungen häufig als zutreffend.",
+  "crit": false
+ },
+ {
+  "id": "deep_052",
+  "topic": "Sucht",
+  "text": "Was kann eine Alkoholhalluzinose kennzeichnen?",
+  "options": [
+   "Halluzinationen bei relativ klarem Bewusstsein",
+   "Zwingend Koma",
+   "Immer normale Wahrnehmung",
+   "Nur motorische Tics"
+  ],
+  "correct": 0,
+  "explanation": "Ein Delir ist differentialdiagnostisch abzugrenzen.",
+  "crit": false
+ },
+ {
+  "id": "deep_053",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was wird bei progressiver Muskelrelaxation geübt?",
+  "options": [
+   "Anspannen und bewusstes Entspannen von Muskeln",
+   "Erzwungener Schlafentzug",
+   "Übertragung elektrischer Impulse",
+   "Nur Gedankenunterdrückung"
+  ],
+  "correct": 0,
+  "explanation": "Die Wahrnehmung von Anspannung und Entspannung wird geschult.",
+  "crit": false
+ },
+ {
+  "id": "deep_054",
+  "topic": "Psychopathologie",
+  "text": "Was kann die Deutung eines Sprichworts untersuchen?",
+  "options": [
+   "Abstraktionsvermögen",
+   "Den Blutzucker",
+   "Die Hörschwelle",
+   "Die Lungenfunktion"
+  ],
+  "correct": 0,
+  "explanation": "Die Antwort muss unter Berücksichtigung von Sprache und Bildung eingeordnet werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_055",
+  "topic": "Organisch",
+  "text": "Welche Kombination legt eine neurologische Abklärung nahe?",
+  "options": [
+   "Psychische Veränderung mit unwillkürlichen Bewegungen",
+   "Nur Lampenfieber",
+   "Stabile Schüchternheit",
+   "Eine einzelne Sorge"
+  ],
+  "correct": 0,
+  "explanation": "Bewegungsstörungen können auf eine organische Erkrankung hinweisen.",
+  "crit": false
+ },
+ {
+  "id": "deep_056",
+  "topic": "Sucht",
+  "text": "Welche Angabe ist bei unbekannten Rauschmitteln besonders wichtig?",
+  "options": [
+   "Konsumzeit, Mischkonsum und aktuelle Symptome",
+   "Nur die Verpackungsfarbe",
+   "Ausschließlich die Musikrichtung",
+   "Allein die Körpergröße"
+  ],
+  "correct": 0,
+  "explanation": "Stoff und Wirkung sind oft unsicher; akute Gefährdung prüfen.",
+  "crit": false
+ },
+ {
+  "id": "deep_057",
+  "topic": "Kinder & Jugend",
+  "text": "Wie wird jugendliche Selbstverletzung angemessen beurteilt?",
+  "options": [
+   "Funktion und Suizidalität konkret erfragen",
+   "Immer nur bestrafen",
+   "Grundsätzlich ignorieren",
+   "Automatisch als Simulation werten"
+  ],
+  "correct": 0,
+  "explanation": "Selbstverletzung verlangt eine individuelle Risiko- und Funktionsanalyse.",
+  "crit": false
+ },
+ {
+  "id": "deep_058",
+  "topic": "Persönlichkeit",
+  "text": "Was passt zu einem histrionischen Persönlichkeitsmuster?",
+  "options": [
+   "Ausgeprägtes Bedürfnis nach Aufmerksamkeit",
+   "Immer emotionale Kälte",
+   "Stets soziale Isolation",
+   "Obligate Desorientierung"
+  ],
+  "correct": 0,
+  "explanation": "Dramatisierender Ausdruck ist im dauerhaften Gesamtmuster zu beurteilen.",
+  "crit": false
+ },
+ {
+  "id": "deep_059",
+  "topic": "Organisch",
+  "text": "Welcher Verlauf passt eher zu Alzheimer als zu akutem Delir?",
+  "options": [
+   "Schleichender kognitiver Abbau",
+   "Plötzliche Bewusstseinstrübung",
+   "Stündlicher Wechsel nach Fieberbeginn",
+   "Akute Intoxikation"
+  ],
+  "correct": 0,
+  "explanation": "Der zeitliche Verlauf hilft bei der Differentialdiagnose.",
+  "crit": false
+ },
+ {
+  "id": "deep_060",
+  "topic": "Psychopathologie",
+  "text": "Eine reale Unterhaltung wird unmittelbar als magische Botschaft gedeutet. Was liegt nahe?",
+  "options": [
+   "Wahnwahrnehmung",
+   "Reine Halluzination ohne Reiz",
+   "Normale Abstraktion",
+   "Nur Gedächtnisschwäche"
+  ],
+  "correct": 0,
+  "explanation": "Ein realer Sinneseindruck erhält eine wahnhafte Bedeutung.",
+  "crit": false
+ },
+ {
+  "id": "deep_061",
+  "topic": "Psychopathologie",
+  "text": "Ein realer Gegenstand wird als persönlich bestimmtes Warnzeichen erlebt. Wie einordnen?",
+  "options": [
+   "Mögliche Wahnwahrnehmung",
+   "Sicher normale Erinnerung",
+   "Nur eine Phobie",
+   "Ausschließlich Denkhemmung"
+  ],
+  "correct": 0,
+  "explanation": "Entscheidend ist die wahnhafte Bedeutungszuschreibung zum realen Reiz.",
+  "crit": false
+ },
+ {
+  "id": "deep_062",
+  "topic": "Affekt & Angst",
+  "text": "Was hält soziale Angst häufig aufrecht?",
+  "options": [
+   "Vermeidung und Selbstbeobachtung",
+   "Realistisches Erproben neuer Situationen",
+   "Passende Psychoedukation",
+   "Gemeinsame Zielklärung"
+  ],
+  "correct": 0,
+  "explanation": "Sicherheitsverhalten verhindert oft korrigierende Erfahrungen.",
+  "crit": false
+ },
+ {
+  "id": "deep_063",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche Technik gehört zur Verhaltenstherapie?",
+  "options": [
+   "Verhaltensanalyse",
+   "Ausschließlich Traumdeutung",
+   "Nur Blutdruckmessung",
+   "Allein Medikamentenverordnung"
+  ],
+  "correct": 0,
+  "explanation": "Auslöser, Bedingungen und Folgen von Verhalten werden untersucht.",
+  "crit": false
+ },
+ {
+  "id": "deep_064",
+  "topic": "Sucht",
+  "text": "Enge Pupillen und Atemdämpfung lassen an welche Intoxikation denken?",
+  "options": [
+   "Opioide",
+   "Nur Koffein",
+   "Ausschließlich Nikotin",
+   "Immer LSD"
+  ],
+  "correct": 0,
+  "explanation": "Bei Atemproblemen ist sofortige medizinische Notfallhilfe erforderlich.",
+  "crit": false
+ },
+ {
+  "id": "deep_065",
+  "topic": "Affekt & Angst",
+  "text": "Was ist eine Zwangshandlung?",
+  "options": [
+   "Wiederholtes Kontrollieren zur Spannungsreduktion",
+   "Jede unbequeme Erinnerung",
+   "Eine Halluzination",
+   "Normale einmalige Vorsicht"
+  ],
+  "correct": 0,
+  "explanation": "Rituale erfolgen wiederholt und erzeugen Leid oder Beeinträchtigung.",
+  "crit": false
+ },
+ {
+  "id": "deep_066",
+  "topic": "Essstörungen",
+  "text": "Schließt normales Gewicht eine Bulimie aus?",
+  "options": [
+   "Nein",
+   "Ja, grundsätzlich",
+   "Nur bei Erwachsenen",
+   "Nur bei Männern"
+  ],
+  "correct": 0,
+  "explanation": "Essanfälle und kompensatorische Verhaltensweisen sind entscheidend.",
+  "crit": false
+ },
+ {
+  "id": "deep_067",
+  "topic": "Organisch",
+  "text": "Warum ist bei Demenz eine Fremdanamnese hilfreich?",
+  "options": [
+   "Veränderungen im Alltag ergänzend erfassen",
+   "Die Person grundsätzlich übergehen",
+   "Einwilligung immer ersetzen",
+   "Den Befund automatisch beweisen"
+  ],
+  "correct": 0,
+  "explanation": "Beobachtungen Angehöriger ergänzen die Untersuchung, unter Beachtung der Vertraulichkeit.",
+  "crit": false
+ },
+ {
+  "id": "deep_068",
+  "topic": "Differenzialdiagnose",
+  "text": "Verminderter Antrieb ist am besten wie einzuordnen?",
+  "options": [
+   "Unspezifisch, mehrere Ursachen prüfen",
+   "Beweis jeder Schizophrenie",
+   "Immer bloße Faulheit",
+   "Nur eine Substanzwirkung"
+  ],
+  "correct": 0,
+  "explanation": "Depression, organische Erkrankung und Medikamenteneffekte kommen infrage.",
+  "crit": false
+ },
+ {
+  "id": "deep_069",
+  "topic": "Affekt & Angst",
+  "text": "Wovor fürchtet sich eine sozialphobische Person besonders?",
+  "options": [
+   "Abwertung in sozialen Situationen",
+   "Ausschließlich Spinnen",
+   "Nur Schlaflosigkeit",
+   "Immer Verarmungswahn"
+  ],
+  "correct": 0,
+  "explanation": "Die erwartete Bewertung beeinflusst Angst und Vermeidung.",
+  "crit": false
+ },
+ {
+  "id": "deep_070",
+  "topic": "Affekt & Angst",
+  "text": "Können bei bipolarer Störung psychotische Symptome auftreten?",
+  "options": [
+   "Ja",
+   "Nein, niemals",
+   "Nur bei Kindern",
+   "Nur nach Trauma"
+  ],
+  "correct": 0,
+  "explanation": "Manische oder depressive Episoden können psychotisch ausgeprägt sein.",
+  "crit": false
+ },
+ {
+  "id": "deep_071",
+  "topic": "Psychopathologie",
+  "text": "Was ist eine formale Denkstörung?",
+  "options": [
+   "Perseveration",
+   "Verfolgungswahn",
+   "Gedankenausbreitung",
+   "Zwangsbefürchtung"
+  ],
+  "correct": 0,
+  "explanation": "Das Haftenbleiben betrifft den Denkablauf.",
+  "crit": false
+ },
+ {
+  "id": "deep_072",
+  "topic": "Sucht",
+  "text": "Euphorie, weite Pupillen und hoher Puls passen eher zu welcher Substanzgruppe?",
+  "options": [
+   "Stimulanzien",
+   "Opioiden allein",
+   "Benzodiazepinen allein",
+   "Nur Schlafmitteln"
+  ],
+  "correct": 0,
+  "explanation": "Vegetative Aktivierung und erhöhte Wachheit sind charakteristisch.",
+  "crit": false
+ },
+ {
+  "id": "deep_073",
+  "topic": "Differenzialdiagnose",
+  "text": "Was kann Paniksymptome körperlich imitieren?",
+  "options": [
+   "Hyperthyreose",
+   "Nur Kurzsichtigkeit",
+   "Ausschließlich Haarausfall",
+   "Immer Zahnkaries"
+  ],
+  "correct": 0,
+  "explanation": "Schilddrüsenerkrankungen können vegetative Angstsymptome hervorrufen.",
+  "crit": false
+ },
+ {
+  "id": "deep_074",
+  "topic": "Psychosen",
+  "text": "Kann Schizophrenie ohne deutliche Bewusstseinstrübung bestehen?",
+  "options": [
+   "Ja",
+   "Nein, nur im Koma",
+   "Nur bei Kindern",
+   "Nur nach einer Infektion"
+  ],
+  "correct": 0,
+  "explanation": "Ein klares Bewusstsein schließt schizophrene Symptome nicht aus.",
+  "crit": true
+ },
+ {
+  "id": "deep_075",
+  "topic": "Organisch",
+  "text": "Welche Ursache gehört zu häufigen Demenzformen?",
+  "options": [
+   "Alzheimer-Krankheit",
+   "Nur spezifische Phobie",
+   "Immer Tourette",
+   "Ausschließlich Schlafwandeln"
+  ],
+  "correct": 0,
+  "explanation": "Die Ursache muss medizinisch differenziert werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_076",
+  "topic": "Diagnostik & Therapie",
+  "text": "Worauf beruht autogenes Training wesentlich?",
+  "options": [
+   "Erlernte Selbstbeeinflussung und Entspannung",
+   "Erzwungener Angstkonfrontation",
+   "Elektrischer Reizung",
+   "Medikamentöser Sedierung"
+  ],
+  "correct": 0,
+  "explanation": "Das Verfahren nutzt eingeübte Formeln und Körperwahrnehmung.",
+  "crit": false
+ },
+ {
+  "id": "deep_077",
+  "topic": "Recht & Praxis",
+  "text": "Reicht ein Kurszertifikat allein für heilkundliche Verhaltenstherapie?",
+  "options": [
+   "Nein, eine passende gesetzliche Berufszulassung bleibt erforderlich",
+   "Ja, jedes Zertifikat genügt",
+   "Nur die Kursdauer entscheidet",
+   "Nur die Werbung zählt"
+  ],
+  "correct": 0,
+  "explanation": "Fachliche Ausbildung und gesetzliche Berechtigung sind getrennte Voraussetzungen.",
+  "crit": false
+ },
+ {
+  "id": "deep_078",
+  "topic": "Organisch",
+  "text": "Akuter Beginn und gestörter Schlaf-Wach-Rhythmus sprechen besonders wofür?",
+  "options": [
+   "Delirverdacht",
+   "Nur langjährige Persönlichkeitszüge",
+   "Immer Legasthenie",
+   "Ausschließlich soziale Angst"
+  ],
+  "correct": 0,
+  "explanation": "Das zeitliche Muster spricht für dringenden medizinischen Abklärungsbedarf.",
+  "crit": false
+ },
+ {
+  "id": "deep_079",
+  "topic": "Sucht",
+  "text": "Welche Konsumveränderung weist auf Kontrollverlust hin?",
+  "options": [
+   "Geplante Mengen wiederholt überschreiten",
+   "Ein Getränk bewusst ablehnen",
+   "Nur einen Geschmack bevorzugen",
+   "Das Glas wechseln"
+  ],
+  "correct": 0,
+  "explanation": "Kontrollminderung betrifft Beginn, Menge oder Beendigung des Konsums.",
+  "crit": false
+ },
+ {
+  "id": "deep_080",
+  "topic": "Grundlagen",
+  "text": "Was bedeutet bei einem normierten IQ-Test der Mittelwert 100?",
+  "options": [
+   "Referenzzentrum der Normverteilung",
+   "Sichere Diagnose einer Demenz",
+   "Grenze jeder Krankheit",
+   "Perfekte Alltagskompetenz"
+  ],
+  "correct": 0,
+  "explanation": "Ein Testwert muss mit Funktionsniveau und Kontext interpretiert werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_081",
+  "topic": "Affekt & Angst",
+  "text": "Kann eine schwere Depression mit Unruhe auftreten?",
+  "options": [
+   "Ja, als agitiertes Bild",
+   "Nein, Bewegung ist ausgeschlossen",
+   "Nur in der Kindheit",
+   "Nur bei Autismus"
+  ],
+  "correct": 0,
+  "explanation": "Depressive Zustände können psychomotorisch gehemmt oder unruhig sein.",
+  "crit": false
+ },
+ {
+  "id": "deep_082",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was bedeutet kognitive Umstrukturierung?",
+  "options": [
+   "Unhilfreiche Bewertungen prüfen und verändern",
+   "Jeden Gedanken unterdrücken",
+   "Wahn durch Streit beseitigen",
+   "Nur Muskeln entspannen"
+  ],
+  "correct": 0,
+  "explanation": "Bewertungen werden gemeinsam untersucht und alternative Sichtweisen erprobt.",
+  "crit": false
+ },
+ {
+  "id": "deep_083",
+  "topic": "Kinder & Jugend",
+  "text": "Was sind Tics typischerweise?",
+  "options": [
+   "Plötzliche wiederkehrende Bewegungen oder Laute",
+   "Stets geplante Rituale",
+   "Immer Krampfanfälle",
+   "Nur Angstgedanken"
+  ],
+  "correct": 0,
+  "explanation": "Verlauf und Abgrenzung zu anderen Bewegungsphänomenen sind wichtig.",
+  "crit": false
+ },
+ {
+  "id": "deep_084",
+  "topic": "Essstörungen",
+  "text": "Was beschreibt eine Körperschemastörung bei Anorexie?",
+  "options": [
+   "Verzerrte Bewertung der eigenen Körperform",
+   "Nur eine Sehschwäche",
+   "Immer ein Gedächtnisverlust",
+   "Ausschließlich Muskelschmerz"
+  ],
+  "correct": 0,
+  "explanation": "Gewicht und Körperform beeinflussen die Selbstbewertung unangemessen stark.",
+  "crit": false
+ },
+ {
+  "id": "deep_085",
+  "topic": "Affekt & Angst",
+  "text": "Was ist bei Verdacht auf Angststörung zuerst mitzudenken?",
+  "options": [
+   "Körperliche und substanzbezogene Ursachen",
+   "Nur der Berufsabschluss",
+   "Ausschließlich Augenfarbe",
+   "Grundsätzlich keine Alternativen"
+  ],
+  "correct": 0,
+  "explanation": "Eine psychische Erklärung ersetzt die Differentialdiagnostik nicht.",
+  "crit": false
+ },
+ {
+  "id": "deep_086",
+  "topic": "Organisch",
+  "text": "Kann eine systemische Erkrankung psychische Veränderungen verursachen?",
+  "options": [
+   "Ja",
+   "Nein, nur Kopfverletzungen",
+   "Nur bei Kindern",
+   "Nur im Schlaf"
+  ],
+  "correct": 0,
+  "explanation": "Sekundäre Hirnfunktionsstörungen sind bei Körperkrankheiten möglich.",
+  "crit": false
+ },
+ {
+  "id": "deep_087",
+  "topic": "Sucht",
+  "text": "Nach Absetzen eines starken Schmerzpflasters treten vegetative Beschwerden auf. Was prüfen?",
+  "options": [
+   "Möglichen Opioidentzug",
+   "Sicher eine Persönlichkeitsstörung",
+   "Nur eine Phobie",
+   "Immer Simulation"
+  ],
+  "correct": 0,
+  "explanation": "Verordnete Medikamente können abhängigkeits- und entzugsrelevant sein.",
+  "crit": false
+ },
+ {
+  "id": "deep_088",
+  "topic": "Psychosen",
+  "text": "Was passt zum hebephrenen Erscheinungsbild der ICD-10?",
+  "options": [
+   "Desorganisation und unpassender Affekt",
+   "Nur isolierte Höhenangst",
+   "Immer klares systematisches Wahnsystem",
+   "Ausschließlich Gedächtnislücken"
+  ],
+  "correct": 0,
+  "explanation": "Denken, Verhalten und Affektausdruck können desorganisiert sein.",
+  "crit": false
+ },
+ {
+  "id": "deep_089",
+  "topic": "Kinder & Jugend",
+  "text": "Wann spricht ein Verhalten eher für eine Störung des Sozialverhaltens?",
+  "options": [
+   "Anhaltendes erheblich regelverletzendes Muster",
+   "Ein einzelner alterstypischer Streit",
+   "Einmalige schlechte Laune",
+   "Normale Autonomiebestrebung"
+  ],
+  "correct": 0,
+  "explanation": "Dauer, Ausprägung und Kontext sind entscheidend.",
+  "crit": false
+ },
+ {
+  "id": "deep_090",
+  "topic": "Organisch",
+  "text": "Welche Aussage zu Demenz trifft zu?",
+  "options": [
+   "Unterschiedliche Ursachen sind möglich",
+   "Sie ist immer Alzheimer",
+   "Sie ist stets nur Depression",
+   "Sie entsteht immer über Nacht"
+  ],
+  "correct": 0,
+  "explanation": "Eine ärztliche Ursachenklärung ist notwendig.",
+  "crit": false
+ },
+ {
+  "id": "deep_091",
+  "topic": "Diagnostik & Therapie",
+  "text": "Wofür steht die Abkürzung SSRI?",
+  "options": [
+   "Selektive Serotonin-Wiederaufnahmehemmer",
+   "Eine Gedächtnistestreihe",
+   "Ein Entspannungsverfahren",
+   "Eine Demenzform"
+  ],
+  "correct": 0,
+  "explanation": "Es handelt sich um eine ärztlich eingesetzte Antidepressivagruppe.",
+  "crit": false
+ },
+ {
+  "id": "deep_092",
+  "topic": "Affekt & Angst",
+  "text": "Wie werden Zwangsgedanken häufig erlebt?",
+  "options": [
+   "Als aufdringliche eigene Gedanken",
+   "Immer als äußere Stimme",
+   "Nur als normale Erinnerung",
+   "Stets als fremdgesteuerte Bewegung"
+  ],
+  "correct": 0,
+  "explanation": "Einsicht und Widerstand sind zu explorieren, nicht pauschal vorauszusetzen.",
+  "crit": false
+ },
+ {
+  "id": "deep_093",
+  "topic": "Organisch",
+  "text": "Welche frühen Auffälligkeiten können bei frontotemporaler Demenz dominieren?",
+  "options": [
+   "Verhalten und soziale Steuerung",
+   "Nur episodische Panik",
+   "Immer akutes Fieber",
+   "Ausschließlich Hyperaktivität seit Kindheit"
+  ],
+  "correct": 0,
+  "explanation": "Eine Demenz muss nicht mit ausgeprägter Vergesslichkeit beginnen.",
+  "crit": false
+ },
+ {
+  "id": "deep_094",
+  "topic": "Psychosen",
+  "text": "Welche Veränderung zählt eher zur Negativsymptomatik?",
+  "options": [
+   "Affektverflachung",
+   "Gedankeneingebung",
+   "Akustische Halluzination",
+   "Größenwahn"
+  ],
+  "correct": 0,
+  "explanation": "Verminderter emotionaler Ausdruck unterscheidet sich von produktiven Symptomen.",
+  "crit": false
+ },
+ {
+  "id": "deep_095",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche ergänzende Maßnahme kann bei Depression hilfreich sein?",
+  "options": [
+   "Angemessene körperliche Aktivität",
+   "Genereller sozialer Rückzug",
+   "Dauerhafter Schlafentzug ohne Begleitung",
+   "Eigenmächtiger Medikamentenwechsel"
+  ],
+  "correct": 0,
+  "explanation": "Aktivität wird passend zur Belastbarkeit und Gesamtbehandlung geplant.",
+  "crit": false
+ },
+ {
+  "id": "deep_096",
+  "topic": "Differenzialdiagnose",
+  "text": "Was sollte bei neu aufgetretener depressiver Symptomatik geprüft werden?",
+  "options": [
+   "Körperliche Krankheiten und Medikamente",
+   "Nur Familienstand",
+   "Ausschließlich Schulnoten",
+   "Nur Herkunftsort"
+  ],
+  "correct": 0,
+  "explanation": "Eine depressive Symptomatik kann unterschiedliche Ursachen haben.",
+  "crit": false
+ },
+ {
+  "id": "deep_097",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was ist Exposition in vivo?",
+  "options": [
+   "Konfrontation mit einer realen Situation",
+   "Nur darüber lesen",
+   "Ausschließlich Traumdeutung",
+   "Ein Labortest"
+  ],
+  "correct": 0,
+  "explanation": "Die tatsächliche Situation wird vorbereitet und vereinbart aufgesucht.",
+  "crit": false
+ },
+ {
+  "id": "deep_098",
+  "topic": "Essstörungen",
+  "text": "Warum ist häufiges Erbrechen bei Bulimie körperlich riskant?",
+  "options": [
+   "Elektrolytstörungen sind möglich",
+   "Es hat keine körperlichen Folgen",
+   "Es verhindert jede Herzstörung",
+   "Es schließt Unterversorgung aus"
+  ],
+  "correct": 0,
+  "explanation": "Medizinische Abklärung ist auch bei Normalgewicht wichtig.",
+  "crit": false
+ },
+ {
+  "id": "deep_099",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was bedeutet empathisches Verstehen?",
+  "options": [
+   "Die subjektive Sicht nachvollziehen",
+   "Jede Bewertung ungeprüft bestätigen",
+   "Sofort Ratschläge geben",
+   "Eigene Erfahrungen aufzwingen"
+  ],
+  "correct": 0,
+  "explanation": "Verstehen bedeutet nicht, jede Überzeugung als zutreffend zu übernehmen.",
+  "crit": false
+ },
+ {
+  "id": "deep_100",
+  "topic": "Persönlichkeit",
+  "text": "Wann kann Perfektionismus krankheitswertig sein?",
+  "options": [
+   "Bei rigidem Muster mit deutlicher Beeinträchtigung",
+   "Schon bei jeder sorgfältigen Arbeit",
+   "Nur bei hohem Einkommen",
+   "Immer bei Ordnungsliebe"
+  ],
+  "correct": 0,
+  "explanation": "Ausmaß und Folgen sind wichtiger als ein einzelner Wesenszug.",
+  "crit": false
+ },
+ {
+  "id": "deep_101",
+  "topic": "Kinder & Jugend",
+  "text": "Was gehört bei vermuteter Bindungsstörung in die Abklärung?",
+  "options": [
+   "Frühe Betreuungserfahrungen und Entwicklung",
+   "Nur die Schulnote",
+   "Allein eine Momentaufnahme",
+   "Ausschließlich Augenfarbe"
+  ],
+  "correct": 0,
+  "explanation": "Autismus und andere Entwicklungsprobleme sind abzugrenzen.",
+  "crit": false
+ },
+ {
+  "id": "deep_102",
+  "topic": "Organisch",
+  "text": "Ein Patient erfindet unbewusst Ergänzungen zu Erinnerungslücken. Was prüfen?",
+  "options": [
+   "Amnestisches Syndrom mit Konfabulation",
+   "Nur unhöfliches Verhalten",
+   "Sicher Simulation",
+   "Immer Manie"
+  ],
+  "correct": 0,
+  "explanation": "Gedächtnis und organische Ursachen müssen untersucht werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_103",
+  "topic": "Affekt & Angst",
+  "text": "Welche Beeinträchtigung passt zu schwerer Depression?",
+  "options": [
+   "Deutlich eingeschränkte Alltagsbewältigung",
+   "Immer uneingeschränkte Aktivität",
+   "Nur kurze Langeweile",
+   "Zwingend fehlendes Leiden"
+  ],
+  "correct": 0,
+  "explanation": "Schwere und Gefährdung bestimmen den Versorgungsbedarf.",
+  "crit": false
+ },
+ {
+  "id": "deep_104",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was unterscheidet Therapieansätze fachlich sinnvoll?",
+  "options": [
+   "Modelle und Methoden bei gemeinsamer Indikationsprüfung",
+   "Eine Methode passt immer allen",
+   "Verhaltenstherapie ignoriert jede Biografie",
+   "Analyse braucht nie Ziele"
+  ],
+  "correct": 0,
+  "explanation": "Verfahren sind differenziert statt über pauschale Gegensätze zu vergleichen.",
+  "crit": false
+ },
+ {
+  "id": "deep_105",
+  "topic": "Recht & Praxis",
+  "text": "Was reicht allein nicht für eine Zwangsunterbringung?",
+  "options": [
+   "Eine psychiatrische Diagnose",
+   "Gesetzliche Voraussetzungen",
+   "Erforderliche Gefahrenprüfung",
+   "Zuständiges Verfahren"
+  ],
+  "correct": 0,
+  "explanation": "Diagnose und Unterbringungsvoraussetzungen sind nicht gleichzusetzen.",
+  "crit": false
+ },
+ {
+  "id": "deep_106",
+  "topic": "Essstörungen",
+  "text": "Welche Frage ist bei Essanfällen diagnostisch wichtig?",
+  "options": [
+   "Erlebter Kontrollverlust und Gegenmaßnahmen",
+   "Nur Lieblingsfarbe",
+   "Ausschließlich Körpergröße",
+   "Nur Zeitpunkt des Einkaufs"
+  ],
+  "correct": 0,
+  "explanation": "Konsumverhalten und kompensatorisches Verhalten müssen erfasst werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_107",
+  "topic": "Differenzialdiagnose",
+  "text": "Was bedeutet eine neu auftretende Gangstörung bei psychischen Beschwerden?",
+  "options": [
+   "Neurologische Ursachen mitbedenken",
+   "Immer reine Angst",
+   "Sicher harmlos",
+   "Beweis von Simulation"
+  ],
+  "correct": 0,
+  "explanation": "Körperliche Auffälligkeiten erfordern passende medizinische Abklärung.",
+  "crit": false
+ },
+ {
+  "id": "deep_108",
+  "topic": "Persönlichkeit",
+  "text": "Welche Haltung ist bei narzisstischer Problematik sinnvoll?",
+  "options": [
+   "Wertschätzend und mit klaren Grenzen",
+   "Demütigung",
+   "Unbegrenzte Sonderrechte",
+   "Jede Kritik grundsätzlich verbieten"
+  ],
+  "correct": 0,
+  "explanation": "Beziehung und begründete Grenzen sind gemeinsam wichtig.",
+  "crit": false
+ },
+ {
+  "id": "deep_109",
+  "topic": "Organisch",
+  "text": "Welche Veränderung kann bei Alzheimer im Verlauf zunehmen?",
+  "options": [
+   "Wortfindungsstörungen",
+   "Nur akute Euphorie",
+   "Ausschließlich Kribbeln",
+   "Immer plötzliches Koma"
+  ],
+  "correct": 0,
+  "explanation": "Sprache und andere kognitive Funktionen können beeinträchtigt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_110",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was verbindet die DBT besonders?",
+  "options": [
+   "Akzeptanz und Veränderung",
+   "Nur Konfrontation ohne Beziehung",
+   "Ausschließlich Medikamentenentzug",
+   "Bewusste Demütigung"
+  ],
+  "correct": 0,
+  "explanation": "Validierung und Fertigkeitentraining unterstützen neue Bewältigung.",
+  "crit": false
+ },
+ {
+  "id": "deep_111",
+  "topic": "Diagnostik & Therapie",
+  "text": "Können in Psychotherapie unerwünschte Wirkungen auftreten?",
+  "options": [
+   "Ja, Verlauf und Belastung beobachten",
+   "Nein, niemals",
+   "Nur bei Medikamenten",
+   "Nur ohne Einwilligung"
+  ],
+  "correct": 0,
+  "explanation": "Aufklärung und Verlaufskontrolle gelten auch für psychotherapeutische Maßnahmen.",
+  "crit": false
+ },
+ {
+  "id": "deep_112",
+  "topic": "Affekt & Angst",
+  "text": "Was ist bei Depression im höheren Alter besonders wichtig?",
+  "options": [
+   "Somatische und kognitive Differentialdiagnostik",
+   "Jede Beschwerde dem Alter zuschreiben",
+   "Suizidalität nie ansprechen",
+   "Nur die Pension berechnen"
+  ],
+  "correct": 0,
+  "explanation": "Depression und Demenz können sich ähneln oder gleichzeitig bestehen.",
+  "crit": false
+ },
+ {
+  "id": "deep_113",
+  "topic": "Diagnostik & Therapie",
+  "text": "Wozu dient ein Verhaltensexperiment?",
+  "options": [
+   "Annahmen durch geplantes Erproben überprüfen",
+   "Sofort eine Diagnose beweisen",
+   "Patienten überraschen",
+   "Nur Ablenkung erzeugen"
+  ],
+  "correct": 0,
+  "explanation": "Vorhersage, Beobachtung und Auswertung werden gemeinsam vereinbart.",
+  "crit": false
+ },
+ {
+  "id": "deep_114",
+  "topic": "Affekt & Angst",
+  "text": "Was ist bei quälenden Zwangsimpulsen wichtig?",
+  "options": [
+   "Erleben, Einsicht und tatsächliche Absicht unterscheiden",
+   "Automatisch eine Straftat erwarten",
+   "Immer Schizophrenie diagnostizieren",
+   "Nicht nach Belastung fragen"
+  ],
+  "correct": 0,
+  "explanation": "Ein aufdringlicher Gedanke ist nicht gleich eine Handlungsabsicht.",
+  "crit": false
+ },
+ {
+  "id": "deep_115",
+  "topic": "Affekt & Angst",
+  "text": "Was passt zu generalisierter Angst?",
+  "options": [
+   "Sorgen über mehrere Lebensbereiche",
+   "Nur ein einzelner Gegenstand",
+   "Immer kurze Bewusstlosigkeit",
+   "Ausschließlich Halluzinationen"
+  ],
+  "correct": 0,
+  "explanation": "Anspannung, Dauer und Kontrollierbarkeit müssen erfragt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_116",
+  "topic": "Affekt & Angst",
+  "text": "Warum ist bei chronischer Depression der Verlauf wichtig?",
+  "options": [
+   "Zusätzliche Episoden und Komorbiditäten erkennen",
+   "Weil aktuelle Symptome bedeutungslos sind",
+   "Weil Behandlung unmöglich ist",
+   "Weil jede Verstimmung bipolar ist"
+  ],
+  "correct": 0,
+  "explanation": "Chronizität ersetzt keine differenzierte Diagnostik.",
+  "crit": false
+ },
+ {
+  "id": "deep_117",
+  "topic": "Diagnostik & Therapie",
+  "text": "Warum darf Anorexie nicht als bloßes Schönheitsproblem eingeordnet werden?",
+  "options": [
+   "Schwere körperliche und psychische Gefahren",
+   "Weil nur Erwachsene betroffen sind",
+   "Weil sie keine Krankheit ist",
+   "Weil Laborwerte immer normal sind"
+  ],
+  "correct": 0,
+  "explanation": "Die medizinische Risikoeinschätzung gehört zur Versorgung.",
+  "crit": false
+ },
+ {
+  "id": "deep_118",
+  "topic": "Kinder & Jugend",
+  "text": "Kann Intelligenzminderung mit anderen psychischen Störungen zusammen auftreten?",
+  "options": [
+   "Ja",
+   "Nein, nie",
+   "Nur bei Frauen",
+   "Nur nach einer Demenz"
+  ],
+  "correct": 0,
+  "explanation": "Eine zusätzliche Erkrankung darf nicht übersehen werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_119",
+  "topic": "Kinder & Jugend",
+  "text": "Was bedeutet primäre Enuresis?",
+  "options": [
+   "Keine längere zuvor erreichte Trockenphase",
+   "Erneutes Einnässen nach langer Trockenheit",
+   "Jede nächtliche Angst",
+   "Ausschließlich Tagesschläfrigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Entwicklung und körperliche Ursachen müssen berücksichtigt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_120",
+  "topic": "Persönlichkeit",
+  "text": "Was ist für schizoide Persönlichkeitszüge eher kennzeichnend?",
+  "options": [
+   "Wenig Interesse an engen Beziehungen",
+   "Stark dramatisierender Ausdruck",
+   "Immer akute Ich-Störungen",
+   "Nur Waschrituale"
+  ],
+  "correct": 0,
+  "explanation": "Ein stabiles Persönlichkeitsmuster ist von Psychosen abzugrenzen.",
+  "crit": false
+ },
+ {
+  "id": "deep_121",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was trifft zur Elektrokrampftherapie zu?",
+  "options": [
+   "Ärztliche Behandlung bestimmter schwerer Erkrankungen",
+   "Eine Form von Gesprächsführung",
+   "Ein EEG ohne therapeutischen Zweck",
+   "Eine Heilpraktikermethode"
+  ],
+  "correct": 0,
+  "explanation": "Die EKT kann unter anderem bei schweren Depressionen eingesetzt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_122",
+  "topic": "Affekt & Angst",
+  "text": "Was ist bei schwerer Depression nach einer Geburt wichtig?",
+  "options": [
+   "Zeitnahe fachliche Versorgung und Gefährdungsprüfung",
+   "Automatisch fehlende Mutterliebe unterstellen",
+   "Immer nur abwarten",
+   "Jede Hilfestellung vermeiden"
+  ],
+  "correct": 0,
+  "explanation": "Belastung und Sicherheit von Mutter und Kind müssen ernst genommen werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_123",
+  "topic": "Somatoform & Dissoziativ",
+  "text": "Warum suchen Menschen mit somatoformen Beschwerden oft zunächst Hausärzte auf?",
+  "options": [
+   "Sie erleben körperliche Beschwerden",
+   "Sie simulieren definitionsgemäß",
+   "Sie haben niemals Leidensdruck",
+   "Sie kennen immer die Ursache"
+  ],
+  "correct": 0,
+  "explanation": "Die körperliche Wahrnehmung ist real und benötigt angemessene Abklärung.",
+  "crit": false
+ },
+ {
+  "id": "deep_124",
+  "topic": "Psychosen",
+  "text": "Welche Aussage zum Verlauf einer Schizophrenie ist richtig?",
+  "options": [
+   "Verläufe sind unterschiedlich",
+   "Sie endet immer nach einem Tag",
+   "Sie führt ausnahmslos zur Demenz",
+   "Sie ist grundsätzlich immer substanzbedingt"
+  ],
+  "correct": 0,
+  "explanation": "Eine individuelle Verlaufsbeurteilung ist erforderlich.",
+  "crit": false
+ },
+ {
+  "id": "deep_125",
+  "topic": "Persönlichkeit",
+  "text": "Was sollte nach stationärer Borderline-Behandlung geklärt werden?",
+  "options": [
+   "Behandlungsplan und aktuelle Krisenrisiken",
+   "Nur der Entlassungstag",
+   "Ausschließlich Lieblingsmethoden",
+   "Automatisch jede Vorbehandlung verwerfen"
+  ],
+  "correct": 0,
+  "explanation": "Kontinuität und Koordination erleichtern die anschließende Versorgung.",
+  "crit": false
+ },
+ {
+  "id": "deep_126",
+  "topic": "Sucht",
+  "text": "Was ist bei Sucht und Schwangerschaft erforderlich?",
+  "options": [
+   "Koordinierte ärztliche und psychosoziale Hilfe",
+   "Eigenmächtiger abrupter Entzug",
+   "Nur allgemeine Beruhigung",
+   "Alle Medikamente pauschal absetzen"
+  ],
+  "correct": 0,
+  "explanation": "Versorgung muss die Risiken für Schwangere und Kind berücksichtigen.",
+  "crit": false
+ },
+ {
+  "id": "deep_127",
+  "topic": "Somatoform & Dissoziativ",
+  "text": "Wie reagieren Sie auf viele Beschwerden nach mehreren Arztbesuchen?",
+  "options": [
+   "Befunde einbeziehen und Beschwerden ernst nehmen",
+   "Alles automatisch als eingebildet abtun",
+   "Unbegrenzt neue Tests erzwingen",
+   "Jede organische Ursache endgültig ausschließen"
+  ],
+  "correct": 0,
+  "explanation": "Eine gemeinsame Erklärung und abgestimmte Versorgung sind hilfreich.",
+  "crit": false
+ },
+ {
+  "id": "deep_128",
+  "topic": "Affekt & Angst",
+  "text": "Welches Ziel passt zur Behandlung von Kontrollzwängen?",
+  "options": [
+   "Rituale reduzieren und Unsicherheit tolerieren",
+   "Absolute Sicherheit garantieren",
+   "Kontrollen vollständig übernehmen",
+   "Jeden Auslöser lebenslang vermeiden"
+  ],
+  "correct": 0,
+  "explanation": "Ein gemeinsames Störungsmodell begründet die Übungen.",
+  "crit": false
+ },
+ {
+  "id": "deep_129",
+  "topic": "Sucht",
+  "text": "Welche Angabe beweist für sich allein keine Abhängigkeit?",
+  "options": [
+   "Anzahl der Konsumtage",
+   "Kontrollverlust im Gesamtbild",
+   "Entzug im Gesamtbild",
+   "Vorrangigkeit des Konsums"
+  ],
+  "correct": 0,
+  "explanation": "Die Diagnose richtet sich nach dem Syndrom, nicht allein nach Häufigkeit.",
+  "crit": false
+ },
+ {
+  "id": "deep_130",
+  "topic": "Kinder & Jugend",
+  "text": "Wozu dient eine mehrperspektivische ADHS-Abklärung?",
+  "options": [
+   "Verhalten in verschiedenen Lebensbereichen erfassen",
+   "Nur Eltern beschuldigen",
+   "Alle Unterschiede ignorieren",
+   "Allein eine Momentaufnahme bewerten"
+  ],
+  "correct": 0,
+  "explanation": "Entwicklungsverlauf und Kontext sind für die Diagnose wesentlich.",
+  "crit": false
+ },
+ {
+  "id": "deep_131",
+  "topic": "Sucht",
+  "text": "Was bedeutet Entwöhnungsbehandlung?",
+  "options": [
+   "Längerfristige Arbeit am Konsumverhalten",
+   "Nur akute Kreislaufkontrolle",
+   "Immer ein einmaliges Gespräch",
+   "Ausschließlich die Messung des Alkoholspiegels"
+  ],
+  "correct": 0,
+  "explanation": "Sie unterscheidet sich von der akuten Entzugsbehandlung.",
+  "crit": false
+ },
+ {
+  "id": "deep_132",
+  "topic": "Essstörungen",
+  "text": "Welche Gefahr kann durch schwere Unterernährung entstehen?",
+  "options": [
+   "Herzrhythmusstörungen",
+   "Zwingend bessere Belastbarkeit",
+   "Immer erhöhte Konzentration",
+   "Ausschließlich harmlose Müdigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Die körperliche Stabilität muss medizinisch beurteilt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_133",
+  "topic": "Affekt & Angst",
+  "text": "Welche Situation kann bei Agoraphobie Angst auslösen?",
+  "options": [
+   "Ein voller Zug ohne leicht erreichbaren Ausgang",
+   "Nur das Sprechen einer Fremdsprache",
+   "Immer ausschließlich Prüfungen",
+   "Nur das Lesen eines Textes"
+  ],
+  "correct": 0,
+  "explanation": "Befürchtete erschwerte Flucht oder Hilfe ist zentral.",
+  "crit": false
+ },
+ {
+  "id": "deep_134",
+  "topic": "Sucht",
+  "text": "Wie sind unbekannte Kräutermischungen mit psychoaktiver Wirkung einzuordnen?",
+  "options": [
+   "Potentiell gefährlich",
+   "Grundsätzlich harmlos",
+   "Immer zugelassene Arzneimittel",
+   "Sicher frei von Wirkstoffen"
+  ],
+  "correct": 0,
+  "explanation": "Zusammensetzung und Wirkungsstärke können unklar sein.",
+  "crit": false
+ },
+ {
+  "id": "deep_135",
+  "topic": "Sucht",
+  "text": "Welche Stoffgruppe hat ein relevantes Abhängigkeitspotential?",
+  "options": [
+   "Opioide",
+   "Nur Kochsalz",
+   "Ausschließlich Wasser",
+   "Immer Vitamine"
+  ],
+  "correct": 0,
+  "explanation": "Auch medizinisch eingesetzte Opioide erfordern verantwortliche Anwendung.",
+  "crit": false
+ },
+ {
+  "id": "deep_136",
+  "topic": "Kinder & Jugend",
+  "text": "Was passt eher zu Pavor nocturnus als zu einem erinnerten Albtraum?",
+  "options": [
+   "Aufschrecken mit vegetativer Erregung und geringer Erinnerung",
+   "Ausführliche Traumerzählung am Morgen",
+   "Nur Wachheit am Nachmittag",
+   "Immer bewusste Absicht"
+  ],
+  "correct": 0,
+  "explanation": "Die Einordnung berücksichtigt den Schlafverlauf und andere Ursachen.",
+  "crit": false
+ },
+ {
+  "id": "deep_137",
+  "topic": "Sucht",
+  "text": "Warum ist ein Filmriss nach Alkohol bedeutsam?",
+  "options": [
+   "Hinweis auf eine Intoxikationsfolge",
+   "Beweis einer Schizophrenie",
+   "Immer ein normaler Schlaf",
+   "Sicher harmlos"
+  ],
+  "correct": 0,
+  "explanation": "Auch Atmung und Bewusstseinslage können gefährdet sein.",
+  "crit": false
+ },
+ {
+  "id": "deep_138",
+  "topic": "Psychopathologie",
+  "text": "Welche Reihenfolge beschreibt zunehmende Bewusstseinsminderung?",
+  "options": [
+   "Somnolenz, Sopor, Koma",
+   "Koma, Somnolenz, Wachheit",
+   "Wahn, Zwang, Phobie",
+   "Tic, Angst, Euphorie"
+  ],
+  "correct": 0,
+  "explanation": "Diese Begriffe betreffen quantitative Bewusstseinsstörungen.",
+  "crit": true
+ },
+ {
+  "id": "deep_139",
+  "topic": "Recht & Praxis",
+  "text": "Was ist vor nicht dringlicher Kinderpsychotherapie bei gemeinsamer Sorge zu klären?",
+  "options": [
+   "Berechtigte Einwilligung und Sorgeverhältnisse",
+   "Nur die Schulbescheinigung",
+   "Allein der Wunsch eines Nachbarn",
+   "Grundsätzlich keine Zustimmung"
+  ],
+  "correct": 0,
+  "explanation": "Einwilligungsfähigkeit und Vertretungsbefugnis sind sorgfältig zu prüfen.",
+  "crit": false
+ },
+ {
+  "id": "deep_140",
+  "topic": "Diagnostik & Therapie",
+  "text": "Was bedeutet operante Konditionierung?",
+  "options": [
+   "Verhalten verändert sich durch Konsequenzen",
+   "Nur zwei Reize gleichzeitig wahrnehmen",
+   "Ausschließlich Träume deuten",
+   "Immer Bestrafung"
+  ],
+  "correct": 0,
+  "explanation": "Verstärkung und Bestrafung sind unterschiedliche Lernprinzipien.",
+  "crit": false
+ },
+ {
+  "id": "deep_141",
+  "topic": "Differenzialdiagnose",
+  "text": "Macht eine bekannte Depression neue vegetative Beschwerden automatisch psychisch erklärbar?",
+  "options": [
+   "Nein, neue Ursachen prüfen",
+   "Ja, immer",
+   "Nur wenn die Person es wünscht",
+   "Nur bei Erwachsenen"
+  ],
+  "correct": 0,
+  "explanation": "Eine bestehende Diagnose ersetzt keine neue Differentialdiagnostik.",
+  "crit": false
+ },
+ {
+  "id": "deep_142",
+  "topic": "Diagnostik & Therapie",
+  "text": "Wozu dient ein Depressionsfragebogen?",
+  "options": [
+   "Schwere und Verlauf ergänzend einschätzen",
+   "Jede klinische Untersuchung ersetzen",
+   "Suizidgefahr sicher ausschließen",
+   "Eine Diagnose allein beweisen"
+  ],
+  "correct": 0,
+  "explanation": "Selbstbeurteilung ist Teil, nicht Ersatz der Diagnostik.",
+  "crit": false
+ },
+ {
+  "id": "deep_143",
+  "topic": "Somatoform & Dissoziativ",
+  "text": "Amnesie mit unerwartetem Ortswechsel lässt welche Diagnose erwägen?",
+  "options": [
+   "Dissoziative Fugue",
+   "Nur soziale Phobie",
+   "Immer Manie",
+   "Ausschließlich Legasthenie"
+  ],
+  "correct": 0,
+  "explanation": "Organische und substanzbezogene Ursachen müssen abgeklärt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_144",
+  "topic": "Organisch",
+  "text": "Unwiderstehliche Schlafattacken und Kataplexie sprechen besonders wofür?",
+  "options": [
+   "Narkolepsie",
+   "Nur gewöhnliche Langeweile",
+   "Immer Depression",
+   "Ausschließlich Schlafwandeln"
+  ],
+  "correct": 0,
+  "explanation": "Eine schlafmedizinisch-neurologische Abklärung ist angezeigt.",
+  "crit": false
+ },
+ {
+  "id": "deep_145",
+  "topic": "Organisch",
+  "text": "Kann bei bestehender Demenz zusätzlich ein Delir auftreten?",
+  "options": [
+   "Ja, etwa bei Infektion",
+   "Nein, grundsätzlich ausgeschlossen",
+   "Nur nach Psychotherapie",
+   "Nur in der Kindheit"
+  ],
+  "correct": 0,
+  "explanation": "Neue akute Symptome müssen zusätzlich medizinisch abgeklärt werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_146",
+  "topic": "Diagnostik & Therapie",
+  "text": "Muss jeder psychiatrische Notfall automatisch zwangsweise behandelt werden?",
+  "options": [
+   "Nein, Situation und rechtliche Voraussetzungen prüfen",
+   "Ja, immer",
+   "Nur die Berufsbezeichnung entscheidet",
+   "Nur der Familienstand zählt"
+  ],
+  "correct": 0,
+  "explanation": "Notfallversorgung und Zwangsmaßnahmen sind getrennt zu beurteilen.",
+  "crit": false
+ },
+ {
+  "id": "deep_147",
+  "topic": "Somatoform & Dissoziativ",
+  "text": "Was passt zur klassischen Somatisierung?",
+  "options": [
+   "Wiederkehrende wechselnde Körpersymptome",
+   "Immer bewusstes Vortäuschen",
+   "Nur ein einmaliger Schmerz",
+   "Zwingend fehlender Leidensdruck"
+  ],
+  "correct": 0,
+  "explanation": "Somatische Abklärung und Verlauf sind unverzichtbar.",
+  "crit": false
+ },
+ {
+  "id": "deep_148",
+  "topic": "Psychopathologie",
+  "text": "Was ist bei Sopor stärker eingeschränkt als bei Somnolenz?",
+  "options": [
+   "Erweckbarkeit",
+   "Die Haarfarbe",
+   "Der Bildungsabschluss",
+   "Die Händigkeit"
+  ],
+  "correct": 0,
+  "explanation": "Zunehmende Bewusstseinsminderung ist medizinisch abklärungsbedürftig.",
+  "crit": false
+ },
+ {
+  "id": "deep_149",
+  "topic": "Psychosen",
+  "text": "Eigentümliche Überzeugungen und soziale Kontaktprobleme können worauf hinweisen?",
+  "options": [
+   "Schizotype Störung",
+   "Nur Panikstörung",
+   "Ausschließlich Bulimie",
+   "Immer Alzheimer"
+  ],
+  "correct": 0,
+  "explanation": "Das gesamte Muster und andere Ursachen sind zu prüfen.",
+  "crit": false
+ },
+ {
+  "id": "deep_150",
+  "topic": "Organisch",
+  "text": "Plötzlich auftretende Sprachstörung und Halbseitenlähmung erfordern was?",
+  "options": [
+   "Sofortige medizinische Notfallhilfe",
+   "Nur Entspannungsübungen",
+   "Einen Routinetermin in Wochen",
+   "Ausschließlich ein Angsttagebuch"
+  ],
+  "correct": 0,
+  "explanation": "Ein akuter neurologischer Notfall muss vermutet werden.",
+  "crit": false
+ },
+ {
+  "id": "deep_151",
+  "topic": "Diagnostik & Therapie",
+  "text": "Welche Methode verbindet klassisch Angsthierarchie und Entspannung?",
+  "options": [
+   "Systematische Desensibilisierung",
+   "Nur freie Assoziation",
+   "Ausschließlich Verhaltensbeobachtung",
+   "Ein IQ-Test"
+  ],
+  "correct": 0,
+  "explanation": "Sie nutzt das historische Prinzip der reziproken Hemmung.",
+  "crit": false
+ },
+ {
+  "id": "deep_152",
+  "topic": "Differenzialdiagnose",
+  "text": "Was spricht nach einem Anfall eher für Epilepsie?",
+  "options": [
+   "Postiktale Verwirrtheit",
+   "Jede Nervosität",
+   "Nur das Vorliegen von Stress",
+   "Allein eine psychische Vorgeschichte"
+  ],
+  "correct": 0,
+  "explanation": "Einzelzeichen genügen nicht; neurologische Abklärung ist erforderlich.",
+  "crit": false
  }
 ]
