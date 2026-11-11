@@ -2308,5 +2308,65 @@
   "topic": "Kriterien & Dauer",
   "front": "Merkhilfe: „6 Monate“",
   "back": "Demenz, Hypochondrie, somatoforme Schmerzstörung, ADHS (Dauer 6 Monate, Beginn vor 7 Jahren), PTBS-Beginn spätestens etwa 6 Monate nach dem Trauma, Anpassungsstörung dauert meist höchstens 6 Monate."
+ },
+ {
+  "id": "ksf01",
+  "topic": "Kriterien & Dauer",
+  "front": "Schizophrenie: Positiv- und Negativsymptome",
+  "back": "Positiv: Wahn, Halluzinationen (v. a. akustisch), Ich-Störungen (Gedankenlautwerden, -eingebung, -entzug, -ausbreitung, Gefühl des Gemachten), formale Denkstörungen (Zerfahrenheit), Katatonie.\nNegativ: Affektverflachung, Alogie, Anhedonie, Antriebsmangel/Apathie, sozialer Rückzug, Aufmerksamkeitsstörung.\nDauer: fast ständig mindestens 1 Monat."
+ },
+ {
+  "id": "ksf02",
+  "topic": "Kriterien & Dauer",
+  "front": "Schizophrenie: Verlaufsformen und Dauer",
+  "back": "Paranoid (F20.0): Wahn, Stimmen. Hebephren (F20.1): Beginn 15–25 J., läppischer Affekt, Zerfahrenheit. Katatonie (F20.2): Stupor, Erregung. Simplex (F20.6): schleichend, mindestens 1 Jahr, nur Negativsymptome. Residuum (F20.5): mindestens 1 Jahr Negativsymptome. Postschizophrene Depression (F20.4): innerhalb von 12 Monaten."
+ },
+ {
+  "id": "ksf03",
+  "topic": "Kriterien & Dauer",
+  "front": "Manie: Symptome und Dauer",
+  "back": "Gehobene oder gereizte Stimmung, Antriebssteigerung, Rededrang, Ideenflucht, vermindertes Schlafbedürfnis, Größenideen, Distanzminderung, Leichtsinn (Kaufrausch, Risikoverhalten), Libido gesteigert. Dauer: mindestens 1 Woche; Hypomanie: ca. 4 Tage, ohne Wahn."
+ },
+ {
+  "id": "ksf04",
+  "topic": "Kriterien & Dauer",
+  "front": "Panikattacke und Panikstörung: Symptome und Dauer",
+  "back": "Herzrasen, Schwitzen, Zittern, Atemnot, Brustenge, Schwindel, Übelkeit, Derealisation, Angst vor Kontrollverlust oder Tod. Höhepunkt nach etwa 10 Minuten, Dauer Minuten. Störung: mehrere schwere Attacken innerhalb von etwa 1 Monat, Erwartungsangst, Vermeidung."
+ },
+ {
+  "id": "ksf05",
+  "topic": "Kriterien & Dauer",
+  "front": "Phobien: Symptome",
+  "back": "Agoraphobie: Angst in mindestens 2 Situationen (Menge, öffentliche Plätze, allein reisen, weit von zu Hause) mit Vermeidung. Soziale Phobie: Angst vor Bewertung, Erröten, Zittern, Vermeidung. Spezifische Phobie: umschriebene Objekte oder Situationen (Tiere, Höhe, Blut)."
+ },
+ {
+  "id": "ksf06",
+  "topic": "Kriterien & Dauer",
+  "front": "PTBS: Symptome und Beginn",
+  "back": "Ereignis von außergewöhnlicher Bedrohung. Wiedererleben (Intrusionen, Flashbacks, Albträume), Vermeidung, emotionale Taubheit, teilweise Amnesie, Übererregung (Schreckhaftigkeit, Schlafstörung, Reizbarkeit, Hypervigilanz). Beginn meist innerhalb von 6 Monaten."
+ },
+ {
+  "id": "ksf07",
+  "topic": "Kriterien & Dauer",
+  "front": "Borderline und weitere Persönlichkeitsstörungen: Leitsymptome",
+  "back": "Borderline (F60.31): Impulsivität, instabile Beziehungen, Leeregefühl, Verlassenheitsangst, Selbstverletzung. Paranoid: Misstrauen, Nachtragen. Schizoid: Rückzug, emotionale Kühle. Dissozial: Normverletzung, geringe Empathie (ab 18 J.). Histrionisch: Theatralik. Anankastisch: Perfektionismus, Rigidität. Ängstlich-vermeidend: Angst vor Kritik. Dependent: Anlehnungsbedürfnis."
+ },
+ {
+  "id": "ksf08",
+  "topic": "Kriterien & Dauer",
+  "front": "Demenzformen: Beginn und Leitsymptome",
+  "back": "Alzheimer: schleichend, Gedächtnis, progredient. Vaskulär: stufenweise, Gefäßrisiko. Lewy-Körper: Fluktuationen, optische Halluzinationen, Parkinsonismus. Frontotemporal: früh Persönlichkeitsänderung, Enthemmung. Delir dagegen: akut, fluktuierend, Bewusstseinsstörung."
+ },
+ {
+  "id": "ksf09",
+  "topic": "Kriterien & Dauer",
+  "front": "Alkohol- und Opiatentzug: Symptome",
+  "back": "Alkohol: Tremor, Schwitzen, Übelkeit, Tachykardie, Unruhe, Krampfanfälle, Delir nach 1–3 Tagen (optische Halluzinationen, Desorientierung). Opiate: Gänsehaut, Schmerzen, Rhinorrhoe, Gähnen, Durchfall, Mydriasis."
+ },
+ {
+  "id": "ksf10",
+  "topic": "Kriterien & Dauer",
+  "front": "ADHS und Autismus: Symptome und Zeit",
+  "back": "ADHS: Unaufmerksamkeit, Hyperaktivität, Impulsivität; Beginn vor 7 J., mindestens 6 Monate, mehrere Lebensbereiche. Autismus: Trias aus sozialer Interaktion, Kommunikation, stereotypen Interessen; Beginn vor dem 3. Lebensjahr."
  }
 ]

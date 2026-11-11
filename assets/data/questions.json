@@ -6932,5 +6932,686 @@
   ],
   "correct": 0,
   "explanation": "Der zeitliche Zusammenhang mit dem Konsum, der Verlauf unter Abstinenz und frühere Episoden sind entscheidend. Bestehen die Symptome länger als 1 Monat nach Abstinenz fort, spricht dies für eine primäre Schizophrenie."
+ },
+ {
+  "id": "ks01",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome gehören zu den Positivsymptomen der Schizophrenie? Wählen Sie 3 Antworten.",
+  "options": [
+   "Wahn",
+   "Halluzinationen (z. B. Stimmenhören)",
+   "Ich-Störungen (z. B. Gedankeneingebung)",
+   "Affektverflachung",
+   "Sozialer Rückzug"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Positivsymptome sind zusätzlich zum Normalen auftretende Phänomene: Wahn, Halluzinationen, Ich-Störungen, formale Denkstörungen und desorganisiertes Verhalten. Affektverflachung, Sprachverarmung, Antriebsmangel und sozialer Rückzug sind Negativsymptome."
+ },
+ {
+  "id": "ks02",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome gehören zu den Negativsymptomen der Schizophrenie? Wählen Sie 3 Antworten.",
+  "options": [
+   "Affektverflachung",
+   "Sprachverarmung (Alogie)",
+   "Antriebsmangel und Apathie",
+   "Gedankenlautwerden",
+   "Kommentierende Stimmen"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Negativsymptome bedeuten einen Verlust normaler Funktionen: Affektverflachung, Alogie, Anhedonie, Apathie/Antriebsmangel, sozialer Rückzug. Gedankenlautwerden und kommentierende Stimmen sind Positivsymptome."
+ },
+ {
+  "id": "ks03",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche der folgenden Aussagen zu den Symptomen ersten Ranges nach Schneider trifft zu?",
+  "options": [
+   "Dazu gehören u. a. Gedankenlautwerden, kommentierende oder dialogisierende Stimmen und Gefühle des Gemachten",
+   "Dazu gehören ausschließlich Negativsymptome",
+   "Sie sind nur bei Depressionen zu finden",
+   "Sie bestehen nur aus Schlafstörungen",
+   "Dazu gehören Ideenflucht und Rededrang"
+  ],
+  "correct": 0,
+  "explanation": "Symptome 1. Ranges: Gedankenlautwerden, dialogisierende oder kommentierende Stimmen, Gedankenentzug/-eingebung/-ausbreitung, Gefühl des Gemachten (Willens-, Handlungs-, Körperbeeinflussung), Wahnwahrnehmung. Sie sind charakteristisch, aber nicht beweisend, und kommen auch bei organischen Psychosen vor."
+ },
+ {
+  "id": "ks04",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Mindestanforderung stellt ICD-10 an die Symptome der Schizophrenie?",
+  "options": [
+   "Mindestens ein eindeutiges Symptom (z. B. Gedankenlautwerden, Beeinflussungswahn, kommentierende Stimmen) oder zwei weniger eindeutige Symptome, fast ständig über mindestens 1 Monat",
+   "Nur Negativsymptome über 1 Woche",
+   "Ein einziger Albtraum",
+   "Stimmung gehoben über 1 Woche",
+   "Nur Orientierungsstörungen über 2 Tage"
+  ],
+  "correct": 0,
+  "explanation": "ICD-10 nennt 8 Symptomgruppen (a–h). Gruppen a bis d gelten als eindeutig, e bis h als weniger eindeutig. Dauer: fast ständig mindestens 1 Monat."
+ },
+ {
+  "id": "ks05",
+  "topic": "Kriterien & Dauer",
+  "text": "Wann spricht man von einem schizophrenen Residuum (F20.5)?",
+  "options": [
+   "Nach einer floriden Phase bestehen über mindestens 1 Jahr vorwiegend Negativsymptome ohne produktive Symptome",
+   "Wenn nur Halluzinationen bestehen",
+   "Bei einer Dauer unter 1 Woche",
+   "Bei erstmaligem Auftreten im Alter über 80",
+   "Wenn nur Katatonie besteht"
+  ],
+  "correct": 0,
+  "explanation": "Residuum: chronisches Stadium nach mindestens einer deutlich schizophrenen Episode, mit mindestens einem Jahr Negativsymptomatik (Affektverflachung, Antriebsmangel, sozialer Rückzug) und ohne floride Symptome."
+ },
+ {
+  "id": "ks06",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Schizophrenieform beginnt typischerweise in Jugend oder jungem Erwachsenenalter mit flachem, läppischem Affekt und desorganisiertem Verhalten?",
+  "options": [
+   "Hebephrene Schizophrenie (F20.1)",
+   "Paranoide Schizophrenie",
+   "Katatone Schizophrenie",
+   "Schizophrenia simplex mit Wahn",
+   "Anhaltende wahnhafte Störung"
+  ],
+  "correct": 0,
+  "explanation": "Hebephren: Beginn meist zwischen 15 und 25 Jahren, läppischer Affekt, Zerfahrenheit, unvorhersehbares Verhalten, Manierismen. Paranoid ist die häufigste Form mit Wahn und Halluzinationen. Katatone Form: Stupor, Erregung, Haltungsstereotypien."
+ },
+ {
+  "id": "ks07",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome stehen bei der katatonen Schizophrenie im Vordergrund?",
+  "options": [
+   "Psychomotorische Störungen wie Stupor, Erregung, Haltungsstereotypien, Negativismus, Katalepsie",
+   "Läppischer Affekt und Distanzlosigkeit",
+   "Verfolgungswahn und Stimmen",
+   "Gehobene Stimmung und Ideenflucht",
+   "Essanfälle und Erbrechen"
+  ],
+  "correct": 0,
+  "explanation": "Katatone Symptome: Stupor, Mutismus, Erregung, Haltungsstereotypien, wächserne Biegsamkeit (Flexibilitas cerea), Negativismus, Befehlsautomatie. Bei Fieber und vegetativer Entgleisung („perniziöse Katatonie“) besteht ein Notfall."
+ },
+ {
+  "id": "ks08",
+  "topic": "Kriterien & Dauer",
+  "text": "Wann kann eine postschizophrene Depression (F20.4) diagnostiziert werden?",
+  "options": [
+   "Depressive Episode im Anschluss an eine Schizophrenie, innerhalb von 12 Monaten, bei fortbestehenden schizophrenen Symptomen",
+   "Nach 10 Jahren völliger Symptomfreiheit",
+   "Bei erstmaliger Depression ohne Vorgeschichte",
+   "Nur nach einem Delir",
+   "Bei Amnesie"
+  ],
+  "correct": 0,
+  "explanation": "Die postschizophrene Depression folgt einer schizophrenen Erkrankung, hält mindestens 2 Wochen an und tritt innerhalb von 12 Monaten auf, wobei einige schizophrene Symptome, meist Negativsymptome, bestehen. Suizidgefahr beachten."
+ },
+ {
+  "id": "ks09",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome gehören zur Manie? Wählen Sie 3 Antworten.",
+  "options": [
+   "Gehobene oder gereizte Stimmung",
+   "Vermindertes Schlafbedürfnis",
+   "Ideenflucht und Rededrang",
+   "Verminderter Antrieb",
+   "Pessimistische Zukunftssicht"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Manie: gehobene, expansive oder gereizte Stimmung, gesteigerter Antrieb, Rededrang, Ideenflucht, vermindertes Schlafbedürfnis, Größenideen, Distanzminderung, Leichtsinn (Kaufrausch). Verminderter Antrieb und Pessimismus sind depressive Symptome."
+ },
+ {
+  "id": "ks10",
+  "topic": "Kriterien & Dauer",
+  "text": "Welcher Unterschied besteht zwischen Hypomanie und Manie hinsichtlich Symptomen und Dauer?",
+  "options": [
+   "Hypomanie ist leichter, dauert mindestens mehrere (etwa 4) Tage und hat keine Wahnsymptome; Manie dauert in der Regel mindestens 1 Woche und kann mit Wahn einhergehen",
+   "Hypomanie dauert immer länger als Manie",
+   "Manie dauert maximal 1 Stunde",
+   "Hypomanie erfordert immer Halluzinationen",
+   "Es gibt keinen Unterschied"
+  ],
+  "correct": 0,
+  "explanation": "Hypomanie (F30.0) ist die abgeschwächte Form ohne psychotische Symptome und ohne schwere Beeinträchtigung. Manie (F30.1) und Manie mit psychotischen Symptomen (F30.2) sind schwerer."
+ },
+ {
+  "id": "ks11",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome treten typischerweise bei einer Panikattacke auf? Wählen Sie 3 Antworten.",
+  "options": [
+   "Herzrasen",
+   "Atemnot und Beklemmungsgefühl",
+   "Angst vor Kontrollverlust oder zu sterben",
+   "Gehobene Stimmung",
+   "Ideenflucht"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Panikattacke: plötzlich beginnende, intensive Angst mit vegetativen Symptomen (Herzklopfen, Schwitzen, Zittern, Atemnot, Brustenge, Schwindel, Übelkeit), Derealisation und Angst vor Kontrollverlust, Wahnsinn oder Tod. Dauer meist Minuten."
+ },
+ {
+  "id": "ks12",
+  "topic": "Kriterien & Dauer",
+  "text": "Wodurch ist die generalisierte Angststörung (F41.1) symptomatisch gekennzeichnet?",
+  "options": [
+   "Anhaltende, frei flottierende Angst mit Befürchtungen (Sorgen), motorischer Spannung und vegetativer Übererregbarkeit über mehrere Lebensbereiche",
+   "Angst nur in einer bestimmten Situation",
+   "Einzelne Attacken von 10 Minuten",
+   "Angst nur vor Spinnen",
+   "Angst nur vor Menschenmengen"
+  ],
+  "correct": 0,
+  "explanation": "GAS: Sorgen und Anspannung ohne spezifischen Auslöser, mit Nervosität, Zittern, Muskelverspannung, Schwitzen, Herzklopfen, Schwindel, Oberbauchbeschwerden. Dauer mindestens mehrere Wochen, meist Monate."
+ },
+ {
+  "id": "ks13",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie ist die Agoraphobie (F40.0) nach ICD-10 definiert?",
+  "options": [
+   "Angst vor mindestens zwei Situationen wie Menschenmengen, öffentliche Plätze, Reisen allein oder Reisen weit weg von zu Hause, mit Vermeidung",
+   "Angst nur vor Höhen",
+   "Angst nur vor Tieren",
+   "Angst, bewertet zu werden, beschränkt auf soziale Situationen",
+   "Angst nur im Schlaf"
+  ],
+  "correct": 0,
+  "explanation": "Agoraphobie: Furcht vor Orten, an denen eine Flucht schwierig oder Hilfe nicht verfügbar wäre. Mindestens zwei der Situationen und Vermeidung. Mit oder ohne Panikstörung."
+ },
+ {
+  "id": "ks14",
+  "topic": "Kriterien & Dauer",
+  "text": "Was kennzeichnet die soziale Phobie (F40.1)?",
+  "options": [
+   "Angst vor prüfender Betrachtung und negativer Bewertung in sozialen Situationen mit Vermeidung und körperlichen Symptomen wie Erröten und Zittern",
+   "Angst vor weiten Plätzen",
+   "Angst nur vor Blut",
+   "Angst, dass Gedanken laut werden",
+   "Anhaltende Trauer"
+  ],
+  "correct": 0,
+  "explanation": "Soziale Phobie: Furcht im Mittelpunkt zu stehen oder zu versagen. Körperliche Symptome: Erröten, Händezittern, Übelkeit, Harndrang. Symptome sollten auf die sozialen Situationen beschränkt sein."
+ },
+ {
+  "id": "ks15",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Kriterien kennzeichnen Zwangsgedanken und Zwangshandlungen nach ICD-10? Wählen Sie 3 Antworten.",
+  "options": [
+   "Sie werden als eigene Gedanken oder Impulse erlebt",
+   "Mindestens ein Gedanke oder eine Handlung wird erfolglos abgewehrt",
+   "Die Ausführung ist nicht an sich angenehm",
+   "Sie werden als von außen gemacht erlebt",
+   "Sie sind für den Betroffenen sinnvoll und gewollt"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Zwang: eigene Gedanken, wiederholt und quälend, erfolgloser Widerstand, Ausführung nicht befriedigend (nur Spannungsreduktion). „Von außen gemacht“ spricht für Ich-Störungen/Wahn."
+ },
+ {
+  "id": "ks16",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptomgruppen gehören zur posttraumatischen Belastungsstörung (PTBS)? Wählen Sie 3 Antworten.",
+  "options": [
+   "Wiedererleben (Intrusionen, Flashbacks, Albträume)",
+   "Vermeidung von Reizen, die an das Trauma erinnern",
+   "Vegetative Übererregung (Schreckhaftigkeit, Schlafstörung)",
+   "Gehobene Stimmung und Rededrang",
+   "Ideenflucht"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "PTBS: außergewöhnliche Bedrohung oder Katastrophe, dann Wiedererinnern in Bildern, Albträumen, Flashbacks, Vermeidung, emotionale Taubheit, teilweise Amnesie, Übererregung (Hypervigilanz, Reizbarkeit, Konzentrationsstörung, Schlafstörung)."
+ },
+ {
+  "id": "ks17",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome sind für die akute Belastungsreaktion typisch?",
+  "options": [
+   "Anfangs „Betäubung“, Einengung des Bewusstseins, Desorientiertheit, danach Rückzug, Unruhe, Angst und vegetative Zeichen; Abklingen meist innerhalb von 3 Tagen",
+   "Dauerhafter Wahn über 6 Monate",
+   "Seit Jahren bestehende Persönlichkeitsveränderung",
+   "Essanfälle",
+   "Tics"
+  ],
+  "correct": 0,
+  "explanation": "Typisch ist ein gemischtes, wechselndes Bild nach einer außergewöhnlichen Belastung, das rasch beginnt und meist innerhalb von Stunden bis 2 bis 3 Tagen abklingt. Dann an PTBS oder Anpassungsstörung denken, falls es anhält."
+ },
+ {
+  "id": "ks18",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome gehören zum Alkoholentzugssyndrom? Wählen Sie 3 Antworten.",
+  "options": [
+   "Tremor",
+   "Schwitzen",
+   "Übelkeit und Erbrechen",
+   "Euphorie und Rededrang",
+   "Bradykardie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Entzug: Tremor, Schwitzen, Übelkeit, Tachykardie, Unruhe, Angst, Schlafstörung, ggf. Krampfanfälle und Delir (Desorientierung, optische Halluzinationen). Beginn meist nach 6 bis 24 Stunden, Delir nach 1 bis 3 Tagen."
+ },
+ {
+  "id": "ks19",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome gehören zum Opiatentzug? Wählen Sie 3 Antworten.",
+  "options": [
+   "Gänsehaut und Muskelschmerzen",
+   "Gähnen, Tränenfluss, Schnupfen",
+   "Durchfall und Mydriasis (weite Pupillen)",
+   "Pupillenverengung (Miosis) als Entzugszeichen",
+   "Euphorie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Opiatentzug: Gänsehaut („Cold Turkey“), Muskel- und Gliederschmerzen, Rhinorrhoe, Gähnen, Durchfall, Mydriasis, Unruhe. Die Entzugssymptome sind sehr unangenehm, in der Regel aber nicht lebensbedrohlich. Miosis ist ein Zeichen der Intoxikation."
+ },
+ {
+  "id": "ks20",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Merkmale gehören zur Anorexia nervosa nach ICD-10? Wählen Sie 3 Antworten.",
+  "options": [
+   "BMI höchstens 17,5",
+   "Körperschemastörung mit Angst vor Gewichtszunahme",
+   "Endokrine Störung (z. B. Amenorrhoe)",
+   "Regelmäßige Essanfälle ohne Gegenmaßnahmen und Übergewicht",
+   "Erhöhtes Gewicht (BMI über 30)"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Anorexie: Untergewicht, selbst herbeigeführter Gewichtsverlust (Diät, Erbrechen, Laxanzien, Sport), Körperschemastörung, endokrine Störung. Beginn meist in der Pubertät. Medizinische Komplikationen (Elektrolyte, Herz)."
+ },
+ {
+  "id": "ks21",
+  "topic": "Kriterien & Dauer",
+  "text": "Was kennzeichnet die Binge-Eating-Störung im Unterschied zur Bulimie?",
+  "options": [
+   "Wiederholte Essanfälle mit Kontrollverlust ohne regelmäßige gegensteuernde Maßnahmen, häufig mit Übergewicht",
+   "Untergewicht und Amenorrhoe",
+   "Regelmäßiges Erbrechen",
+   "Ausschließlich nächtliches Essen im Schlaf",
+   "Totales Fasten"
+  ],
+  "correct": 0,
+  "explanation": "Binge-Eating: wiederkehrende Essanfälle mit Kontrollverlust und Leidensdruck, ohne kompensatorisches Verhalten; DSM-5: durchschnittlich mindestens einmal pro Woche über 3 Monate. In ICD-10 unter F50.4 (Essattacken bei anderen psychischen Störungen) bzw. F50.9 zu verorten."
+ },
+ {
+  "id": "ks22",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Merkmale gehören zur emotional instabilen Persönlichkeitsstörung vom Borderline-Typ (F60.31)? Wählen Sie 3 Antworten.",
+  "options": [
+   "Instabile, intensive Beziehungen",
+   "Chronisches Leeregefühl",
+   "Selbstverletzendes Verhalten und Suizidandrohungen",
+   "Ausgeprägtes Misstrauen ohne Beziehung zu Wahn",
+   "Völlige Gleichgültigkeit gegenüber Lob und Kritik"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Borderline: impulsives Verhalten, Verlassenheitsangst, instabiles Selbstbild, schnelle Stimmungswechsel, Wutausbrüche, Leeregefühl, parasuizidale Handlungen, kurze stressbedingte dissoziative oder psychotische Phasen. Beginn Jugend/junges Erwachsenenalter, überdauernd."
+ },
+ {
+  "id": "ks23",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Persönlichkeitsstörung ist durch Misstrauen, Verdächtigungen und Nachtragen von Kränkungen gekennzeichnet?",
+  "options": [
+   "Paranoide Persönlichkeitsstörung (F60.0)",
+   "Schizoide Persönlichkeitsstörung",
+   "Dependente Persönlichkeitsstörung",
+   "Histrionische Persönlichkeitsstörung",
+   "Anankastische Persönlichkeitsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Paranoid: ausgeprägtes Misstrauen, Neigung zu Verdächtigungen, Nachtragen, Querulieren, übertriebenes Selbstbezug. Schizoid: emotionale Kühle, Rückzug, wenig Interesse an Beziehungen. Schizotyp: exzentrisch, Wahnähnliches."
+ },
+ {
+  "id": "ks24",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Persönlichkeitsstörung ist durch Perfektionismus, Gewissenhaftigkeit, Rigidität und Zweifel gekennzeichnet?",
+  "options": [
+   "Anankastische (zwanghafte) Persönlichkeitsstörung (F60.5)",
+   "Dissoziale Persönlichkeitsstörung",
+   "Histrionische Persönlichkeitsstörung",
+   "Ängstliche (vermeidende) Persönlichkeitsstörung",
+   "Paranoide Persönlichkeitsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Anankastisch: Perfektionismus, Detailversessenheit, Rigidität, Kontrolle, Zweifel. Ich-synton, im Unterschied zur Zwangsstörung, bei der Gedanken und Handlungen als störend und fremd erlebt werden."
+ },
+ {
+  "id": "ks25",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Persönlichkeitsstörung ist durch Missachtung sozialer Normen, mangelnde Empathie, geringe Frustrationstoleranz und Gewaltbereitschaft gekennzeichnet?",
+  "options": [
+   "Dissoziale Persönlichkeitsstörung (F60.2)",
+   "Schizoide Persönlichkeitsstörung",
+   "Dependente Persönlichkeitsstörung",
+   "Ängstliche Persönlichkeitsstörung",
+   "Histrionische Persönlichkeitsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Dissozial: Missachtung von Normen und Rechten anderer, geringe Frustrationstoleranz, fehlende Schuldgefühle, Neigung zu Gewalt. Diagnose in der Regel erst ab dem 18. Lebensjahr; zuvor häufig Störung des Sozialverhaltens."
+ },
+ {
+  "id": "ks26",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Persönlichkeitsstörung ist durch übertriebene Emotionalität, Aufmerksamkeitsbedürfnis und Dramatisierung gekennzeichnet?",
+  "options": [
+   "Histrionische Persönlichkeitsstörung (F60.4)",
+   "Anankastische Persönlichkeitsstörung",
+   "Schizoide Persönlichkeitsstörung",
+   "Paranoide Persönlichkeitsstörung",
+   "Dependente Persönlichkeitsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Histrionisch: Theatralik, Suggestibilität, oberflächliche Affekte, Streben nach Anerkennung, Verführung. Dependent: Anlehnungsbedürfnis, Entscheidungsunfähigkeit. Ängstlich-vermeidend: Minderwertigkeitsgefühle, Angst vor Kritik."
+ },
+ {
+  "id": "ks27",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome sprechen für ein Delir? Wählen Sie 3 Antworten.",
+  "options": [
+   "Akuter Beginn",
+   "Fluktuierende Bewusstseins- und Aufmerksamkeitsstörung",
+   "Gestörter Schlaf-Wach-Rhythmus",
+   "Schleichender Beginn über Jahre",
+   "Klares Bewusstsein ohne Orientierungsstörung"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Delir: akut (Stunden bis Tage), Bewusstseinstrübung, Aufmerksamkeitsstörung, Desorientierung, Wahrnehmungsstörungen (optische Halluzinationen), Psychomotorik gesteigert oder vermindert, Schlaf-Wach-Umkehr, wechselnder Verlauf. Immer Notfall mit Ursachenabklärung."
+ },
+ {
+  "id": "ks28",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie beginnt typischerweise die Alzheimer-Demenz im Unterschied zur vaskulären Demenz?",
+  "options": [
+   "Alzheimer: schleichend, zunächst Gedächtnisstörung, kontinuierlich fortschreitend; vaskulär: eher abrupter Beginn, stufenweise Verschlechterung bei Gefäßrisikofaktoren",
+   "Alzheimer: abrupter Beginn nach Schlaganfall; vaskulär: schleichend ohne Gefäßerkrankung",
+   "Beide beginnen akut mit Delir",
+   "Beide verlaufen in Schüben",
+   "Beide zeigen keine Gedächtnisstörung"
+  ],
+  "correct": 0,
+  "explanation": "Alzheimer: schleichend, Beginn mit Kurzzeitgedächtnis, progredient. Vaskulär: stufenweise Verschlechterung, fokal neurologische Zeichen, Risikofaktoren (Hypertonie, Diabetes). Lewy-Körperchen: Fluktuationen, optische Halluzinationen, Parkinsonismus. Frontotemporal: früh Persönlichkeitsänderung."
+ },
+ {
+  "id": "ks29",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Demenzform ist durch früh auftretende Persönlichkeitsänderung, Enthemmung und Antriebsverlust bei zunächst erhaltener Gedächtnisleistung gekennzeichnet?",
+  "options": [
+   "Frontotemporale Demenz (Pick-Krankheit)",
+   "Alzheimer-Demenz im Frühstadium",
+   "Vaskuläre Demenz",
+   "Delir",
+   "Lewy-Körperchen-Demenz"
+  ],
+  "correct": 0,
+  "explanation": "Frontotemporale Demenz: Veränderungen von Persönlichkeit und Sozialverhalten, Enthemmung oder Apathie, Sprachstörungen, Beginn meist vor dem 65. Lebensjahr, Gedächtnis zunächst relativ intakt."
+ },
+ {
+  "id": "ks30",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Kernsymptome kennzeichnen die ADHS? Wählen Sie 3 Antworten.",
+  "options": [
+   "Unaufmerksamkeit",
+   "Hyperaktivität",
+   "Impulsivität",
+   "Gehobene Stimmung mit Größenideen",
+   "Wahn"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "ADHS: Aufmerksamkeitsstörung, Hyperaktivität, Impulsivität, beginnend vor dem 7. Lebensjahr, mindestens 6 Monate, in mehreren Lebensbereichen. Im Erwachsenenalter oft innere Unruhe und Desorganisation."
+ },
+ {
+  "id": "ks31",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptombereiche kennzeichnen die Autismus-Spektrum-Störung? Wählen Sie 3 Antworten.",
+  "options": [
+   "Qualitative Beeinträchtigung der sozialen Interaktion",
+   "Qualitative Beeinträchtigung der Kommunikation",
+   "Eingeschränkte, stereotype Verhaltensmuster und Interessen",
+   "Wahn und Halluzinationen",
+   "Gehobene Stimmung"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Autistische Trias: soziale Interaktion, Kommunikation, stereotype/eingeschränkte Interessen und Verhaltensmuster. Beginn früh in der Entwicklung (vor dem 3. Lebensjahr). Asperger: ohne Sprachentwicklungsverzögerung und kognitive Beeinträchtigung."
+ },
+ {
+  "id": "ks32",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome kennzeichnen die Störung mit Trennungsangst des Kindesalters (F93.0)?",
+  "options": [
+   "Übermäßige Angst bei Trennung von Bezugspersonen, Schulverweigerung, Albträume und körperliche Beschwerden bei Trennung",
+   "Dauerhafter Rückzug ohne Beziehung",
+   "Essanfälle",
+   "Schlafwandeln",
+   "Tic"
+  ],
+  "correct": 0,
+  "explanation": "Trennungsangst: Sorgen um Bezugspersonen, Weigerung, allein zu schlafen oder die Schule zu besuchen, körperliche Beschwerden bei Trennung. Beginn meist vor dem 6. Lebensjahr."
+ },
+ {
+  "id": "ks33",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome gehören zu den dissoziativen Störungen? Wählen Sie 3 Antworten.",
+  "options": [
+   "Amnesie ohne organische Ursache",
+   "Fugue (unerwartete Ortsveränderung mit Amnesie)",
+   "Konversionssymptome wie Lähmungen oder Anfälle ohne organischen Befund",
+   "Wahn und Halluzinationen als Leitsymptom",
+   "Gehobene Stimmung"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Dissoziative Störungen (F44): Amnesie, Fugue, Stupor, Trance/Besessenheit, Bewegungsstörungen, Krampfanfälle, Sensibilitäts- und Empfindungsstörungen. Ursachen ärztlich ausschließen."
+ },
+ {
+  "id": "ks34",
+  "topic": "Kriterien & Dauer",
+  "text": "Welches Symptom ist für die Depersonalisations-/Derealisationsstörung (F48.1) charakteristisch?",
+  "options": [
+   "Gefühl, sich selbst oder die Umwelt als fremd, unwirklich oder wie hinter Glas zu erleben, bei erhaltener Realitätsprüfung",
+   "Überzeugung, verfolgt zu werden",
+   "Stimmenhören",
+   "Gehobene Stimmung mit Größenideen",
+   "Essanfälle"
+  ],
+  "correct": 0,
+  "explanation": "Depersonalisation: Selbstentfremdung. Derealisation: Umwelt wirkt unwirklich. Die Realitätsprüfung bleibt erhalten (Unterschied zur Psychose)."
+ },
+ {
+  "id": "ks35",
+  "topic": "Kriterien & Dauer",
+  "text": "Was kennzeichnet die hypochondrische Störung (F45.2)?",
+  "options": [
+   "Anhaltende Beschäftigung mit der Möglichkeit, an einer schweren Erkrankung zu leiden, über mindestens 6 Monate trotz Beruhigung",
+   "Plötzliche Lähmung ohne Befund",
+   "Mehrfach wechselnde Beschwerden über 2 Jahre",
+   "Gefühl, tot zu sein",
+   "Verfolgungswahn"
+  ],
+  "correct": 0,
+  "explanation": "Hypochondrie: Krankheitsangst, Fehlinterpretation körperlicher Empfindungen, Arztbesuche, Beruhigung hilft nur kurz. Dauer mindestens 6 Monate. Somatisierungsstörung: multiple wechselnde Beschwerden über 2 Jahre."
+ },
+ {
+  "id": "ks36",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome gehören zum somatischen Syndrom der Depression? Wählen Sie 3 Antworten.",
+  "options": [
+   "Früherwachen (mindestens 2 Stunden früher als gewohnt)",
+   "Morgentief",
+   "Deutlicher Appetit- und Gewichtsverlust",
+   "Gesteigerte Libido und Rededrang",
+   "Gehobene Stimmung am Abend"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Somatisches Syndrom: mindestens 4 von 8, z. B. Interessenverlust, fehlende emotionale Reaktion, Früherwachen, Morgentief, psychomotorische Hemmung oder Agitation, Appetitverlust, Gewichtsverlust, deutlicher Libidoverlust."
+ },
+ {
+  "id": "ks37",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Symptome sprechen für eine depressive Episode mit psychotischen Symptomen (F32.3)?",
+  "options": [
+   "Schwere Episode mit Wahn (z. B. Verarmungs-, Schuld-, Versündigungswahn) oder Halluzinationen, meist stimmungskongruent",
+   "Gehobene Stimmung mit Ideenflucht",
+   "Isolierter Verfolgungswahn über 4 Monate ohne Affektstörung",
+   "Nur Schlafstörung",
+   "Panikattacken"
+  ],
+  "correct": 0,
+  "explanation": "F32.3: schwere depressive Episode mit stimmungskongruentem Wahn (Schuld, Verarmung, Krankheit, Nihilismus) oder Halluzinationen. Dringende ärztliche Behandlung, hohe Suizidgefahr."
+ },
+ {
+  "id": "ks38",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussagen zur Schizophrenie sind richtig?\n1) Positivsymptome sind z. B. Wahn und Halluzinationen.\n2) Negativsymptome sind z. B. Affektverflachung und Antriebsmangel.\n3) Die Diagnose erfordert Symptome über mindestens 1 Monat.\n4) Die Diagnose erfordert Symptome über mindestens 2 Tage.",
+  "options": [
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 1 und 4 sind richtig",
+   "Nur 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Mindestens 1 Monat, nicht 2 Tage. Die ersten drei Aussagen sind richtig.",
+  "kind": "combo"
+ },
+ {
+  "id": "ks39",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussagen zur Panikstörung sind richtig?\n1) Es treten mehrere schwere Attacken innerhalb von etwa 1 Monat auf.\n2) Typisch sind Herzrasen, Atemnot und Todesangst.\n3) Die Attacken treten oft unerwartet auf.\n4) Die Attacken dauern immer mehrere Tage.",
+  "options": [
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 1 und 4 sind richtig",
+   "Nur 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Panikattacken dauern meist Minuten (Höhepunkt nach etwa 10 Minuten), selten länger als 1 Stunde, nicht Tage.",
+  "kind": "combo"
+ },
+ {
+  "id": "ks40",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussagen zur PTBS sind richtig?\n1) Das Ereignis ist außergewöhnlich bedrohlich oder katastrophal.\n2) Typisch sind Intrusionen, Vermeidung und Übererregung.\n3) Der Beginn liegt meist innerhalb von 6 Monaten.\n4) Die Diagnose verlangt immer eine Dauer von mindestens 10 Jahren.",
+  "options": [
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 1 und 4 sind richtig",
+   "Nur 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Eine Mindestdauer von 10 Jahren gibt es nicht. Beginn meist innerhalb von 6 Monaten nach dem Ereignis.",
+  "kind": "combo"
+ },
+ {
+  "id": "ks41",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussagen zur Anorexia nervosa sind richtig?\n1) Der BMI beträgt höchstens 17,5.\n2) Es besteht eine Körperschemastörung.\n3) Es besteht eine endokrine Störung (z. B. Amenorrhoe).\n4) Die Störung zeigt stets Übergewicht.",
+  "options": [
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 1 und 4 sind richtig",
+   "Nur 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Anorexie geht mit Untergewicht einher, nicht mit Übergewicht.",
+  "kind": "combo"
+ },
+ {
+  "id": "ks42",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussagen zum Delir sind richtig?\n1) Der Beginn ist akut.\n2) Die Bewusstseinslage fluktuiert.\n3) Das Delir ist ein medizinischer Notfall.\n4) Das Delir beginnt typischerweise schleichend über 6 Monate.",
+  "options": [
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 1 und 4 sind richtig",
+   "Nur 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Schleichend über 6 Monate beschreibt eine Demenz. Das Delir ist akut und fluktuierend.",
+  "kind": "combo"
+ },
+ {
+  "id": "ks43",
+  "topic": "Kriterien & Dauer",
+  "text": "Eine 26-Jährige hat seit Jahren Stimmungsschwankungen, Leeregefühl, Selbstverletzungen, Verlassenheitsangst und instabile Beziehungen. Welche Diagnose steht im Vordergrund?",
+  "options": [
+   "Emotional instabile Persönlichkeitsstörung, Borderline-Typ",
+   "Bipolare Störung, da Stimmungsschwankungen bestehen",
+   "Schizophrenie",
+   "Dysthymia",
+   "Akute Belastungsreaktion"
+  ],
+  "correct": 0,
+  "explanation": "Überdauerndes Muster seit der Jugend mit Impulsivität, Beziehungsinstabilität, Leere und Selbstverletzung. Bipolar: Stimmungsepisoden über Tage bis Wochen, nicht minütliche Reaktionen auf Beziehungsereignisse."
+ },
+ {
+  "id": "ks44",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein 20-Jähriger ist seit 2 Wochen sozial zurückgezogen, spricht kaum, zeigt flachen Affekt und vernachlässigt Hygiene, ohne Halluzinationen oder Wahn. Welche Hauptfrage stellen Sie?",
+  "options": [
+   "Dauer und Verlauf (schleichend über Monate, Substanzen, Depression), um Schizophrenia simplex, Depression und organische Ursachen abzugrenzen",
+   "Keine Frage nötig, es ist eine Schizophrenie",
+   "Nur nach der Schulzeit fragen",
+   "Medikamente verordnen",
+   "Ausschließlich nach Hobbys fragen"
+  ],
+  "correct": 0,
+  "explanation": "Ein Negativsymptom-Bild benötigt Verlaufsabklärung: Schizophrenia simplex (mindestens 1 Jahr), Depression (mindestens 2 Wochen, Stimmung), Substanzen, organische Ursachen."
  }
 ]
