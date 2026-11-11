@@ -1,0 +1,12 @@
+// Flutter's current Android tooling crashes while scanning JavaDoc in
+// url_launcher_android (CommentDetector / JavaDocParser NoSuchMethodError).
+// Disable only these two comment checks; retain all other Android lint checks.
+allprojects { target ->
+    ['com.android.application', 'com.android.library'].each { pluginId ->
+        target.plugins.withId(pluginId) {
+            target.android.lint {
+                disable 'EasterEgg', 'StopShip'
+            }
+        }
+    }
+}

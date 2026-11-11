@@ -27,6 +27,11 @@ jobs:
       - name: Android-Projekt erzeugen
         run: flutter create --platforms=android --project-name hp_psych_trainer --org de.hptrainer .
 
+      - name: Android-Lint-Kompatibilität herstellen
+        run: |
+          cp ci/lint-workaround.gradle android/lint-workaround.gradle
+          printf '\napply(from = "lint-workaround.gradle")\n' >> android/build.gradle.kts
+
       - name: Feste Signatur einrichten (damit Updates installierbar bleiben)
         run: |
           mkdir -p ~/.android
