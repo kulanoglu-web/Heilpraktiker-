@@ -90,6 +90,9 @@ void main() {
     tester.view.devicePixelRatio = 1;
     addTearDown(tester.view.resetPhysicalSize);
     addTearDown(tester.view.resetDevicePixelRatio);
+    await tester.runAsync(() async {
+      await loadLearningCatalog();
+    });
     await tester.pumpWidget(
       MaterialApp(
         builder: (context, child) => MediaQuery(
