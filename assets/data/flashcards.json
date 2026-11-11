@@ -2224,5 +2224,89 @@
   "topic": "Recht & Praxis",
   "front": "Häufige Themen der mündlichen Prüfung",
   "back": "Suizidalität, PsychKG, Betreuungsrecht, Verbote und Pflichten, affektive Störungen, Verhaltenstherapie, Antidepressiva, Antipsychotika, Benzodiazepine, Sucht und Entzug, Angst, Anpassung, Zwang, Persönlichkeit, Demenz/Delir/Depression, Schizophrenie, Somatoform, Dissoziation, Essstörungen, ADHS, Autismus."
+ },
+ {
+  "id": "kz01",
+  "topic": "Kriterien & Dauer",
+  "front": "Depressive Episode: Haupt- und Zusatzsymptome, Schweregrade, Dauer",
+  "back": "Hauptsymptome (3): gedrückte Stimmung, Interessen-/Freudverlust, Antriebsminderung/Ermüdbarkeit. Zusatzsymptome (7): Konzentration, Selbstwert, Schuldgefühle, Pessimismus, Suizidgedanken, Schlaf, Appetit.\nLeicht: 2 Haupt + 2 Zusatz. Mittelgradig: 2 Haupt + 3–4 Zusatz. Schwer: 3 Haupt + mindestens 4 Zusatz.\nDauer: mindestens 2 Wochen."
+ },
+ {
+  "id": "kz02",
+  "topic": "Kriterien & Dauer",
+  "front": "Manie, Hypomanie, Bipolar: Dauer",
+  "back": "Manie: mindestens 1 Woche (kürzer bei Behandlungsbedarf). Hypomanie: mindestens mehrere (ca. 4) Tage. Bipolar: mindestens 2 Episoden, davon mindestens 1 (hypo)manisch."
+ },
+ {
+  "id": "kz03",
+  "topic": "Kriterien & Dauer",
+  "front": "Chronische Stimmungsstörungen: Dauer",
+  "back": "Dysthymia (F34.1): mindestens 2 Jahre leichte depressive Verstimmung. Zyklothymia (F34.0): mindestens 2 Jahre instabile Stimmung mit leichten depressiven und hypomanischen Phasen. Rezidivierend (F33): mindestens 2 Episoden, Intervall von mindestens mehreren Monaten."
+ },
+ {
+  "id": "kz04",
+  "topic": "Kriterien & Dauer",
+  "front": "Schizophrenie und verwandte Störungen: Dauer",
+  "back": "Schizophrenie (F20): Symptome fast ständig mindestens 1 Monat. Akute vorübergehende psychotische Störung (F23): Beginn innerhalb von 2 Wochen, Dauer unter 1 Monat (schizophreniform) bis wenige Monate. Anhaltende wahnhafte Störung (F22): Wahn mindestens 3 Monate. Schizophrenia simplex: mindestens 1 Jahr, schleichend. Schizoaffektiv (F25): schizophrene und affektive Symptome gleichzeitig oder innerhalb weniger Tage."
+ },
+ {
+  "id": "kz05",
+  "topic": "Kriterien & Dauer",
+  "front": "Angst und Zwang: Dauer und Häufigkeit",
+  "back": "Panikstörung: mehrere schwere Attacken innerhalb von etwa 1 Monat, Höhepunkt nach Minuten. GAS: Angst an den meisten Tagen, mindestens mehrere Wochen, meist Monate (DSM-5: 6 Monate). Zwangsstörung: Zwangsgedanken/-handlungen an den meisten Tagen über mindestens 2 Wochen."
+ },
+ {
+  "id": "kz06",
+  "topic": "Kriterien & Dauer",
+  "front": "Belastungs- und Anpassungsstörungen: Beginn und Dauer",
+  "back": "Akute Belastungsreaktion (F43.0): Beginn in Minuten, Abklingen in Stunden bis etwa 3 Tagen. PTBS (F43.1): Beginn meist innerhalb von 6 Monaten nach Trauma. Anpassungsstörung (F43.2): Beginn innerhalb 1 Monat, Dauer meist höchstens 6 Monate (längere depressive Reaktion bis 2 Jahre). Andauernde Persönlichkeitsänderung nach Extrembelastung (F62.0): mindestens 2 Jahre."
+ },
+ {
+  "id": "kz07",
+  "topic": "Kriterien & Dauer",
+  "front": "Somatoforme Störungen: Mindestdauer",
+  "back": "Somatisierungsstörung (F45.0): mindestens 2 Jahre. Hypochondrische Störung (F45.2): mindestens 6 Monate. Anhaltende somatoforme Schmerzstörung (F45.4): mindestens 6 Monate."
+ },
+ {
+  "id": "kz08",
+  "topic": "Kriterien & Dauer",
+  "front": "Essstörungen: Kriterien",
+  "back": "Anorexia nervosa: BMI höchstens 17,5 bzw. mindestens 15 % unter dem Erwartungsgewicht, Körperschemastörung, endokrine Störung. Bulimia nervosa: Essanfälle mit Kontrollverlust und gegensteuernden Maßnahmen, im Durchschnitt mindestens 2-mal pro Woche über 3 Monate."
+ },
+ {
+  "id": "kz09",
+  "topic": "Kriterien & Dauer",
+  "front": "Abhängigkeitssyndrom: Kriterien",
+  "back": "Mindestens 3 von 6 Kriterien gleichzeitig im letzten Jahr: Craving, Kontrollverlust, Entzugssyndrom, Toleranzentwicklung, Vernachlässigung anderer Interessen, Konsum trotz schädlicher Folgen. Entzugsdelir meist nach 1–3 Tagen."
+ },
+ {
+  "id": "kz10",
+  "topic": "Kriterien & Dauer",
+  "front": "Persönlichkeitsstörungen: Zeitkriterium",
+  "back": "Tiefgreifendes, überdauerndes Muster seit Kindheit oder Jugend, in vielen Lebensbereichen; Diagnose vor dem 16.–17. Lebensjahr zurückhaltend. Später erworbene Veränderungen: an organische Ursachen, Trauma, Substanzen denken."
+ },
+ {
+  "id": "kz11",
+  "topic": "Kriterien & Dauer",
+  "front": "Demenz, Delir, Amnestisches Syndrom: Zeit",
+  "back": "Demenz: Symptome mindestens 6 Monate, schleichend, klares Bewusstsein. Delir: akuter Beginn (Stunden bis Tage), fluktuierend, Bewusstseins- und Aufmerksamkeitsstörung, Notfall. Amnestisches Syndrom: ausgeprägte Gedächtnisstörung bei erhaltener Wachheit."
+ },
+ {
+  "id": "kz12",
+  "topic": "Kriterien & Dauer",
+  "front": "Kinder- und Jugendstörungen: Zeitkriterien",
+  "back": "ADHS: Beginn vor dem 7. Lebensjahr, mindestens 6 Monate, mehrere Lebensbereiche. Autismus (frühkindlich): Manifestation vor dem 3. Lebensjahr. Tourette: multiple motorische und mindestens ein vokaler Tic, länger als 1 Jahr. Vorübergehende Tic-Störung: unter 12 Monate. Enuresis: ab 5 Jahren. Insomnie: mindestens 3-mal pro Woche über 1 Monat."
+ },
+ {
+  "id": "kz13",
+  "topic": "Kriterien & Dauer",
+  "front": "Merkhilfe: „2 Jahre“ (Zeitkriterium)",
+  "back": "Dysthymia, Zyklothymia, Somatisierungsstörung, andauernde Persönlichkeitsänderung nach Extrembelastung."
+ },
+ {
+  "id": "kz14",
+  "topic": "Kriterien & Dauer",
+  "front": "Merkhilfe: „6 Monate“",
+  "back": "Demenz, Hypochondrie, somatoforme Schmerzstörung, ADHS (Dauer 6 Monate, Beginn vor 7 Jahren), PTBS-Beginn spätestens etwa 6 Monate nach dem Trauma, Anpassungsstörung dauert meist höchstens 6 Monate."
  }
 ]

@@ -6098,5 +6098,839 @@
   ],
   "correct": 0,
   "explanation": "Der Betroffene erlebt Gedanken oder Impulse als eigene, aber unsinnig (ich-dyston); es besteht innerer Widerstand, und Handlungen oder mentale Rituale senken kurzfristig die Anspannung. Vorkommen vor allem bei Zwangsstörung (F42), auch bei anderen Störungen."
+ },
+ {
+  "id": "kd01",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Kriterien müssen für eine leichte depressive Episode (F32.0) nach ICD-10 erfüllt sein?",
+  "options": [
+   "Mindestens 2 von 3 Hauptsymptomen und mindestens 2 Zusatzsymptome, Dauer mindestens 2 Wochen",
+   "Alle 3 Hauptsymptome und mindestens 4 Zusatzsymptome, Dauer mindestens 2 Wochen",
+   "Mindestens 2 von 3 Hauptsymptomen und mindestens 2 Zusatzsymptome, Dauer mindestens 2 Jahre",
+   "Nur 1 Hauptsymptom und 1 Zusatzsymptom, Dauer mindestens 1 Woche",
+   "Mindestens 4 Zusatzsymptome ohne Hauptsymptome, Dauer mindestens 6 Monate"
+  ],
+  "correct": 0,
+  "explanation": "ICD-10: Leichte Episode = 2 Haupt- plus 2 Zusatzsymptome. Mittelgradig = 2 Haupt plus 3 bis 4 Zusatzsymptome. Schwer = alle 3 Hauptsymptome plus mindestens 4 Zusatzsymptome. Dauer jeweils mindestens 2 Wochen."
+ },
+ {
+  "id": "kd02",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie viele Haupt- und Zusatzsymptome sind für eine mittelgradige depressive Episode (F32.1) nötig?",
+  "options": [
+   "2 Hauptsymptome und 3 bis 4 Zusatzsymptome",
+   "2 Hauptsymptome und 2 Zusatzsymptome",
+   "3 Hauptsymptome und mindestens 4 Zusatzsymptome",
+   "1 Hauptsymptom und 5 Zusatzsymptome",
+   "3 Hauptsymptome und 1 Zusatzsymptom"
+  ],
+  "correct": 0,
+  "explanation": "Mittelgradig: 2 von 3 Hauptsymptomen und 3 (bis 4) Zusatzsymptome. Die Dauer beträgt mindestens 2 Wochen."
+ },
+ {
+  "id": "kd03",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie viele Haupt- und Zusatzsymptome sind für eine schwere depressive Episode (F32.2) nötig?",
+  "options": [
+   "Alle 3 Hauptsymptome und mindestens 4 Zusatzsymptome",
+   "2 Hauptsymptome und 3 Zusatzsymptome",
+   "2 Hauptsymptome und 2 Zusatzsymptome",
+   "3 Hauptsymptome und 2 Zusatzsymptome",
+   "1 Hauptsymptom und 7 Zusatzsymptome"
+  ],
+  "correct": 0,
+  "explanation": "Schwer: alle 3 Hauptsymptome (gedrückte Stimmung, Interessen- und Freudverlust, Antriebsmangel) plus mindestens 4 Zusatzsymptome, einige davon von besonderer Schwere. Mit psychotischen Symptomen wird F32.3 vergeben."
+ },
+ {
+  "id": "kd04",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche sind die drei Hauptsymptome der depressiven Episode nach ICD-10? Wählen Sie 3 Antworten.",
+  "options": [
+   "Gedrückte Stimmung",
+   "Interessen- und Freudverlust",
+   "Verminderter Antrieb und erhöhte Ermüdbarkeit",
+   "Gesteigertes Selbstwertgefühl",
+   "Verminderter Schlaf"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Hauptsymptome: gedrückte Stimmung, Interessen- und Freudverlust, verminderter Antrieb/erhöhte Ermüdbarkeit. Alles andere (Konzentration, Selbstwert, Schuldgefühle, Pessimismus, Suizidgedanken, Schlaf, Appetit) zählt zu den Zusatzsymptomen."
+ },
+ {
+  "id": "kd05",
+  "topic": "Kriterien & Dauer",
+  "text": "Welches Symptom gehört NICHT zu den Zusatzsymptomen der depressiven Episode?",
+  "options": [
+   "Ideenflucht",
+   "Vermindertes Selbstwertgefühl",
+   "Schuldgefühle und Gefühle der Wertlosigkeit",
+   "Schlafstörungen",
+   "Suizidgedanken"
+  ],
+  "correct": 0,
+  "explanation": "Zusatzsymptome sind: Konzentration/Aufmerksamkeit vermindert, Selbstwertgefühl und Selbstvertrauen vermindert, Schuldgefühle, negative Zukunftsperspektiven, Suizidgedanken oder -handlungen, Schlafstörungen und verminderter Appetit. Ideenflucht gehört zur Manie."
+ },
+ {
+  "id": "kd06",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Mindestdauer wird für die Diagnose einer depressiven Episode in der Regel gefordert?",
+  "options": [
+   "2 Wochen",
+   "3 Tage",
+   "1 Woche",
+   "6 Wochen",
+   "6 Monate"
+  ],
+  "correct": 0,
+  "explanation": "ICD-10: Die Symptome bestehen mindestens 2 Wochen. Bei außergewöhnlich schwerem und rasch einsetzendem Beginn kann auch eine kürzere Dauer genügen."
+ },
+ {
+  "id": "kd07",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein Patient hat seit 3 Wochen gedrückte Stimmung und Interessenverlust (2 Hauptsymptome), dazu Konzentrationsstörungen und Schlafstörungen (2 Zusatzsymptome). Welche Diagnose passt?",
+  "options": [
+   "Leichte depressive Episode",
+   "Mittelgradige depressive Episode",
+   "Schwere depressive Episode",
+   "Dysthymia",
+   "Anpassungsstörung bei nur 3 Wochen Dauer ist ausgeschlossen"
+  ],
+  "correct": 0,
+  "explanation": "2 Haupt- plus 2 Zusatzsymptome über mindestens 2 Wochen ergeben eine leichte depressive Episode (F32.0)."
+ },
+ {
+  "id": "kd08",
+  "topic": "Kriterien & Dauer",
+  "text": "Eine Patientin hat seit 4 Wochen gedrückte Stimmung, Antriebsmangel, Schuldgefühle, Schlafstörungen und Appetitverlust (2 Hauptsymptome, 3 Zusatzsymptome). Welche Diagnose passt?",
+  "options": [
+   "Mittelgradige depressive Episode",
+   "Leichte depressive Episode",
+   "Schwere depressive Episode",
+   "Zyklothymia",
+   "Rezidivierende depressive Störung"
+  ],
+  "correct": 0,
+  "explanation": "2 Haupt- plus 3 Zusatzsymptome über mindestens 2 Wochen ergeben eine mittelgradige depressive Episode (F32.1). Für eine rezidivierende Störung müssten mehrere Episoden vorliegen."
+ },
+ {
+  "id": "kd09",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein Patient hat seit 3 Wochen gedrückte Stimmung, Freudlosigkeit und Antriebsmangel (3 Hauptsymptome), dazu Schuldgefühle, Suizidgedanken, Schlafstörungen und Appetitverlust. Welche Diagnose passt?",
+  "options": [
+   "Schwere depressive Episode, dringende Gefährdungsabklärung nötig",
+   "Leichte depressive Episode",
+   "Mittelgradige depressive Episode",
+   "Dysthymia",
+   "Anpassungsstörung"
+  ],
+  "correct": 0,
+  "explanation": "3 Haupt- plus 4 Zusatzsymptome entsprechen einer schweren Episode (F32.2). Wegen der Suizidgedanken müssen Suizidalität und ärztliche Mitbehandlung sofort geklärt werden."
+ },
+ {
+  "id": "kd10",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein Patient hat seit 8 Tagen gedrückte Stimmung und Interessenverlust nach einer Trennung, dazu Schlafstörungen und Konzentrationsprobleme. Warum ist eine depressive Episode nach ICD-10 hier noch nicht sicher zu diagnostizieren?",
+  "options": [
+   "Die Mindestdauer von 2 Wochen ist noch nicht erreicht; an eine Anpassungsstörung ist zu denken und der Verlauf zu beobachten",
+   "Weil Symptome nach einer Trennung nie krankhaft sind",
+   "Weil depressive Episoden mindestens 6 Monate dauern müssen",
+   "Weil nur ein Arzt Depressionen diagnostizieren darf",
+   "Weil Schlafstörungen kein Symptom sind"
+  ],
+  "correct": 0,
+  "explanation": "Die Dauer von mindestens 2 Wochen ist noch nicht erfüllt. Bei klar erkennbarem Auslöser kommt eine Anpassungsstörung in Betracht. Bei Zunahme der Symptome oder Suizidalität ist die Gefährdung ohnehin sofort abzuklären."
+ },
+ {
+  "id": "kd11",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Dauer ist für die Dysthymia (F34.1) charakteristisch?",
+  "options": [
+   "Mindestens 2 Jahre chronisch depressive Verstimmung, meist nicht schwer genug für eine leichte depressive Episode",
+   "Mindestens 2 Wochen mit wechselnder Intensität",
+   "Mindestens 6 Monate mit Wahn",
+   "Mindestens 1 Monat mit Antriebssteigerung",
+   "Mindestens 5 Jahre ohne Schlafstörung"
+  ],
+  "correct": 0,
+  "explanation": "Dysthymia: chronische depressive Verstimmung über mindestens 2 Jahre, die meist nicht die Kriterien einer leichten depressiven Episode erfüllt. Zyklothymia dauert ebenfalls mindestens 2 Jahre."
+ },
+ {
+  "id": "kd12",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussage zur rezidivierenden depressiven Störung (F33) ist richtig?",
+  "options": [
+   "Es gab mindestens zwei depressive Episoden, getrennt durch ein Intervall von mehreren Monaten (mindestens etwa 2 Monate) ohne wesentliche Symptome",
+   "Es müssen immer manische Episoden vorliegen",
+   "Sie liegt schon bei der ersten Episode vor",
+   "Die Episoden folgen unmittelbar nahtlos aufeinander",
+   "Sie erfordert psychotische Symptome"
+  ],
+  "correct": 0,
+  "explanation": "Rezidivierend = mindestens zwei depressive Episoden mit symptomfreiem Intervall von mindestens mehreren Monaten (ICD-10: etwa 2 Monate). Gab es je eine manische Episode, liegt eine bipolare Störung vor."
+ },
+ {
+  "id": "kd13",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie lange müssen manische Symptome bestehen, damit eine Manie (F30) diagnostiziert wird?",
+  "options": [
+   "Mindestens 1 Woche (bei schwerer Ausprägung auch kürzer, wenn eine Behandlung nötig ist)",
+   "Mindestens 2 Jahre",
+   "Mindestens 6 Monate",
+   "Mindestens 2 Stunden",
+   "Mindestens 3 Monate"
+  ],
+  "correct": 0,
+  "explanation": "Manie: gehobene, expansive oder gereizte Stimmung über mindestens 1 Woche, bei schwerer Ausprägung genügt auch eine kürzere Dauer, wenn stationäre Aufnahme nötig ist. Hypomanie: mindestens einige (etwa 4) Tage."
+ },
+ {
+  "id": "kd14",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein 28-Jähriger ist seit 5 Tagen auffallend gehobener Stimmung, schläft kaum, ist leistungsfähig, aber nicht psychotisch und beruflich nicht beeinträchtigt. Welche Diagnose passt am ehesten?",
+  "options": [
+   "Hypomanie",
+   "Manie mit psychotischen Symptomen",
+   "Schizophrenie",
+   "Zyklothymia",
+   "Dysthymia"
+  ],
+  "correct": 0,
+  "explanation": "Hypomanie (F30.0): leichte Form, mindestens mehrere (ICD-10: etwa 4) Tage, keine Wahnsymptome und keine schwere Funktionsbeeinträchtigung. Manie dauert in der Regel mindestens 1 Woche."
+ },
+ {
+  "id": "kd15",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie viele Episoden sind für die Diagnose einer bipolaren affektiven Störung (F31) mindestens erforderlich?",
+  "options": [
+   "Mindestens zwei Episoden, von denen mindestens eine manisch oder hypomanisch ist",
+   "Eine einzelne depressive Episode genügt",
+   "Mindestens fünf Episoden",
+   "Zwei rein depressive Episoden",
+   "Eine einzelne psychotische Episode"
+  ],
+  "correct": 0,
+  "explanation": "Bipolar: mindestens zwei Episoden mit Störung von Stimmung und Aktivität, mindestens eine davon manisch oder hypomanisch (oder gemischt). Eine einzelne manische Episode wird bereits bipolar eingeordnet (Manie, F30)."
+ },
+ {
+  "id": "kd16",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Dauer ist für die Zyklothymia (F34.0) charakteristisch?",
+  "options": [
+   "Mindestens 2 Jahre anhaltende Stimmungsinstabilität mit leichten depressiven und hypomanischen Phasen",
+   "Mindestens 2 Wochen",
+   "Mindestens 6 Wochen",
+   "Genau 3 Monate",
+   "Mindestens 20 Jahre"
+  ],
+  "correct": 0,
+  "explanation": "Zyklothymia: chronische Stimmungsinstabilität über mindestens 2 Jahre, ohne dass die Schwere einer manischen oder depressiven Episode erreicht wird."
+ },
+ {
+  "id": "kd17",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie viele Symptome des „somatischen Syndroms“ sind bei der depressiven Episode für die Zusatzkodierung erforderlich?",
+  "options": [
+   "Mindestens 4 von 8",
+   "Mindestens 1 von 8",
+   "Mindestens 2 von 3",
+   "Alle 8",
+   "Mindestens 6 von 8"
+  ],
+  "correct": 0,
+  "explanation": "Für das somatische Syndrom (früher „melancholisch“) müssen mindestens 4 von 8 Symptomen vorliegen, z. B. Früherwachen, Morgentief, psychomotorische Hemmung oder Agitation, deutlicher Appetit- und Gewichtsverlust, Libidoverlust."
+ },
+ {
+  "id": "kd18",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Mindestdauer fordert ICD-10 für die Diagnose Schizophrenie (F20)?",
+  "options": [
+   "Die charakteristischen Symptome bestehen die meiste Zeit während mindestens 1 Monats",
+   "Mindestens 2 Wochen",
+   "Mindestens 3 Monate",
+   "Mindestens 6 Monate",
+   "Mindestens 2 Jahre"
+  ],
+  "correct": 0,
+  "explanation": "ICD-10: mindestens ein eindeutiges Symptom (z. B. Gedankenlautwerden, Gedankeneingebung, Stimmen, die über das Handeln kommentieren, Wahnwahrnehmung) oder zwei weniger eindeutige Symptome, fast ständig über mindestens 1 Monat. Weniger als 1 Monat = akute vorübergehende psychotische Störung."
+ },
+ {
+  "id": "kd19",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein 22-Jähriger hört seit 3 Wochen kommentierende Stimmen und äußert Beeinflussungswahn. Welche Diagnose kommt aufgrund der Dauer am ehesten infrage?",
+  "options": [
+   "Akute schizophreniforme psychotische Störung (F23.2), bei Fortbestehen über 1 Monat Schizophrenie",
+   "Schizophrenie, weil die Dauer unerheblich ist",
+   "Dysthymia",
+   "Wahnhafte Störung",
+   "Generalisierte Angststörung"
+  ],
+  "correct": 0,
+  "explanation": "Weniger als 1 Monat bei schizophrenieartigen Symptomen = akute schizophreniforme Störung. Bestehen die Symptome länger als 1 Monat fort, wird die Diagnose Schizophrenie gestellt. Substanzen und organische Ursachen sind immer auszuschließen."
+ },
+ {
+  "id": "kd20",
+  "topic": "Kriterien & Dauer",
+  "text": "Welcher Beginn kennzeichnet akute vorübergehende psychotische Störungen (F23)?",
+  "options": [
+   "Akuter Beginn innerhalb von etwa 2 Wochen, rasche Rückbildung meist innerhalb von 1 bis 3 Monaten",
+   "Schleichender Beginn über 5 Jahre",
+   "Beginn immer im Kindesalter",
+   "Beginn nur nach Alkoholentzug",
+   "Beginn nur im Alter über 80"
+  ],
+  "correct": 0,
+  "explanation": "F23: Beginn akut (innerhalb von höchstens 2 Wochen), oft nach akuter Belastung, schnelle Rückbildung. Je nach Symptomen polymorph, schizophreniform oder mit vorherrschend wahnhaften Symptomen."
+ },
+ {
+  "id": "kd21",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie lange muss ein Wahn bestehen, damit eine anhaltende wahnhafte Störung (F22) diagnostiziert wird?",
+  "options": [
+   "Mindestens 3 Monate",
+   "Mindestens 1 Woche",
+   "Mindestens 1 Monat",
+   "Mindestens 2 Wochen",
+   "Mindestens 5 Jahre"
+  ],
+  "correct": 0,
+  "explanation": "Anhaltende wahnhafte Störung: ein Wahn oder mehrere Wahnthemen bestehen mindestens 3 Monate, ohne eindeutige Schizophrenie-Symptome oder eine affektive Episode."
+ },
+ {
+  "id": "kd22",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Dauer ist für Schizophrenia simplex (F20.6) kennzeichnend?",
+  "options": [
+   "Schleichende Entwicklung über mindestens 1 Jahr mit Negativsymptomatik ohne produktive Symptome",
+   "Wenige Tage mit Halluzinationen",
+   "Beginn nach Alkoholentzug",
+   "Dauer unter 1 Woche",
+   "Beginn im Wochenbett"
+  ],
+  "correct": 0,
+  "explanation": "Schizophrenia simplex: schleichender Rückzug und Leistungsabfall über mindestens 1 Jahr, Negativsymptome ohne vorangegangene eindeutige Halluzinationen oder Wahn."
+ },
+ {
+  "id": "kd23",
+  "topic": "Kriterien & Dauer",
+  "text": "Wann spricht man von einer schizoaffektiven Störung (F25)?",
+  "options": [
+   "Wenn schizophrene und affektive Symptome gleichzeitig oder innerhalb weniger Tage nacheinander in derselben Episode auftreten",
+   "Wenn zuerst Jahre eine Depression und danach eine Schizophrenie auftritt",
+   "Wenn nur Wahn besteht",
+   "Wenn Halluzinationen nur nachts auftreten",
+   "Wenn Stimmung und Antrieb normal sind"
+  ],
+  "correct": 0,
+  "explanation": "Schizoaffektiv: beide Symptomgruppen sind in derselben Episode gleichzeitig oder innerhalb weniger Tage ausgeprägt. Treten sie getrennt auf, werden die Diagnosen einzeln gestellt."
+ },
+ {
+  "id": "kd24",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussage zur Dauer der generalisierten Angststörung (F41.1) trifft zu?",
+  "options": [
+   "Die Angst besteht an den meisten Tagen über mindestens mehrere Wochen, meist Monate (DSM-5: 6 Monate)",
+   "Die Symptome genügen schon nach 1 Stunde",
+   "Es sind nur einzelne Attacken von wenigen Minuten nötig",
+   "Es genügen 2 Tage",
+   "Sie muss immer genau 5 Jahre bestehen"
+  ],
+  "correct": 0,
+  "explanation": "GAS: freiflottierende, anhaltende Angst und Sorgen über mehrere Lebensbereiche an den meisten Tagen, ICD-10 mindestens mehrere Wochen (meist Monate); DSM-5 verlangt 6 Monate. Im Gegensatz dazu ist die Panikstörung attackenartig."
+ },
+ {
+  "id": "kd25",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Dauer und Häufigkeit sind für die Panikstörung (F41.0) typisch?",
+  "options": [
+   "Mehrere schwere Angstattacken innerhalb von etwa 1 Monat; Attacke erreicht innerhalb weniger Minuten den Höhepunkt und dauert Minuten",
+   "Eine einzige Attacke in 5 Jahren",
+   "Dauerangst über 6 Monate ohne Attacken",
+   "Attacken nur im Schlaf über 2 Jahre",
+   "Eine Attacke von 3 Tagen Dauer"
+  ],
+  "correct": 0,
+  "explanation": "ICD-10: mehrere schwere Attacken vegetativer Angst innerhalb eines Zeitraums von etwa 1 Monat, nicht auf bestimmte Situationen beschränkt, der Höhepunkt wird meist innerhalb von 10 Minuten erreicht."
+ },
+ {
+  "id": "kd26",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie lange müssen Zwangssymptome bestehen, damit eine Zwangsstörung (F42) diagnostiziert werden kann?",
+  "options": [
+   "An den meisten Tagen über mindestens 2 Wochen",
+   "Mindestens 6 Jahre",
+   "Nur 1 Stunde",
+   "Mindestens 1 Jahr",
+   "Mindestens 20 Tage in Folge ohne Pause"
+  ],
+  "correct": 0,
+  "explanation": "ICD-10: Zwangsgedanken und/oder Zwangshandlungen an den meisten Tagen über mindestens 2 Wochen, die als eigene Gedanken erlebt, wiederholt und quälend sind und Widerstand hervorrufen."
+ },
+ {
+  "id": "kd27",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie verläuft die akute Belastungsreaktion (F43.0) zeitlich?",
+  "options": [
+   "Beginn innerhalb von Minuten bis Stunden nach dem Ereignis, Abklingen meist innerhalb von Stunden bis wenigen Tagen (etwa 3 Tage)",
+   "Beginn nach 6 Monaten, Dauer Jahre",
+   "Beginn nach 2 Jahren",
+   "Dauer immer mindestens 6 Monate",
+   "Beginn nur im Schlaf"
+  ],
+  "correct": 0,
+  "explanation": "Akute Belastungsreaktion: unmittelbar bis wenige Minuten nach Belastung, Symptome klingen in der Regel innerhalb von 2 bis 3 Tagen ab. Bei Fortbestehen ist an Anpassungsstörung oder PTBS zu denken."
+ },
+ {
+  "id": "kd28",
+  "topic": "Kriterien & Dauer",
+  "text": "Wann beginnt die posttraumatische Belastungsstörung (F43.1) typischerweise?",
+  "options": [
+   "Innerhalb von 6 Monaten nach dem traumatischen Ereignis, verzögerter Beginn ist möglich",
+   "Immer sofort innerhalb von Minuten",
+   "Nur nach über 10 Jahren",
+   "Nur in der Kindheit",
+   "Immer nach genau 1 Woche"
+  ],
+  "correct": 0,
+  "explanation": "ICD-10: PTBS folgt dem Trauma mit einer Latenz von Wochen bis Monaten, jedoch selten mehr als 6 Monate. Sie umfasst Wiedererleben (Intrusionen, Flashbacks), Vermeidung und vegetative Übererregung."
+ },
+ {
+  "id": "kd29",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein Patient hatte vor 3 Monaten einen schweren Überfall und leidet seit 2 Monaten unter Intrusionen, Vermeidung und Übererregung. Welche Diagnose passt?",
+  "options": [
+   "Posttraumatische Belastungsstörung",
+   "Akute Belastungsreaktion",
+   "Dysthymia",
+   "Zyklothymia",
+   "Generalisierte Angststörung"
+  ],
+  "correct": 0,
+  "explanation": "Beginn innerhalb von 6 Monaten, Dauer weit über wenige Tage und das Vollbild von Wiedererleben, Vermeidung und Übererregung sprechen für die PTBS (F43.1). Die akute Belastungsreaktion klingt in Tagen ab."
+ },
+ {
+  "id": "kd30",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussage zur Anpassungsstörung (F43.2) ist richtig?",
+  "options": [
+   "Beginn innerhalb von 1 Monat nach einer Belastung, Dauer meist nicht länger als 6 Monate (verlängerte depressive Reaktion bis 2 Jahre)",
+   "Beginn mindestens 2 Jahre nach der Belastung",
+   "Dauer immer genau 2 Wochen",
+   "Sie erfordert Halluzinationen",
+   "Sie setzt eine schwere Persönlichkeitsstörung voraus"
+  ],
+  "correct": 0,
+  "explanation": "Anpassungsstörung: Reaktion auf eine identifizierbare psychosoziale Belastung, Beginn innerhalb eines Monats, Symptome meist nicht länger als 6 Monate; die längere depressive Reaktion kann bis zu 2 Jahre dauern."
+ },
+ {
+  "id": "kd31",
+  "topic": "Kriterien & Dauer",
+  "text": "Wie lange müssen die Veränderungen bestehen, damit eine andauernde Persönlichkeitsänderung nach Extrembelastung (F62.0) diagnostiziert wird?",
+  "options": [
+   "Mindestens 2 Jahre",
+   "Mindestens 2 Wochen",
+   "Mindestens 1 Monat",
+   "Mindestens 6 Wochen",
+   "Mindestens 6 Monate"
+  ],
+  "correct": 0,
+  "explanation": "F62.0: tiefgreifende, überdauernde Persönlichkeitsänderung nach katastrophaler Belastung, Dauer mindestens 2 Jahre, ohne vorbestehende Persönlichkeitsstörung."
+ },
+ {
+  "id": "kd32",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Mindestdauer fordert ICD-10 für die Somatisierungsstörung (F45.0)?",
+  "options": [
+   "Mindestens 2 Jahre multiple, wechselnde körperliche Beschwerden ohne ausreichende organische Ursache",
+   "Mindestens 2 Tage",
+   "Mindestens 2 Wochen",
+   "Mindestens 1 Monat",
+   "Mindestens 6 Wochen"
+  ],
+  "correct": 0,
+  "explanation": "Somatisierungsstörung: multiple, wiederholt wechselnde Symptome über mindestens 2 Jahre, ohne ausreichende organische Erklärung, mit Arztbesuchen und Funktionsbeeinträchtigung."
+ },
+ {
+  "id": "kd33",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Dauer gilt für die hypochondrische Störung (F45.2) und die anhaltende somatoforme Schmerzstörung (F45.4) in der Regel?",
+  "options": [
+   "Mindestens 6 Monate",
+   "Mindestens 1 Woche",
+   "Mindestens 2 Wochen",
+   "Mindestens 1 Monat",
+   "Mindestens 10 Jahre"
+  ],
+  "correct": 0,
+  "explanation": "Hypochondrie: mindestens 6 Monate anhaltende Überzeugung, an einer schweren Krankheit zu leiden. Schmerzstörung: anhaltender, schwerer Schmerz über mindestens 6 Monate ohne ausreichende körperliche Ursache."
+ },
+ {
+  "id": "kd34",
+  "topic": "Kriterien & Dauer",
+  "text": "Welcher Grenzwert gilt nach ICD-10 für die Anorexia nervosa?",
+  "options": [
+   "Körpergewicht mindestens 15 Prozent unter dem erwarteten Gewicht bzw. BMI höchstens 17,5",
+   "BMI über 25",
+   "BMI über 30",
+   "BMI genau 20",
+   "Gewichtsverlust von 1 Kilogramm"
+  ],
+  "correct": 0,
+  "explanation": "Anorexia nervosa (F50.0): Untergewicht (BMI höchstens 17,5), selbst herbeigeführter Gewichtsverlust, Körperschemastörung und endokrine Störung (z. B. Amenorrhoe)."
+ },
+ {
+  "id": "kd35",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Häufigkeit und Dauer fordert ICD-10 für die Bulimia nervosa (F50.2)?",
+  "options": [
+   "Wiederholte Essanfälle, im Durchschnitt mindestens zweimal pro Woche über 3 Monate",
+   "Einmal im Jahr",
+   "Täglich über 2 Jahre",
+   "Genau einmal pro Monat über 1 Monat",
+   "Dreimal pro Jahr über 5 Jahre"
+  ],
+  "correct": 0,
+  "explanation": "Bulimie: Heißhungerattacken mit Kontrollverlust, gegensteuernde Maßnahmen und krankhafte Furcht vor Gewichtszunahme; die Attacken treten über 3 Monate im Durchschnitt mindestens zweimal pro Woche auf."
+ },
+ {
+  "id": "kd36",
+  "topic": "Kriterien & Dauer",
+  "text": "Wann wird ein Abhängigkeitssyndrom (F1x.2) nach ICD-10 diagnostiziert?",
+  "options": [
+   "Wenn irgendwann während des letzten Jahres mindestens 3 von 6 Kriterien gleichzeitig vorlagen",
+   "Wenn mindestens 1 von 6 Kriterien vorliegt",
+   "Wenn die Person täglich konsumiert",
+   "Wenn 6 von 6 Kriterien über 5 Jahre vorliegen",
+   "Wenn die Person jemals konsumiert hat"
+  ],
+  "correct": 0,
+  "explanation": "ICD-10: mindestens 3 von 6 Kriterien (starker Wunsch/Zwang zu konsumieren, verminderte Kontrollfähigkeit, Entzugssyndrom, Toleranzentwicklung, Vernachlässigung anderer Interessen, Konsum trotz schädlicher Folgen), gleichzeitig während des letzten Jahres."
+ },
+ {
+  "id": "kd37",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Merkmale gehören zu den ICD-10-Kriterien des Abhängigkeitssyndroms? Wählen Sie 3 Antworten.",
+  "options": [
+   "Starker Wunsch oder Zwang, die Substanz zu konsumieren",
+   "Verminderte Kontrolle über Beginn, Beendigung und Menge",
+   "Toleranzentwicklung",
+   "Gehobene Stimmung nach Konsum",
+   "Konsum nur am Wochenende"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Die 6 Kriterien: Craving, Kontrollverlust, körperliches Entzugssyndrom, Toleranzentwicklung, Vernachlässigung anderer Interessen und anhaltender Konsum trotz nachweislich schädlicher Folgen."
+ },
+ {
+  "id": "kd38",
+  "topic": "Kriterien & Dauer",
+  "text": "Wann beginnt ein Alkoholentzugsdelir typischerweise nach dem letzten Konsum?",
+  "options": [
+   "Meist nach 1 bis 3 Tagen (etwa 48 bis 72 Stunden), Notfall mit ärztlicher Behandlung",
+   "Nach 10 Minuten",
+   "Nach 3 Wochen",
+   "Nach 6 Monaten",
+   "Nach 5 Jahren"
+  ],
+  "correct": 0,
+  "explanation": "Entzugsdelir: Tremor, Schwitzen, Unruhe, Desorientierung, optische Halluzinationen, meist 1 bis 3 Tage nach der letzten Trinkmenge. Lebensbedrohlich, daher ärztliche, meist stationäre Behandlung."
+ },
+ {
+  "id": "kd39",
+  "topic": "Kriterien & Dauer",
+  "text": "Wann beginnt eine Persönlichkeitsstörung typischerweise?",
+  "options": [
+   "In Kindheit oder Adoleszenz, dauerhaft und tiefgreifend, in den meisten Lebensbereichen",
+   "Plötzlich nach dem 60. Lebensjahr",
+   "Erst nach einem Schädel-Hirn-Trauma",
+   "Nur innerhalb von 2 Wochen nach einem Verlust",
+   "Nur vorübergehend während einer Episode"
+  ],
+  "correct": 0,
+  "explanation": "Persönlichkeitsstörungen zeigen ein durchgängiges, unflexibles Muster seit Kindheit oder Jugend. Vor dem 16. bis 17. Lebensjahr wird die Diagnose in der Regel nur zurückhaltend gestellt. Spätere Veränderungen sprechen eher für andere Ursachen."
+ },
+ {
+  "id": "kd40",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Mindestdauer fordert ICD-10 für die Diagnose einer Demenz (F00-F03)?",
+  "options": [
+   "Die Symptome bestehen seit mindestens 6 Monaten",
+   "Seit mindestens 2 Tagen",
+   "Seit mindestens 1 Woche",
+   "Seit mindestens 2 Wochen",
+   "Seit mindestens 5 Minuten"
+  ],
+  "correct": 0,
+  "explanation": "Demenz: Abnahme von Gedächtnis und anderen kognitiven Funktionen, mindestens 6 Monate bestehend, bei klarem Bewusstsein. Ein Delir beginnt dagegen akut und fluktuiert."
+ },
+ {
+  "id": "kd41",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein 74-Jähriger ist seit gestern verwirrt, fiebrig, nachts unruhig und tagsüber schläfrig. Welche Diagnose steht im Vordergrund?",
+  "options": [
+   "Delir (akuter Notfall, Infektabklärung)",
+   "Alzheimer-Demenz",
+   "Dysthymia",
+   "Schizophrenie",
+   "Zwangsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Akuter Beginn, Fluktuation, Bewusstseins- und Aufmerksamkeitsstörung und ein möglicher somatischer Auslöser sprechen für ein Delir. Es ist ein medizinischer Notfall mit ärztlicher Abklärung."
+ },
+ {
+  "id": "kd42",
+  "topic": "Kriterien & Dauer",
+  "text": "Eine 70-Jährige vergisst seit etwa 8 Monaten zunehmend Namen und Termine, findet sich aber klar bei Bewusstsein zurecht. Welche Diagnose kommt in Betracht?",
+  "options": [
+   "Demenz (z. B. Alzheimer), ärztliche Abklärung der Ursachen",
+   "Delir",
+   "Akute Belastungsreaktion",
+   "Anpassungsstörung",
+   "Hypomanie"
+  ],
+  "correct": 0,
+  "explanation": "Schleichend, über 6 Monate, bei klarem Bewusstsein und zunehmend: Demenz. Differenzialdiagnosen: Depression (Pseudodemenz), Hypothyreose, B12-Mangel, Medikamente."
+ },
+ {
+  "id": "kd43",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche zeitlichen Kriterien gelten für die ADHS-Diagnose nach ICD-10?",
+  "options": [
+   "Beginn vor dem 7. Lebensjahr, Symptome seit mindestens 6 Monaten, in mehreren Lebensbereichen",
+   "Beginn erst im Erwachsenenalter",
+   "Dauer unter 1 Woche",
+   "Nur in einer einzigen Situation",
+   "Beginn nach dem 30. Lebensjahr"
+  ],
+  "correct": 0,
+  "explanation": "ADHS: Beginn vor dem Alter von 7 Jahren, mindestens 6 Monate Dauer, situationsübergreifend (Schule und Zuhause), mit deutlicher Beeinträchtigung. Hyperkinetische Störungen: F90."
+ },
+ {
+  "id": "kd44",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Kriterien gelten für das Tourette-Syndrom (F95.2)?",
+  "options": [
+   "Multiple motorische Tics und mindestens ein vokaler Tic, die länger als 1 Jahr bestehen",
+   "Nur ein motorischer Tic seit 2 Wochen",
+   "Nur vokale Tics seit 1 Woche",
+   "Tics, die nur im Schlaf auftreten",
+   "Tics, die nach 1 Monat verschwunden sind"
+  ],
+  "correct": 0,
+  "explanation": "Kombinierte vokale und multiple motorische Tics (Tourette): bestehen länger als 1 Jahr. Die vorübergehende Ticstörung dauert nicht länger als 12 Monate."
+ },
+ {
+  "id": "kd45",
+  "topic": "Kriterien & Dauer",
+  "text": "Ab welchem Alter spricht man in ICD-10 von Enuresis?",
+  "options": [
+   "Ab einem Alter von 5 Jahren (und mindestens zwei Einnässepisoden pro Monat bei unter 7 Jahren)",
+   "Ab 6 Monaten",
+   "Ab 1 Jahr",
+   "Ab 2 Jahren",
+   "Ab 50 Jahren"
+  ],
+  "correct": 0,
+  "explanation": "Nichtorganische Enuresis (F98.0): unwillkürlicher Harnabgang mindestens ab 5 Jahren, bei Kindern unter 7 Jahren mindestens zwei Episoden pro Monat. Körperliche Ursachen zuvor ärztlich ausschließen."
+ },
+ {
+  "id": "kd46",
+  "topic": "Kriterien & Dauer",
+  "text": "Wann zeigen sich nach ICD-10 die ersten Auffälligkeiten beim frühkindlichen Autismus (F84.0)?",
+  "options": [
+   "Vor dem 3. Lebensjahr",
+   "Erst im Rentenalter",
+   "Immer nach der Pubertät",
+   "Nur nach einem Trauma mit 20",
+   "Erst mit 40"
+  ],
+  "correct": 0,
+  "explanation": "Frühkindlicher Autismus: Entwicklungsabweichung, die sich vor dem 3. Lebensjahr manifestiert, mit Beeinträchtigungen in sozialer Interaktion, Kommunikation und stereotypem Verhalten."
+ },
+ {
+  "id": "kd47",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche zeitlichen Kriterien gelten für die nichtorganische Insomnie (F51.0)?",
+  "options": [
+   "Schlafstörung mindestens dreimal pro Woche über mindestens 1 Monat mit deutlicher Beeinträchtigung",
+   "Eine schlaflose Nacht",
+   "Zwei Nächte in Folge",
+   "Drei Nächte pro Jahr",
+   "Nur im Urlaub"
+  ],
+  "correct": 0,
+  "explanation": "Insomnie: Ein- oder Durchschlafstörung oder nicht erholsamer Schlaf, mindestens dreimal pro Woche über mindestens 1 Monat, mit Leidensdruck oder Beeinträchtigung am Tag."
+ },
+ {
+  "id": "kd48",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche der folgenden Störungen setzen eine Mindestdauer von 2 Jahren voraus? Wählen Sie 4 Antworten.",
+  "options": [
+   "Dysthymia",
+   "Zyklothymia",
+   "Somatisierungsstörung",
+   "Andauernde Persönlichkeitsänderung nach Extrembelastung",
+   "Manie",
+   "Akute Belastungsreaktion"
+  ],
+  "correct": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "explanation": "Zwei Jahre: Dysthymia, Zyklothymia, Somatisierungsstörung, andauernde Persönlichkeitsänderung. Eine Manie dauert mindestens 1 Woche, die akute Belastungsreaktion klingt in Tagen ab."
+ },
+ {
+  "id": "kd49",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Störungen setzen eine Mindestdauer von 6 Monaten voraus bzw. gelten nach ICD-10 als langdauernd? Wählen Sie 3 Antworten.",
+  "options": [
+   "Demenz",
+   "Hypochondrische Störung",
+   "Anhaltende somatoforme Schmerzstörung",
+   "Akute Belastungsreaktion",
+   "Hypomanie"
+  ],
+  "correct": [
+   0,
+   1,
+   2
+  ],
+  "explanation": "Demenz (6 Monate), Hypochondrie (6 Monate), Schmerzstörung (6 Monate). Akute Belastungsreaktion und Hypomanie sind kurz."
+ },
+ {
+  "id": "kd50",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussagen zu Zeitkriterien sind richtig?\n1) Eine depressive Episode dauert mindestens 2 Wochen.\n2) Die Schizophrenie erfordert Symptome über mindestens 1 Monat.\n3) Die Dysthymia erfordert mindestens 2 Wochen.\n4) Eine Demenz erfordert Symptome über mindestens 6 Monate.",
+  "options": [
+   "Nur 1, 2 und 4 sind richtig",
+   "Nur 1 und 3 sind richtig",
+   "Nur 2, 3 und 4 sind richtig",
+   "Nur 3 ist richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Dysthymia: mindestens 2 JAHRE (nicht Wochen). Depressive Episode 2 Wochen, Schizophrenie 1 Monat, Demenz 6 Monate.",
+  "kind": "combo"
+ },
+ {
+  "id": "kd51",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussagen zu den depressiven Episoden sind richtig?\n1) Leichte Episode: 2 Haupt- und 2 Zusatzsymptome.\n2) Mittelgradige Episode: 2 Haupt- und 3 bis 4 Zusatzsymptome.\n3) Schwere Episode: alle 3 Hauptsymptome und mindestens 4 Zusatzsymptome.\n4) Die Mindestdauer beträgt 6 Monate.",
+  "options": [
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 1 und 4 sind richtig",
+   "Nur 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Die Mindestdauer beträgt 2 Wochen, nicht 6 Monate. Die ersten drei Aussagen entsprechen der Schweregrad-Einteilung nach ICD-10.",
+  "kind": "combo"
+ },
+ {
+  "id": "kd52",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussagen zu Manie und Hypomanie sind richtig?\n1) Manie dauert in der Regel mindestens 1 Woche.\n2) Hypomanie dauert mindestens mehrere (etwa 4) Tage.\n3) Bei der Hypomanie bestehen in der Regel keine Wahnsymptome.\n4) Manie ist immer unter 1 Tag.",
+  "options": [
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 1 und 4 sind richtig",
+   "Nur 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Manie kann mit Wahn einhergehen und dauert meist mindestens 1 Woche. Hypomanie ist die leichtere Form über mindestens mehrere Tage. Eine Manie unter 1 Tag gibt es nicht.",
+  "kind": "combo"
+ },
+ {
+  "id": "kd53",
+  "topic": "Kriterien & Dauer",
+  "text": "Welche Aussagen zu Belastungsstörungen sind richtig?\n1) Die akute Belastungsreaktion klingt meist innerhalb weniger Tage ab.\n2) Die PTBS beginnt typischerweise innerhalb von 6 Monaten nach dem Trauma.\n3) Die Anpassungsstörung beginnt in der Regel innerhalb eines Monats nach der Belastung.\n4) Die Anpassungsstörung dauert immer mindestens 10 Jahre.",
+  "options": [
+   "Nur 1, 2 und 3 sind richtig",
+   "Nur 1 und 4 sind richtig",
+   "Nur 2 und 4 sind richtig",
+   "Nur 3 und 4 sind richtig",
+   "Alle Aussagen sind richtig"
+  ],
+  "correct": 0,
+  "explanation": "Die Anpassungsstörung dauert meist nicht länger als 6 Monate, die längere depressive Reaktion bis zu 2 Jahre. 10 Jahre sind falsch.",
+  "kind": "combo"
+ },
+ {
+  "id": "kd54",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein Patient hat seit 2,5 Jahren eine leichte, aber anhaltende depressive Verstimmung, aktuell ohne Vollbild einer Episode. Welche Diagnose liegt am nächsten?",
+  "options": [
+   "Dysthymia",
+   "Schwere depressive Episode",
+   "Akute Belastungsreaktion",
+   "Hypomanie",
+   "Panikstörung"
+  ],
+  "correct": 0,
+  "explanation": "Eine chronische, leichtere depressive Verstimmung über mindestens 2 Jahre spricht für Dysthymia (F34.1). Treten zusätzlich Episoden auf, spricht man von „double depression“."
+ },
+ {
+  "id": "kd55",
+  "topic": "Kriterien & Dauer",
+  "text": "Eine Patientin hat seit 4 Monaten einen isolierten Verfolgungswahn ohne Halluzinationen oder Affektstörung. Welche Diagnose passt?",
+  "options": [
+   "Anhaltende wahnhafte Störung (F22)",
+   "Akute schizophreniforme Störung",
+   "Schizophrenia simplex",
+   "Demenz",
+   "Dysthymia"
+  ],
+  "correct": 0,
+  "explanation": "Wahnthemen über mindestens 3 Monate ohne weitere Schizophrenie-Symptome sprechen für eine anhaltende wahnhafte Störung. Organische und Substanzursachen sind zuvor auszuschließen."
+ },
+ {
+  "id": "kd56",
+  "topic": "Kriterien & Dauer",
+  "text": "Eine Patientin hatte vor 4 Wochen den plötzlichen Tod ihres Mannes, ist seither traurig, schläft schlecht, weint viel, ist aber tröstbar und hat Zukunftspläne. Welche Einordnung ist wahrscheinlich?",
+  "options": [
+   "Normale Trauerreaktion bzw. höchstens Anpassungsstörung; kein Vollbild einer depressiven Episode",
+   "Schwere depressive Episode mit psychotischen Symptomen",
+   "Schizophrenie",
+   "Zyklothymia",
+   "Persönlichkeitsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Trauer ist keine Krankheit; bei erhaltener Resonanz, Trostfähigkeit und Selbstwert ist keine depressive Episode zu diagnostizieren. Bei starker Belastung über längere Zeit kommt eine Anpassungsstörung in Betracht. Eine starre Zeitgrenze gibt es nicht."
+ },
+ {
+  "id": "kd57",
+  "topic": "Kriterien & Dauer",
+  "text": "Ein Mann erlebt seit einer Woche 4 Panikattacken in unterschiedlichen Situationen ohne erkennbaren Auslöser, dazwischen Erwartungsangst. Welche Diagnose passt?",
+  "options": [
+   "Panikstörung",
+   "Spezifische Phobie",
+   "Generalisierte Angststörung",
+   "Akute Belastungsreaktion",
+   "Zwangsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Mehrere schwere, unerwartete Angstattacken innerhalb etwa eines Monats ohne feste Auslöser sprechen für eine Panikstörung (F41.0). Körperliche Ursachen (Herz, Schilddrüse) sind ärztlich auszuschließen."
+ },
+ {
+  "id": "kd58",
+  "topic": "Kriterien & Dauer",
+  "text": "Eine Patientin hat seit 3 Wochen Stimmenhören und Misstrauen nach einer Party, in der sie Cannabis konsumiert hat. Welche Diagnose steht zunächst im Vordergrund?",
+  "options": [
+   "Substanzinduzierte psychotische Störung (F12.5), bei Fortbestehen nach Abstinenz an primäre Psychose denken",
+   "Dysthymia",
+   "Somatisierungsstörung",
+   "Generalisierte Angststörung",
+   "Hypochondrie"
+  ],
+  "correct": 0,
+  "explanation": "Der zeitliche Zusammenhang mit dem Konsum, der Verlauf unter Abstinenz und frühere Episoden sind entscheidend. Bestehen die Symptome länger als 1 Monat nach Abstinenz fort, spricht dies für eine primäre Schizophrenie."
  }
 ]

@@ -1213,5 +1213,127 @@
     "a": "Psychopathologischen Befund vervollständigen, Wahn und Halluzinationen erfragen, Substanzen und organische Ursachen ausschließen lassen (ärztliche Abklärung), Suizidalität prüfen und fachärztlich-psychiatrische Vorstellung organisieren."
    }
   ]
+ },
+ {
+  "id": "mx01",
+  "title": "Fall 70: Prüfer springt zwischen Themen (Depression, Recht, Medikamente)",
+  "vignette": "Eine 45-jährige Patientin berichtet seit 3 Wochen von gedrückter Stimmung, Freudlosigkeit, Antriebsmangel, Schlafstörungen und Konzentrationsproblemen. Sie sagt, sie nehme Johanniskraut und habe überlegt, ihre Blutdruckmedikamente abzusetzen.",
+  "questions": [
+   {
+    "q": "Welche Diagnose stellen Sie und warum? Gehen Sie auf Haupt- und Zusatzsymptome sowie die Dauer ein.",
+    "a": "Hauptsymptome: gedrückte Stimmung, Freudlosigkeit, Antriebsmangel (alle 3). Zusatzsymptome: Schlafstörung, Konzentrationsprobleme (zunächst 2). Bei 3 Hauptsymptomen und mindestens 4 Zusatzsymptomen wäre die Episode schwer, bei 2 Haupt und 2 Zusatz leicht, bei 2 Haupt und 3–4 Zusatz mittelgradig. Die Dauer von mindestens 2 Wochen ist mit 3 Wochen erfüllt. Weitere Zusatzsymptome (Selbstwert, Schuld, Pessimismus, Suizidgedanken, Appetit) gezielt erfragen, um den Schweregrad festzulegen."
+   },
+   {
+    "q": "Welche organischen Differenzialdiagnosen müssen ärztlich geklärt werden?",
+    "a": "Hypothyreose, Anämie, Vitamin-B12-Mangel, Medikamentennebenwirkungen (z. B. Betablocker), Substanzgebrauch, Demenz, neurologische Erkrankungen. Der Heilpraktiker für Psychotherapie veranlasst die Abklärung beim Arzt."
+   },
+   {
+    "q": "Wie reagieren Sie auf die Absicht, die Blutdruckmedikation abzusetzen, und auf das Johanniskraut?",
+    "a": "Nicht eigenmächtig absetzen, ärztliche Rücksprache. Johanniskraut kann Wechselwirkungen mit vielen Medikamenten haben (Enzyminduktion, Serotoninsyndrom bei Kombination mit Antidepressiva). Medikamentenberatung und Verordnung sind ärztlich."
+   },
+   {
+    "q": "Welche Gefährdung fragen Sie ab und wie?",
+    "a": "Direkt und wertfrei Suizidalität: Gedanken, Pläne, Mittel, frühere Versuche, Schutzfaktoren. Bei konkreter Gefahr nicht allein lassen, Notfallhilfe, ggf. Einweisung anregen."
+   }
+  ]
+ },
+ {
+  "id": "mx02",
+  "title": "Fall 71: Mischfall: Panik, Alkohol und Schweigepflicht",
+  "vignette": "Ein 38-jähriger Mann kommt mit wiederholten Attacken von Herzrasen, Atemnot und Todesangst. Er trinkt abends regelmäßig Alkohol zur Beruhigung. Seine Frau ruft später in der Praxis an und fragt, was er hat.",
+  "questions": [
+   {
+    "q": "Welche Diagnose vermuten Sie und welche organischen Ursachen müssen ausgeschlossen werden?",
+    "a": "Panikstörung (F41.0): mehrere schwere Attacken innerhalb von etwa 1 Monat, unerwartet, Höhepunkt nach Minuten. Organisch ausschließen lassen: Herzrhythmusstörungen, Koronare Herzkrankheit, Hyperthyreose, Hypoglykämie, Lungenerkrankungen, Substanzwirkung (Koffein, Alkoholentzug)."
+   },
+   {
+    "q": "Wie bewerten Sie den Alkoholkonsum?",
+    "a": "Konsum zur Spannungsreduktion (Selbstmedikation) erfassen: Menge, Muster, Abhängigkeitskriterien (mindestens 3 von 6 im letzten Jahr), Entzugssymptome. Alkohol kann Angst verstärken und Komorbidität erzeugen; bei Abhängigkeit ärztlich begleiteter Entzug."
+   },
+   {
+    "q": "Dürfen Sie der Ehefrau Auskunft geben?",
+    "a": "Nein, nicht ohne Einwilligung. Die Schweigepflicht gilt auch gegenüber Angehörigen, ebenso die Bestätigung, dass er Patient ist. Ausnahmen: Einwilligung, § 34 StGB (rechtfertigender Notstand) bei akuter Gefahr, § 138 StGB bei geplanten schweren Straftaten."
+   },
+   {
+    "q": "Welche Therapie ist bei Panikstörung wirksam?",
+    "a": "Kognitive Verhaltenstherapie: Psychoedukation, interozeptive und situative Exposition, Abbau von Sicherheitsverhalten, kognitive Umstrukturierung. Ärztlich: SSRI. Benzodiazepine nicht als Mittel der Wahl wegen Abhängigkeit."
+   }
+  ]
+ },
+ {
+  "id": "mx03",
+  "title": "Fall 72: Mischfall: Verhalten, Zeitkriterium und Differenzialdiagnose",
+  "vignette": "Der Prüfer fragt: Ein 24-Jähriger hört seit 3 Wochen Stimmen, die sein Handeln kommentieren, und fühlt sich verfolgt. Vor 4 Wochen hat er Cannabis und Amphetamine konsumiert. Sein Vater möchte ihn gegen seinen Willen einweisen lassen.",
+  "questions": [
+   {
+    "q": "Welche Diagnosen kommen infrage? Beachten Sie die Dauer.",
+    "a": "Substanzinduzierte psychotische Störung (F1x.5), akute schizophreniforme psychotische Störung (F23.2) bei Dauer unter 1 Monat; bei Fortbestehen über 1 Monat Schizophrenie (F20). Organische Ursachen und Substanzen ausschließen, Verlauf unter Abstinenz beobachten."
+   },
+   {
+    "q": "Wie beurteilen Sie die Einweisung gegen den Willen?",
+    "a": "Eine Zwangseinweisung ist nach PsychKG bei akuter erheblicher Eigen- oder Fremdgefährdung aufgrund einer psychischen Störung möglich, wenn die Gefahr nicht anders abwendbar ist. Die Entscheidung trifft das zuständige Amt bzw. das Gericht (sozialpsychiatrischer Dienst, Ordnungsamt, Richter), nicht der Angehörige. Der Heilpraktiker kann Hilfe anregen und Notruf wählen."
+   },
+   {
+    "q": "Was unternehmen Sie in der Praxis?",
+    "a": "Gefährdung einschätzen, Ruhe bewahren, nicht über Wahninhalte diskutieren, ärztlich-psychiatrische Abklärung organisieren, bei akuter Gefahr Notruf und Dokumentation. Keine Behandlung im Rahmen der Heilpraktikerbefugnis bei akuter Psychose ohne ärztliche Mitbehandlung."
+   }
+  ]
+ },
+ {
+  "id": "mx04",
+  "title": "Fall 73: Mischfall: Trauma, Dissoziation und Kindeswohl",
+  "vignette": "Eine 32-jährige Mutter berichtet, sie habe vor 2 Monaten einen Überfall erlebt, leide seither an Albträumen, Schreckhaftigkeit und Vermeidung und „sei manchmal wie weggetreten“. Ihre 5-jährige Tochter sei in letzter Zeit sehr still.",
+  "questions": [
+   {
+    "q": "Welche Diagnose und welche Zeitkriterien prüfen Sie?",
+    "a": "PTBS (F43.1): Beginn meist innerhalb von 6 Monaten nach dem Ereignis, Intrusionen, Vermeidung, Übererregung. Akute Belastungsreaktion klingt in Tagen ab, Anpassungsstörung beginnt innerhalb 1 Monats. Die „Wegtreten“-Episoden erfordern Abgrenzung von Dissoziation, Epilepsie, Substanzen."
+   },
+   {
+    "q": "Welche Komorbiditäten bedenken Sie?",
+    "a": "Depression, Angststörungen, Substanzmissbrauch, Dissoziation, Schmerzstörungen, Suizidalität."
+   },
+   {
+    "q": "Welche Sorge besteht bezüglich der Tochter?",
+    "a": "Verhaltensänderung kann auf Belastung hinweisen, ggf. Mitbetroffenheit; im Gespräch mit der Mutter nach Sicherheit des Kindes fragen. Bei konkreter Gefährdung rechtfertigender Notstand und Zusammenarbeit mit Jugendamt/Kinderarzt (Bundeskinderschutzgesetz). Zunächst Hilfen anbieten."
+   }
+  ]
+ },
+ {
+  "id": "mx05",
+  "title": "Fall 74: Mischfall: Essstörung, Zeitkriterium und Medizinisches",
+  "vignette": "Eine 19-jährige Patientin ist deutlich untergewichtig (BMI 16), hat seit 8 Monaten keine Menstruation, friert und hat Schwindel. Sie sagt, sie sei „zu dick“.",
+  "questions": [
+   {
+    "q": "Welche Diagnose stellen Sie?",
+    "a": "Anorexia nervosa (F50.0): BMI höchstens 17,5, Körperschemastörung, endokrine Störung (Amenorrhoe), selbst herbeigeführter Gewichtsverlust."
+   },
+   {
+    "q": "Welche Risiken müssen medizinisch abgeklärt werden?",
+    "a": "Elektrolytstörungen, Herzrhythmusstörungen, Kreislaufprobleme, Osteoporose, Hypoglykämie. Sofortige ärztliche Abklärung; bei Lebensgefahr stationäre Aufnahme."
+   },
+   {
+    "q": "Welche Differenzialdiagnosen und Komorbiditäten nennen Sie?",
+    "a": "Differenzialdiagnosen: somatische Ursachen von Gewichtsverlust, Depression, Zwangsstörung. Komorbiditäten: Depression, Angst, Zwang, Persönlichkeitsstörungen, Suizidalität. Bulimie (Essanfälle mit Gegenregulation) abgrenzen."
+   }
+  ]
+ },
+ {
+  "id": "mx06",
+  "title": "Fall 75: Mischfall: Verlauf über die Zeit (Stimmung und Antrieb)",
+  "vignette": "Ein 31-Jähriger war vor einem Jahr 2 Monate lang schwer depressiv. Seit 10 Tagen schläft er kaum, ist reizbar, gesprächig, kauft impulsiv ein und fühlt sich außergewöhnlich leistungsfähig. Er will die Praxis wieder verlassen, weil er „nicht krank“ sei.",
+  "questions": [
+   {
+    "q": "Welche Diagnose passt unter Beachtung der Dauer?",
+    "a": "Bipolare affektive Störung (F31), aktuell manische Episode (Dauer mindestens 1 Woche erfüllt, bei Wahn „mit psychotischen Symptomen“). Eine Hypomanie wäre kürzer und milder (ca. 4 Tage, keine schwere Beeinträchtigung). Vor einem Jahr: depressive Episode, daher bipolar statt rezidivierend depressiv."
+   },
+   {
+    "q": "Welche Differenzialdiagnosen nennen Sie?",
+    "a": "Substanzinduzierte Manie (Stimulanzien, Kortison), ADHS (Beginn in der Kindheit, chronisch), Schizoaffektive Störung, Borderline, organische Ursache (Hyperthyreose, Hirntumor, Frontalhirn)."
+   },
+   {
+    "q": "Wie gehen Sie mit der fehlenden Krankheitseinsicht um?",
+    "a": "Eigen- und Fremdgefährdung einschätzen (Finanzen, Verkehr, Suizidalität), Beziehung wahren, ärztlich-psychiatrische Abklärung zeitnah organisieren. Bei erheblicher Gefährdung PsychKG-Verfahren anregen. Medikation ist Sache des Arztes (z. B. Stimmungsstabilisierer)."
+   }
+  ]
  }
 ]

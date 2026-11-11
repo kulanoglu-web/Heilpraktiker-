@@ -282,6 +282,7 @@ const examTopicWeights = <String, int>{
   'Weitere Störungen': 1,
   'Differenzialdiagnose': 3,
   'Psychopathologie': 2,
+  'Kriterien & Dauer': 3,
 };
 
 /// Stellt einen prüfungsnahen Fragensatz zusammen: Themenmix nach

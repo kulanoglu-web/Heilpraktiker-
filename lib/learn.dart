@@ -408,6 +408,47 @@ class OralListScreen extends StatelessWidget {
             ),
           ),
           const SizedBox(height: 14),
+          SoftCard(
+            color: tint(kAccent, 0.12),
+            onTap: () {
+              final rnd = math.Random();
+              final pool = List<OralCase>.of(cases)..shuffle(rnd);
+              final picked = pool.take(5).toList();
+              final qs = <OralQuestion>[];
+              for (final c in picked) {
+                final q = c.questions[rnd.nextInt(c.questions.length)];
+                qs.add(OralQuestion(
+                    question: '${c.vignette}\n\n${q.question}',
+                    answer: q.answer));
+              }
+              Navigator.of(context).push(MaterialPageRoute(
+                builder: (_) => OralCaseScreen(
+                  oralCase: OralCase(
+                    id: 'mix',
+                    title: 'Gemischte Prüfung',
+                    vignette: 'Der Prüfer wechselt zwischen verschiedenen '
+                        'Themen. Beantworte jede Frage laut und strukturiert, '
+                        'dann vergleiche mit der Musterantwort.',
+                    questions: qs,
+                  ),
+                ),
+              ));
+            },
+            child: Row(
+              children: [
+                const Icon(Icons.shuffle_rounded, color: kAccent, size: 28),
+                const SizedBox(width: 14),
+                const Expanded(
+                  child: Text(
+                    'Gemischte Prüfung: 5 zufällige Fragen aus verschiedenen Themen',
+                    style: TextStyle(fontWeight: FontWeight.w700, height: 1.3),
+                  ),
+                ),
+                const Icon(Icons.chevron_right_rounded),
+              ],
+            ),
+          ),
+          const SizedBox(height: 12),
           for (var i = 0; i < cases.length; i++)
             Padding(
               padding: const EdgeInsets.only(bottom: 12),
