@@ -9,7 +9,8 @@ import 'theme.dart';
 
 class CatalogScreen extends StatefulWidget {
   final ExamProfile profile;
-  const CatalogScreen({super.key, required this.profile});
+  final Future<LearningCatalog>? catalog;
+  const CatalogScreen({super.key, required this.profile, this.catalog});
 
   @override
   State<CatalogScreen> createState() => _CatalogScreenState();
@@ -22,7 +23,7 @@ class _CatalogScreenState extends State<CatalogScreen> {
   @override
   void initState() {
     super.initState();
-    loading = loadLearningCatalog();
+    loading = widget.catalog ?? loadLearningCatalog();
     _refresh();
   }
 

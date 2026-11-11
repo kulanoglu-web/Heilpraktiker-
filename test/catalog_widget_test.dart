@@ -90,9 +90,8 @@ void main() {
     tester.view.devicePixelRatio = 1;
     addTearDown(tester.view.resetPhysicalSize);
     addTearDown(tester.view.resetDevicePixelRatio);
-    await tester.runAsync(() async {
-      await loadLearningCatalog();
-    });
+    final catalog = await tester.runAsync(loadLearningCatalog);
+    expect(catalog, isNotNull);
     await tester.pumpWidget(
       MaterialApp(
         builder: (context, child) => MediaQuery(
@@ -100,7 +99,10 @@ void main() {
               .copyWith(textScaler: const TextScaler.linear(1.3)),
           child: child!,
         ),
-        home: CatalogScreen(profile: examProfiles.first),
+        home: CatalogScreen(
+          profile: examProfiles.first,
+          catalog: Future.value(catalog!),
+        ),
       ),
     );
     await tester.pumpAndSettle();
