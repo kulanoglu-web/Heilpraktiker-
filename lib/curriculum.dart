@@ -117,7 +117,7 @@ const curriculum = <CurriculumNode>[
     CurriculumNode('Haut', 'Neurodermitis, Psoriasis und Urtikaria.'),
     CurriculumNode('Herz-Kreislauf', 'Hypertonie und Warnzeichen.'),
     CurriculumNode('Hormonsystem & Stoffwechsel', 'Hypothyreose, Hyperthyreose, Adipositas, Diabetes mellitus und metabolisches Syndrom.', [
-      CurriculumNode('Hypothyreose', 'Müdigkeit, Verlangsamung und depressive Beschwerden als mögliche, unspezifische Symptome; ärztliche Diagnostik.),
+      CurriculumNode('Hypothyreose', 'Müdigkeit, Verlangsamung und depressive Beschwerden als mögliche, unspezifische Symptome; ärztliche Diagnostik.'),
       CurriculumNode('Hyperthyreose', 'Unruhe, Schlafprobleme, Tremor und Herzrasen können vorkommen; ärztliche Abklärung.'),
       CurriculumNode('Diabetes mellitus', 'Stoffwechselentgleisung, Unterzuckerung und psychische oder kognitive Veränderungen.'),
       CurriculumNode('Adipositas & metabolisches Syndrom', 'Körperliche und psychische Komorbidität sowie respektvolle, nicht stigmatisierende Anamnese.')
