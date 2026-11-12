@@ -143,7 +143,7 @@ class _CatalogScreenState extends State<CatalogScreen> {
             ),
             _link(
               Icons.menu_book_rounded,
-              'Lernstruktur · 15 Themenbereiche',
+              'Lernstruktur · 16 Themenbereiche',
               'Kapitelübersicht mit Unterthemen und 3-2-1-Lernschema',
               () => _open(const CurriculumScreen()),
             ),
