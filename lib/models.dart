@@ -394,6 +394,8 @@ const examTopicWeights = <String, int>{
   'Weitere Störungen': 1,
   'Differenzialdiagnose': 3,
   'Psychopathologie': 2,
+  'Psychopharmaka': 2,
+  'Somatische Differenzialdiagnostik': 3,
 };
 
 /// Zusätzlicher Übungsfilter: Fragen zu Kriterien und Dauer aus allen Themen.
@@ -433,6 +435,11 @@ List<Question> buildExamSet(
     if (picked.length >= count) break;
     picked.add(q);
   }
+  picked.shuffle();
+  if (picked.length > count) picked.removeRange(count, picked.length);
+  used
+    ..clear()
+    ..addAll(picked.map((q) => q.id));
   // Mindestens etwa jede sechste Frage prüft Symptom- und Zeitkriterien.
   final minCrit = (count / 6).ceil();
   var critCount = picked.where((q) => q.crit).length;

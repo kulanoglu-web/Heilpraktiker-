@@ -2830,5 +2830,245 @@
   "topic": "Diagnostik & Therapie",
   "front": "Welche Verfahren zählen zu den Richtlinientherapien der GKV?",
   "back": "Verhaltenstherapie, tiefenpsychologisch fundierte Psychotherapie, analytische Psychotherapie und systemische Therapie. Daraus folgt keine eigene Kassenzulassung für Heilpraktiker."
+ },
+ {
+  "id": "med26_f001",
+  "topic": "Psychopharmaka",
+  "front": "Was gehört bei Medikamenten zur psychotherapeutischen Begleitung?",
+  "back": "Medikation erfassen, Veränderungen beobachten und ärztlich rückkoppeln. Keine eigenständige Verordnung oder Dosisanpassung verschreibungspflichtiger Psychopharmaka."
+ },
+ {
+  "id": "med26_f002",
+  "topic": "Psychopharmaka",
+  "front": "SSRI und SNRI: Nenne Beispiele.",
+  "back": "SSRI: Sertralin, Citalopram. SNRI: Venlafaxin, Duloxetin. Unterschiede der Gruppe ersetzen keine individuelle ärztliche Auswahl."
+ },
+ {
+  "id": "med26_f003",
+  "topic": "Psychopharmaka",
+  "front": "Warum ist Wirkung nicht dasselbe wie Verträglichkeit?",
+  "back": "Besserung braucht häufig Wochen; unerwünschte Effekte können früher auftreten. Beides gesondert erfragen."
+ },
+ {
+  "id": "med26_f004",
+  "topic": "Psychopharmaka",
+  "front": "Welche Nebenwirkungen sind für Mirtazapin wichtig?",
+  "back": "Sedierung, Appetitsteigerung und Gewichtszunahme sind möglich. Beeinträchtigte Wachheit ist sicherheitsrelevant."
+ },
+ {
+  "id": "med26_f005",
+  "topic": "Psychopharmaka",
+  "front": "Was muss bei SNRI auch körperlich beachtet werden?",
+  "back": "Unter anderem Blutdruck, vegetative Beschwerden und mögliche Absetzprobleme; ärztliche Verlaufskontrolle."
+ },
+ {
+  "id": "med26_f006",
+  "topic": "Psychopharmaka",
+  "front": "Welche Beschwerden können unter Amitriptylin entstehen?",
+  "back": "Mundtrockenheit, Verstopfung, Benommenheit und Probleme beim Wasserlassen. Neue schwere Beschwerden abklären lassen."
+ },
+ {
+  "id": "med26_f007",
+  "topic": "Psychopharmaka",
+  "front": "Was unterscheidet Benzodiazepine von Antidepressiva?",
+  "back": "Benzodiazepine wirken unter anderem kurzfristig angstlösend und sedierend; Abhängigkeit und Entzug sind wichtige Risiken."
+ },
+ {
+  "id": "med26_f008",
+  "topic": "Psychopharmaka",
+  "front": "Nenne ältere und neuere Antipsychotika.",
+  "back": "Beispiele: Haloperidol als älteres, Olanzapin, Risperidon und Clozapin als neuere Antipsychotika. Nebenwirkungsprofile unterscheiden sich."
+ },
+ {
+  "id": "med26_f009",
+  "topic": "Psychopharmaka",
+  "front": "Welche Kontrollen sind bei Lithium wichtig?",
+  "back": "Ärztlich angeordnete Spiegel- sowie Nieren- und Schilddrüsenkontrollen. Neue Beschwerden nicht allein psychologisch erklären."
+ },
+ {
+  "id": "med26_f010",
+  "topic": "Psychopharmaka",
+  "front": "Was muss bei Valproat und möglicher Schwangerschaft geklärt werden?",
+  "back": "Erhebliche Risiken, strenge Anwendungseinschränkungen und fachärztliche Beratung. Keine eigenmächtige Änderung der Behandlung."
+ },
+ {
+  "id": "med26_f011",
+  "topic": "Psychopharmaka",
+  "front": "Welche Trias hilft beim Verdacht auf Serotoninsyndrom?",
+  "back": "Psychische Veränderung, vegetative Entgleisung und neuromuskuläre Überaktivität. Bei entsprechendem Warnbild sofortige Notfallabklärung."
+ },
+ {
+  "id": "med26_f012",
+  "topic": "Psychopharmaka",
+  "front": "Welche Zeichen sprechen für ein mögliches malignes neuroleptisches Syndrom?",
+  "back": "Fieber, ausgeprägte Muskelsteife und Bewusstseinsveränderung unter Antipsychotika: medizinischer Notfall."
+ },
+ {
+  "id": "med26_f013",
+  "topic": "Psychopharmaka",
+  "front": "Welche Beschwerden können auf Lithiumtoxizität hinweisen?",
+  "back": "Gastrointestinale Beschwerden zusammen mit grobem Zittern, Gang- oder Sprachstörung und Verwirrtheit sind dringliche Warnzeichen."
+ },
+ {
+  "id": "med26_f014",
+  "topic": "Psychopharmaka",
+  "front": "Warum sind Fieber und Halsschmerz unter Clozapin wichtig?",
+  "back": "Mögliche Infektionszeichen bei Blutbildveränderung; umgehend ärztliche Beurteilung und Blutbildkontrolle."
+ },
+ {
+  "id": "med26_f015",
+  "topic": "Psychopharmaka",
+  "front": "Woran denken bei neuen Beschwerden nach Antidepressiva-Absetzen?",
+  "back": "Absetzsyndrom, Rückfall und andere Ursachen abgrenzen. Zeitverlauf erheben und ärztlich rückkoppeln."
+ },
+ {
+  "id": "med26_f016",
+  "topic": "Psychopharmaka",
+  "front": "Was ist unter Lamotrigin ein Haut-Warnzeichen?",
+  "back": "Schmerzhafte Blasen oder Schleimhautbeteiligung verlangen sofortige medizinische Beurteilung."
+ },
+ {
+  "id": "med26_f017",
+  "topic": "Psychopharmaka",
+  "front": "Welche körperlichen Verlaufsänderungen sind bei Olanzapin wichtig?",
+  "back": "Gewicht und Glukosestoffwechsel können sich verändern. Vorgesehene ärztliche Kontrollen unterstützen."
+ },
+ {
+  "id": "med26_f018",
+  "topic": "Psychopharmaka",
+  "front": "Welche Beschwerden können auf hormonelle Nebenwirkungen eines Antipsychotikums hinweisen?",
+  "back": "Milchfluss oder sexuelle Funktionsstörungen ärztlich abklären lassen, statt vorschnell eine psychische Ursache anzunehmen."
+ },
+ {
+  "id": "med26_f019",
+  "topic": "Psychopharmaka",
+  "front": "Welche Aspekte gehören zur Begleitung einer Stimulanzientherapie?",
+  "back": "Schlaf, Appetit, Stimmung sowie Puls und Blutdruck. Verordnung und Anpassung erfolgen ärztlich."
+ },
+ {
+  "id": "med26_f020",
+  "topic": "Psychopharmaka",
+  "front": "Welche Warnzeichen sind bei Agomelatin bedeutsam?",
+  "back": "Gelbsucht oder dunkler Urin können auf Leberprobleme hinweisen. Ärztliche Kontrollen und umgehende Rückmeldung sind wichtig."
+ },
+ {
+  "id": "med26_f021",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Hypothyreose oder Depression: Welche körperlichen Hinweise helfen?",
+  "back": "Kälteempfindlichkeit, Verstopfung, trockene Haut und Gewichtszunahme können eine Unterfunktion nahelegen. Kein Symptom beweist sie."
+ },
+ {
+  "id": "med26_f022",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Hyperthyreose oder Angst: Welche Zeichen helfen?",
+  "back": "Wärmeintoleranz, Tremor, Schwitzen und Gewichtsverlust bei Appetit. Schilddrüsenfunktion ärztlich prüfen lassen."
+ },
+ {
+  "id": "med26_f023",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Wie passt die Laborkonstellation bei primärer manifester Hyperthyreose typischerweise zusammen?",
+  "back": "TSH erniedrigt, fT4 und/oder fT3 erhöht. Laborreferenz und klinischen Kontext berücksichtigen."
+ },
+ {
+  "id": "med26_f024",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Was unterscheidet manifeste und latente primäre Hypothyreose?",
+  "back": "Bei erhöhtem TSH ist fT4 bei manifester Unterfunktion erniedrigt, bei latenter Unterfunktion normal. Ärztlich beurteilen lassen."
+ },
+ {
+  "id": "med26_f025",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Warum gehört Levothyroxin in die Medikamentenanamnese?",
+  "back": "Überversorgung kann Unruhe, Schwitzen und Schlafprobleme auslösen. Keine eigenständige Hormonänderung empfehlen."
+ },
+ {
+  "id": "med26_f026",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Hypoglykämie oder Panik: Welche Informationen sind wichtig?",
+  "back": "Diabetesmittel, letzte Nahrungsaufnahme, Belastung und Blutzucker soweit verfügbar. Kaltschweißigkeit oder Verwirrtheit ernst nehmen."
+ },
+ {
+  "id": "med26_f027",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Was darf bei Bewusstlosigkeit nicht getan werden?",
+  "back": "Nichts zu essen oder zu trinken einflößen. Atmung prüfen, Notruf und angemessene Erste Hilfe organisieren."
+ },
+ {
+  "id": "med26_f028",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Warum bei Müdigkeit auch nach Blutungen fragen?",
+  "back": "Blutverlust kann Eisenmangel und Anämie verursachen. Ursache und Laborbefund ärztlich abklären lassen."
+ },
+ {
+  "id": "med26_f029",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Welche psychischen Veränderungen kann Vitamin-B12-Mangel verursachen?",
+  "back": "Unter anderem Gedächtnisschwäche, Aufmerksamkeitsprobleme und depressive Verstimmung. Neurologische Zeichen mitbeachten."
+ },
+ {
+  "id": "med26_f030",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Welche seltene endokrine Ursache kann Angstattacken imitieren?",
+  "back": "Phäochromozytom, insbesondere bei Attacken mit starkem Blutdruckanstieg, Kopfschmerzen und Schwitzen. Befundabhängige ärztliche Abklärung."
+ },
+ {
+  "id": "med26_f031",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Warum schließt ein unauffälliges Ruhe-EKG eine anfallsartige Rhythmusstörung nicht sicher aus?",
+  "back": "Die Störung kann zwischen Episoden fehlen. Gegebenenfalls ist weitere ärztliche Verlaufsdiagnostik nötig."
+ },
+ {
+  "id": "med26_f032",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Welche Brustbeschwerden haben Vorrang vor psychotherapeutischer Exploration?",
+  "back": "Akuter Brustdruck, Atemnot, kalter Schweiß oder Kollaps: mögliche Notfallsituation, sofortige medizinische Hilfe."
+ },
+ {
+  "id": "med26_f033",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Welche Kombination verlangt Lungenembolie-Abklärung als Notfall?",
+  "back": "Neue Atemnot oder atemabhängiger Brustschmerz, besonders nach Operation oder mit einseitiger Beinschwellung."
+ },
+ {
+  "id": "med26_f034",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Welche körperlichen Hinweise helfen bei Atemnot und Angst?",
+  "back": "Pfeifende Atmung, Husten und variable Atemwegsbeschwerden können für Asthma sprechen. Angst kann zusätzlich bestehen."
+ },
+ {
+  "id": "med26_f035",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Warum keine ungeprüfte Papiertüten-Rückatmung?",
+  "back": "Bei einer falsch eingeschätzten Ursache kann sie schaden. Beruhigen, beurteilen und bei Warnzeichen medizinische Hilfe organisieren."
+ },
+ {
+  "id": "med26_f036",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Welche Schlafanamnese ist bei Antriebsmangel wichtig?",
+  "back": "Schnarchen, beobachtete Atempausen und nicht erholsamer Schlaf. Tagesmüdigkeit kann auf Schlafapnoe hinweisen."
+ },
+ {
+  "id": "med26_f037",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Warum zählt plötzliche Sprachstörung als Warnzeichen?",
+  "back": "Sie kann einen Schlaganfall anzeigen, besonders mit einseitiger Schwäche. Notruf statt Abwarten."
+ },
+ {
+  "id": "med26_f038",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Wie erfolgt die Abgrenzung epileptischer und dissoziativer Anfälle?",
+  "back": "Verlauf, Anfallsbeschreibung und neurologische Befunde gemeinsam bewerten; nicht aus einem Einzelmerkmal entscheiden."
+ },
+ {
+  "id": "med26_f039",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Was unterscheidet Delirverdacht von einer typischen schleichenden Depression?",
+  "back": "Akuter Beginn, fluktuierende Aufmerksamkeit und Bewusstseinsveränderung. Dringende medizinische Ursachenklärung."
+ },
+ {
+  "id": "med26_f040",
+  "topic": "Somatische Differenzialdiagnostik",
+  "front": "Warum nach Lageabhängigkeit von Herzrasen fragen?",
+  "back": "Orthostatische Beschwerden können Angst imitieren. Besserung im Liegen ist ein Hinweis, kein alleiniger POTS-Beweis."
  }
 ]

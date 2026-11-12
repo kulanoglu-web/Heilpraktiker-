@@ -10219,5 +10219,1152 @@
   "correct": 0,
   "explanation": "Einzelzeichen genügen nicht; neurologische Abklärung ist erforderlich.",
   "crit": false
+ },
+ {
+  "id": "med26_q001",
+  "topic": "Psychopharmaka",
+  "text": "Welche Aufgabe gehört zur Rolle eines Heilpraktikers für Psychotherapie bei Psychopharmaka?",
+  "options": [
+   "Nebenwirkungen erfragen und ärztliche Rücksprache veranlassen",
+   "Selbst ein verschreibungspflichtiges Antidepressivum verordnen",
+   "Dosierungen ohne Rücksprache anpassen",
+   "Einen ärztlichen Medikationsplan eigenmächtig ersetzen"
+  ],
+  "correct": 0,
+  "explanation": "Die sektorale Erlaubnis umfasst keine eigenständige Psychopharmakaverordnung. Beobachtungen und Weitervermittlung gehören zur sicheren Begleitung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q002",
+  "topic": "Psychopharmaka",
+  "text": "Welche Wirkstoffe gehören zu den SSRI? Wählen Sie zwei.",
+  "options": [
+   "Sertralin",
+   "Citalopram",
+   "Venlafaxin",
+   "Mirtazapin"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Sertralin und Citalopram sind selektive Serotonin-Wiederaufnahmehemmer. Venlafaxin ist ein SNRI, Mirtazapin gehört zu einer anderen Antidepressivagruppe.",
+  "crit": false
+ },
+ {
+  "id": "med26_q003",
+  "topic": "Psychopharmaka",
+  "text": "Welche Zuordnung zu einer Antidepressivagruppe trifft zu?",
+  "options": [
+   "Duloxetin: SNRI",
+   "Lorazepam: SSRI",
+   "Haloperidol: trizyklisches Antidepressivum",
+   "Lithium: Benzodiazepin"
+  ],
+  "correct": 0,
+  "explanation": "Duloxetin hemmt die Wiederaufnahme von Serotonin und Noradrenalin. Wirkstoffgruppe und Handelsname sollten auseinandergehalten werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q004",
+  "topic": "Psychopharmaka",
+  "text": "Welche Beschwerden können unter Sertralin als Nebenwirkung auftreten? Wählen Sie zwei.",
+  "options": [
+   "Übelkeit",
+   "Sexuelle Funktionsstörungen",
+   "Obligater vollständiger Gedächtnisverlust",
+   "Garantierte dauerhafte Euphorie"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Magen-Darm-Beschwerden und sexuelle Funktionsstörungen sind möglich. Beschwerden und zeitlichen Zusammenhang erfragen und ärztlich besprechen lassen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q005",
+  "topic": "Psychopharmaka",
+  "text": "Nach Beginn eines SSRI bestehen ausgeprägte Unruhe und Schlaflosigkeit. Welche Bewertung passt?",
+  "options": [
+   "Mögliche Arzneimittelwirkung mit notwendiger ärztlicher Beurteilung",
+   "Sicherer Beweis einer Angststörung ohne Medikamentenbezug",
+   "Beweis einer dauerhaften Persönlichkeitsänderung",
+   "Verlässlicher Nachweis, dass keine Depression vorlag"
+  ],
+  "correct": 0,
+  "explanation": "Neue Symptome können medikamentös bedingt sein. Bei starker Verschlechterung, Suizidalität oder manischen Zeichen ist eine dringende Beurteilung erforderlich.",
+  "crit": false
+ },
+ {
+  "id": "med26_q006",
+  "topic": "Psychopharmaka",
+  "text": "Warum ist ein Antidepressivum nach zwei Einnahmetagen nicht automatisch wirkungslos?",
+  "options": [
+   "Die antidepressive Wirkung setzt gewöhnlich verzögert ein",
+   "Jedes Antidepressivum wirkt erst nach einem Jahr",
+   "Eine Wirkung ist nur nach sofortiger Dosisverdoppelung möglich",
+   "Nebenwirkungen beweisen eine ausreichende Wirkung"
+  ],
+  "correct": 0,
+  "explanation": "Eine klinische Besserung benötigt häufig Wochen. Wirkung, Verträglichkeit und Gefährdung werden ärztlich im Verlauf beurteilt.",
+  "crit": false
+ },
+ {
+  "id": "med26_q007",
+  "topic": "Psychopharmaka",
+  "text": "Welche Kombination passt zu möglichen Mirtazapin-Nebenwirkungen?",
+  "options": [
+   "Müdigkeit und Appetitzunahme",
+   "Stets starke Gewichtsabnahme und Wachheitssteigerung",
+   "Isolierte Halbseitenlähmung als übliche Anpassungsreaktion",
+   "Ausschließlich Tics ohne andere Nebenwirkungen"
+  ],
+  "correct": 0,
+  "explanation": "Sedierung und Gewichtszunahme sind möglich. Sie sind nicht automatisch als Verschlechterung der Depression einzuordnen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q008",
+  "topic": "Psychopharmaka",
+  "text": "Welche zusätzliche Kontrolle kann bei Venlafaxin wegen möglicher Nebenwirkungen wichtig sein?",
+  "options": [
+   "Blutdruckkontrolle",
+   "Ausschließlich tägliche Intelligenztests",
+   "Nur eine einmalige Prüfung des Sehvermögens",
+   "Grundsätzlich keinerlei Verlaufskontrolle"
+  ],
+  "correct": 0,
+  "explanation": "SNRI können den Blutdruck erhöhen. Begleiterkrankungen und weitere Medikamente beeinflussen die ärztliche Bewertung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q009",
+  "topic": "Psychopharmaka",
+  "text": "Nach abruptem Weglassen eines Antidepressivums treten Schwindel und stromschlagartige Missempfindungen auf. Woran denken Sie?",
+  "options": [
+   "Mögliches Absetzsyndrom",
+   "Sicher eine neue Schizophrenie",
+   "Ausschließlich einen Persönlichkeitskonflikt",
+   "Immer eine erfolgreiche Entwöhnung"
+  ],
+  "correct": 0,
+  "explanation": "Zeitnah zum Absetzen auftretende Beschwerden können ein Absetzsyndrom sein. Rückfall und andere Ursachen müssen ärztlich abgegrenzt werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q010",
+  "topic": "Psychopharmaka",
+  "text": "Welche Beschwerden passen zu anticholinergen Effekten von Amitriptylin? Wählen Sie zwei.",
+  "options": [
+   "Mundtrockenheit",
+   "Verstopfung",
+   "Zwingend starker Speichelfluss",
+   "Garantiert gesteigerte Darmbewegung"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Trizyklische Antidepressiva können anticholinerge Beschwerden verursachen. Neue oder schwere Symptome benötigen medizinische Bewertung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q011",
+  "topic": "Psychopharmaka",
+  "text": "Unter Amitriptylin treten anhaltendes Herzrasen und unregelmäßiger Puls auf. Was tun?",
+  "options": [
+   "Zeitnahe ärztliche Beurteilung, bei Kollaps oder Brustschmerz Notfallhilfe",
+   "Ausschließlich Entspannung ohne weitere Abklärung",
+   "Die Dosis eigenmächtig verdoppeln",
+   "Die Beschwerden als sicheren Angstbeweis werten"
+  ],
+  "correct": 0,
+  "explanation": "Ein Arzneimittelbezug ist möglich; Rhythmusstörungen müssen abgeklärt werden. Akute Kreislauf- oder Atemprobleme erfordern Notfallversorgung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q012",
+  "topic": "Psychopharmaka",
+  "text": "Welche Besonderheit betrifft insbesondere Tranylcypromin?",
+  "options": [
+   "Tyraminreiche Nahrung kann eine hypertensive Krise begünstigen",
+   "Lebensmittel können grundsätzlich keine Wechselwirkung haben",
+   "Es ist ohne Weiteres mit jedem SSRI kombinierbar",
+   "Es ist ein kurzfristig wirkendes Benzodiazepin"
+  ],
+  "correct": 0,
+  "explanation": "Bei diesem MAO-Hemmer sind spezielle Ernährungs- und Interaktionsregeln wichtig. Maßgeblich sind die aktuelle Fachinformation und ärztliche Aufklärung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q013",
+  "topic": "Psychopharmaka",
+  "text": "Warum muss auch Johanniskraut in der Medikamentenanamnese erfragt werden?",
+  "options": [
+   "Pflanzliche Präparate können klinisch relevante Wechselwirkungen haben",
+   "Pflanzliche Herkunft schließt Nebenwirkungen aus",
+   "Es ersetzt grundsätzlich jede verordnete Medikation",
+   "Es beeinflusst ausschließlich den Geschmackssinn"
+  ],
+  "correct": 0,
+  "explanation": "Johanniskraut ist keine automatisch harmlose Ergänzung. Insbesondere Kombinationen mit serotonergen Arzneimitteln müssen geprüft werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q014",
+  "topic": "Psychopharmaka",
+  "text": "Nach Kombination serotonerger Mittel bestehen Fieber, Verwirrtheit und Muskelzuckungen. Was hat Vorrang?",
+  "options": [
+   "Verdacht auf Serotoninsyndrom und sofortige Notfallbeurteilung",
+   "Reguläre Traumabearbeitung",
+   "Mehrere Tage Beobachtung ohne medizinischen Kontakt",
+   "Die Beschwerden als erwünschte Aktivierung deuten"
+  ],
+  "correct": 0,
+  "explanation": "Vegetative, neuromuskuläre und psychische Veränderungen können auf ein lebensbedrohliches Serotoninsyndrom hinweisen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q015",
+  "topic": "Psychopharmaka",
+  "text": "Welche Wirkstoffgruppe umfasst Lorazepam?",
+  "options": [
+   "Benzodiazepine",
+   "SSRI",
+   "Atypische Antipsychotika",
+   "Schilddrüsenhormone"
+  ],
+  "correct": 0,
+  "explanation": "Lorazepam wirkt unter anderem angstlösend und sedierend. Es besteht ein relevantes Risiko für Abhängigkeit und Entzug.",
+  "crit": false
+ },
+ {
+  "id": "med26_q016",
+  "topic": "Psychopharmaka",
+  "text": "Welche Kombination ist bei Lorazepam besonders problematisch?",
+  "options": [
+   "Alkohol oder andere stark sedierende Substanzen",
+   "Normale körperliche Bewegung allein",
+   "Ein geregelter Tagesrhythmus",
+   "Ein nichtmedikamentöses Beratungsgespräch"
+  ],
+  "correct": 0,
+  "explanation": "Eine verstärkte Dämpfung kann Wachheit und Atmung gefährden. Schwer weckbare Personen oder Atemprobleme sind Notfallzeichen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q017",
+  "topic": "Psychopharmaka",
+  "text": "Welche Aussage zu längerfristiger Benzodiazepineinnahme stimmt?",
+  "options": [
+   "Abhängigkeit kann auch bei ärztlich begonnener Einnahme entstehen",
+   "Abhängigkeit ist nur bei illegaler Beschaffung möglich",
+   "Ein Rezept verhindert jede Toleranzentwicklung",
+   "Ein längerer Gebrauch schließt Entzugssymptome aus"
+  ],
+  "correct": 0,
+  "explanation": "Die ärztliche Verordnung beseitigt das Abhängigkeitspotential nicht. Dauer und Beendigung der Behandlung müssen ärztlich geplant werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q018",
+  "topic": "Psychopharmaka",
+  "text": "Warum soll eine längerfristige Benzodiazepineinnahme nicht unbegleitet abrupt beendet werden?",
+  "options": [
+   "Entzug kann Verwirrtheit und Krampfanfälle verursachen",
+   "Jedes Absetzen löst sicher eine Demenz aus",
+   "Benzodiazepine bleiben lebenslang unverändert wirksam",
+   "Nur der Wunsch des Therapeuten entscheidet"
+  ],
+  "correct": 0,
+  "explanation": "Ein individuell ärztlich geplanter Entzug ist erforderlich. Der Heilpraktiker erstellt keinen eigenständigen medikamentösen Ausschleichplan.",
+  "crit": false
+ },
+ {
+  "id": "med26_q019",
+  "topic": "Psychopharmaka",
+  "text": "Welche Zuordnung zur Wirkstoffgruppe der Antipsychotika trifft zu?",
+  "options": [
+   "Haloperidol: Antipsychotikum",
+   "Olanzapin: SSRI",
+   "Risperidon: Benzodiazepin",
+   "Clozapin: Schilddrüsenhormon"
+  ],
+  "correct": 0,
+  "explanation": "Antipsychotika unterscheiden sich in Wirkprofil und Risiken. Die Gruppenzuordnung ersetzt keine individuelle Indikationsprüfung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q020",
+  "topic": "Psychopharmaka",
+  "text": "Welche Bewegungsstörung kann unter Antipsychotika auftreten?",
+  "options": [
+   "Akute Dystonie mit unwillkürlichen Muskelverkrampfungen",
+   "Nur eine seit Geburt unveränderte Händigkeit",
+   "Ausschließlich absichtliche Schauspielbewegungen",
+   "Immer eine neue Intelligenzminderung"
+  ],
+  "correct": 0,
+  "explanation": "Extrapyramidal-motorische Nebenwirkungen sind möglich. Neue Verkrampfungen müssen ärztlich beurteilt werden, bei Atembeteiligung sofort als Notfall.",
+  "crit": false
+ },
+ {
+  "id": "med26_q021",
+  "topic": "Psychopharmaka",
+  "text": "Ein Patient kann nach Beginn eines Antipsychotikums kaum still sitzen. Welche Ursache bedenken Sie?",
+  "options": [
+   "Akathisie als mögliche Nebenwirkung",
+   "Sicher eine neue Manie ohne Medikamentenbezug",
+   "Automatisch mangelnde Mitarbeit",
+   "Ausschließlich eine soziale Phobie"
+  ],
+  "correct": 0,
+  "explanation": "Innere Bewegungsunruhe kann medikamentenbedingt sein. Zeitpunkt, Leidensdruck und Gefährdung erheben und ärztliche Rücksprache veranlassen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q022",
+  "topic": "Psychopharmaka",
+  "text": "Unter einem Antipsychotikum bestehen hohes Fieber, starke Muskelsteife und Bewusstseinsstörung. Was ist angemessen?",
+  "options": [
+   "Sofortige Notfallversorgung wegen möglichem malignem neuroleptischem Syndrom",
+   "Allein eine zusätzliche Gesprächssitzung",
+   "Die Dosis ohne Rücksprache steigern",
+   "Das Fieber als gewöhnliche Entspannung deuten"
+  ],
+  "correct": 0,
+  "explanation": "Diese Kombination ist ein gefährliches Warnbild. Keine reguläre Psychotherapie fortsetzen und keine Abklärung verzögern.",
+  "crit": false
+ },
+ {
+  "id": "med26_q023",
+  "topic": "Psychopharmaka",
+  "text": "Welche längerfristigen Veränderungen sind unter Olanzapin besonders zu beachten? Wählen Sie zwei.",
+  "options": [
+   "Gewichtszunahme",
+   "Veränderter Glukosestoffwechsel",
+   "Garantierte Normalisierung jedes Blutzuckers",
+   "Sicheres Ausbleiben körperlicher Nebenwirkungen"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Metabolische Veränderungen sind möglich. Gewicht und Stoffwechselwerte werden ärztlich überwacht.",
+  "crit": false
+ },
+ {
+  "id": "med26_q024",
+  "topic": "Psychopharmaka",
+  "text": "Unter Risperidon treten Milchfluss und sexuelle Beschwerden auf. Was bedenken Sie?",
+  "options": [
+   "Medikamentenbedingte hormonelle Veränderungen",
+   "Sicher eine ausschließlich partnerschaftliche Ursache",
+   "Den Beweis einer Schwangerschaft bei jeder Person",
+   "Eine erwünschte Wirkung ohne Abklärungsbedarf"
+  ],
+  "correct": 0,
+  "explanation": "Antipsychotika können hormonelle Nebenwirkungen hervorrufen. Eine ärztliche Bewertung ist erforderlich.",
+  "crit": false
+ },
+ {
+  "id": "med26_q025",
+  "topic": "Psychopharmaka",
+  "text": "Welche Beschwerde erfordert unter Clozapin eine umgehende ärztliche Rückmeldung?",
+  "options": [
+   "Fieber mit Halsschmerzen als mögliches Infektionszeichen",
+   "Ein unveränderter Musikgeschmack",
+   "Normale Müdigkeit nach einer langen Wanderung allein",
+   "Eine einzelne gewöhnliche Sorge ohne weitere Beschwerden"
+  ],
+  "correct": 0,
+  "explanation": "Unter Clozapin muss bei Infektionszeichen auch an Neutropenie oder Agranulozytose gedacht und das Blutbild dringend beurteilt werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q026",
+  "topic": "Psychopharmaka",
+  "text": "Welche Aussage zu Kontrollen unter Clozapin ist richtig?",
+  "options": [
+   "Aktuelle Vorgaben zur Überwachung der neutrophilen Granulozyten beachten",
+   "Nach gutem Ansprechen sind grundsätzlich alle Kontrollen überflüssig",
+   "Alle Antipsychotika benötigen identische Kontrollpläne",
+   "Ein unauffälliger Erstbefund schließt spätere Blutbildveränderungen aus"
+  ],
+  "correct": 0,
+  "explanation": "Überwachung ist Teil der Arzneimittelsicherheit. Kontrollintervalle richten sich nach aktueller Fachinformation und individuellem Verlauf.",
+  "crit": false
+ },
+ {
+  "id": "med26_q027",
+  "topic": "Psychopharmaka",
+  "text": "Warum ist bei Lithium eine sorgfältige medizinische Überwachung wichtig?",
+  "options": [
+   "Zu hohe Blutspiegel können toxisch sein",
+   "Die Wirkung lässt sich ausschließlich am Befinden sicher dosieren",
+   "Lithium kann keine Organfunktionen beeinflussen",
+   "Blutspiegel sind grundsätzlich bedeutungslos"
+  ],
+  "correct": 0,
+  "explanation": "Klinische Beschwerden und Kontrollen müssen zusammen bewertet werden. Ein möglicher Vergiftungsverdacht ist dringlich.",
+  "crit": false
+ },
+ {
+  "id": "med26_q028",
+  "topic": "Psychopharmaka",
+  "text": "Welche neu begonnene Medikation kann Lithiumspiegel beeinflussen? Wählen Sie zwei.",
+  "options": [
+   "Ibuprofen",
+   "Ein ACE-Hemmer wie Ramipril",
+   "Eine rein nichtmedikamentöse Schlafberatung",
+   "Ein Gesprächsprotokoll"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Unter anderem NSAR, ACE-Hemmer und Diuretika können die Lithiumtherapie beeinflussen. Neue Mittel ärztlich oder pharmazeutisch prüfen lassen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q029",
+  "topic": "Psychopharmaka",
+  "text": "Warum ist starker Durchfall bei Lithiumbehandlung relevant?",
+  "options": [
+   "Flüssigkeitsverlust kann die Lithiumspiegel gefährlich verändern",
+   "Er beweist eine Anpassungsstörung",
+   "Er neutralisiert jede Lithiumwirkung sicher",
+   "Er ersetzt jede weitere Kontrolle"
+  ],
+  "correct": 0,
+  "explanation": "Erbrechen, Durchfall und verminderte Flüssigkeitsaufnahme verlangen ärztliche Rücksprache. Bei neurologischen oder Bewusstseinsveränderungen Notfallversorgung organisieren.",
+  "crit": false
+ },
+ {
+  "id": "med26_q030",
+  "topic": "Psychopharmaka",
+  "text": "Welche Organsysteme sind bei langfristiger Lithiumbehandlung besonders zu beachten?",
+  "options": [
+   "Nieren und Schilddrüse",
+   "Ausschließlich das äußere Ohr",
+   "Nur die Hautfarbe",
+   "Allein die Zähne"
+  ],
+  "correct": 0,
+  "explanation": "Unter anderem Nieren- und Schilddrüsenfunktion können beeinflusst werden. Müdigkeit oder depressive Beschwerden benötigen gegebenenfalls zusätzliche organische Abklärung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q031",
+  "topic": "Psychopharmaka",
+  "text": "Eine Frau mit bipolarer Störung nimmt Valproat und plant eine Schwangerschaft. Was ist richtig?",
+  "options": [
+   "Dringend fachärztliche Planung wegen erheblicher Risiken, nicht eigenmächtig absetzen",
+   "Valproat ist in jeder Schwangerschaft risikolos",
+   "Ein Kinderwunsch ist für die Behandlung bedeutungslos",
+   "Ein Heilpraktiker kann die Ersatzmedikation selbst festlegen"
+  ],
+  "correct": 0,
+  "explanation": "Für Valproat gelten strenge Einschränkungen und Maßnahmen zur Schwangerschaftsverhütung. Bei bipolarer Störung ist es in der Schwangerschaft kontraindiziert.",
+  "crit": false
+ },
+ {
+  "id": "med26_q032",
+  "topic": "Psychopharmaka",
+  "text": "Warum ist Kinderwunsch auch bei Männern unter Valproat anzusprechen?",
+  "options": [
+   "Es bestehen behördliche Vorsichtsmaßnahmen zu möglichen Risiken für Nachkommen",
+   "Die Medikation schützt sicher vor jeder Zeugung",
+   "Es gibt keinerlei Beratungsbedarf",
+   "Ein eigenmächtiger sofortiger Entzug ist immer ausreichend"
+  ],
+  "correct": 0,
+  "explanation": "Die Risikobewertung und Vorsichtsmaßnahmen gehören in fachärztliche Beratung. Ein Zusammenhang ist nicht als sicher bewiesene Schädigung jedes Kindes darzustellen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q033",
+  "topic": "Psychopharmaka",
+  "text": "Unter neu begonnenem Lamotrigin entstehen schmerzhafte Blasen und Schleimhautveränderungen. Was tun?",
+  "options": [
+   "Sofortige medizinische Beurteilung wegen möglicher schwerer Hautreaktion",
+   "Bis zur nächsten Routinekontrolle in Monaten abwarten",
+   "Die Beschwerden als bloßen Stress deuten",
+   "Die Dosis eigenständig erhöhen"
+  ],
+  "correct": 0,
+  "explanation": "Schwere Haut- und Schleimhautreaktionen sind Warnzeichen. Eine reguläre psychotherapeutische Sitzung darf die Abklärung nicht verzögern.",
+  "crit": false
+ },
+ {
+  "id": "med26_q034",
+  "topic": "Psychopharmaka",
+  "text": "Welche Beschwerden sind bei Methylphenidat zu beachten? Wählen Sie zwei.",
+  "options": [
+   "Appetitminderung und Schlafprobleme",
+   "Puls- oder Blutdruckanstieg",
+   "Garantiert unveränderte Herzfrequenz",
+   "Obligate sofortige Schizophrenie bei jedem Behandelten"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Stimulanzien können körperliche und psychische Nebenwirkungen verursachen. Auffällige Verläufe müssen ärztlich bewertet werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q035",
+  "topic": "Psychopharmaka",
+  "text": "Nach hoch dosiertem Prednisolon entstehen Schlaflosigkeit und starke Hochstimmung. Was ist zu prüfen?",
+  "options": [
+   "Eine medikamenteninduzierte psychische Veränderung",
+   "Ausschließlich eine lebenslang bestehende Persönlichkeitsstörung",
+   "Eine sichere Heilung aller früheren Symptome",
+   "Die Irrelevanz aller körperlichen Behandlungen"
+  ],
+  "correct": 0,
+  "explanation": "Glukokortikoide können Stimmung und Verhalten beeinflussen. Vorbehandlung und zeitlichen Verlauf erfragen und die verordnende Stelle einbeziehen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q036",
+  "topic": "Psychopharmaka",
+  "text": "Welcher Befund kann beim Serotoninsyndrom besonders auffallen?",
+  "options": [
+   "Klonus und gesteigerte Reflexe",
+   "Ausschließlich eine über Jahre stabile Schüchternheit",
+   "Immer völlig normale Muskelaktivität",
+   "Nur ein unveränderter IQ-Wert"
+  ],
+  "correct": 0,
+  "explanation": "Neuromuskuläre Überaktivität unterstützt den Verdacht, beweist ihn aber nicht allein. Andere Notfallursachen müssen mitbedacht werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q037",
+  "topic": "Psychopharmaka",
+  "text": "Nach Antidepressivabeginn sinkt das Schlafbedürfnis stark und riskantes Verhalten nimmt zu. Was bedenken Sie?",
+  "options": [
+   "Mögliche manische Entwicklung mit dringendem fachärztlichem Klärungsbedarf",
+   "Sicher einen erwünschten Therapieerfolg",
+   "Ausschließlich eine normale Nebenwirkung ohne Relevanz",
+   "Grundsätzlich fehlende Notwendigkeit einer Verlaufsanamnese"
+  ],
+  "correct": 0,
+  "explanation": "Neue Hochphasen müssen ernst genommen werden. Frühere Episoden, Substanzen, Gefährdung und Arzneimittelbezug werden abgeklärt.",
+  "crit": false
+ },
+ {
+  "id": "med26_q038",
+  "topic": "Psychopharmaka",
+  "text": "Was ist für die Auswahl eines Antidepressivums wichtig?",
+  "options": [
+   "Begleiterkrankungen, Interaktionen und individuelle Verträglichkeit",
+   "Nur der Bekanntheitsgrad des Namens",
+   "Für alle Menschen dasselbe Präparat ohne Prüfung",
+   "Ausschließlich die Tablettenfarbe"
+  ],
+  "correct": 0,
+  "explanation": "Die Auswahl erfolgt individuell ärztlich. Erfahrungen, Präferenzen und weitere Medikamente gehören in das Gespräch.",
+  "crit": false
+ },
+ {
+  "id": "med26_q039",
+  "topic": "Psychopharmaka",
+  "text": "Welche Kontrolle ist bei Agomelatin besonders wichtig?",
+  "options": [
+   "Leberfunktionskontrollen",
+   "Nur ein jährlicher Hörtest",
+   "Ausschließlich die Messung der Körpergröße",
+   "Grundsätzlich keinerlei Laborwerte"
+  ],
+  "correct": 0,
+  "explanation": "Agomelatin kann Leberschäden verursachen. Gelbsucht oder auffällig dunkler Urin erfordern umgehende medizinische Rückmeldung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q040",
+  "topic": "Psychopharmaka",
+  "text": "Warum ist die Kombination eines SSRI mit regelmäßigem Ibuprofen relevant?",
+  "options": [
+   "Das Blutungsrisiko kann erhöht sein",
+   "Beide Medikamente heben alle Risiken gegenseitig auf",
+   "Es entsteht immer eine Schilddrüsenüberfunktion",
+   "Ibuprofen verhindert jede SSRI-Nebenwirkung"
+  ],
+  "correct": 0,
+  "explanation": "Auch rezeptfreie Mittel gehören in die Medikamentenanamnese. Kombinationen sind ärztlich oder pharmazeutisch zu prüfen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q041",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Müdigkeit, depressive Stimmung, Kälteempfindlichkeit und Verstopfung lassen welche Ursache mitbedenken?",
+  "options": [
+   "Schilddrüsenunterfunktion",
+   "Ausschließlich eine spezifische Phobie",
+   "Sicher eine akute Manie",
+   "Nur einen Zwangsgedanken"
+  ],
+  "correct": 0,
+  "explanation": "Das Muster kann zu einer Hypothyreose passen. Es sichert keine Diagnose und erfordert ärztliche Abklärung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q042",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Unruhe, Zittern, Wärmeintoleranz und Gewichtsverlust trotz Appetit sprechen auch wofür?",
+  "options": [
+   "Schilddrüsenüberfunktion",
+   "Sicher ausschließlich eine Angststörung",
+   "Immer nur Schlafmangel",
+   "Zwingend eine Intelligenzminderung"
+  ],
+  "correct": 0,
+  "explanation": "Hyperthyreose kann Angst und vegetative Aktivierung imitieren. Körperliche und psychische Erkrankungen können gleichzeitig bestehen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q043",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Konstellation passt typischerweise zur manifesten primären Hyperthyreose?",
+  "options": [
+   "Niedriges TSH bei erhöhtem fT4 und/oder fT3",
+   "Erhöhtes TSH bei erniedrigtem fT4",
+   "Ein isolierter IQ-Wert",
+   "Ein normaler Blutzucker als alleiniger Beweis"
+  ],
+  "correct": 0,
+  "explanation": "Die Werte sind im klinischen Kontext und anhand der Laborreferenzbereiche ärztlich zu beurteilen. Ein Symptom allein ist nicht diagnostisch.",
+  "crit": true
+ },
+ {
+  "id": "med26_q044",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Konstellation passt zur manifesten primären Hypothyreose?",
+  "options": [
+   "Erhöhtes TSH bei erniedrigtem fT4",
+   "Niedriges TSH bei erhöhtem fT4",
+   "Stets normales fT4 unabhängig vom TSH",
+   "Ein hoher Puls allein"
+  ],
+  "correct": 0,
+  "explanation": "Das Muster betrifft die primäre Unterfunktion. Zentrale Störungen, Medikamente und andere Einflussfaktoren können abweichende Konstellationen verursachen.",
+  "crit": true
+ },
+ {
+  "id": "med26_q045",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Bedeutet ein gering erhöhtes TSH bei normalem fT4 automatisch eine behandlungsbedürftige Depression durch Schilddrüsenmangel?",
+  "options": [
+   "Nein, Befund und klinischen Kontext ärztlich prüfen",
+   "Ja, jedes abweichende TSH erklärt alle Beschwerden",
+   "Ja, weitere Diagnostik ist unzulässig",
+   "Nein, TSH ist grundsätzlich bedeutungslos"
+  ],
+  "correct": 0,
+  "explanation": "Eine latente Hypothyreose und eine manifeste Unterfunktion sind zu unterscheiden. Alter, Verlauf und Begleitfaktoren beeinflussen die Bewertung.",
+  "crit": true
+ },
+ {
+  "id": "med26_q046",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Erkrankung ist eine häufige Ursache einer Schilddrüsenunterfunktion?",
+  "options": [
+   "Hashimoto-Thyreoiditis",
+   "Panikstörung",
+   "Bulimia nervosa",
+   "Dissoziative Fugue"
+  ],
+  "correct": 0,
+  "explanation": "Eine autoimmune Schilddrüsenerkrankung kann zu einer Unterfunktion führen. Die psychische Symptomatik allein belegt weder Ursache noch Hormonstatus.",
+  "crit": false
+ },
+ {
+  "id": "med26_q047",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Seit Änderung einer Levothyroxinbehandlung bestehen Schwitzen, Schlaflosigkeit und Nervosität. Was prüfen Sie?",
+  "options": [
+   "Mögliche Überversorgung oder andere Arzneimittelprobleme",
+   "Sicher eine neue Persönlichkeitsstörung",
+   "Ausschließlich das Alter der Person",
+   "Grundsätzlich keinen Zusammenhang zur Medikation"
+  ],
+  "correct": 0,
+  "explanation": "Eine zu hohe Schilddrüsenhormondosis kann Beschwerden auslösen. Keine eigene Dosisänderung, sondern ärztliche Kontrolle veranlassen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q048",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Hohes Fieber, starkes Herzrasen und Bewusstseinsstörung bei Hyperthyreose sind wie zu behandeln?",
+  "options": [
+   "Als möglicher endokrinologischer Notfall",
+   "Als sichere gewöhnliche Panikattacke",
+   "Nur mit einem späteren Entspannungskurs",
+   "Als automatisch harmlose Medikamentenanpassung"
+  ],
+  "correct": 0,
+  "explanation": "Eine thyreotoxische Krise ist möglich. Unverzüglich medizinische Notfallversorgung organisieren.",
+  "crit": false
+ },
+ {
+  "id": "med26_q049",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Kombination legt bei Erschöpfung eine zusätzliche Anämieabklärung nahe?",
+  "options": [
+   "Blässe, Belastungsluftnot und Herzklopfen",
+   "Nur eine einzelne schlechte Prüfungsnote",
+   "Ausschließlich ein Wunsch nach Urlaub",
+   "Immer ein isolierter Kontrollzwang"
+  ],
+  "correct": 0,
+  "explanation": "Eine Anämie kann Müdigkeit und Konzentrationsprobleme verursachen. Körperlicher Befund und Labor werden ärztlich eingeordnet.",
+  "crit": false
+ },
+ {
+  "id": "med26_q050",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Was gehört bei möglicher Eisenmangelanämie zur Anamnese?",
+  "options": [
+   "Blutverluste, Ernährung und körperliche Beschwerden",
+   "Nur das bevorzugte Lernverfahren",
+   "Ausschließlich eine frühere Schulnote",
+   "Nur die Frage nach Albträumen"
+  ],
+  "correct": 0,
+  "explanation": "Starke Blutungen oder andere Ursachen eines Mangels sind zu berücksichtigen. Nicht jede Müdigkeit ist Eisenmangel und nicht jeder Mangel allein ernährungsbedingt.",
+  "crit": false
+ },
+ {
+  "id": "med26_q051",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche ärztliche Untersuchung hilft, eine Anämie zu erfassen?",
+  "options": [
+   "Blutbild mit Hämoglobinbestimmung",
+   "Ein Angstfragebogen allein",
+   "Ein Persönlichkeitstest allein",
+   "Ausschließlich eine Traumanalyse"
+  ],
+  "correct": 0,
+  "explanation": "Laborbefund und Klinik ergänzen sich. Die Ursache einer festgestellten Anämie bedarf weiterer ärztlicher Abklärung.",
+  "crit": false
+ },
+ {
+  "id": "med26_q052",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Depressive Beschwerden zusammen mit Kribbeln und Gangunsicherheit lassen welchen Mangel mitbedenken?",
+  "options": [
+   "Vitamin-B12-Mangel",
+   "Ausschließlich Jodüberschuss",
+   "Sicher nur Magnesiummangel",
+   "Immer einen Vitamin-C-Überschuss"
+  ],
+  "correct": 0,
+  "explanation": "Vitamin-B12-Mangel kann neurologische und psychische Auffälligkeiten verursachen. Die Zeichen sind unspezifisch und müssen ärztlich eingeordnet werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q053",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Aussage zu Vitamin-B12-Mangel ist richtig?",
+  "options": [
+   "Kognitive und depressive Beschwerden können auftreten",
+   "Psychische Beschwerden schließen einen Mangel aus",
+   "Ein Mangel ist immer innerhalb einer Stunde erkennbar",
+   "Eine einzelne Stimmungsschwankung beweist ihn"
+  ],
+  "correct": 0,
+  "explanation": "Ein länger bestehender Mangel kann verschiedene Funktionen beeinträchtigen. Diagnostik und Behandlung sind medizinisch zu planen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q054",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Ein insulinbehandelter Patient zittert plötzlich, ist kaltschweißig und wirkt ängstlich. Was denken Sie mit?",
+  "options": [
+   "Hypoglykämie",
+   "Sicher ausschließlich eine Phobie",
+   "Immer eine Manie",
+   "Nur eine seit Kindheit bestehende Entwicklungsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Unterzuckerung kann Angst und Verhaltensänderungen imitieren. Rasch Blutzuckerprüfung und erforderliche Hilfe organisieren, ohne notwendige Maßnahmen zu verzögern.",
+  "crit": false
+ },
+ {
+  "id": "med26_q055",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Eine Person mit möglicher Hypoglykämie ist bewusstlos. Was ist richtig?",
+  "options": [
+   "Notruf und Erste Hilfe, nichts zu essen oder zu trinken einflößen",
+   "Sofort Flüssigkeit in den Mund gießen",
+   "Die Person allein schlafen lassen",
+   "Ausschließlich ein Angsttagebuch aushändigen"
+  ],
+  "correct": 0,
+  "explanation": "Bei fehlender sicherer Schluckfähigkeit besteht Aspirationsgefahr. Atmung prüfen und entsprechend Erste Hilfe leisten.",
+  "crit": false
+ },
+ {
+  "id": "med26_q056",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Angabe hilft bei der Abklärung möglicher Unterzuckerung?",
+  "options": [
+   "Diabetesmedikation, letzte Mahlzeit und körperliche Belastung",
+   "Nur der aktuelle Beruf",
+   "Ausschließlich die bevorzugte Musik",
+   "Nur die Dauer einer früheren Psychotherapie"
+  ],
+  "correct": 0,
+  "explanation": "Insulin, bestimmte Tabletten, ausgelassene Mahlzeiten und Belastung können relevant sein. Der zeitliche Zusammenhang ist wichtig.",
+  "crit": false
+ },
+ {
+  "id": "med26_q057",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Was kann eine schwere Hypoglykämie außer Angst verursachen? Wählen Sie zwei.",
+  "options": [
+   "Verwirrtheit",
+   "Krampfanfälle oder Bewusstlosigkeit",
+   "Garantiert unveränderte Orientierung",
+   "Obligat nur ein leichtes Hungergefühl"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Zunehmende neurologische Beschwerden sind Warnzeichen. Eine schwere Unterzuckerung erfordert sofortige Hilfe.",
+  "crit": false
+ },
+ {
+  "id": "med26_q058",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Warum beweist plötzlich anfallsartiges Herzrasen keine Panikstörung?",
+  "options": [
+   "Auch Herzrhythmusstörungen können anfallsartig auftreten",
+   "Panikattacken treten grundsätzlich ohne Körperbeschwerden auf",
+   "Rhythmusstörungen bestehen immer dauerhaft",
+   "Angst schließt eine Herzerkrankung aus"
+  ],
+  "correct": 0,
+  "explanation": "Dauer, Auslöser, Synkopen und weitere Symptome erheben. Eine kardiale Ursache muss gegebenenfalls ärztlich geprüft werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q059",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Zwischen Herzrasenepisoden ist das Ruhe-EKG unauffällig. Was folgt daraus?",
+  "options": [
+   "Eine intermittierende Rhythmusstörung ist damit nicht sicher ausgeschlossen",
+   "Jede Herzerkrankung ist ausgeschlossen",
+   "Eine Panikstörung ist bewiesen",
+   "Weitere ärztliche Diagnostik ist verboten"
+  ],
+  "correct": 0,
+  "explanation": "Zeitweise auftretende Störungen können zusätzliche Verlaufsuntersuchungen wie ein Langzeit-EKG erfordern.",
+  "crit": false
+ },
+ {
+  "id": "med26_q060",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Brustdruck, Atemnot und kalter Schweiß beginnen akut. Welche Reaktion passt?",
+  "options": [
+   "Sofortige Notfallabklärung statt vorschneller Angstdiagnose",
+   "Nur einen späteren Gesprächstermin anbieten",
+   "Zunächst eine lange biografische Anamnese durchführen",
+   "Die Person ohne Untersuchung nach Hause schicken"
+  ],
+  "correct": 0,
+  "explanation": "Ein Herzinfarkt oder anderer akuter Notfall muss bedacht werden. Notruf 112 und angemessene Erste Hilfe haben Vorrang.",
+  "crit": false
+ },
+ {
+  "id": "med26_q061",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Nach Operation bestehen neue Atemnot, Brustschmerz und ein geschwollenes Bein. Welche Ursache ist dringlich mitzudenken?",
+  "options": [
+   "Lungenembolie",
+   "Ausschließlich soziale Phobie",
+   "Immer harmlose Erschöpfung",
+   "Nur eine Anpassungsstörung"
+  ],
+  "correct": 0,
+  "explanation": "Die Kombination ist ein mögliches thromboembolisches Warnbild. Unverzüglich medizinische Notfallhilfe organisieren.",
+  "crit": false
+ },
+ {
+  "id": "med26_q062",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Schließt eine bekannte Panikstörung eine neue Lungenembolie aus?",
+  "options": [
+   "Nein, neue Warnzeichen müssen unabhängig geprüft werden",
+   "Ja, grundsätzlich",
+   "Nur bei jungen Menschen",
+   "Nur wenn Angst subjektiv stark ist"
+  ],
+  "correct": 0,
+  "explanation": "Eine psychiatrische Vorgeschichte erklärt nicht automatisch neue akute Körperbeschwerden. Bei Verdacht besteht Notfallbedarf.",
+  "crit": false
+ },
+ {
+  "id": "med26_q063",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Beschwerden lassen bei vermeintlicher Angst auch Asthma bedenken? Wählen Sie zwei.",
+  "options": [
+   "Pfeifende Atmung",
+   "Wiederkehrender Husten und Atemnot",
+   "Immer völlig fehlende Atembeschwerden",
+   "Nur Grübeln über Lebensziele"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Asthma und Angst können gemeinsam auftreten. Objektive Atemwegszeichen und Verlauf müssen ärztlich berücksichtigt werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q064",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Was ist bei unklarer Atemnot mit schneller Atmung unangemessen?",
+  "options": [
+   "Ungeprüft Rückatmung in eine Papiertüte empfehlen",
+   "Beruhigend ansprechen und die Situation einschätzen",
+   "Bei Warnzeichen Notfallhilfe veranlassen",
+   "Körperliche Ursachen mitbedenken"
+  ],
+  "correct": 0,
+  "explanation": "Rückatmung kann bei falsch eingeschätzter Ursache schaden. Sichere Beurteilung und gegebenenfalls medizinische Hilfe gehen vor.",
+  "crit": false
+ },
+ {
+  "id": "med26_q065",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Trotz langer Schlafdauer bestehen starke Tagesmüdigkeit, lautes Schnarchen und beobachtete Atempausen. Was prüfen?",
+  "options": [
+   "Obstruktive Schlafapnoe",
+   "Sicher eine Depression allein",
+   "Immer nur eine Persönlichkeitsstörung",
+   "Ausschließlich eine spezifische Phobie"
+  ],
+  "correct": 0,
+  "explanation": "Schlafbezogene Atmungsstörungen können Stimmung und Konzentration beeinträchtigen. Eine schlafmedizinische Abklärung ist angezeigt.",
+  "crit": false
+ },
+ {
+  "id": "med26_q066",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Aussage zu Tagesmüdigkeit und Depression trifft zu?",
+  "options": [
+   "Schlafapnoe und Depression können gleichzeitig bestehen",
+   "Eine Diagnose schließt die andere grundsätzlich aus",
+   "Schnarchen beweist allein eine Depression",
+   "Ein Fragebogen ersetzt jede Schlafanamnese"
+  ],
+  "correct": 0,
+  "explanation": "Symptomüberschneidungen erfordern eine differenzierte Anamnese. Atempausen und nicht erholsamen Schlaf gezielt erfragen.",
+  "crit": false
+ },
+ {
+  "id": "med26_q067",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Was ist bei starkem Sekundenschlaf besonders wichtig?",
+  "options": [
+   "Unfallgefahr und rasche medizinische Abklärung ansprechen",
+   "Autofahren als Wachheitstraining empfehlen",
+   "Nur weniger über Müdigkeit sprechen",
+   "Die Beschwerden als mangelnde Motivation werten"
+  ],
+  "correct": 0,
+  "explanation": "Ausgeprägte Schläfrigkeit kann die Sicherheit erheblich beeinträchtigen. Sie darf nicht allein psychologisch erklärt werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q068",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Eine Person entwickelt plötzlich Sprachstörung und einseitige Schwäche. Was tun?",
+  "options": [
+   "Notruf 112 wegen möglichem Schlaganfall",
+   "Erst eine längere Entspannungsübung durchführen",
+   "Bis morgen abwarten",
+   "Die Symptome als sichere Dissoziation einordnen"
+  ],
+  "correct": 0,
+  "explanation": "Akut einsetzende fokale neurologische Ausfälle sind Warnzeichen. Rasche medizinische Versorgung ist entscheidend.",
+  "crit": false
+ },
+ {
+  "id": "med26_q069",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Eine plötzlich aufgetretene Lähmung bildet sich nach Minuten zurück. Was ist angemessen?",
+  "options": [
+   "Trotz Besserung dringende Notfallabklärung",
+   "Kein Handlungsbedarf mehr",
+   "Sicherer Nachweis einer Simulation",
+   "Ausschließlich ein späterer Psychotherapietermin"
+  ],
+  "correct": 0,
+  "explanation": "Vorübergehende neurologische Ausfälle können eine TIA anzeigen. Das Abklingen beseitigt das Risiko nicht.",
+  "crit": false
+ },
+ {
+  "id": "med26_q070",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Aussage zur Abgrenzung epileptischer und dissoziativer Anfälle stimmt?",
+  "options": [
+   "Eine sorgfältige neurologische Abklärung kann nötig sein",
+   "Jeder Anfall unter Stress ist sicher dissoziativ",
+   "Ein einzelnes Merkmal beweist immer die Ursache",
+   "Psychische Erkrankungen schließen Epilepsie aus"
+  ],
+  "correct": 0,
+  "explanation": "Anfallsbeschreibung, Vorgeschichte und Untersuchungsbefunde müssen zusammen bewertet werden. Keine Diagnose allein aus einer Beobachtung ableiten.",
+  "crit": false
+ },
+ {
+  "id": "med26_q071",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Wie verhalten Sie sich bei einem länger als fünf Minuten andauernden Krampfanfall?",
+  "options": [
+   "Notruf und Schutz vor Verletzungen",
+   "Einen Gegenstand zwischen die Zähne schieben",
+   "Die Person gewaltsam festhalten",
+   "Eine reguläre psychotherapeutische Befragung fortsetzen"
+  ],
+  "correct": 0,
+  "explanation": "Ein anhaltender Anfall ist ein Notfall. Atmung beobachten, Gefahren entfernen und nichts in den Mund stecken.",
+  "crit": false
+ },
+ {
+  "id": "med26_q072",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Ein älterer Mensch ist seit heute wechselnd benommen und desorientiert. Welche Erklärung hat Vorrang?",
+  "options": [
+   "Akute organische Ursache beziehungsweise Delirverdacht",
+   "Sicher nur ein neuer Charakterzug",
+   "Immer normale Altersvergesslichkeit",
+   "Ausschließlich eine seit Jahrzehnten bestehende Phobie"
+  ],
+  "correct": 0,
+  "explanation": "Ein akuter schwankender Verlauf verlangt umgehende medizinische Ursachenklärung. Auch ein ruhig wirkendes Delir kann gefährlich sein.",
+  "crit": false
+ },
+ {
+  "id": "med26_q073",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Auslöser müssen bei akuter Verwirrtheit bedacht werden? Wählen Sie zwei.",
+  "options": [
+   "Infektionen oder Flüssigkeitsmangel",
+   "Medikamente oder Elektrolytveränderungen",
+   "Ausschließlich das Bildungsniveau",
+   "Nur eine normale Gewohnheitsänderung"
+  ],
+  "correct": [
+   0,
+   1
+  ],
+  "explanation": "Mehrere körperliche und medikamentöse Faktoren können zusammenwirken. Die Ursache wird ärztlich abgeklärt.",
+  "crit": false
+ },
+ {
+  "id": "med26_q074",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Herzrasen und Benommenheit treten besonders im Stehen auf und bessern sich im Liegen. Was mitbedenken?",
+  "options": [
+   "Orthostatische Kreislaufstörung einschließlich möglichem POTS",
+   "Sicher nur soziale Angst",
+   "Immer eine Psychose",
+   "Ausschließlich einen Zwang"
+  ],
+  "correct": 0,
+  "explanation": "Der Lagebezug ist diagnostisch relevant, aber kein Beweis. Kreislauf und andere Ursachen müssen medizinisch beurteilt werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q075",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Wiederkehrende Attacken mit starkem Blutdruckanstieg, Kopfschmerz und Schwitzen lassen selten auch woran denken?",
+  "options": [
+   "Phäochromozytom",
+   "Ausschließlich Dysthymie",
+   "Sicher einen Waschzwang",
+   "Immer eine einfache Trauerreaktion"
+  ],
+  "correct": 0,
+  "explanation": "Die seltene endokrine Ursache ist bei passendem Warnbild mitzudenken. Kein ungezieltes Screening jeder Angst, sondern ärztliche Prüfung nach Befund.",
+  "crit": false
+ },
+ {
+  "id": "med26_q076",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welcher Anamneseschritt hilft bei neu entstandener psychischer Aktivierung?",
+  "options": [
+   "Neue Medikamente einschließlich Glukokortikoiden erfragen",
+   "Nur nach frühen Schulerfahrungen fragen",
+   "Körperliche Behandlung grundsätzlich ausklammern",
+   "Alle Symptome sofort einer primären Manie zuordnen"
+  ],
+  "correct": 0,
+  "explanation": "Auch nichtpsychiatrische Arzneimittel können psychische Veränderungen verursachen. Der zeitliche Verlauf ist entscheidend.",
+  "crit": false
+ },
+ {
+  "id": "med26_q077",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Schließt eine körperliche Ursache zusätzliche Psychotherapie grundsätzlich aus?",
+  "options": [
+   "Nein, psychische Beschwerden und Versorgungsbedarf gesondert beurteilen",
+   "Ja, jede psychische Diagnose wird damit unmöglich",
+   "Nur wenn alle Laborwerte erhöht sind",
+   "Nur wenn Symptome länger als zehn Jahre bestehen"
+  ],
+  "correct": 0,
+  "explanation": "Organische Ursachen, psychische Komorbidität und notwendige Unterstützung können nebeneinander bestehen. Die Behandlung muss abgestimmt werden.",
+  "crit": false
+ },
+ {
+  "id": "med26_q078",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Welche Information ist bei einer somatischen Differentialdiagnose besonders nützlich?",
+  "options": [
+   "Beginn, Verlauf, körperliche Begleitzeichen und Medikamentenänderungen",
+   "Nur der bevorzugte Therapieansatz",
+   "Ausschließlich ein einzelner Fragebogenwert",
+   "Allein die spontane Vermutung des Behandelnden"
+  ],
+  "correct": 0,
+  "explanation": "Eine begründete Verdachtsdiagnose braucht Anamnese, Befund und passende Abklärung. Einzelne Symptome sind oft unspezifisch.",
+  "crit": false
+ },
+ {
+  "id": "med26_q079",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Schwere Benommenheit und Unterkühlung bei ausgeprägter Hypothyreose erfordern was?",
+  "options": [
+   "Sofortige medizinische Notfallbeurteilung",
+   "Nur ein späteres Motivationsgespräch",
+   "Eine eigenständige Hormondosissteigerung",
+   "Ausschließlich Schlafhygiene"
+  ],
+  "correct": 0,
+  "explanation": "Selten kann eine schwere Unterfunktion lebensbedrohlich entgleisen. Bewusstseinsveränderungen sind keine gewöhnliche depressive Müdigkeit.",
+  "crit": false
+ },
+ {
+  "id": "med26_q080",
+  "topic": "Somatische Differenzialdiagnostik",
+  "text": "Ist eine Hypoglykämie ohne bekannten Diabetes unmöglich?",
+  "options": [
+   "Nein, selten sind andere Ursachen möglich",
+   "Ja, grundsätzlich",
+   "Nur bei einer gleichzeitigen Panikstörung",
+   "Nur nach Psychotherapie"
+  ],
+  "correct": 0,
+  "explanation": "Unterzuckerung betrifft häufig medikamentös behandelten Diabetes, kann aber andere Ursachen haben. Auffällige Symptome müssen medizinisch beurteilt werden.",
+  "crit": false
  }
 ]

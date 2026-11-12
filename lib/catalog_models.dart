@@ -24,25 +24,14 @@ class CatalogChapter {
 class CatalogRegion {
   final String id;
   final String name;
-  final String location;
   final String topic;
-  final String url;
   final OralCase? oralCase;
   const CatalogRegion({
     required this.id,
     required this.name,
-    required this.location,
     required this.topic,
-    required this.url,
     this.oralCase,
   });
-}
-
-class CatalogSource {
-  final String title;
-  final String url;
-  final String note;
-  const CatalogSource(this.title, this.url, this.note);
 }
 
 class LearningCatalog {
@@ -56,7 +45,6 @@ class LearningCatalog {
   final List<Question> examQuestions;
   final List<Question> extraQuestions;
   final List<CatalogRegion> regions;
-  final List<CatalogSource> sources;
 
   const LearningCatalog({
     required this.title,
@@ -69,7 +57,6 @@ class LearningCatalog {
     required this.examQuestions,
     required this.extraQuestions,
     required this.regions,
-    required this.sources,
   });
 
   List<Flashcard> get cards => chapters.expand((c) => c.cards).toList();
@@ -122,20 +109,11 @@ class LearningCatalog {
           CatalogRegion(
             id: r['id'] as String,
             name: r['name'] as String,
-            location: r['location'] as String,
             topic: r['topic'] as String,
-            url: r['url'] as String,
             oralCase: r['caseId'] == null ? null : resolve(byCase, r['caseId']),
           ),
       ],
-      sources: [
-        for (final s in json['sources'] as List)
-          CatalogSource(
-            s['title'] as String,
-            s['url'] as String,
-            s['note'] as String,
-          ),
-      ],
+
     );
     if (result.questionCount != json['totalQuestions'] ||
         result.examQuestions.length != catalogExamProfile.questionCount) {

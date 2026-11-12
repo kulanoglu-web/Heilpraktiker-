@@ -1,0 +1,1274 @@
+{
+  "date": "2026-11-12",
+  "scope": "80 MC, 40 cards, 10 cases with 30 oral questions; sources retained only outside APK",
+  "sources": {
+    "legal": {
+      "title": "AMVV § 2",
+      "url": "https://www.gesetze-im-internet.de/amvv/__2.html"
+    },
+    "groups": {
+      "title": "NVL: Antidepressiva-Patienteninformation",
+      "url": "https://www.leitlinien.de/patient-innen/patientenblaetter/depression-antidepressiva"
+    },
+    "patient": {
+      "title": "NVL: Therapieprinzipien",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/kapitel-4"
+    },
+    "ssri": {
+      "title": "NHS: Sertralin",
+      "url": "https://www.nhs.uk/medicines/sertraline/"
+    },
+    "ssri_inter": {
+      "title": "NHS: Sertralin",
+      "url": "https://www.nhs.uk/medicines/sertraline/"
+    },
+    "mirt": {
+      "title": "NHS: Mirtazapin",
+      "url": "https://www.nhs.uk/medicines/mirtazapine/"
+    },
+    "snri": {
+      "title": "NVL: Antidepressiva-Nebenwirkungen",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/anhang-4"
+    },
+    "stop": {
+      "title": "NVL: Therapieprinzipien",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/kapitel-4"
+    },
+    "maoi": {
+      "title": "NVL: Antidepressiva-Nebenwirkungen",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/anhang-4"
+    },
+    "tca": {
+      "title": "NVL: Antidepressiva-Nebenwirkungen",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/anhang-4"
+    },
+    "tca_nhs": {
+      "title": "NHS: Amitriptylin",
+      "url": "https://www.nhs.uk/medicines/amitriptyline-for-depression/side-effects-of-amitriptyline-for-depression/"
+    },
+    "serotonin": {
+      "title": "NHS SPS: Antidepressivawechsel",
+      "url": "https://sps.nhs.uk/articles/monitoring-a-person-during-and-after-antidepressant-switching/"
+    },
+    "benzo": {
+      "title": "NHS: Lorazepam",
+      "url": "https://www.nhs.uk/medicines/lorazepam/"
+    },
+    "diazepam": {
+      "title": "NHS: Diazepam",
+      "url": "https://www.nhs.uk/medicines/diazepam/"
+    },
+    "antipsych": {
+      "title": "MHRA: Antipsychotika",
+      "url": "https://www.gov.uk/government/publications/antipsychotic-medicines-licensed-products-uses-and-side-effects/antipsychotic-medicines"
+    },
+    "nms": {
+      "title": "NHS: Olanzapin",
+      "url": "https://www.nhs.uk/medicines/olanzapine/side-effects-of-olanzapine/"
+    },
+    "olanz": {
+      "title": "NHS: Olanzapin",
+      "url": "https://www.nhs.uk/medicines/olanzapine/side-effects-of-olanzapine/"
+    },
+    "risper": {
+      "title": "NHS: Risperidon",
+      "url": "https://www.nhs.uk/medicines/risperidone/side-effects-of-risperidone/"
+    },
+    "cloz": {
+      "title": "ABDA/AMK: Clozapin-Blutbildkontrollen 2025",
+      "url": "https://www.abda.de/fuer-apotheker/arzneimittelkommission/amk-nachrichten/detail/37-25-information-der-hersteller-rote-hand-brief-zu-clozapin-ueberarbeitete-empfehlungen-zur-routinemaessigen-blutbildkontrolle-im-hinblick-auf-das-risiko-einer-agranulozytose/"
+    },
+    "cloz_bfarm": {
+      "title": "BfArM: Arzneimittelsicherheit 3/2025",
+      "url": "https://www.bfarm.de/DE/Aktuelles/Publikationen/Bulletin/Ausgaben/2025/3-2025.pdf?__blob=publicationFile"
+    },
+    "lithium": {
+      "title": "NHS: Lithium-Nebenwirkungen",
+      "url": "https://www.nhs.uk/medicines/lithium/side-effects-of-lithium/"
+    },
+    "lithium_inter": {
+      "title": "NHS: Lithium-Wechselwirkungen",
+      "url": "https://www.nhs.uk/medicines/lithium/taking-lithium-with-other-medicines-and-herbal-supplements/"
+    },
+    "lithium_fluid": {
+      "title": "NHS: Lithium und Erkrankungen",
+      "url": "https://www.nhs.uk/medicines/lithium/how-and-when-to-take-lithium/"
+    },
+    "lithium_organs": {
+      "title": "NHS: Lithium-Langzeitfolgen",
+      "url": "https://www.nhs.uk/medicines/lithium/common-questions-about-lithium/"
+    },
+    "valproate": {
+      "title": "EMA: Valproat-Schwangerschaftsverhütung",
+      "url": "https://www.ema.europa.eu/en/medicines/human/referrals/valproate-related-substances-0"
+    },
+    "valproate_men": {
+      "title": "EMA: Valproat bei Männern",
+      "url": "https://www.ema.europa.eu/en/news/precautionary-measures-address-potential-risk-neurodevelopmental-disorders-children-born-men-treated-valproate-medicines"
+    },
+    "lamotrigine": {
+      "title": "NHS: Lamotrigin",
+      "url": "https://www.nhs.uk/medicines/lamotrigine/"
+    },
+    "methyl": {
+      "title": "NHS: Methylphenidat",
+      "url": "https://www.nhs.uk/medicines/methylphenidate-adults/side-effects-of-methylphenidate-for-adults/"
+    },
+    "steroid": {
+      "title": "NHS: Prednisolon",
+      "url": "https://www.nhs.uk/medicines/prednisolone-tablets-and-liquid/"
+    },
+    "agomelatine": {
+      "title": "EMA: Agomelatin",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/valdoxan"
+    },
+    "hypo": {
+      "title": "IQWiG: Hypothyreose",
+      "url": "https://www.gesundheitsinformation.de/schilddruesenunterfunktion-hypothyreose.html"
+    },
+    "hypo_nhs": {
+      "title": "NHS: Hypothyreose",
+      "url": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/"
+    },
+    "hyper": {
+      "title": "IQWiG: Hyperthyreose",
+      "url": "https://www.gesundheitsinformation.de/schilddruesenueberfunktion-hyperthyreose.html"
+    },
+    "hyper_nhs": {
+      "title": "NHS: Hyperthyreose",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/"
+    },
+    "levothyroxine": {
+      "title": "NHS: Levothyroxin",
+      "url": "https://www.nhs.uk/medicines/levothyroxine/"
+    },
+    "tsh_low": {
+      "title": "NHS: Schilddrüsendiagnostik",
+      "url": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/diagnosis/"
+    },
+    "tsh_high": {
+      "title": "DEGAM: Erhöhter TSH-Wert, Version 2.3",
+      "url": "https://register.awmf.org/assets/guidelines/053-046k_S2k_Erhoehter-TSH-Wert-in-der-Hausarztpraxis_2025-12.pdf"
+    },
+    "anaemia": {
+      "title": "BMG: Anämie",
+      "url": "https://gesund.bund.de/blutarmut-anaemie"
+    },
+    "iron": {
+      "title": "IQWiG: Eisenmangel",
+      "url": "https://www.gesundheitsinformation.de/eisenmangel-und-eisenmangel-anaemie.html"
+    },
+    "b12": {
+      "title": "BMG: Vitamin-B-Mangel",
+      "url": "https://gesund.bund.de/vitamin-b-mangel"
+    },
+    "b12_dge": {
+      "title": "DGE: Vitamin B12",
+      "url": "https://www.dge.de/gesunde-ernaehrung/faq/vitamin-b12/"
+    },
+    "b12_nhs": {
+      "title": "NHS: Vitamin-B12-Symptome",
+      "url": "https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/symptoms/"
+    },
+    "glucose": {
+      "title": "IQWiG: Hypoglykämie",
+      "url": "https://www.gesundheitsinformation.de/glossar/hypoglykaemie.html"
+    },
+    "glucose_firstaid": {
+      "title": "NHS: Hypoglykämie",
+      "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+    },
+    "glucose_nhs": {
+      "title": "NHS: Hypoglykämie",
+      "url": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/"
+    },
+    "glucose_case": {
+      "title": "NHS: Hypoglykämie, Erste Hilfe",
+      "url": "https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/hypoglycaemia/"
+    },
+    "cardiac": {
+      "title": "BMG: Herzrhythmusstörungen",
+      "url": "https://gesund.bund.de/herzrhythmusstoerung"
+    },
+    "cardiac_nhs": {
+      "title": "NHS: Palpitationen",
+      "url": "https://www.nhs.uk/symptoms/heart-palpitations/"
+    },
+    "emergency": {
+      "title": "BMG: Notfallsituationen",
+      "url": "https://gesund.bund.de/notfallnummern"
+    },
+    "pe": {
+      "title": "BMG: Lungenembolie",
+      "url": "https://gesund.bund.de/lungenembolie"
+    },
+    "asthma": {
+      "title": "NHS: Asthma",
+      "url": "https://www.nhs.uk/conditions/asthma/"
+    },
+    "hypervent": {
+      "title": "St John Ambulance: Hyperventilation",
+      "url": "https://www.sja.org.uk/first-aid-advice/hyperventilation/"
+    },
+    "osa": {
+      "title": "IQWiG: Schlafapnoe",
+      "url": "https://www.gesundheitsinformation.de/obstruktive-schlafapnoe.html"
+    },
+    "osa_nhs": {
+      "title": "NHS: Schlafapnoe",
+      "url": "https://www.nhs.uk/conditions/sleep-apnoea/"
+    },
+    "stroke": {
+      "title": "BMG: Schlaganfall",
+      "url": "https://gesund.bund.de/schlaganfall"
+    },
+    "epilepsy": {
+      "title": "BMG: Epilepsie",
+      "url": "https://gesund.bund.de/epilepsie"
+    },
+    "delir": {
+      "title": "BMG: Delir",
+      "url": "https://gesund.bund.de/glossar/delir"
+    },
+    "delir_trigger": {
+      "title": "Bayerisches Landesamt: Delir-Auslöser",
+      "url": "https://www.demenz-im-krankenhaus.bayern.de/wissensportal/tipps-fuer-angehoerige"
+    },
+    "pots": {
+      "title": "NHS: POTS",
+      "url": "https://www.nhs.uk/conditions/postural-tachycardia-syndrome/"
+    },
+    "pheo": {
+      "title": "NHS: Phäochromozytom",
+      "url": "https://www.nhs.uk/conditions/phaeochromocytoma/"
+    },
+    "depdx": {
+      "title": "NVL: Depressionsdiagnostik",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/kapitel-2"
+    }
+  },
+  "evidence": [
+    {
+      "id": "med26_q001",
+      "source": "https://www.gesetze-im-internet.de/amvv/__2.html",
+      "title": "AMVV § 2"
+    },
+    {
+      "id": "med26_q002",
+      "source": "https://www.leitlinien.de/patient-innen/patientenblaetter/depression-antidepressiva",
+      "title": "NVL: Antidepressiva-Patienteninformation"
+    },
+    {
+      "id": "med26_q003",
+      "source": "https://www.leitlinien.de/patient-innen/patientenblaetter/depression-antidepressiva",
+      "title": "NVL: Antidepressiva-Patienteninformation"
+    },
+    {
+      "id": "med26_q004",
+      "source": "https://www.nhs.uk/medicines/sertraline/",
+      "title": "NHS: Sertralin"
+    },
+    {
+      "id": "med26_q005",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/anhang-4",
+      "title": "NVL: Antidepressiva-Nebenwirkungen"
+    },
+    {
+      "id": "med26_q006",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/kapitel-4",
+      "title": "NVL: Therapieprinzipien"
+    },
+    {
+      "id": "med26_q007",
+      "source": "https://www.nhs.uk/medicines/mirtazapine/",
+      "title": "NHS: Mirtazapin"
+    },
+    {
+      "id": "med26_q008",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/anhang-4",
+      "title": "NVL: Antidepressiva-Nebenwirkungen"
+    },
+    {
+      "id": "med26_q009",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/kapitel-4",
+      "title": "NVL: Therapieprinzipien"
+    },
+    {
+      "id": "med26_q010",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/anhang-4",
+      "title": "NVL: Antidepressiva-Nebenwirkungen"
+    },
+    {
+      "id": "med26_q011",
+      "source": "https://www.nhs.uk/medicines/amitriptyline-for-depression/side-effects-of-amitriptyline-for-depression/",
+      "title": "NHS: Amitriptylin"
+    },
+    {
+      "id": "med26_q012",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/anhang-4",
+      "title": "NVL: Antidepressiva-Nebenwirkungen"
+    },
+    {
+      "id": "med26_q013",
+      "source": "https://www.nhs.uk/medicines/sertraline/",
+      "title": "NHS: Sertralin"
+    },
+    {
+      "id": "med26_q014",
+      "source": "https://sps.nhs.uk/articles/monitoring-a-person-during-and-after-antidepressant-switching/",
+      "title": "NHS SPS: Antidepressivawechsel"
+    },
+    {
+      "id": "med26_q015",
+      "source": "https://www.nhs.uk/medicines/lorazepam/",
+      "title": "NHS: Lorazepam"
+    },
+    {
+      "id": "med26_q016",
+      "source": "https://www.nhs.uk/medicines/lorazepam/",
+      "title": "NHS: Lorazepam"
+    },
+    {
+      "id": "med26_q017",
+      "source": "https://www.nhs.uk/medicines/diazepam/",
+      "title": "NHS: Diazepam"
+    },
+    {
+      "id": "med26_q018",
+      "source": "https://www.nhs.uk/medicines/lorazepam/",
+      "title": "NHS: Lorazepam"
+    },
+    {
+      "id": "med26_q019",
+      "source": "https://www.gov.uk/government/publications/antipsychotic-medicines-licensed-products-uses-and-side-effects/antipsychotic-medicines",
+      "title": "MHRA: Antipsychotika"
+    },
+    {
+      "id": "med26_q020",
+      "source": "https://www.gov.uk/government/publications/antipsychotic-medicines-licensed-products-uses-and-side-effects/antipsychotic-medicines",
+      "title": "MHRA: Antipsychotika"
+    },
+    {
+      "id": "med26_q021",
+      "source": "https://www.gov.uk/government/publications/antipsychotic-medicines-licensed-products-uses-and-side-effects/antipsychotic-medicines",
+      "title": "MHRA: Antipsychotika"
+    },
+    {
+      "id": "med26_q022",
+      "source": "https://www.nhs.uk/medicines/olanzapine/side-effects-of-olanzapine/",
+      "title": "NHS: Olanzapin"
+    },
+    {
+      "id": "med26_q023",
+      "source": "https://www.nhs.uk/medicines/olanzapine/side-effects-of-olanzapine/",
+      "title": "NHS: Olanzapin"
+    },
+    {
+      "id": "med26_q024",
+      "source": "https://www.nhs.uk/medicines/risperidone/side-effects-of-risperidone/",
+      "title": "NHS: Risperidon"
+    },
+    {
+      "id": "med26_q025",
+      "source": "https://www.abda.de/fuer-apotheker/arzneimittelkommission/amk-nachrichten/detail/37-25-information-der-hersteller-rote-hand-brief-zu-clozapin-ueberarbeitete-empfehlungen-zur-routinemaessigen-blutbildkontrolle-im-hinblick-auf-das-risiko-einer-agranulozytose/",
+      "title": "ABDA/AMK: Clozapin-Blutbildkontrollen 2025"
+    },
+    {
+      "id": "med26_q026",
+      "source": "https://www.bfarm.de/DE/Aktuelles/Publikationen/Bulletin/Ausgaben/2025/3-2025.pdf?__blob=publicationFile",
+      "title": "BfArM: Arzneimittelsicherheit 3/2025"
+    },
+    {
+      "id": "med26_q027",
+      "source": "https://www.nhs.uk/medicines/lithium/side-effects-of-lithium/",
+      "title": "NHS: Lithium-Nebenwirkungen"
+    },
+    {
+      "id": "med26_q028",
+      "source": "https://www.nhs.uk/medicines/lithium/taking-lithium-with-other-medicines-and-herbal-supplements/",
+      "title": "NHS: Lithium-Wechselwirkungen"
+    },
+    {
+      "id": "med26_q029",
+      "source": "https://www.nhs.uk/medicines/lithium/how-and-when-to-take-lithium/",
+      "title": "NHS: Lithium und Erkrankungen"
+    },
+    {
+      "id": "med26_q030",
+      "source": "https://www.nhs.uk/medicines/lithium/common-questions-about-lithium/",
+      "title": "NHS: Lithium-Langzeitfolgen"
+    },
+    {
+      "id": "med26_q031",
+      "source": "https://www.ema.europa.eu/en/medicines/human/referrals/valproate-related-substances-0",
+      "title": "EMA: Valproat-Schwangerschaftsverhütung"
+    },
+    {
+      "id": "med26_q032",
+      "source": "https://www.ema.europa.eu/en/news/precautionary-measures-address-potential-risk-neurodevelopmental-disorders-children-born-men-treated-valproate-medicines",
+      "title": "EMA: Valproat bei Männern"
+    },
+    {
+      "id": "med26_q033",
+      "source": "https://www.nhs.uk/medicines/lamotrigine/",
+      "title": "NHS: Lamotrigin"
+    },
+    {
+      "id": "med26_q034",
+      "source": "https://www.nhs.uk/medicines/methylphenidate-adults/side-effects-of-methylphenidate-for-adults/",
+      "title": "NHS: Methylphenidat"
+    },
+    {
+      "id": "med26_q035",
+      "source": "https://www.nhs.uk/medicines/prednisolone-tablets-and-liquid/",
+      "title": "NHS: Prednisolon"
+    },
+    {
+      "id": "med26_q036",
+      "source": "https://sps.nhs.uk/articles/monitoring-a-person-during-and-after-antidepressant-switching/",
+      "title": "NHS SPS: Antidepressivawechsel"
+    },
+    {
+      "id": "med26_q037",
+      "source": "https://www.nhs.uk/medicines/sertraline/",
+      "title": "NHS: Sertralin"
+    },
+    {
+      "id": "med26_q038",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/kapitel-4",
+      "title": "NVL: Therapieprinzipien"
+    },
+    {
+      "id": "med26_q039",
+      "source": "https://www.ema.europa.eu/en/medicines/human/EPAR/valdoxan",
+      "title": "EMA: Agomelatin"
+    },
+    {
+      "id": "med26_q040",
+      "source": "https://www.nhs.uk/medicines/sertraline/",
+      "title": "NHS: Sertralin"
+    },
+    {
+      "id": "med26_q041",
+      "source": "https://www.gesundheitsinformation.de/schilddruesenunterfunktion-hypothyreose.html",
+      "title": "IQWiG: Hypothyreose"
+    },
+    {
+      "id": "med26_q042",
+      "source": "https://www.gesundheitsinformation.de/schilddruesenueberfunktion-hyperthyreose.html",
+      "title": "IQWiG: Hyperthyreose"
+    },
+    {
+      "id": "med26_q043",
+      "source": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/diagnosis/",
+      "title": "NHS: Schilddrüsendiagnostik"
+    },
+    {
+      "id": "med26_q044",
+      "source": "https://register.awmf.org/assets/guidelines/053-046k_S2k_Erhoehter-TSH-Wert-in-der-Hausarztpraxis_2025-12.pdf",
+      "title": "DEGAM: Erhöhter TSH-Wert, Version 2.3"
+    },
+    {
+      "id": "med26_q045",
+      "source": "https://register.awmf.org/assets/guidelines/053-046k_S2k_Erhoehter-TSH-Wert-in-der-Hausarztpraxis_2025-12.pdf",
+      "title": "DEGAM: Erhöhter TSH-Wert, Version 2.3"
+    },
+    {
+      "id": "med26_q046",
+      "source": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
+      "title": "NHS: Hypothyreose"
+    },
+    {
+      "id": "med26_q047",
+      "source": "https://www.nhs.uk/medicines/levothyroxine/",
+      "title": "NHS: Levothyroxin"
+    },
+    {
+      "id": "med26_q048",
+      "source": "https://www.gesundheitsinformation.de/schilddruesenueberfunktion-hyperthyreose.html",
+      "title": "IQWiG: Hyperthyreose"
+    },
+    {
+      "id": "med26_q049",
+      "source": "https://gesund.bund.de/blutarmut-anaemie",
+      "title": "BMG: Anämie"
+    },
+    {
+      "id": "med26_q050",
+      "source": "https://www.gesundheitsinformation.de/eisenmangel-und-eisenmangel-anaemie.html",
+      "title": "IQWiG: Eisenmangel"
+    },
+    {
+      "id": "med26_q051",
+      "source": "https://gesund.bund.de/blutarmut-anaemie",
+      "title": "BMG: Anämie"
+    },
+    {
+      "id": "med26_q052",
+      "source": "https://gesund.bund.de/vitamin-b-mangel",
+      "title": "BMG: Vitamin-B-Mangel"
+    },
+    {
+      "id": "med26_q053",
+      "source": "https://www.dge.de/gesunde-ernaehrung/faq/vitamin-b12/",
+      "title": "DGE: Vitamin B12"
+    },
+    {
+      "id": "med26_q054",
+      "source": "https://www.gesundheitsinformation.de/glossar/hypoglykaemie.html",
+      "title": "IQWiG: Hypoglykämie"
+    },
+    {
+      "id": "med26_q055",
+      "source": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/",
+      "title": "NHS: Hypoglykämie"
+    },
+    {
+      "id": "med26_q056",
+      "source": "https://www.gesundheitsinformation.de/glossar/hypoglykaemie.html",
+      "title": "IQWiG: Hypoglykämie"
+    },
+    {
+      "id": "med26_q057",
+      "source": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/",
+      "title": "NHS: Hypoglykämie"
+    },
+    {
+      "id": "med26_q058",
+      "source": "https://gesund.bund.de/herzrhythmusstoerung",
+      "title": "BMG: Herzrhythmusstörungen"
+    },
+    {
+      "id": "med26_q059",
+      "source": "https://gesund.bund.de/herzrhythmusstoerung",
+      "title": "BMG: Herzrhythmusstörungen"
+    },
+    {
+      "id": "med26_q060",
+      "source": "https://gesund.bund.de/notfallnummern",
+      "title": "BMG: Notfallsituationen"
+    },
+    {
+      "id": "med26_q061",
+      "source": "https://gesund.bund.de/lungenembolie",
+      "title": "BMG: Lungenembolie"
+    },
+    {
+      "id": "med26_q062",
+      "source": "https://gesund.bund.de/lungenembolie",
+      "title": "BMG: Lungenembolie"
+    },
+    {
+      "id": "med26_q063",
+      "source": "https://www.nhs.uk/conditions/asthma/",
+      "title": "NHS: Asthma"
+    },
+    {
+      "id": "med26_q064",
+      "source": "https://www.sja.org.uk/first-aid-advice/hyperventilation/",
+      "title": "St John Ambulance: Hyperventilation"
+    },
+    {
+      "id": "med26_q065",
+      "source": "https://www.gesundheitsinformation.de/obstruktive-schlafapnoe.html",
+      "title": "IQWiG: Schlafapnoe"
+    },
+    {
+      "id": "med26_q066",
+      "source": "https://www.gesundheitsinformation.de/obstruktive-schlafapnoe.html",
+      "title": "IQWiG: Schlafapnoe"
+    },
+    {
+      "id": "med26_q067",
+      "source": "https://www.gesundheitsinformation.de/obstruktive-schlafapnoe.html",
+      "title": "IQWiG: Schlafapnoe"
+    },
+    {
+      "id": "med26_q068",
+      "source": "https://gesund.bund.de/schlaganfall",
+      "title": "BMG: Schlaganfall"
+    },
+    {
+      "id": "med26_q069",
+      "source": "https://gesund.bund.de/notfallnummern",
+      "title": "BMG: Notfallsituationen"
+    },
+    {
+      "id": "med26_q070",
+      "source": "https://gesund.bund.de/epilepsie",
+      "title": "BMG: Epilepsie"
+    },
+    {
+      "id": "med26_q071",
+      "source": "https://gesund.bund.de/epilepsie",
+      "title": "BMG: Epilepsie"
+    },
+    {
+      "id": "med26_q072",
+      "source": "https://gesund.bund.de/glossar/delir",
+      "title": "BMG: Delir"
+    },
+    {
+      "id": "med26_q073",
+      "source": "https://www.demenz-im-krankenhaus.bayern.de/wissensportal/tipps-fuer-angehoerige",
+      "title": "Bayerisches Landesamt: Delir-Auslöser"
+    },
+    {
+      "id": "med26_q074",
+      "source": "https://www.nhs.uk/conditions/postural-tachycardia-syndrome/",
+      "title": "NHS: POTS"
+    },
+    {
+      "id": "med26_q075",
+      "source": "https://www.nhs.uk/conditions/phaeochromocytoma/",
+      "title": "NHS: Phäochromozytom"
+    },
+    {
+      "id": "med26_q076",
+      "source": "https://www.nhs.uk/medicines/prednisolone-tablets-and-liquid/",
+      "title": "NHS: Prednisolon"
+    },
+    {
+      "id": "med26_q077",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/kapitel-2",
+      "title": "NVL: Depressionsdiagnostik"
+    },
+    {
+      "id": "med26_q078",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/kapitel-2",
+      "title": "NVL: Depressionsdiagnostik"
+    },
+    {
+      "id": "med26_q079",
+      "source": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
+      "title": "NHS: Hypothyreose"
+    },
+    {
+      "id": "med26_q080",
+      "source": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/",
+      "title": "NHS: Hypoglykämie"
+    },
+    {
+      "id": "med26_f001",
+      "source": "https://www.gesetze-im-internet.de/amvv/__2.html",
+      "title": "AMVV § 2"
+    },
+    {
+      "id": "med26_f002",
+      "source": "https://www.leitlinien.de/patient-innen/patientenblaetter/depression-antidepressiva",
+      "title": "NVL: Antidepressiva-Patienteninformation"
+    },
+    {
+      "id": "med26_f003",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/kapitel-4",
+      "title": "NVL: Therapieprinzipien"
+    },
+    {
+      "id": "med26_f004",
+      "source": "https://www.nhs.uk/medicines/mirtazapine/",
+      "title": "NHS: Mirtazapin"
+    },
+    {
+      "id": "med26_f005",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/anhang-4",
+      "title": "NVL: Antidepressiva-Nebenwirkungen"
+    },
+    {
+      "id": "med26_f006",
+      "source": "https://www.nhs.uk/medicines/amitriptyline-for-depression/side-effects-of-amitriptyline-for-depression/",
+      "title": "NHS: Amitriptylin"
+    },
+    {
+      "id": "med26_f007",
+      "source": "https://www.nhs.uk/medicines/diazepam/",
+      "title": "NHS: Diazepam"
+    },
+    {
+      "id": "med26_f008",
+      "source": "https://www.gov.uk/government/publications/antipsychotic-medicines-licensed-products-uses-and-side-effects/antipsychotic-medicines",
+      "title": "MHRA: Antipsychotika"
+    },
+    {
+      "id": "med26_f009",
+      "source": "https://www.nhs.uk/medicines/lithium/common-questions-about-lithium/",
+      "title": "NHS: Lithium-Langzeitfolgen"
+    },
+    {
+      "id": "med26_f010",
+      "source": "https://www.ema.europa.eu/en/medicines/human/referrals/valproate-related-substances-0",
+      "title": "EMA: Valproat-Schwangerschaftsverhütung"
+    },
+    {
+      "id": "med26_f011",
+      "source": "https://sps.nhs.uk/articles/monitoring-a-person-during-and-after-antidepressant-switching/",
+      "title": "NHS SPS: Antidepressivawechsel"
+    },
+    {
+      "id": "med26_f012",
+      "source": "https://www.nhs.uk/medicines/olanzapine/side-effects-of-olanzapine/",
+      "title": "NHS: Olanzapin"
+    },
+    {
+      "id": "med26_f013",
+      "source": "https://www.nhs.uk/medicines/lithium/side-effects-of-lithium/",
+      "title": "NHS: Lithium-Nebenwirkungen"
+    },
+    {
+      "id": "med26_f014",
+      "source": "https://www.abda.de/fuer-apotheker/arzneimittelkommission/amk-nachrichten/detail/37-25-information-der-hersteller-rote-hand-brief-zu-clozapin-ueberarbeitete-empfehlungen-zur-routinemaessigen-blutbildkontrolle-im-hinblick-auf-das-risiko-einer-agranulozytose/",
+      "title": "ABDA/AMK: Clozapin-Blutbildkontrollen 2025"
+    },
+    {
+      "id": "med26_f015",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/kapitel-4",
+      "title": "NVL: Therapieprinzipien"
+    },
+    {
+      "id": "med26_f016",
+      "source": "https://www.nhs.uk/medicines/lamotrigine/",
+      "title": "NHS: Lamotrigin"
+    },
+    {
+      "id": "med26_f017",
+      "source": "https://www.nhs.uk/medicines/olanzapine/side-effects-of-olanzapine/",
+      "title": "NHS: Olanzapin"
+    },
+    {
+      "id": "med26_f018",
+      "source": "https://www.nhs.uk/medicines/risperidone/side-effects-of-risperidone/",
+      "title": "NHS: Risperidon"
+    },
+    {
+      "id": "med26_f019",
+      "source": "https://www.nhs.uk/medicines/methylphenidate-adults/side-effects-of-methylphenidate-for-adults/",
+      "title": "NHS: Methylphenidat"
+    },
+    {
+      "id": "med26_f020",
+      "source": "https://www.ema.europa.eu/en/medicines/human/EPAR/valdoxan",
+      "title": "EMA: Agomelatin"
+    },
+    {
+      "id": "med26_f021",
+      "source": "https://www.gesundheitsinformation.de/schilddruesenunterfunktion-hypothyreose.html",
+      "title": "IQWiG: Hypothyreose"
+    },
+    {
+      "id": "med26_f022",
+      "source": "https://www.gesundheitsinformation.de/schilddruesenueberfunktion-hyperthyreose.html",
+      "title": "IQWiG: Hyperthyreose"
+    },
+    {
+      "id": "med26_f023",
+      "source": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/diagnosis/",
+      "title": "NHS: Schilddrüsendiagnostik"
+    },
+    {
+      "id": "med26_f024",
+      "source": "https://register.awmf.org/assets/guidelines/053-046k_S2k_Erhoehter-TSH-Wert-in-der-Hausarztpraxis_2025-12.pdf",
+      "title": "DEGAM: Erhöhter TSH-Wert, Version 2.3"
+    },
+    {
+      "id": "med26_f025",
+      "source": "https://www.nhs.uk/medicines/levothyroxine/",
+      "title": "NHS: Levothyroxin"
+    },
+    {
+      "id": "med26_f026",
+      "source": "https://www.gesundheitsinformation.de/glossar/hypoglykaemie.html",
+      "title": "IQWiG: Hypoglykämie"
+    },
+    {
+      "id": "med26_f027",
+      "source": "https://www.nhs.uk/conditions/low-blood-sugar-hypoglycaemia/",
+      "title": "NHS: Hypoglykämie"
+    },
+    {
+      "id": "med26_f028",
+      "source": "https://www.gesundheitsinformation.de/eisenmangel-und-eisenmangel-anaemie.html",
+      "title": "IQWiG: Eisenmangel"
+    },
+    {
+      "id": "med26_f029",
+      "source": "https://www.dge.de/gesunde-ernaehrung/faq/vitamin-b12/",
+      "title": "DGE: Vitamin B12"
+    },
+    {
+      "id": "med26_f030",
+      "source": "https://www.nhs.uk/conditions/phaeochromocytoma/",
+      "title": "NHS: Phäochromozytom"
+    },
+    {
+      "id": "med26_f031",
+      "source": "https://gesund.bund.de/herzrhythmusstoerung",
+      "title": "BMG: Herzrhythmusstörungen"
+    },
+    {
+      "id": "med26_f032",
+      "source": "https://gesund.bund.de/notfallnummern",
+      "title": "BMG: Notfallsituationen"
+    },
+    {
+      "id": "med26_f033",
+      "source": "https://gesund.bund.de/lungenembolie",
+      "title": "BMG: Lungenembolie"
+    },
+    {
+      "id": "med26_f034",
+      "source": "https://www.nhs.uk/conditions/asthma/",
+      "title": "NHS: Asthma"
+    },
+    {
+      "id": "med26_f035",
+      "source": "https://www.sja.org.uk/first-aid-advice/hyperventilation/",
+      "title": "St John Ambulance: Hyperventilation"
+    },
+    {
+      "id": "med26_f036",
+      "source": "https://www.gesundheitsinformation.de/obstruktive-schlafapnoe.html",
+      "title": "IQWiG: Schlafapnoe"
+    },
+    {
+      "id": "med26_f037",
+      "source": "https://gesund.bund.de/schlaganfall",
+      "title": "BMG: Schlaganfall"
+    },
+    {
+      "id": "med26_f038",
+      "source": "https://gesund.bund.de/epilepsie",
+      "title": "BMG: Epilepsie"
+    },
+    {
+      "id": "med26_f039",
+      "source": "https://gesund.bund.de/glossar/delir",
+      "title": "BMG: Delir"
+    },
+    {
+      "id": "med26_f040",
+      "source": "https://www.nhs.uk/conditions/postural-tachycardia-syndrome/",
+      "title": "NHS: POTS"
+    },
+    {
+      "id": "med26_c01_1",
+      "source": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/",
+      "title": "NHS: Hyperthyreose"
+    },
+    {
+      "id": "med26_c01_2",
+      "source": "https://www.nhs.uk/conditions/overactive-thyroid-hyperthyroidism/diagnosis/",
+      "title": "NHS: Schilddrüsendiagnostik"
+    },
+    {
+      "id": "med26_c01_3",
+      "source": "https://www.gesundheitsinformation.de/schilddruesenueberfunktion-hyperthyreose.html",
+      "title": "IQWiG: Hyperthyreose"
+    },
+    {
+      "id": "med26_c02_1",
+      "source": "https://www.gesundheitsinformation.de/schilddruesenunterfunktion-hypothyreose.html",
+      "title": "IQWiG: Hypothyreose"
+    },
+    {
+      "id": "med26_c02_2",
+      "source": "https://www.nhs.uk/conditions/underactive-thyroid-hypothyroidism/",
+      "title": "NHS: Hypothyreose"
+    },
+    {
+      "id": "med26_c02_3",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/kapitel-2",
+      "title": "NVL: Depressionsdiagnostik"
+    },
+    {
+      "id": "med26_c03_1",
+      "source": "https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/hypoglycaemia/",
+      "title": "NHS: Hypoglykämie, Erste Hilfe"
+    },
+    {
+      "id": "med26_c03_2",
+      "source": "https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/hypoglycaemia/",
+      "title": "NHS: Hypoglykämie, Erste Hilfe"
+    },
+    {
+      "id": "med26_c03_3",
+      "source": "https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/hypoglycaemia/",
+      "title": "NHS: Hypoglykämie, Erste Hilfe"
+    },
+    {
+      "id": "med26_c04_1",
+      "source": "https://www.abda.de/fuer-apotheker/arzneimittelkommission/amk-nachrichten/detail/37-25-information-der-hersteller-rote-hand-brief-zu-clozapin-ueberarbeitete-empfehlungen-zur-routinemaessigen-blutbildkontrolle-im-hinblick-auf-das-risiko-einer-agranulozytose/",
+      "title": "ABDA/AMK: Clozapin-Blutbildkontrollen 2025"
+    },
+    {
+      "id": "med26_c04_2",
+      "source": "https://www.bfarm.de/DE/Aktuelles/Publikationen/Bulletin/Ausgaben/2025/3-2025.pdf?__blob=publicationFile",
+      "title": "BfArM: Arzneimittelsicherheit 3/2025"
+    },
+    {
+      "id": "med26_c04_3",
+      "source": "https://www.abda.de/fuer-apotheker/arzneimittelkommission/amk-nachrichten/detail/37-25-information-der-hersteller-rote-hand-brief-zu-clozapin-ueberarbeitete-empfehlungen-zur-routinemaessigen-blutbildkontrolle-im-hinblick-auf-das-risiko-einer-agranulozytose/",
+      "title": "ABDA/AMK: Clozapin-Blutbildkontrollen 2025"
+    },
+    {
+      "id": "med26_c05_1",
+      "source": "https://www.nhs.uk/medicines/lithium/side-effects-of-lithium/",
+      "title": "NHS: Lithium-Nebenwirkungen"
+    },
+    {
+      "id": "med26_c05_2",
+      "source": "https://www.nhs.uk/medicines/lithium/how-and-when-to-take-lithium/",
+      "title": "NHS: Lithium und Erkrankungen"
+    },
+    {
+      "id": "med26_c05_3",
+      "source": "https://www.nhs.uk/medicines/lithium/taking-lithium-with-other-medicines-and-herbal-supplements/",
+      "title": "NHS: Lithium-Wechselwirkungen"
+    },
+    {
+      "id": "med26_c06_1",
+      "source": "https://sps.nhs.uk/articles/monitoring-a-person-during-and-after-antidepressant-switching/",
+      "title": "NHS SPS: Antidepressivawechsel"
+    },
+    {
+      "id": "med26_c06_2",
+      "source": "https://www.nhs.uk/medicines/sertraline/",
+      "title": "NHS: Sertralin"
+    },
+    {
+      "id": "med26_c06_3",
+      "source": "https://gesund.bund.de/notfallnummern",
+      "title": "BMG: Notfallsituationen"
+    },
+    {
+      "id": "med26_c07_1",
+      "source": "https://www.nhs.uk/medicines/olanzapine/side-effects-of-olanzapine/",
+      "title": "NHS: Olanzapin"
+    },
+    {
+      "id": "med26_c07_2",
+      "source": "https://www.nhs.uk/medicines/olanzapine/side-effects-of-olanzapine/",
+      "title": "NHS: Olanzapin"
+    },
+    {
+      "id": "med26_c07_3",
+      "source": "https://www.leitlinien.de/themen/depression/version-3/kapitel-2",
+      "title": "NVL: Depressionsdiagnostik"
+    },
+    {
+      "id": "med26_c08_1",
+      "source": "https://www.nhs.uk/conditions/sleep-apnoea/",
+      "title": "NHS: Schlafapnoe"
+    },
+    {
+      "id": "med26_c08_2",
+      "source": "https://www.nhs.uk/conditions/sleep-apnoea/",
+      "title": "NHS: Schlafapnoe"
+    },
+    {
+      "id": "med26_c08_3",
+      "source": "https://www.nhs.uk/conditions/sleep-apnoea/",
+      "title": "NHS: Schlafapnoe"
+    },
+    {
+      "id": "med26_c09_1",
+      "source": "https://www.nhs.uk/symptoms/heart-palpitations/",
+      "title": "NHS: Palpitationen"
+    },
+    {
+      "id": "med26_c09_2",
+      "source": "https://www.nhs.uk/symptoms/heart-palpitations/",
+      "title": "NHS: Palpitationen"
+    },
+    {
+      "id": "med26_c09_3",
+      "source": "https://www.nhs.uk/symptoms/heart-palpitations/",
+      "title": "NHS: Palpitationen"
+    },
+    {
+      "id": "med26_c10_1",
+      "source": "https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/symptoms/",
+      "title": "NHS: Vitamin-B12-Symptome"
+    },
+    {
+      "id": "med26_c10_2",
+      "source": "https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/symptoms/",
+      "title": "NHS: Vitamin-B12-Symptome"
+    },
+    {
+      "id": "med26_c10_3",
+      "source": "https://www.nhs.uk/conditions/vitamin-b12-or-folate-deficiency-anaemia/symptoms/",
+      "title": "NHS: Vitamin-B12-Symptome"
+    }
+  ],
+  "priorCatalogSources": [
+    {
+      "title": "Bundesministerium für Gesundheit: Heilpraktikeranwärter-Leitlinie",
+      "url": "https://www.bundesgesundheitsministerium.de/heilpraktikeranwaerter-leitlinie",
+      "note": "Grundlage zum Zweck und Rahmen der Gefahrenabwehrüberprüfung."
+    },
+    {
+      "title": "Berlin-Lichtenberg: Überprüfung und Lösungsschlüssel",
+      "url": "https://www.berlin.de/ba-lichtenberg/auf-einen-blick/buergerservice/gesundheit/artikel.334742.php",
+      "note": "Amtliche Verfahrensinformation. Dort sind auch Lösungsschlüssel vom Oktober 2026 aufgeführt; diese wurden nicht als vollständiger Fragenbogen reproduziert."
+    },
+    {
+      "title": "Baden-Württemberg: Heilpraktikererlaubnis",
+      "url": "https://www.service-bw.de/zufi/leistungen/6027285",
+      "note": ""
+    },
+    {
+      "title": "Gesundheitsamt Bremen: häufige Fragen",
+      "url": "https://www.gesundheitsamt.bremen.de/was-wir-bieten/gesundheitsvorsorge-und-unterstuetzung/im-und-fuer-den-job/pruefungsanmeldung-heilpraktiker-in-erlaubnis/haeufig-gestellte-fragen-zur-heilpraktiker-in-erlaubnis-23950",
+      "note": "Für Bremen wurde die amtliche Verfahrensinformation berücksichtigt; kein authentisches mündliches Einzelprotokoll ausgewertet."
+    },
+    {
+      "title": "BfArM: ICD-10-GM 2026, Kapitel V",
+      "url": "https://klassifikationen.bfarm.de/icd-10-gm/kode-suche/htmlgm2026/chapter-v.htm",
+      "note": "Fachliche Grundlage der Krankheitsgruppen. Die Kurzantworten bilden die diagnostischen Einzelkriterien nicht vollständig ab."
+    },
+    {
+      "title": "Heilpraktikergesetz, insbesondere § 1",
+      "url": "https://www.gesetze-im-internet.de/heilprg/BJNR002510939.html",
+      "note": ""
+    },
+    {
+      "title": "Psychotherapeutengesetz, insbesondere § 1",
+      "url": "https://www.gesetze-im-internet.de/psychthg_2020/BJNR160410019.html",
+      "note": ""
+    },
+    {
+      "title": "StGB § 34: rechtfertigender Notstand",
+      "url": "https://www.gesetze-im-internet.de/stgb/__34.html",
+      "note": "Keine pauschale Ermächtigung zu Zwangsmaßnahmen. Notwendigkeit und Verhältnismäßigkeit sind im Einzelfall zu prüfen."
+    },
+    {
+      "title": "NVL Unipolare Depression: Diagnostik",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/kapitel-2",
+      "note": ""
+    },
+    {
+      "title": "NVL Unipolare Depression: Suizidalität und Notfälle",
+      "url": "https://www.leitlinien.de/themen/depression/version-3/kapitel-12",
+      "note": ""
+    },
+    {
+      "title": "G-BA: ambulante Psychotherapie",
+      "url": "https://www.g-ba.de/themen/psychotherapie/ambulante-psychotherapie/",
+      "note": ""
+    },
+    {
+      "title": "S3-Leitlinie Angststörungen, Fassung 2021",
+      "url": "https://register.awmf.org/assets/guidelines/051-028l_S3_Behandlung-von-Angststoerungen_2021-06.pdf",
+      "note": "Für die Grundidee der Exposition herangezogen. Die auf der AWMF-Seite angegebene Gültigkeit endete am 05.04.2026; diese ältere Fassung wird hier nicht als aktuell gültige Leitlinie bezeichnet."
+    },
+    {
+      "title": "Schriftliche Originalfragen: Paracelsus-Archiv",
+      "url": "https://www.paracelsus.de/pruefungsfragen-heilpraktiker-fuer-Psychotherapie-psychologischer-berater",
+      "note": "Verlinkte Jahrgänge reichen in der recherchierten Übersicht von 2002 bis 2024. Vollständige Originalbögen können dort separat geöffnet werden; diese PDF ist keine Zusammenführung aller Originalbögen."
+    },
+    {
+      "title": "Schriftlicher Bogen März 2024, Gruppe A",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2024/03_24.pdf",
+      "note": "Zur Orientierung an schriftlichen Fragetypen eingesehen. Die Probeprüfung dieser PDF wurde eigenständig erstellt."
+    },
+    {
+      "title": "Weiteres schriftliches Archiv",
+      "url": "https://www.fragmargit.de/heilpraktiker-psychotherapie/heilpraktiker-psychotherapie-pruefungsfragen/",
+      "note": "In der recherchierten Übersicht finden sich weitere Jahrgänge bis März 2026. Weiterführender Verweis; nicht sämtliche Bögen einzeln ausgewertet."
+    },
+    {
+      "title": "Mündliche Protokollübersicht: Likamundi",
+      "url": "https://likamundi.de/index.php/pruefungs-training/heilpraktiker-psychotherapie/muendlich/alle-pruefungen",
+      "note": "Persönliche Gedächtnisprotokolle und redaktionelle Kommentare sind keine amtlichen Fragenkataloge. Die regionalen Fallübungen greifen jeweils den eingesehenen Einstieg beziehungsweise die erste Fallaufgabe auf; sie sind keine vollständige Auswertung aller Protokollfragen."
+    },
+    {
+      "title": "Prüfungsbogen 2006 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/03_06.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2006 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2006/10_06.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2007 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2007/03_07.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2008 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2008/10_08.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2009 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2009/03_09.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2010 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/03_10.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2010 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2010/10_10.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2011 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/03_11.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2011 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2011/10_11.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2012 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/03_12.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2012 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2012/10_12.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2013 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/03_13.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2013 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2013/10_13.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2014 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/03_14.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2014 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2014/10_14.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2015 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/03_15.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2015 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2015/10_15.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2016 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/03_16.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2016 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2016/10_16.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2017 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/03_17.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2017 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2017/10_17.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2018 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/03_18.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2018 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2018/10_18.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2019 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/03_19.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2019 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2019/10_19.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2020 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2020/10_20.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2021 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/03_21.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2021 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2021/10_21.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2022 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/03_22.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2022 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2022/10_22.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2023 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/03_23.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2023 · Herbst",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2023/10_23.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2024 · Frühjahr",
+      "url": "https://www.paracelsus.de/heilpraktiker-psy-pruefungsfragen/2024/03_24.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2024 · Herbst",
+      "url": "https://www.fragmargit.de/wp-content/uploads/HPP2024-10.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2025 · Frühjahr",
+      "url": "https://www.fragmargit.de/wp-content/uploads/HPP2025-03_v3.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2025 · Herbst",
+      "url": "https://www.fragmargit.de/wp-content/uploads/HPP2025-10.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2026 · Frühjahr",
+      "url": "https://www.fragmargit.de/wp-content/uploads/HPP2026-03.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    },
+    {
+      "title": "Prüfungsbogen 2026 · Herbst",
+      "url": "https://heilpraktiker-akademie.de/wp-content/uploads/Pruefung-2026-10-Pruefungsfragen-mit-Loesungen.pdf",
+      "note": "Weiterführender Originalbogen. Übungsfragen der App sind eigenständig formuliert."
+    }
+  ]
+}

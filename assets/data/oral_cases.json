@@ -1500,5 +1500,195 @@
     "a": "Den beruflichen Weg, die erworbenen Kompetenzen und den geplanten ambulanten Rahmen erläutern. Benennen, welche Verantwortung ambulant hinzukommt: eigenständige Indikationsprüfung, Krisenplan, fachliche Kooperation und rechtzeitige Weitervermittlung bei Überschreiten eigener Grenzen."
    }
   ]
+ },
+ {
+  "id": "med26_c01",
+  "title": "Angst mit Gewichtsverlust",
+  "vignette": "Eine Person berichtet über Nervosität, wenig Schlaf und Gewichtsverlust bei gutem Appetit. Sie schwitzt leicht und bemerkt häufig Herzrasen.",
+  "questions": [
+   {
+    "q": "Welche körperliche Ursache bedenken Sie?",
+    "a": "Eine Hyperthyreose ist möglich. Die Symptome allein beweisen sie nicht; eine Angststörung kann zusätzlich vorliegen."
+   },
+   {
+    "q": "Welche Abklärung ist sinnvoll?",
+    "a": "Ärztliche Untersuchung und befundabhängige Schilddrüsenwerte. Bei primärer manifester Überfunktion ist TSH typischerweise niedrig, fT4 oder fT3 erhöht."
+   },
+   {
+    "q": "Wann besteht Notfallverdacht?",
+    "a": "Hohes Fieber, ausgeprägtes Herzrasen oder Bewusstseinsveränderung können auf eine Krise hinweisen. Dann sofort medizinische Notfallversorgung organisieren."
+   }
+  ]
+ },
+ {
+  "id": "med26_c02",
+  "title": "Depression mit Kälteempfindlichkeit",
+  "vignette": "Eine Patientin ist antriebslos und niedergeschlagen, friert ungewöhnlich stark und berichtet über Verstopfung und trockene Haut.",
+  "questions": [
+   {
+    "q": "Welche Verdachtsdiagnose prüfen Sie zusätzlich?",
+    "a": "Eine Schilddrüsenunterfunktion. Die Kombination gibt einen Hinweis, ersetzt aber keine medizinische Diagnose."
+   },
+   {
+    "q": "Wie gehen Sie weiter vor?",
+    "a": "Körperliche und psychische Anamnese verbinden und ärztliche Schilddrüsendiagnostik veranlassen. Keine eigene Hormonsubstitution empfehlen."
+   },
+   {
+    "q": "Ist eine Depression damit ausgeschlossen?",
+    "a": "Nein. Eine psychische Begleiterkrankung und der weitere psychotherapeutische Unterstützungsbedarf müssen gesondert beurteilt werden."
+   }
+  ]
+ },
+ {
+  "id": "med26_c03",
+  "title": "Zittern und Verwirrtheit im Gespräch",
+  "vignette": "Ein insulinbehandelter Patient hat wenig gegessen. Während der Sitzung beginnt er zu zittern, wirkt kaltschweißig und kann Fragen schlechter beantworten.",
+  "questions": [
+   {
+    "q": "Was hat Vorrang?",
+    "a": "Mögliche Unterzuckerung rasch erkennen und entsprechend handeln. Blutzucker soweit verfügbar prüfen, ohne erforderliche Hilfe zu verzögern."
+   },
+   {
+    "q": "Was ist bei sicher wacher und schluckfähiger Person möglich?",
+    "a": "Rasch wirksame Kohlenhydrate nach dem bekannten Hypoglykämieplan unterstützen und den Verlauf kontrollieren. Bei fehlender Besserung oder Verschlechterung medizinische Hilfe organisieren."
+   },
+   {
+    "q": "Was ändert sich bei Bewusstlosigkeit?",
+    "a": "Notruf 112, Atmung prüfen und angemessene Erste Hilfe. Nichts in den Mund geben oder einflößen."
+   }
+  ]
+ },
+ {
+  "id": "med26_c04",
+  "title": "Clozapin und Infektionszeichen",
+  "vignette": "Ein Patient unter Clozapin berichtet über neu aufgetretenes Fieber, starke Halsschmerzen und ein ausgeprägtes Krankheitsgefühl.",
+  "questions": [
+   {
+    "q": "Welche Nebenwirkung muss bedacht werden?",
+    "a": "Eine gefährliche Verminderung der neutrophilen Granulozyten mit Infektionsrisiko ist möglich. Ein Infekt ist nicht automatisch harmlos."
+   },
+   {
+    "q": "Wie ist vorzugehen?",
+    "a": "Umgehende ärztliche Beurteilung und Blutbildkontrolle organisieren. Bei schwerem Allgemeinzustand sofortige Notfallversorgung."
+   },
+   {
+    "q": "Was ist bei guter früherer Verträglichkeit zu beachten?",
+    "a": "Frühere unauffällige Werte schließen aktuelle Veränderungen nicht sicher aus. Kontrollvorgaben und neue Symptome bleiben relevant."
+   }
+  ]
+ },
+ {
+  "id": "med26_c05",
+  "title": "Lithium nach Magen-Darm-Infekt",
+  "vignette": "Eine Person nimmt Lithium. Nach mehreren Tagen Durchfall fallen grobes Zittern, unsicherer Gang und verwaschene Sprache auf.",
+  "questions": [
+   {
+    "q": "Wie ist das Bild einzuordnen?",
+    "a": "Mögliche Lithiumintoxikation: medizinischer Notfall. Die neurologischen Zeichen nicht allein einer psychischen Krise zuschreiben."
+   },
+   {
+    "q": "Welche Information ist für die Übergabe wichtig?",
+    "a": "Letzte Einnahme, Flüssigkeitsverlust, weitere Erkrankungen und Medikamentenänderungen mitteilen. Medizinische Kontrollen sind dringend erforderlich."
+   },
+   {
+    "q": "Welche Begleitmedikamente erfragen Sie?",
+    "a": "Unter anderem neu eingenommene Schmerzmittel wie Ibuprofen, Diuretika und ACE-Hemmer. Notfallversorgung nicht durch eine lange Befragung verzögern."
+   }
+  ]
+ },
+ {
+  "id": "med26_c06",
+  "title": "Unruhe und Fieber nach Medikamentenkombination",
+  "vignette": "Nach einer neuen Medikamentenkombination entwickelt eine Patientin starkes Schwitzen, Verwirrtheit, Fieber und auffällige Muskelzuckungen.",
+  "questions": [
+   {
+    "q": "Welcher Notfall ist möglich?",
+    "a": "Ein Serotoninsyndrom, besonders bei serotonergen Kombinationen. Sofortige medizinische Notfallabklärung organisieren."
+   },
+   {
+    "q": "Was muss erhoben werden?",
+    "a": "Alle verordneten und frei gekauften Mittel einschließlich pflanzlicher Präparate, Änderungen und zeitlichen Verlauf nennen."
+   },
+   {
+    "q": "Was vermeiden Sie?",
+    "a": "Keine reguläre psychotherapeutische Behandlung fortsetzen und keine Notfallhilfe verzögern. Medikamentenpackungen oder Medikationsplan zur Übergabe bereithalten."
+   }
+  ]
+ },
+ {
+  "id": "med26_c07",
+  "title": "Fieber und Muskelsteife unter Antipsychotikum",
+  "vignette": "Ein Patient unter Antipsychotikum wirkt deutlich benommen, hat hohes Fieber und ausgeprägte Muskelsteife.",
+  "questions": [
+   {
+    "q": "Welchen Verdacht sprechen Sie aus?",
+    "a": "Mögliches malignes neuroleptisches Syndrom. Die Kombination ist potentiell lebensbedrohlich."
+   },
+   {
+    "q": "Wie reagieren Sie?",
+    "a": "Sofort medizinische Notfallhilfe organisieren und die Arzneimittelanamnese weitergeben. Keine gewöhnliche Therapieeinheit durchführen."
+   },
+   {
+    "q": "Ist damit jede andere Ursache ausgeschlossen?",
+    "a": "Nein. Andere medikamentöse oder körperliche Ursachen bleiben möglich. Die sichere Versorgung hat Vorrang vor endgültiger diagnostischer Festlegung."
+   }
+  ]
+ },
+ {
+  "id": "med26_c08",
+  "title": "Antriebsmangel trotz langer Schlafdauer",
+  "vignette": "Ein Patient schläft viele Stunden, fühlt sich aber tagsüber erschöpft. Seine Partnerin berichtet über starkes Schnarchen und wiederholte Atempausen.",
+  "questions": [
+   {
+    "q": "Welche Differentialdiagnose bedenken Sie?",
+    "a": "Obstruktive Schlafapnoe. Sie kann Müdigkeit, Konzentrationsprobleme und Stimmungssymptome verursachen."
+   },
+   {
+    "q": "Was ist diagnostisch hilfreich?",
+    "a": "Schlafanamnese einschließlich beobachteter Atempausen und ärztlich veranlasste schlafmedizinische Untersuchung. Eine reine Depressionsdiagnose genügt nicht."
+   },
+   {
+    "q": "Was besprechen Sie bei Sekundenschlaf?",
+    "a": "Die erhebliche Unfallgefahr ansprechen und rasche medizinische Abklärung unterstützen. Bei gefährdeter Wachheit nicht selbst fahren."
+   }
+  ]
+ },
+ {
+  "id": "med26_c09",
+  "title": "Herzrasen oder Panik?",
+  "vignette": "Eine Person mit früheren Panikattacken berichtet über neuartige Herzrasenepisoden. Einmal sei sie dabei fast ohnmächtig geworden.",
+  "questions": [
+   {
+    "q": "Warum ist die alte Diagnose nicht ausreichend?",
+    "a": "Neue Beschwerden können eine andere Ursache haben. Rhythmusstörung, Medikamente und weitere körperliche Ursachen müssen mitgedacht werden."
+   },
+   {
+    "q": "Wann braucht es Notfallhilfe?",
+    "a": "Bei aktuell anhaltendem Herzrasen mit Brustschmerz, Atemnot oder Kollapszeichen sofortige medizinische Hilfe organisieren."
+   },
+   {
+    "q": "Was erfragen Sie?",
+    "a": "Beginn, Dauer, Belastungsbezug, Medikamente und Begleitsymptome. Nach abgeklungenen Warnsymptomen ist eine dringende ärztliche Bewertung erforderlich."
+   }
+  ]
+ },
+ {
+  "id": "med26_c10",
+  "title": "Kognitive Beschwerden mit Kribbeln",
+  "vignette": "Eine Patientin klagt über Müdigkeit, Konzentrationsabnahme und depressive Stimmung. Zusätzlich bestehen Kribbeln in den Füßen und zunehmende Gleichgewichtsprobleme.",
+  "questions": [
+   {
+    "q": "Welche körperliche Ursache kommt unter anderem infrage?",
+    "a": "Vitamin-B12-Mangel mit neurologischen Veränderungen. Andere neurologische Ursachen müssen ebenfalls geprüft werden."
+   },
+   {
+    "q": "Schließt ein fehlender bekannter Anämiebefund den Verdacht aus?",
+    "a": "Nein. Beschwerden können bei Vitamin-B12-Mangel auch ohne bereits festgestellte Anämie auftreten."
+   },
+   {
+    "q": "Wie gehen Sie vor?",
+    "a": "Zeitnahe ärztliche Abklärung organisieren. Neurologische Beschwerden nicht allein als Depression erklären; bei akutem Ausfall sofort Notfallhilfe."
+   }
+  ]
  }
 ]

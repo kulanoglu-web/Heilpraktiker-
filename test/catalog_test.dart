@@ -58,15 +58,15 @@ void main() {
     },
   );
 
-  test('catalog resolves all 120 PDF items and 152 extra questions', () async {
+  test('catalog resolves the expanded offline learning sections', () async {
     final c = await loadLearningCatalog();
-    expect(c.chapters.length, 10);
-    expect(c.cards.length, 77);
-    expect(c.oralCases.length, 15);
+    expect(c.chapters.length, 14);
+    expect(c.cards.length, 117);
+    expect(c.oralCases.length, 25);
     expect(c.examQuestions.length, 28);
-    expect(c.questionCount, 120);
-    expect(c.extraQuestions.length, 152);
-    expect(c.totalQuestionCount, 272);
+    expect(c.questionCount, 190);
+    expect(c.extraQuestions.length, 232);
+    expect(c.totalQuestionCount, 422);
     expect(c.regions.length, 16);
     expect(c.regions.map((r) => r.id).toSet().length, 16);
     expect(c.regions.where((r) => r.oralCase != null).length, 15);
@@ -76,9 +76,23 @@ void main() {
   });
 
   test('existing content remains alongside the additions', () async {
-    expect((await loadQuestions()).length, 714);
-    expect((await loadFlashcards()).length, 472);
-    expect((await loadOralCases()).length, 90);
+    expect((await loadQuestions()).length, 794);
+    expect((await loadFlashcards()).length, 512);
+    expect((await loadOralCases()).length, 100);
+  });
+
+  test('medical modules contain 80 MC questions, 40 cards and 10 cases', () async {
+    final qs = (await loadQuestions()).where((q) => q.id.startsWith('med26_')).toList();
+    expect(qs.length, 80);
+    expect(qs.where((q) => q.topic == 'Psychopharmaka').length, 40);
+    expect(qs.where((q) => q.topic == 'Somatische Differenzialdiagnostik').length, 40);
+    expect(qs.where((q) => q.isMulti).length, greaterThanOrEqualTo(8));
+    expect((await loadFlashcards()).where((q) => q.id.startsWith('med26_')).length, 40);
+    final cases = (await loadOralCases()).where((q) => q.id.startsWith('med26_')).toList();
+    expect(cases.length, 10);
+    expect(cases.every((q) => q.questions.length == 3), isTrue);
+    expect(examTopicWeights.keys, contains('Psychopharmaka'));
+    expect(examTopicWeights.keys, contains('Somatische Differenzialdiagnostik'));
   });
 
   test('all state profiles and selected profile persist', () async {
@@ -107,5 +121,6 @@ void main() {
     final set = buildExamSet(await loadQuestions(), 28);
     expect(set.length, 28);
     expect(set.map((q) => q.id).toSet().length, 28);
+    expect(set.where((q) => q.crit).length, greaterThanOrEqualTo(5));
   });
 }

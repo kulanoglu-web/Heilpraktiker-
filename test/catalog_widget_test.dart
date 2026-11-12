@@ -5,6 +5,7 @@ import 'package:hp_psych_trainer/catalog.dart';
 import 'package:hp_psych_trainer/catalog_models.dart';
 import 'package:hp_psych_trainer/models.dart';
 import 'package:hp_psych_trainer/quiz.dart';
+import 'package:hp_psych_trainer/info.dart';
 
 void main() {
   setUp(() => SharedPreferences.setMockInitialValues({}));
@@ -106,7 +107,20 @@ void main() {
       ),
     );
     await tester.pumpAndSettle();
-    expect(find.text('272 Fragen mit Antworten'), findsOneWidget);
+    expect(find.text('422 Fragen mit Antworten'), findsOneWidget);
     expect(tester.takeException(), isNull);
   });
+  testWidgets('info and region screens expose no external navigation', (tester) async {
+    await tester.pumpWidget(const MaterialApp(home: InfoScreen()));
+    await tester.pumpAndSettle();
+    expect(find.byIcon(Icons.open_in_new), findsNothing);
+    expect(find.textContaining('Google'), findsNothing);
+    expect(find.textContaining('Website'), findsNothing);
+    final catalog = await tester.runAsync(loadLearningCatalog);
+    await tester.pumpWidget(MaterialApp(home: CatalogRegionsScreen(catalog: catalog!, selectedId: 'be')));
+    await tester.pumpAndSettle();
+    expect(find.byIcon(Icons.open_in_new), findsNothing);
+    expect(find.text('Weiterführendes Material'), findsNothing);
+  });
+
 }

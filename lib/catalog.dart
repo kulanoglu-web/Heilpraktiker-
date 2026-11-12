@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 import 'catalog_models.dart';
 import 'learn.dart';
@@ -208,12 +207,7 @@ class _CatalogScreenState extends State<CatalogScreen> {
                   ),
                 ),
               ),
-            _link(
-              Icons.library_books_outlined,
-              'Quellen & Originalmaterial',
-              'Fachgrundlagen, Prüfungsarchive und PDF-Downloads',
-              () => _open(CatalogSourcesScreen(catalog: c)),
-            ),
+
           ],
         );
       },
@@ -445,19 +439,6 @@ class CatalogSolutionsScreen extends StatelessWidget {
   );
 }
 
-Future<void> _openSource(BuildContext context, String url) async {
-  try {
-    if (await launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication))
-      return;
-  } catch (_) {
-    // Show the same actionable error for a missing browser and launch failures.
-  }
-  if (context.mounted)
-    ScaffoldMessenger.of(context).showSnackBar(
-      const SnackBar(content: Text('Link konnte nicht geöffnet werden.')),
-    );
-}
-
 class CatalogRegionsScreen extends StatelessWidget {
   final LearningCatalog catalog;
   final String selectedId;
@@ -478,7 +459,7 @@ class CatalogRegionsScreen extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         const Text(
-          'Die Beispiele zeigen einzelne recherchierte Themen. Sie bilden keine festen Schwerpunkte eines Bundeslandes ab.',
+          'Die Fallübungen dienen dem Training. Verbindliche Prüfungsregeln und Zuständigkeiten können sich örtlich unterscheiden.',
           style: TextStyle(height: 1.4),
         ),
         const SizedBox(height: 12),
@@ -487,7 +468,7 @@ class CatalogRegionsScreen extends StatelessWidget {
             child: ExpansionTile(
               initiallyExpanded: r.id == selectedId,
               title: Text(r.name),
-              subtitle: Text(r.location),
+              subtitle: Text(r.oralCase == null ? 'Allgemeine Vorbereitung' : 'Fallübung verfügbar'),
               childrenPadding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
               expandedCrossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -502,45 +483,8 @@ class CatalogRegionsScreen extends StatelessWidget {
                     icon: const Icon(Icons.record_voice_over_rounded),
                     label: const Text('Fallübung öffnen'),
                   ),
-                TextButton.icon(
-                  onPressed: () => _openSource(context, r.url),
-                  icon: const Icon(Icons.open_in_new),
-                  label: const Text('Weiterführendes Material'),
-                ),
+
               ],
-            ),
-          ),
-      ],
-    ),
-  );
-}
-
-class CatalogSourcesScreen extends StatelessWidget {
-  final LearningCatalog catalog;
-  const CatalogSourcesScreen({super.key, required this.catalog});
-
-  @override
-  Widget build(BuildContext context) => Scaffold(
-    appBar: plainAppBar('Quellen & Originalmaterial'),
-    body: ListView(
-      padding: const EdgeInsets.all(16),
-      children: [
-        Text(
-          'Bearbeitungsstand: ${catalog.date}',
-          style: const TextStyle(fontWeight: FontWeight.w700),
-        ),
-        const SizedBox(height: 12),
-        SoftCard(
-          child: Text(catalog.note, style: const TextStyle(height: 1.5)),
-        ),
-        const SizedBox(height: 12),
-        for (final source in catalog.sources)
-          Card(
-            child: ListTile(
-              title: Text(source.title),
-              subtitle: source.note.isEmpty ? null : Text(source.note),
-              trailing: const Icon(Icons.open_in_new),
-              onTap: () => _openSource(context, source.url),
             ),
           ),
       ],

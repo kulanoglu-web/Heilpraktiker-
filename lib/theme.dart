@@ -67,6 +67,10 @@ TopicStyle topicStyle(String topic) {
       return const TopicStyle(Icons.psychology_alt_rounded, Color(0xFF8E24AA));
     case 'Kriterien & Dauer':
       return const TopicStyle(Icons.timer_rounded, Color(0xFFEF6C00));
+    case 'Psychopharmaka':
+      return const TopicStyle(Icons.medication_rounded, Color(0xFF00695C));
+    case 'Somatische Differenzialdiagnostik':
+      return const TopicStyle(Icons.monitor_heart_rounded, Color(0xFFAD1457));
     case 'Weitere Störungen':
       return const TopicStyle(Icons.category_rounded, Color(0xFF607D8B));
     default:

@@ -191,7 +191,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                'Lernkatalog · 272 Fragen',
+                                'Lernkatalog',
                                 style: TextStyle(
                                   fontSize: 18,
                                   fontWeight: FontWeight.w800,
@@ -199,7 +199,7 @@ class _HomeScreenState extends State<HomeScreen> {
                               ),
                               SizedBox(height: 4),
                               Text(
-                                'Themenkapitel, mündliche Fälle, Probeprüfung und alle Bundesländer',
+                                'Mit Psychopharmaka, somatischer Differenzialdiagnostik und mündlichen Fällen',
                               ),
                             ],
                           ),

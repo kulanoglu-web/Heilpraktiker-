@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:url_launcher/url_launcher.dart';
 
 import 'theme.dart';
 
-/// Hier Namen und Links der Praxis pflegen.
+/// Autor und fachlicher Hintergrund.
 const kAuthorName = 'Erdogan Kulanoglu';
 const kAuthorTitles = [
   'Psychologe M.Sc.',
@@ -11,18 +10,6 @@ const kAuthorTitles = [
   'Heilpraktiker (eingeschränkt auf den Bereich Psychotherapie)',
 ];
 const kVersion = String.fromEnvironment('APP_VERSION', defaultValue: 'Entwicklung');
-const kWebsite = 'https://www.psychologe-spandau.de';
-const kReviewUrl =
-    'https://g.page/r/Ccxj8Rnh_iwAEB0/review';
-
-Future<void> _open(BuildContext context, String url) async {
-  final ok = await launchUrl(Uri.parse(url), mode: LaunchMode.externalApplication);
-  if (!ok && context.mounted) {
-    ScaffoldMessenger.of(context)
-        .showSnackBar(const SnackBar(content: Text('Link konnte nicht geöffnet werden.')));
-  }
-}
-
 class InfoCard extends StatelessWidget {
   const InfoCard({super.key});
   @override
@@ -33,7 +20,7 @@ class InfoCard extends StatelessWidget {
           const Icon(Icons.info_outline_rounded, color: kBrand, size: 28),
           const SizedBox(width: 14),
           const Expanded(
-            child: Text('Info, Haftungsausschluss & Feedback',
+            child: Text('Info & Lernhinweise',
                 style: TextStyle(fontWeight: FontWeight.w700, fontSize: 15)),
           ),
           const Icon(Icons.chevron_right_rounded),
@@ -90,23 +77,10 @@ class InfoScreen extends StatelessWidget {
           const SizedBox(height: 12),
           _section('Ohne Gewähr',
               'Alle Inhalte (Fragen, Kernkarten, Fälle, Erklärungen) dienen ausschließlich der Prüfungsvorbereitung und wurden mit Sorgfalt erstellt, erfolgen aber ohne Gewähr auf Richtigkeit, Vollständigkeit und Aktualität. Es handelt sich nicht um Original-Prüfungsfragen. Verbindlich sind die Vorgaben des zuständigen Gesundheitsamts und die aktuelle Rechtslage. Die App ersetzt weder Fachliteratur noch ärztliche, psychotherapeutische oder rechtliche Beratung.'),
-          _section('Fehler melden',
-              'Ist dir ein Fehler aufgefallen, etwa eine falsche Antwort, ein Tippfehler oder eine veraltete Angabe? Bitte melde ihn über die Praxis-Website. So wird die App für alle besser.'),
-          Padding(
-            padding: const EdgeInsets.only(bottom: 10),
-            child: FilledButton.icon(
-              onPressed: () => _open(context, kWebsite),
-              icon: const Icon(Icons.language_rounded),
-              label: const Text('www.psychologe-spandau.de'),
-            ),
-          ),
-          _section('Als Dank',
-              'Wenn dir die App beim Lernen hilft, freue ich mich über eine Google-Rezension für die Privatpraxis.'),
-          FilledButton.tonalIcon(
-            onPressed: () => _open(context, kReviewUrl),
-            icon: const Icon(Icons.star_rounded),
-            label: const Text('Rezension bei Google schreiben'),
-          ),
+          _section('Offline lernen',
+              'Alle Fragen, Antworten, Lernkarten und Fälle sind auf dem Gerät gespeichert. Die App benötigt zum Lernen keine Internetverbindung und öffnet keine externen Webseiten. Der Lernfortschritt bleibt lokal auf diesem Gerät.'),
+          _section('Medikamente und körperliche Ursachen',
+              'Die Inhalte dienen dem Erkennen und Einordnen von Krankheitsbildern und Warnzeichen. Verschreibungspflichtige Psychopharmaka werden ärztlich verordnet und angepasst. Körperliche Ursachen sowie gefährliche Arzneimittelwirkungen müssen medizinisch abgeklärt werden.'),
           const SizedBox(height: 24),
         ],
       ),
