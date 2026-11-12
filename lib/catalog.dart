@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'catalog_models.dart';
+import 'curriculum.dart';
 import 'learn.dart';
 import 'models.dart';
 import 'quiz.dart';
@@ -139,6 +140,12 @@ class _CatalogScreenState extends State<CatalogScreen> {
               () => _open(
                 CatalogRegionsScreen(catalog: c, selectedId: widget.profile.id),
               ),
+            ),
+            _link(
+              Icons.menu_book_rounded,
+              'Lernstruktur · 15 Themenbereiche',
+              'Kapitelübersicht mit Unterthemen und 3-2-1-Lernschema',
+              () => _open(const CurriculumScreen()),
             ),
             _link(
               Icons.search_rounded,
