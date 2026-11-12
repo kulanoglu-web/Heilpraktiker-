@@ -313,6 +313,198 @@ const curriculumNotes = <String, List<String>>{
     'Lerne die Störung zunächst in einem System sicher und erst danach den Vergleich. Notiere Versionsjahr und Quelle getrennt von den Merkhilfen.',
     'Prüfungswissen kann sich auf ICD-10-GM beziehen; im Zweifel die Aufgabenstellung und das zuständige Gesundheitsamt beachten.'
   ]
+  'Heilpraktikergesetz & Erlaubnis': [
+    'Das Heilpraktikergesetz verlangt eine Erlaubnis für die berufsmäßige Ausübung der Heilkunde ohne ärztliche Approbation. Heilkunde umfasst die Feststellung, Heilung oder Linderung von Krankheiten.',
+    'Die auf Psychotherapie beschränkte Erlaubnis ist vom Umfang der uneingeschränkten Heilpraktikererlaubnis zu unterscheiden. Maßgeblich sind Erlaubnisbescheid und geltendes Recht.',
+    'Die Kenntnisüberprüfung soll eine Gefahr für die Gesundheit der Bevölkerung oder der Patientinnen und Patienten ausschließen; sie ist keine Approbation und kein Nachweis einer psychotherapeutischen Fachausbildung.'
+  ],
+  'Psychotherapeutengesetz': [
+    'Das PsychThG regelt den approbierten Beruf der Psychotherapeutinnen und Psychotherapeuten. Die gesetzlich geschützte Berufsbezeichnung darf nicht mit einer HPP-Erlaubnis gleichgesetzt werden.',
+    'In der Prüfung sauber unterscheiden: Approbation nach PsychThG einerseits, Erlaubnis nach Heilpraktikergesetz andererseits. Qualifikation und Befugnisse transparent darstellen.'
+  ],
+  'PsychKG & Unterbringung': [
+    'Psychisch-Kranken-Gesetze sind Landesrecht; Begriffe, Zuständigkeiten und Verfahren können zwischen Ländern abweichen. Immer die örtliche Regelung kennen.',
+    'Eine HPP-Praxis ordnet keine Zwangsunterbringung eigenständig an. Bei akuter erheblicher Gefahr: Notruf, zuständigen Krisendienst oder Polizei nach örtlichem Verfahren einschalten und Informationen strukturiert übergeben.',
+    'Freiwillige Hilfe und Deeskalation haben Vorrang, soweit die Situation es erlaubt. Zwangsmaßnahmen sind an gesetzliche Voraussetzungen und zuständige Stellen gebunden.'
+  ],
+  'BGB, Betreuungsrecht & Geschäftsfähigkeit': [
+    'Behandlungsvertrag: vereinbarte Behandlung und Vergütung; die Leistung muss fachlichen Standards entsprechen. Aufklärung und Einwilligung sind vor wesentlichen Maßnahmen zu klären.',
+    'Dokumentation: wesentliche Anamnese, Befunde, Aufklärung, Einwilligung, Maßnahmen und Wirkungen zeitnah festhalten. Nachträgliche Änderungen müssen nachvollziehbar bleiben.',
+    'Betreuung bedeutet nicht automatisch Geschäftsunfähigkeit. Entscheidungsfähigkeit ist auf die konkrete Entscheidung und den Zeitpunkt bezogen zu prüfen; bei Unsicherheit rechtliche Vertretung fachgerecht klären.'
+  ],
+  'HWG · Heilmittelwerbegesetz': [
+    'Gesundheitsbezogene Werbung muss sachlich, nachvollziehbar und nicht irreführend sein. Keine Heilungsversprechen, Erfolgsgarantien oder unbelegten Wirkbehauptungen.',
+    'Werbung darf weder falsche Qualifikationen suggerieren noch eine HPP-Erlaubnis als Approbation darstellen. Konkrete Werbeaussagen vor Veröffentlichung an aktueller Rechtslage prüfen.'
+  ],
+  'AMG · Arzneimittelgesetz': [
+    'Das Arzneimittelrecht unterscheidet unter anderem zwischen verschreibungsfreien und verschreibungspflichtigen Präparaten. Rezeptpflichtige Arzneimittel dürfen nur von dazu befugten Verschreibenden verordnet werden.',
+    'Für HPP für Psychotherapie gilt: Psychopharmaka nicht verordnen, Dosierungen nicht festlegen und keine Änderungen an ärztlicher Medikation anweisen. Bei Fragen an die verordnende Praxis verweisen.'
+  ],
+  'BtMG · Betäubungsmittelgesetz': [
+    'Das BtMG regelt den Umgang mit bestimmten Betäubungsmitteln. Verschreibung, Abgabe und Dokumentation unterliegen besonderen gesetzlichen Vorgaben.',
+    'Prüfungsantwort: keine Beschaffung oder Verordnung durch HPP; bei möglicher Intoxikation oder Entzug medizinische Hilfe veranlassen.'
+  ],
+  'MPDG · Medizinprodukterecht': [
+    'Medizinprodukte nur zweckbestimmt, sicher und nach Gebrauchsanweisung verwenden. Mängel oder Zwischenfälle dokumentieren und die zuständige Meldestelle beziehungsweise den Herstellerweg beachten.',
+    'Geräte ersetzen keine fachliche Untersuchung. In einer psychotherapeutischen Praxis nur Produkte nutzen, deren Zweck, Einweisung und Hygiene geklärt sind.'
+  ],
+  'IfSG · Infektionsschutzgesetz': [
+    'Das IfSG ordnet bestimmte Infektionen und Erreger Melde- und Schutzregelungen zu. Nicht jede Infektion ist automatisch meldepflichtig; entscheidend sind Tatbestand, Personenkreis und aktuelle Fassung.',
+    'Bei begründetem Infektionsverdacht: Hygienemaßnahmen, medizinische Abklärung und gegebenenfalls Rücksprache mit dem Gesundheitsamt. Keine ungesicherte Diagnose stellen.',
+    'Hygieneplan, Händehygiene und situationsgerechte Flächendesinfektion senken Übertragungsrisiken; besondere Tätigkeiten können zusätzliche Vorschriften auslösen.'
+  ],
+  'Händehygiene & Flächendesinfektion': [
+    'Händehygiene vor und nach relevantem Patientenkontakt, nach Kontakt mit potenziell infektiösem Material und nach dem Ausziehen von Handschuhen durchführen.',
+    'Desinfektionsmittel entsprechend Anwendungsbereich, Einwirkzeit und Herstellerangaben verwenden. Sichtbare Verschmutzung zuerst sachgerecht entfernen.',
+    'Handschuhe ersetzen keine Händehygiene. Reinigungs- und Desinfektionsabläufe an die konkrete Tätigkeit und den Hygieneplan anpassen.'
+  ],
+  'Bewusstsein & Orientierung': [
+    'Bewusstsein umfasst Wachheit und Klarheit. Orientierung getrennt zu Zeit, Ort, Situation und eigener Person erheben.',
+    'Akute oder fluktuierende Bewusstseinsstörung ist bis zur medizinischen Abklärung als körperlich bedingt zu betrachten. Delir, Intoxikation, Unterzuckerung, Infektion oder neurologischer Notfall mitdenken.',
+    'Dokumentiere, was die Person konkret beantworten kann und ob Aufmerksamkeit und Kontaktfähigkeit schwanken.'
+  ],
+  'Aufmerksamkeit & Gedächtnis': [
+    'Aufmerksamkeit, unmittelbare Merkfähigkeit, Kurzzeitgedächtnis und länger zurückliegende Erinnerungen getrennt beurteilen.',
+    'Schlafmangel, Depression, Angst, Schmerz, Medikamente, Substanzen, Hör- oder Sprachprobleme beeinflussen die Leistung und müssen berücksichtigt werden.',
+    'Bei neuem kognitivem Abbau, Alltagsverlust oder rascher Verschlechterung ärztliche Abklärung anregen.'
+  ],
+  'Denken & Wahrnehmung': [
+    'Formales Denken beschreibt Ablauf und Zusammenhang; inhaltliches Denken umfasst Themen wie Wahn, überwertige Ideen und Grübeln. Wahrnehmungsstörungen separat erfassen.',
+    'Bei Halluzinationen nach Modalität, Häufigkeit, Kontext, Belastung, Einfluss auf Verhalten und möglicher Befehlsqualität fragen.',
+    'Plötzlicher Beginn, Verwirrtheit, Fieber, Substanzkonsum oder neurologische Zeichen sprechen für dringliche körperliche Abklärung.'
+  ],
+  'Affekt, Antrieb & Psychomotorik': [
+    'Stimmung ist die länger anhaltende emotionale Grundtönung; Affekt bezeichnet den beobachtbaren Gefühlsausdruck und seine Schwingungsfähigkeit.',
+    'Antrieb, Initiative, Aktivität und Psychomotorik beobachten. Unruhe oder Verlangsamung kann psychische, körperliche, neurologische oder medikamentöse Ursachen haben.',
+    'Eigene Beobachtung beschreiben statt wertender Etiketten: etwa „spricht leise, antwortet verzögert“ statt „wirkt komisch“.'
+  ],
+  'Ätiologie psychischer Störungen': [
+    'Das biopsychosoziale Modell betrachtet biologische Voraussetzungen, psychische Lern- und Verarbeitungsprozesse sowie soziale Lebensbedingungen.',
+    'Ein Modell ist eine Arbeitshypothese, kein Beweis für eine Ursache. Mehrere Faktoren können sich gegenseitig beeinflussen und im Verlauf verändern.',
+    'Bei jeder Erklärung fragen: Welche Beobachtung stützt sie, welche Alternative besteht, und welche Information fehlt?'
+  ],
+  'Triadisches System': [
+    'Das triadische System ordnet psychische Störungen klassisch in organisch, psychogen und endogen ein. Es ist historisch prüfungsrelevant, aber für heutige Diagnostik zu grob.',
+    'Moderne Fallarbeit kombiniert Verlauf, Kriterien, körperliche Ursachen, Substanzen, Kontext und Funktionsniveau, statt eine Ursache aus einem Etikett abzuleiten.'
+  ],
+  'Verhaltenstherapie': [
+    'Verhaltenstherapie ist ein Oberbegriff evidenzbasierter Ansätze. Gemeinsam sind eine transparente Fallkonzeption, konkrete Ziele, überprüfbare Schritte und regelmäßige Auswertung.',
+    'Konditionierung: klassische Konditionierung verbindet Reize und Reaktionen; operante Konditionierung erklärt, wie Konsequenzen Verhalten wahrscheinlicher oder unwahrscheinlicher machen.',
+    'Kognitive Ansätze untersuchen automatische Gedanken und Grundannahmen. Methoden müssen zur Person, Störung und Qualifikation passen.'
+  ],
+  'Psychodynamisch': [
+    'Psychodynamische Ansätze betrachten unbewusste Konflikte, Beziehungserfahrungen und wiederkehrende Muster. Psychoanalyse und tiefenpsychologisch fundierte Psychotherapie unterscheiden sich unter anderem in Setting und Fokus.',
+    'KIP nutzt angeleitete Imaginationen in einem psychodynamischen Rahmen. Bei instabiler Krise oder fehlender Stabilisierung ist Indikation besonders sorgfältig zu prüfen.'
+  ],
+  'Humanistisch & erlebnisorientiert': [
+    'Die personenzentrierte Gesprächsführung nach Rogers betont Empathie, Kongruenz und unbedingte positive Beachtung. Sie unterstützt Selbstklärung, ersetzt aber keine Risikoeinschätzung.',
+    'Gestalttherapie arbeitet erlebnis- und gegenwartsorientiert; Psychodrama nutzt szenisches Handeln. Verfahren nicht gleichsetzen und Indikation sowie eigene Qualifikation beachten.'
+  ],
+  'Systemische Psychotherapie': [
+    'Systemisches Arbeiten betrachtet Symptome im Beziehungs- und Lebenskontext, ohne Schuld zuzuschreiben. Auftrag, Ziel und Beteiligte zu Beginn klären.',
+    'Ressourcen- und lösungsorientierte Fragen können neue Perspektiven eröffnen. Bei Paar- und Familiengesprächen Vertraulichkeit, Einzelkontakte und Dokumentation transparent regeln.'
+  ],
+  'Entspannungsverfahren': [
+    'PMR nach Jacobson trainiert den Wechsel zwischen Anspannung und Entspannung von Muskelgruppen. Bei Schmerzen oder körperlichen Einschränkungen Übungen anpassen.',
+    'Autogenes Training nutzt selbstgerichtete Formeln; Biofeedback macht bestimmte Körperfunktionen sichtbar. Anleitung, Kontraindikationen und passende Übungsform klären.',
+    'Entspannung ist eine ergänzende Methode und kein Ersatz für Abklärung akuter oder schwerer Symptome.'
+  ],
+  'Traumatherapie & EMDR': [
+    'Traumatherapeutisches Vorgehen ist phasenorientiert: Sicherheit und Stabilisierung, gezielte Verarbeitung bei passender Indikation, danach Integration und Alltagstransfer.',
+    'EMDR ist ein strukturiertes Verfahren mit bilateraler Stimulation und gehört in die Hände entsprechend qualifizierter Behandelnder. Es ist keine spontane Selbsthilfeübung.',
+    'Bei akuter Instabilität, hohem Dissoziationsrisiko oder fehlender sicherer Umgebung zuerst Stabilität und geeignete fachliche Unterstützung herstellen.'
+  ],
+  'Weitere Methoden': [
+    'Psychoedukation vermittelt Wissen über Beschwerden, Verlauf und Hilfen und sollte verständlich, dialogisch und nicht belehrend erfolgen.',
+    'Motivierende Gesprächsführung erkundet Ambivalenz und stärkt eigene Veränderungsmotivation; offene Fragen, Anerkennung, Reflexion und Zusammenfassung sind zentrale Gesprächsformen.',
+    'Hypnotherapeutische und soziotherapeutische Ansätze benötigen passende Qualifikation und klare Zielvereinbarung.'
+  ],
+  'Biologische Verfahren': [
+    'Lichttherapie und Wachtherapie sind ärztlich zu prüfende Behandlungsoptionen mit Indikation, Risiken und Kontraindikationen.',
+    'Elektrokrampftherapie (EKT) wird in spezialisierten medizinischen Settings durchgeführt. HPP beraten nicht zur Durchführung und ändern keine Medikation.'
+  ],
+  'Nebenwirkungen & Wechselwirkungen': [
+    'Nebenwirkungen hängen von Wirkstoff, Dosis, Kombination, Alter, Vorerkrankung und Stoffwechsel ab. Eine vollständige Medikamentenliste einschließlich frei erhältlicher Mittel erheben lassen.',
+    'Warnzeichen wie hohes Fieber mit Muskelsteife, Bewusstseinsänderung, Krampfanfall, schwere allergische Reaktion oder gefährliche Kreislaufbeschwerden brauchen sofortige medizinische Hilfe.',
+    'HPP dokumentieren beobachtete Beschwerden und verweisen an die verordnende oder akut zuständige medizinische Stelle; keine Dosisanweisung geben.'
+  ],
+  'Fallbeispiele': [
+    'Antwortschema: 1) Erstes Leitsymptom und zeitlicher Verlauf, 2) psychopathologischer Befund, 3) Suizid- und Fremdgefährdung, 4) somatische und substanzbezogene Differenzialdiagnosen, 5) Arbeitshypothese, 6) nächster sicherer Schritt.',
+    'Nenne mindestens eine Alternative und sage, welche Information zur Unterscheidung fehlt. Bei Warnzeichen zuerst Notfallhilfe, nicht die endgültige Diagnose.',
+    'Sprich strukturiert und knapp; begründe Entscheidungen und nenne Grenzen der eigenen Zuständigkeit.'
+  ],
+  'Bewusstlosigkeit & Synkope': [
+    'Bewusstlosigkeit ist ein Notfall. Reaktion und normale Atmung prüfen, 112 veranlassen und bei fehlender normaler Atmung Wiederbelebung beginnen.',
+    'Synkope ist eine vorübergehende Bewusstlosigkeit durch kurzfristig verminderte Hirndurchblutung; Herzrhythmusstörung und andere ernste Ursachen müssen ausgeschlossen werden.',
+    'Erst nach medizinischer Versorgung Anamnese zu Auslöser, Dauer, Verletzung, Medikamenten und Begleitsymptomen ergänzen.'
+  ],
+  'B-Symptomatik': [
+    'Fieber, Nachtschweiß und unbeabsichtigter Gewichtsverlust sind unspezifische Warnsymptome, die körperlich abgeklärt werden müssen.',
+    'Nicht vorschnell psychisch erklären. Beginn, Verlauf, Gewichtsveränderung, Infektionszeichen, Medikamente und Allgemeinzustand erfragen und ärztliche Vorstellung anregen.'
+  ],
+  'Gangstörungen & Wesensänderungen': [
+    'Neu aufgetretene Gangunsicherheit, Stürze oder Wesensänderung können neurologische, infektiöse, medikamentöse oder metabolische Ursachen haben.',
+    'Plötzlicher Beginn, einseitige Schwäche, Sprachstörung, starke Kopfschmerzen oder Bewusstseinsänderung: sofort 112.',
+    'Bei schleichendem Verlauf Angehörigenbeobachtungen mit Einwilligung, Medikamente und Alltagsfunktion erheben; ärztliche Diagnostik veranlassen.'
+  ],
+  'Herzrasen / Tachykardie': [
+    'Herzrasen kann bei Panik auftreten, aber auch durch Rhythmusstörung, Schilddrüsenüberfunktion, Fieber, Anämie, Flüssigkeitsmangel, Stimulanzien oder Medikamente entstehen.',
+    'Brustschmerz, Atemnot, Ohnmacht, Kreislaufinstabilität oder erstmalig anhaltendes starkes Herzrasen sind Warnzeichen für sofortige medizinische Abklärung.',
+    'Für die Differenzialdiagnose Beginn, Dauer, Belastungsbezug, Pulsgefühl, Medikamente und Substanzen erfassen; keine psychische Ursache voraussetzen.'
+  ],
+  'Haut': [
+    'Juckreiz, sichtbare Hautveränderungen und chronische Entzündung können Schlaf, Stimmung und Selbstbild beeinträchtigen. Hautsymptom und psychische Belastung getrennt, aber gemeinsam betrachten.',
+    'Plötzliches Anschwellen von Zunge oder Gesicht, Atemnot oder Kreislaufprobleme bei Urtikaria sind ein Notfall: 112.'
+  ],
+  'Gastrointestinaltrakt': [
+    'Chronische Bauchschmerzen, Durchfall oder Gewichtsverlust können entzündliche Darmerkrankungen oder andere körperliche Ursachen anzeigen. Blut im Stuhl, Fieber, Austrocknung und starke Schmerzen ärztlich abklären.',
+    'Stress und psychische Belastung können Beschwerden verstärken, schließen eine organische Erkrankung aber nicht aus.'
+  ],
+  'Geschlechtsorgane & Hormone': [
+    'Schwangerschaft, Wochenbett und Wechseljahre können Schlaf, Stimmung und körperliche Beschwerden verändern. Zeitlicher Bezug und bisherige Episoden erfragen.',
+    'Verwirrtheit, psychotische Symptome oder schwere depressive Symptome im Wochenbett erfordern sehr zeitnahe medizinische beziehungsweise psychiatrische Beurteilung.'
+  ],
+  'Borna & Borreliose': [
+    'Bei möglicher Borreliose Zeckenexposition, Hautveränderungen, neurologische Beschwerden und Verlauf erfragen; Diagnose und Therapie erfolgen medizinisch.',
+    'Borna- und andere seltene Infektionen nicht aus unspezifischen Symptomen ableiten. Bei rascher neurologischer Veränderung dringend ärztlich abklären.'
+  ],
+  'Enzephalitis & Meningitis': [
+    'Fieber mit starkem Kopfschmerz, Nackensteife, Lichtscheu, Erbrechen, Verwirrtheit, Krampfanfall oder Bewusstseinsstörung kann auf eine schwere Infektion des Nervensystems hinweisen.',
+    'Sofort 112 beziehungsweise Notaufnahme; nicht auf einen regulären Psychotherapietermin warten.'
+  ],
+  'Meningokokken-Meningitis & Sepsis': [
+    'Rasche Verschlechterung, hohes Fieber, starke Krankheitszeichen, Bewusstseinsstörung, Atem- oder Kreislaufprobleme und punktförmige Einblutungen sind Notfallzeichen.',
+    'Sofort 112. Infektionsschutz und Hinweise der Rettungsleitstelle beachten; keine Zeit mit ausführlicher Differenzialdiagnostik verlieren.'
+  ],
+  'COVID-19': [
+    'Akute Infektion und anhaltende Beschwerden können Schlaf, Konzentration und Stimmung beeinflussen. Zeitverlauf, körperliche Belastbarkeit und Medikamente erfragen.',
+    'Atemnot, Brustschmerz, Bewusstseinsänderung oder deutliche Verschlechterung sind medizinische Warnzeichen.'
+  ],
+  'Lagerung & Schock': [
+    'Schock ist eine lebensbedrohliche Kreislaufstörung. 112 rufen, beruhigen, warm halten, Blutungen soweit möglich versorgen und Anweisungen der Leitstelle befolgen.',
+    'Lagerung richtet sich nach Bewusstsein, Atmung, Verletzungen und Ursache. Keine pauschale Schocklagerung bei möglichen Verletzungen oder Atemnot erzwingen.'
+  ],
+  'HIV / AIDS': [
+    'HIV kann unbehandelt das Immunsystem beeinträchtigen und neurologische oder psychische Begleitprobleme verursachen. Testung, Diagnose und Behandlung gehören in medizinische Versorgung.',
+    'Stigmatisierende Annahmen vermeiden; Vertraulichkeit und diskriminierungsfreie Sprache wahren.'
+  ],
+  'Asthma bronchiale': [
+    'Atemnot und Engegefühl können Angst auslösen, sind aber zunächst körperlich einzuschätzen. Bekannte Diagnose, Inhalationsplan und Auslöser erfragen.',
+    'Schwere Atemnot, Sprechprobleme, bläuliche Lippen, Erschöpfung oder fehlende Besserung: 112 und vorhandenen ärztlichen Notfallplan befolgen.'
+  ],
+  'Diabetes mellitus': [
+    'Unterzuckerung kann Zittern, Schwitzen, Herzklopfen, Verwirrtheit und Verhaltensänderung verursachen; schwere Bewusstseinsstörung ist ein Notfall.',
+    'Bei Bewusstlosigkeit nichts zu essen oder zu trinken geben. 112 rufen und Leitstellenanweisungen folgen. Wiederkehrende Beschwerden medizinisch abklären.'
+  ],
+  'Prüfungsablauf & Vorbereitung': [
+    'In Deutschland werden die Kenntnisüberprüfungen durch zuständige Gesundheitsämter beziehungsweise Landesstellen organisiert. Schriftlicher und mündlicher Teil kommen häufig vor, Details sind örtlich zu prüfen.',
+    'Vorbereitung: zuständige Stelle, Anmeldefrist, Unterlagen, Gebühren, Prüfungsformat und mögliche Nachprüfung direkt bei der Behörde klären.',
+    'Lernplan: täglich aktiver Abruf, gemischte Wiederholung, Fehlerliste, Fallbeispiele laut erklären und kurze Prüfungssimulationen.'
+  ],
+  'Beliebte Prüfungsfragen': [
+    'Typische Themencluster sind psychopathologischer Befund, Suizidalität, Psychosen, Depression und Manie, Substanzstörungen, Delir und Demenz, Kinder- und Jugendthemen, somatische Differenzialdiagnosen und Rechtsgrenzen.',
+    'Trainiere Antworten in der Reihenfolge: Befund, Gefahr, Differenzialdiagnose, nächster Schritt, Zuständigkeit. Prüfer bewerten die sichere Vorgehensweise, nicht bloß einen Code.'
+  ],
 };
 
 class CurriculumScreen extends StatelessWidget {
