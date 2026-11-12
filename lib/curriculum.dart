@@ -318,7 +318,7 @@ const curriculumNotes = <String, List<String>>{
     'Die ICD-10-GM 2026 ist die deutsche Modifikation zur Diagnosenkodierung. Die ICD-11 ist der WHO-Standard; ihre klinischen Anforderungen sind nicht einfach eine andere Schreibweise der ICD-10.',
     'Lerne die Störung zunächst in einem System sicher und erst danach den Vergleich. Notiere Versionsjahr und Quelle getrennt von den Merkhilfen.',
     'Prüfungswissen kann sich auf ICD-10-GM beziehen; im Zweifel die Aufgabenstellung und das zuständige Gesundheitsamt beachten.'
-  ]
+  ],
   'Heilpraktikergesetz & Erlaubnis': [
     'Das Heilpraktikergesetz verlangt eine Erlaubnis für die berufsmäßige Ausübung der Heilkunde ohne ärztliche Approbation. Heilkunde umfasst die Feststellung, Heilung oder Linderung von Krankheiten.',
     'Die auf Psychotherapie beschränkte Erlaubnis ist vom Umfang der uneingeschränkten Heilpraktikererlaubnis zu unterscheiden. Maßgeblich sind Erlaubnisbescheid und geltendes Recht.',
