@@ -98,6 +98,7 @@ const curriculum = <CurriculumNode>[
   ]),
   CurriculumNode('Mündliche Prüfung', 'Fallbearbeitung, Differenzialdiagnostik und Antwortstruktur.', [
     CurriculumNode('Prüfungsmodalitäten der Gesundheitsämter', 'Schriftlich und mündlich getrennt vorbereiten; Vorgaben beim zuständigen Amt prüfen.'),
+    CurriculumNode('Prüfungsablauf & Vorbereitung', 'Prüfungsabläufe, Unterlagen, Lernplan und aktive Wiederholung.'),
     CurriculumNode('Fallbeispiele', 'Befund, Risiko, Differenzialdiagnosen und nächster sicherer Schritt.'),
     CurriculumNode('Differenzialdiagnostik', 'Zeitkriterien, Leitsymptome, Schweregrad und Ausschlussdiagnosen.'),
     CurriculumNode('Bewusstlosigkeit & Synkope', 'Akute körperliche Ursachen und Notfallhilfe.'),
@@ -115,7 +116,12 @@ const curriculum = <CurriculumNode>[
     CurriculumNode('Geschlechtsorgane & Hormone', 'Schwangerschaft, Wochenbett und Wechseljahre.'),
     CurriculumNode('Haut', 'Neurodermitis, Psoriasis und Urtikaria.'),
     CurriculumNode('Herz-Kreislauf', 'Hypertonie und Warnzeichen.'),
-    CurriculumNode('Hormonsystem & Stoffwechsel', 'Hypothyreose, Hyperthyreose, Adipositas, Diabetes mellitus und metabolisches Syndrom.'),
+    CurriculumNode('Hormonsystem & Stoffwechsel', 'Hypothyreose, Hyperthyreose, Adipositas, Diabetes mellitus und metabolisches Syndrom.', [
+      CurriculumNode('Hypothyreose', 'Müdigkeit, Verlangsamung und depressive Beschwerden als mögliche, unspezifische Symptome; ärztliche Diagnostik.),
+      CurriculumNode('Hyperthyreose', 'Unruhe, Schlafprobleme, Tremor und Herzrasen können vorkommen; ärztliche Abklärung.'),
+      CurriculumNode('Diabetes mellitus', 'Stoffwechselentgleisung, Unterzuckerung und psychische oder kognitive Veränderungen.'),
+      CurriculumNode('Adipositas & metabolisches Syndrom', 'Körperliche und psychische Komorbidität sowie respektvolle, nicht stigmatisierende Anamnese.')
+    ]),
     CurriculumNode('Leber', 'Leberzirrhose und Virushepatitis A–E.'),
     CurriculumNode('Neurologie', 'Huntington, Epilepsie, Hirnblutung, Hirntumoren, Kopfschmerz, Lähmung, MS, Parkinson, Schädel-Hirn-Trauma, Schlaganfall und ME/CFS.'),
     CurriculumNode('Ohr & Gleichgewicht', 'Tinnitus und Schwindel.'),
@@ -488,7 +494,7 @@ const curriculumNotes = <String, List<String>>{
     'HIV kann unbehandelt das Immunsystem beeinträchtigen und neurologische oder psychische Begleitprobleme verursachen. Testung, Diagnose und Behandlung gehören in medizinische Versorgung.',
     'Stigmatisierende Annahmen vermeiden; Vertraulichkeit und diskriminierungsfreie Sprache wahren.'
   ],
-  'Asthma bronchiale': [
+  'Respirationstrakt': [
     'Atemnot und Engegefühl können Angst auslösen, sind aber zunächst körperlich einzuschätzen. Bekannte Diagnose, Inhalationsplan und Auslöser erfragen.',
     'Schwere Atemnot, Sprechprobleme, bläuliche Lippen, Erschöpfung oder fehlende Besserung: 112 und vorhandenen ärztlichen Notfallplan befolgen.'
   ],
