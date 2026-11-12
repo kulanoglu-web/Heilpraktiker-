@@ -511,6 +511,266 @@ const curriculumNotes = <String, List<String>>{
     'Typische Themencluster sind psychopathologischer Befund, Suizidalität, Psychosen, Depression und Manie, Substanzstörungen, Delir und Demenz, Kinder- und Jugendthemen, somatische Differenzialdiagnosen und Rechtsgrenzen.',
     'Trainiere Antworten in der Reihenfolge: Befund, Gefahr, Differenzialdiagnose, nächster Schritt, Zuständigkeit. Prüfer bewerten die sichere Vorgehensweise, nicht bloß einen Code.'
   ],
+  'ICD-10 & ICD-11 · Kriterien': [
+    'Arbeite jede Diagnose nach demselben Raster: Kernmerkmale, notwendige Zahl oder Kombination von Symptomen, zeitlicher Verlauf, Leidensdruck beziehungsweise Funktionsbeeinträchtigung und Ausschluss anderer Ursachen.',
+    'Klassifikationskriterien sind versionsgebunden. ICD-10-GM 2026 und ICD-11 nicht vermischen; konkrete Dauerangaben nur zusammen mit der betreffenden Diagnose lernen.',
+    'Eine Klassifikation unterstützt die Beschreibung und Kodierung. Sie ersetzt weder eine vollständige Anamnese noch fachliche Diagnostik.'
+  ],
+  'Leitlinien': [
+    'Eine Leitlinie bündelt fachliche Empfehlungen für eine definierte Fragestellung und Zielgruppe. Sie ist Orientierung für qualifizierte Behandlung, kein starres Kochrezept.',
+    'Beim Lernen notieren: Zielgruppe, Version und Gültigkeit, Diagnostik, abgestufte Behandlungsoptionen, Risiken und Schnittstellen. Veraltete Fassungen nicht als aktuell ausgeben.',
+    'HPP nutzen Leitlinienwissen zum Verständnis und zur Weiterverweisung; sie ermächtigen nicht zu Tätigkeiten außerhalb der eigenen Erlaubnis.'
+  ],
+  'Gesetzeskunde': [
+    'Lerne pro Gesetz vier Punkte: Zweck, betroffene Personen oder Situationen, zentrale Pflicht oder Grenze und zuständige Stelle.',
+    'Unterscheide Bundesrecht und Landesrecht. PsychKG-Regelungen, Behördenabläufe und Prüfungsmodalitäten sind örtlich verschieden.',
+    'Bei einem Fall zuerst die konkrete Handlung bestimmen, dann Rechtsgebiet und Zuständigkeit benennen. Bei Unsicherheit keine verbindliche Rechtsauskunft improvisieren.'
+  ],
+  'Rehabilitationsträger & Schuldfähigkeit': [
+    'Rehabilitation und Teilhabe können mehrere Träger betreffen. Zuständigkeit hängt unter anderem von Leistungsart, Versicherungsverhältnis und persönlicher Situation ab; im Zweifel an Beratungsstellen oder zuständige Träger verweisen.',
+    'Schuldunfähigkeit und verminderte Schuldfähigkeit sind strafrechtliche Begriffe, über die Gerichte entscheiden. HPP stellen keine forensische Schuldfähigkeitsdiagnose.',
+    'Im Prüfungsgespräch: eigene Rolle klar begrenzen, Beobachtungen dokumentieren und bei rechtlichen Fragen an zuständige Fachstellen verweisen.'
+  ],
+  'Hygiene': [
+    'Hygiene umfasst Händehygiene, sachgerechte Reinigung und Desinfektion, Lüftung, Wäsche und sichere Entsorgung. Maßnahmen richten sich nach Tätigkeit und tatsächlichem Übertragungsrisiko.',
+    'Ein kurzer Praxis-Hygieneplan sollte Zuständigkeit, Mittel, Einwirkzeiten, Ablauf und Vorgehen bei Infektionsverdacht festlegen.',
+    'Desinfektionsmittel nur gemäß Etikett und Herstellerangaben verwenden. Handschuhe ersetzen die Händehygiene nicht.'
+  ],
+  'Infektionsprävention': [
+    'Übertragungswege unterscheiden: Kontakt, Tröpfchen und aerosolgebundene Übertragung. Lüften, Händehygiene, Flächenpflege und situationsbezogene Schutzmaßnahmen kombinieren.',
+    'Bei akuter ansteckender Erkrankung Termin und Kontaktform neu bewerten, Schutz anderer Personen berücksichtigen und bei schwerem Verlauf medizinische Abklärung empfehlen.',
+    'Meldepflichten gelten nur für bestimmte Krankheiten, Erreger, Tätigkeiten oder Personenkreise. Im konkreten Fall aktuelle IfSG-Regelung und zuständiges Gesundheitsamt prüfen.'
+  ],
+  'Praxisräume & Material': [
+    'Räume sollen vertrauliche Gespräche, sichere Wege, ausreichende Lüftung und ungestörte Dokumentation ermöglichen. Zugang zu Akten und Geräten auf berechtigte Personen begrenzen.',
+    'Verwendete Materialien müssen zweckgeeignet, sauber und sicher aufbewahrt sein. Für technische Geräte Gebrauchsanweisung, Einweisung und Wartung beachten.',
+    'Ein Notfallplan mit erreichbarem Telefon, Adresse und klaren Abläufen ergänzt die räumliche Vorbereitung.'
+  ],
+  'Untersuchung & Diagnostik': [
+    'Diagnostik beginnt mit Auftrag und Anamnese: Beginn, Verlauf, Auslöser, frühere Episoden, Medikamente, Substanzen, Schlaf, körperliche Beschwerden und Funktionsniveau.',
+    'Danach Befund und Risiko erfassen, Hypothesen vergleichen, fehlende Informationen benennen und entscheiden, ob ärztliche Abklärung oder Weiterverweisung erforderlich ist.',
+    'Screening, psychopathologischer Befund und ärztliche Diagnostik sind unterschiedliche Bausteine. Kein einzelnes Instrument beantwortet alle Fragen.'
+  ],
+  'Pädiatrische Untersuchung': [
+    'Entwicklung immer alters- und kontextbezogen beurteilen: Sprache, Lernen, Motorik, Emotionen, Beziehungen, Schlaf und Alltag in mehreren Lebensbereichen.',
+    'Das Kind oder die jugendliche Person altersgerecht direkt einbeziehen. Angaben von Sorgeberechtigten und weiteren Bezugspersonen als unterschiedliche Perspektiven kennzeichnen.',
+    'Einwilligung, Vertraulichkeit, Sorgeberechtigung und Schutzauftrag sind getrennte Fragen. Bei akuter Gefährdung geeignete Kinderschutz- und Notfallwege nutzen.'
+  ],
+  'Elementarfunktionen': [
+    'Beschreibe jede Funktion mit Beobachtung und gezielter Frage; trenne Selbstbericht von Fremdbeobachtung und Interpretation.',
+    'Erfasse Abweichung vom individuellen Ausgangsniveau, Beginn, Schwankungen und Einfluss auf Alltag und Beziehungen.',
+    'Bewusstsein, Orientierung, Aufmerksamkeit, Denken, Wahrnehmung, Affekt, Antrieb und Psychomotorik ergeben zusammen ein Befundbild; daraus allein folgt noch keine Diagnose.'
+  ],
+  'Schlaf, Appetit & Sexualität': [
+    'Schlafanamnese: Rhythmus, Einschlaf- und Durchschlafprobleme, frühes Erwachen, Tagesmüdigkeit, Schnarchen, Albträume, Medikamente und Substanzen.',
+    'Appetit und Gewicht im zeitlichen Verlauf erfragen. Rasche Gewichtsabnahme, Austrocknung oder Kreislaufprobleme können medizinische Dringlichkeit anzeigen.',
+    'Sexualität respektvoll, freiwillig und zweckbezogen erfragen; körperliche Ursachen, Medikamente, Beziehungskontext und psychische Belastung nicht vorschnell gegeneinander ausspielen.'
+  ],
+  'Psychiatrische Grundlagen': [
+    'Psychische Störungen entstehen häufig durch mehrere miteinander wechselwirkende Einflüsse. Ein biologischer oder sozialer Risikofaktor allein beweist keine Ursache.',
+    'Unterscheide Symptom, Syndrom, Diagnose und Erklärungsmodell. Die gleiche Diagnose kann unterschiedliche Verläufe und Bedürfnisse umfassen.',
+    'Ressourcen, Schutzfaktoren, Kultur, Lebensalter und soziale Bedingungen gehören zur Fallformulierung.'
+  ],
+  'Diagnosesysteme': [
+    'ICD dient internationaler Klassifikation; ICD-10-GM ist die deutsche Modifikation. ICD-11 ist der aktuelle WHO-Standard, seine nationale Nutzung und technische Einführung kann je Anwendungsbereich variieren.',
+    'DSM ist ein eigenes Klassifikationssystem. Kriterien und Codes nicht zwischen ICD und DSM übertragen, ohne die Unterschiede zu prüfen.',
+    'Für Prüfungen Version und Aufgabenstellung beachten. Klinische Urteilsbildung, Verlauf und individuelle Beeinträchtigung gehen über das Finden eines Codes hinaus.'
+  ],
+  'ICD-11 · Lernübersicht': [
+    'Die ICD-11 enthält einen eigenen Bereich für psychische, Verhaltens- und neurologische Entwicklungsstörungen und folgt stärker einer Lebensspannen-Perspektive.',
+    'Lerne zuerst die Diagnosegruppe, dann Kernmerkmale, Verlauf und Abgrenzung. Bei Persönlichkeitsstörungen können dimensionale Beschreibungen eine größere Rolle spielen als starre Typen.',
+    'Die WHO CDDR ist ein klinisches Ergänzungswerk zur Klassifikation; sie ist nicht identisch mit einer nationalen Kodierfassung.'
+  ],
+  'Aufbau & Kapitel': [
+    'ICD ordnet Krankheiten in Kapitel und Gruppen. F-Codes betreffen psychische und Verhaltensstörungen; R-Codes beschreiben Symptome und Befunde, wenn keine passende Diagnose anderweitig kodiert ist.',
+    'Code, ausgeschriebene Bezeichnung, Inklusiva, Exklusiva und Versionsjahr gemeinsam lernen. Ein ähnlicher Code kann in einer anderen Version anders gefasst sein.',
+    'R45.8 ist ein Symptomcode, keine eigenständige psychische Diagnose. Suizidale Gedanken müssen unabhängig vom Code klinisch und sicherheitsbezogen beurteilt werden.'
+  ],
+  'Psychische und neuroentwicklungsbezogene Störungen': [
+    'Die ICD-11 arbeitet mit übergeordneten Gruppen und diagnosespezifischen Anforderungen. Symptome im Lebensverlauf können sich je nach Alter, Sprache und kulturellem Kontext anders zeigen.',
+    'Bei Entwicklungsstörungen Beginn und Verlauf in der Entwicklung, mehrere Lebensbereiche und funktionelle Auswirkungen prüfen.',
+    'Die Diagnosevergabe ist qualifizierter Diagnostik vorbehalten. Als HPP-Lernziel sind Erkennen, Risikoabschätzung und passende Weiterleitung zentral.'
+  ],
+  'ICD-10 · Psychiatrische Krankheitsbilder': [
+    'Die ICD-10-GM 2026 gliedert F00–F09 organische, F10–F19 substanzbezogene, F20–F29 psychotische, F30–F39 affektive und F40–F48 neurotische, Belastungs- und somatoforme Störungen.',
+    'Weitere Gruppen: F50–F59 Verhalten mit körperlichen Faktoren, F60–F69 Persönlichkeits- und Verhaltensstörungen, F70–F79 Intelligenzstörung, F80–F89 Entwicklungsstörungen, F90–F98 Beginn in Kindheit und Jugend, F99 nicht näher bezeichnet.',
+    'Beim Codebereich immer die konkrete Unterdiagnose, Kriterien, Dauer und Ausschlüsse nachsehen. Die Gruppenüberschrift reicht für eine Fallentscheidung nicht.'
+  ],
+  'F7 · Intelligenzminderung': [
+    'Diagnostik berücksichtigt intellektuelle Funktionen und adaptive Fähigkeiten im Alltag, Entwicklungsanamnese und standardisierte Untersuchung. Ein IQ-Wert allein bildet die Person nicht ausreichend ab.',
+    'Schweregrad und Unterstützungsbedarf müssen im aktuellen Funktionsniveau und Kontext beurteilt werden. Lernmöglichkeiten und Fähigkeiten können sich verändern.',
+    'Zusätzliche Entwicklungs-, neurologische oder psychische Störungen können gleichzeitig vorliegen und müssen bei Bedarf getrennt beschrieben werden.'
+  ],
+  'F8 · Entwicklungsstörungen': [
+    'Entwicklungsstörungen beginnen während der Entwicklung und zeigen sich typischerweise in Fertigkeiten wie Sprache, Lernen, Motorik oder sozialer Kommunikation.',
+    'Für die Abgrenzung Entwicklungsverlauf, Beginn, Persistenz und Funktionsbeeinträchtigung prüfen; Hör- und Sehprobleme, neurologische Ursachen sowie Lernumfeld mitbedenken.',
+    'Eine sorgfältige Abklärung kann mehrere Fachbereiche erfordern. Keine Entwicklungsdiagnose allein aus einer kurzen Praxissituation ableiten.'
+  ],
+  'F99 · Nicht näher bezeichnete psychische Störung': [
+    'Nicht näher bezeichnet bedeutet, dass die vorliegenden Angaben keine spezifischere Zuordnung erlauben. Es ist kein Ersatz für fehlende Anamnese oder sorgfältige Abklärung.',
+    'Dokumentiere, welche Informationen fehlen und warum eine genauere Einordnung derzeit nicht möglich ist. Bei neuer Information erneut prüfen.'
+  ],
+  'Psychotherapieverfahren': [
+    'Verfahren anhand Auftrag, Störungsbild, Evidenz, Präferenzen, Risiken und eigener Qualifikation auswählen. Eine Methode ist nicht für jede Person oder Situation geeignet.',
+    'Setting, Behandlungsziel, Verlaufskontrolle und Kriterien für Überweisung gemeinsam klären.',
+    'Im Prüfungsgespräch nicht nur Methoden aufzählen: begründe, warum ein Ansatz passt und welche Grenzen oder Alternativen bestehen.'
+  ],
+  'Setting & Richtungen': [
+    'Einzel-, Paar-, Familien- und Gruppensetting unterscheiden. Beteiligte, Auftrag, Vertraulichkeit, Umgang mit Einzelkontakten und Dokumentation vor Beginn festlegen.',
+    'Bei Paar- oder Familienarbeit nicht ungeprüft gemeinsame Gespräche mit Einzelbehandlung gleichsetzen. Ziele und Informationen im Mehrpersonensetting transparent vereinbaren.',
+    'Behandlungsform an Belastbarkeit, Schutzbedarf, Ressourcen und realistische Erreichbarkeit anpassen.'
+  ],
+  'Indikation & Kontraindikationen': [
+    'Indikation heißt: erwarteter Nutzen, Anliegen und Methode passen zusammen. Vor Beginn Ziel, Risiken, Alternativen, Belastbarkeit und fachliche Zuständigkeit prüfen.',
+    'Akute Intoxikation, Delir, erhebliche Selbst- oder Fremdgefährdung, schwere körperliche Symptome oder fehlende Stabilität können zuerst Notfallversorgung oder ärztliche Abklärung erforderlich machen.',
+    'Kontraindikation ist methoden- und personbezogen; im Zweifel nicht durchführen, fachlich rückfragen und sicher weiterverweisen.'
+  ],
+  'Psychopharmakologie': [
+    'Psychopharmaka können Symptome lindern, aber Wirkung und Nebenwirkungen unterscheiden sich individuell. Lernthemen sind Wirkstoffgruppe, typische Einsatzgebiete, Wirkungseintritt, häufige Risiken und wichtige Warnzeichen.',
+    'Medikamentenabgleich berücksichtigt Name, Einnahme, kürzliche Änderung, frei erhältliche Mittel, Wechselwirkungen und mögliche Absetzreaktionen.',
+    'HPP für Psychotherapie verschreiben keine Psychopharmaka und ändern keine ärztliche Medikation. Beobachtungen dokumentieren und bei Nebenwirkungen an die verordnende Stelle verweisen.'
+  ],
+  'Stimmungsstabilisierer': [
+    'Lithium und bestimmte antiepileptische Wirkstoffe werden ärztlich zur Stabilisierung affektiver Erkrankungen eingesetzt. Präparate unterscheiden sich deutlich in Überwachung, Risiken und Wechselwirkungen.',
+    'Bei Lithium sind Blutspiegelkontrollen und die Beachtung von Flüssigkeitshaushalt, Begleitmedikation und körperlichen Veränderungen ärztlich relevant.',
+    'HPP geben keine Dosis- oder Absetzanweisung. Neue starke Nebenwirkungen, Verwirrtheit oder deutliche Verschlechterung zeitnah ärztlich, bei akuter Gefahr notfallmäßig abklären.'
+  ],
+  'HPP-Grenzen': [
+    'HPP-Kompetenz richtet sich nach der erteilten Erlaubnis. Eine beschränkte Erlaubnis auf Psychotherapie ist keine Erlaubnis zur Behandlung beliebiger körperlicher Krankheiten.',
+    'Keine verschreibungspflichtigen Arzneimittel verordnen oder dosieren; keine ärztlichen Atteste oder Krankschreibungen ausstellen. Geschützte Berufsbezeichnungen nicht führen.',
+    'Bei körperlicher oder diagnostischer Unsicherheit Behandlung nicht über die Kompetenzgrenze hinaus fortsetzen, sondern passende medizinische Versorgung vermitteln.'
+  ],
+  'Mündliche Prüfung': [
+    'Prüfende achten auf sichere Priorisierung: Notfall erkennen, Befund strukturiert erheben, körperliche und substanzbezogene Ursachen mitdenken, Grenzen benennen und nächsten Schritt begründen.',
+    'Wenn eine Antwort unsicher ist, Unsicherheit klar benennen und sagen, welche Untersuchung oder Fachstelle die Frage klären muss. Raten als sichere Diagnose vermeiden.',
+    'Trainiere Fälle laut mit Zeitlimit und anschließendem Feedback zu Struktur, Vollständigkeit, Klarheit und rechtlicher Grenze.'
+  ],
+  'Differenzialdiagnostik': [
+    'Eine Differenzialdiagnose ist eine begründete Alternative. Für jede Alternative festhalten: passende Befunde, widersprechende Befunde, fehlende Information und Dringlichkeit.',
+    'Ordne nach Gefahr und Zeit: zuerst akute lebensbedrohliche oder behandelbare körperliche Ursachen, danach psychische Syndrome und Komorbiditäten.',
+    'Eine Liste möglicher Ursachen ersetzt keine Untersuchung. Bei Warnzeichen sofort medizinische Hilfe organisieren.'
+  ],
+  'Halluzinationen & Wahn': [
+    'Halluzinationen betreffen Wahrnehmung ohne passenden äußeren Reiz; Wahn ist eine krankheitswertige Überzeugung, die trotz deutlicher Gegenbelege festgehalten wird. Beobachte Form, Inhalt, Überzeugungsgrad und Folgen.',
+    'Differenzialdiagnosen umfassen Delir, Intoxikation oder Entzug, neurologische Erkrankung, Medikamente und psychotische Störungen. Akuter Beginn verlangt körperliche Abklärung.',
+    'Ruhig nach Bedrohung und Handlungsdruck fragen. Nicht beschämen oder inhaltlich eskalieren; unmittelbare Gefahr und Versorgung priorisieren.'
+  ],
+  'Stupor, Kopfschmerz & Schwindel': [
+    'Stupor oder stark verminderte Reaktion kann neurologische, toxische oder metabolische Notfallursachen haben. Bei neuer Bewusstseinsveränderung 112.',
+    'Plötzlich stärkster Kopfschmerz, neurologischer Ausfall, Fieber mit Nackensteife, Bewusstseinsstörung oder Kopfverletzung sind Warnzeichen.',
+    'Schwindel mit Brustschmerz, Ohnmacht, Gangunfähigkeit, Sprachstörung oder einseitiger Schwäche sofort medizinisch abklären; wiederkehrende Beschwerden regulär ärztlich untersuchen lassen.'
+  ],
+  'Somatische Erkrankungen & Anatomie': [
+    'Körperliche Erkrankungen können psychische Symptome verursachen, verstärken oder mit ihnen gemeinsam auftreten. Die Richtung des Zusammenhangs nicht aus dem Gespräch allein ableiten.',
+    'Erfasse Organbezug, zeitlichen Zusammenhang, Medikamente, Vorbefunde und Warnsymptome. Bei neuen oder unklaren Symptomen ärztliche Untersuchung veranlassen.',
+    'Anatomisches Wissen hilft, Beschwerden einzuordnen und verständlich weiterzuleiten; HPP führen keine somatische Diagnostik außerhalb ihrer Befugnis durch.'
+  ],
+  'Bewegungsapparat': [
+    'Chronische Schmerzen, Entzündung und eingeschränkte Beweglichkeit können Schlaf, Stimmung und Teilhabe beeinflussen. Schmerzverlauf und funktionelle Folgen gemeinsam erheben.',
+    'Gelenkschwellung, Fieber, rasche Verschlechterung oder neue neurologische Ausfälle erfordern medizinische Abklärung. Psychische Belastung schließt entzündliche Erkrankung nicht aus.'
+  ],
+  'Herz-Kreislauf': [
+    'Angst und Herz-Kreislauf-Erkrankungen können ähnliche Beschwerden wie Herzklopfen, Schwitzen, Atemnot oder Schwindel machen. Erstmalige oder starke körperliche Symptome nicht vorschnell als Panik einordnen.',
+    'Brustschmerz, Atemnot, kalter Schweiß, Ohnmacht oder Zeichen eines Schlaganfalls: sofort 112. Bei wiederkehrendem Herzrasen ärztliche Abklärung empfehlen.'
+  ],
+  'Hypothyreose': [
+    'Eine Schilddrüsenunterfunktion kann unter anderem Müdigkeit, Kälteempfindlichkeit, Verlangsamung und depressive Beschwerden begleiten. Diese Symptome sind unspezifisch.',
+    'Anamnese und psychischer Eindruck ersetzen keine Laboruntersuchung. Bei Verdacht Hausarzt oder Endokrinologie zur Abklärung anregen.'
+  ],
+  'Hyperthyreose': [
+    'Eine Schilddrüsenüberfunktion kann Unruhe, Schlaflosigkeit, Zittern, Schwitzen, Gewichtsabnahme und Herzrasen verursachen und einer Angststörung ähneln.',
+    'Beginn, körperliche Begleitzeichen und Medikamente erfragen; bei Verdacht ärztliche Untersuchung veranlassen. Brustschmerz, Ohnmacht oder schwere Atemnot sind Notfallzeichen.'
+  ],
+  'Adipositas & metabolisches Syndrom': [
+    'Gewicht, Blutdruck, Blutzucker und Blutfette gehören in medizinische Beurteilung. Psychische Belastung und Stigmatisierung können Versorgung erschweren.',
+    'Gespräch wertschätzend und funktionsbezogen führen; keine moralische Bewertung. Medikamente, Schlaf, Essverhalten, Bewegung und körperliche Komorbidität als Kontext erfassen.'
+  ],
+  'Leber': [
+    'Lebererkrankungen können Müdigkeit, Schlafveränderungen und bei schweren Verläufen Verwirrtheit verursachen. Neu auftretende Bewusstseins- oder Wesensänderung dringend medizinisch abklären.',
+    'Gelbfärbung, starke Bauchschmerzen, Blutungszeichen oder deutliche Verschlechterung sind Warnzeichen. Virushepatitis und Leberzirrhose diagnostiziert und behandelt medizinisches Fachpersonal.'
+  ],
+  'Ohr & Gleichgewicht': [
+    'Tinnitus ist ein Symptom mit unterschiedlichen möglichen Ursachen. Beginn, ein- oder beidseitiges Auftreten, Hörminderung, Medikamente und Belastung erfassen.',
+    'Plötzlicher Hörverlust, neue neurologische Zeichen oder starker Schwindel mit Gangunfähigkeit brauchen rasche medizinische Abklärung.'
+  ],
+  'Infektionskrankheiten': [
+    'Infektionen können Fieber, Schmerzen, Schlafmangel, Verwirrtheit oder psychische Veränderungen auslösen. Bei akuter Änderung immer körperliche Ursachen prüfen lassen.',
+    'Ansteckungsschutz, Dringlichkeit und mögliche Meldepflicht unterscheiden. Diagnose und Behandlung der Infektion gehören in die medizinische Versorgung.'
+  ],
+  'Creutzfeldt-Jakob-Krankheit': [
+    'Eine rasch fortschreitende kognitive, neurologische und motorische Veränderung ist selten, aber ernst. Solche Symptome verlangen zügige neurologische Abklärung.',
+    'Nicht aus einzelnen Gedächtnisproblemen auf CJK schließen. Verlauf, neurologischer Befund und umfassende Fachdiagnostik sind entscheidend.'
+  ],
+  'FSME': [
+    'FSME ist eine durch Zecken übertragene Virusinfektion. Nach einem zunächst unspezifischen Verlauf können neurologische Beschwerden auftreten.',
+    'Fieber mit starkem Kopfschmerz, Nackensteife, Verwirrtheit oder Lähmung dringend medizinisch abklären. Prävention und Impfschutz ärztlich besprechen.'
+  ],
+  'Syphilis & Tollwut': [
+    'Syphilis kann abhängig vom Stadium unterschiedliche körperliche und neurologische Symptome verursachen; Testung und Behandlung erfolgen ärztlich.',
+    'Nach möglichem Tollwutkontakt sofort medizinischen Rat und Postexpositionsversorgung einholen. Nicht auf Symptome warten.'
+  ],
+  'Notfälle': [
+    'Notfallpriorität: Eigenschutz, Lebensgefahr erkennen, 112, Erste Hilfe im Rahmen der eigenen Ausbildung, sichere Übergabe und Dokumentation.',
+    'Bei psychiatrischer Krise ruhig, klar und nicht konfrontativ kommunizieren. Krisendienst, Rettungsdienst und zuständige Stellen nach örtlichem Ablauf hinzuziehen.',
+    'Notfallpläne regelmäßig prüfen: Adresse, erreichbare Telefonnummer, Vertretung, Einwilligung und lokale Krisenkontakte.'
+  ],
+  'Defibrillator & Wiederbelebung': [
+    'Bei Bewusstlosigkeit Reaktion und normale Atmung prüfen, 112 rufen und einen AED holen lassen. Wenn keine normale Atmung vorliegt, Wiederbelebung beginnen.',
+    'AED einschalten und den gesprochenen Anweisungen folgen. Niemand darf die betroffene Person während der Analyse oder Schockabgabe berühren.',
+    'Praktische Erste-Hilfe-Kenntnisse regelmäßig auffrischen; die App ersetzt keinen Kurs.'
+  ],
+  'Psychiatrische Notfälle': [
+    'Notfallzeichen sind unter anderem akute Suizidgefahr, schwere Intoxikation, Delir, akute Psychose mit Handlungsdruck, schwere Selbstvernachlässigung oder erhebliche Fremdgefährdung.',
+    'Gefahr, Bewusstsein, Atmung und Zugang zu Unterstützung prüfen; bei unmittelbarer Gefahr 112. Person möglichst nicht allein lassen und sichere Übergabe organisieren.',
+    'Keine eigenmächtige Zwangsmaßnahme und keine Medikamentengabe außerhalb der Befugnisse. Vorgehen sachlich dokumentieren.'
+  ],
+  'Suizidale Krise': [
+    'Direkte Fragen zu Gedanken, Absicht, Plan, Mitteln, Zeitnähe, früheren Versuchen und Schutzfaktoren helfen, die Lage zu klären. Zuhören und ernst nehmen.',
+    'Bei unmittelbar bevorstehender Gefahr: Person nicht allein lassen, gefährliche Mittel nicht selbst riskant sichern, 112 oder geeignete Krisenhilfe einschalten.',
+    'Bei nicht unmittelbarer Gefahr gemeinsam erreichbare Unterstützung und einen konkreten nächsten Kontakt vereinbaren. Keine Geheimhaltung versprechen und die Entscheidung dokumentieren.'
+  ],
+  'Notfallplan & Anlaufstellen': [
+    'Notfallkarte bereithalten: 112 bei Lebensgefahr; 116117 bei dringendem, nicht lebensbedrohlichem medizinischem Bedarf; örtlicher psychiatrischer Krisendienst nach Zuständigkeit.',
+    'Anlaufstellen und Erreichbarkeit sind regional verschieden. Kontakte vorab aktuell prüfen und in der Praxis sichtbar oder griffbereit halten.',
+    'Bei Übergabe kurz berichten: Anlass, Beginn, beobachtete Warnzeichen, relevante Medikamente oder Substanzen, bereits ergriffene Schritte und erreichbare Bezugspersonen.'
+  ],
+  'Praxisgründung & Praxisführung': [
+    'Eine verantwortungsvolle Praxis braucht klare Erlaubnis- und Leistungsbeschreibung, Berufshaftpflicht, sichere Abläufe, transparente Kosten und einen Plan für Krisen.',
+    'Vor Aufnahme klären, welche Registrierungs-, Steuer-, Datenschutz- und Raumvorgaben für den konkreten Praxisbetrieb gelten. Bei Spezialfragen zuständige Stellen oder qualifizierte Beratung nutzen.',
+    'Werbung und Website dürfen Qualifikation, Verfahren und Erfolgsaussichten nicht irreführend darstellen.'
+  ],
+  'Datenschutz & Dokumentation': [
+    'Nur erforderliche Gesundheitsdaten erheben und Zugriff auf Behandlungsakten beschränken. Geräte, Backups, Kommunikation und Papierunterlagen gegen unbefugten Zugriff schützen.',
+    'Dokumentation zeitnah, sachlich und nachvollziehbar führen. Patientenaussage, eigene Beobachtung, Hypothese, Aufklärung, Einwilligung und vereinbarte Schritte auseinanderhalten.',
+    'Aufbewahrung, Auskunft, Berichtigung und Löschung nach geltendem Recht organisieren; konkrete Fristen und Rechtsgrundlagen für die Praxis prüfen.'
+  ],
+  'Aufklärung, Honorar & Ausfallregeln': [
+    'Vor der ersten Sitzung Leistung, Ziel, Methode, Grenzen, Honorar, Zahlungsweise, Absagebedingungen und mögliche Zusatzkosten schriftlich und verständlich mitteilen.',
+    'Einverständnis zu Behandlung und Datenverarbeitung nicht in einer unklaren Sammelformulierung verstecken. Fragen beantworten und Ablehnung respektieren.',
+    'Keine Heilungs- oder Erfolgsgarantie geben. Änderungen an Angebot und Kosten rechtzeitig transparent vereinbaren.'
+  ],
+  'Krisen- & Weiterverweisungsplan': [
+    'Vorab festlegen, wie akute Selbstgefährdung, Psychose, Intoxikation, körperlicher Notfall oder Nichterreichbarkeit behandelt werden: Kontaktwege, Vertretung und Übergabe.',
+    'Weiterverweisung wertschätzend erklären, konkrete nächste Anlaufstelle benennen und prüfen, ob die Person die Hilfe tatsächlich erreichen kann.',
+    'Nur erforderliche Informationen mit Einwilligung weitergeben; bei akuter erheblicher Gefahr die rechtliche Grundlage und das mildeste sichere Vorgehen beachten.'
+  ],
+  'Fachbegriffe & Glossar': [
+    'Ein Glossarbegriff sollte eine kurze Definition, ein Beispiel im Befund und eine wichtige Verwechslungsgefahr enthalten.',
+    'Begriffe regelmäßig nach ICD-Version und heutiger Fachsprache prüfen. Historische oder nicht mehr gebräuchliche Begriffe als solche kennzeichnen.'
+  ],
+  'Psychiatrische Fachbegriffe': [
+    'Unterscheide Symptom (Einzelmerkmal), Syndrom (Symptomkonstellation), Störung oder Erkrankung (diagnostische Einordnung) und Befund (systematische Beschreibung).',
+    'Affekt, Stimmung, Antrieb, Psychomotorik, Wahn, Halluzination und Ich-Störung jeweils knapp definieren und mit einem neutralen Beispiel üben.'
+  ],
+  'Medizinische Fachbegriffe': [
+    'Lerne pro Begriff: anatomische Lage, gemeinte Funktion, typisches Leitsymptom und Warnzeichen, bei dem ärztliche Hilfe erforderlich ist.',
+    'Medizinische Fachsprache gegenüber Patientinnen und Patienten in klare Alltagssprache übersetzen; Verständnis durch Rückfrage sichern.'
+  ],
+  'Abkürzungen': [
+    'ICD = Internationale Klassifikation der Krankheiten; MMST = Mini-Mental-Status-Test; PMR = progressive Muskelrelaxation; AT = autogenes Training.',
+    'KVT = kognitive Verhaltenstherapie; DBT = dialektisch-behaviorale Therapie; EMDR = Eye Movement Desensitization and Reprocessing; EKT = Elektrokrampftherapie.',
+    'Abkürzungen beim ersten Auftreten ausschreiben und Verwechslungen vermeiden. Eine Kurzform ersetzt nicht das Verständnis des Verfahrens.'
+  ],
 };
 
 class CurriculumScreen extends StatelessWidget {
