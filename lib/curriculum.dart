@@ -510,7 +510,8 @@ const curriculumNotes = <String, List<String>>{
 class CurriculumScreen extends StatelessWidget {
   final List<CurriculumNode> nodes;
   final String title;
-  const CurriculumScreen({super.key, this.nodes = curriculum, this.title = 'Lernstruktur'});
+  final CurriculumNode? parentNode;
+  const CurriculumScreen({super.key, this.nodes = curriculum, this.title = 'Lernstruktur', this.parentNode});
 
   @override
   Widget build(BuildContext context) => Scaffold(
@@ -521,6 +522,19 @@ class CurriculumScreen extends StatelessWidget {
         SoftCard(gradient: brandGradient(), child: const Text(
           'Wähle ein Kapitel und arbeite die Themen schrittweise durch. Die Struktur dient als Lernplan; konkrete medizinische Kriterien, Gesetze und Prüfungsmodalitäten sind vor Anwendung anhand aktueller Fachinformationen zu lernen.',
           style: TextStyle(color: Colors.white, height: 1.5))),
+        if (parentNode != null) ...[
+          const SizedBox(height: 12),
+          SoftCard(child: Column(crossAxisAlignment: CrossAxisAlignment.start, children: [
+            Text(parentNode!.title, style: const TextStyle(fontSize: 17, fontWeight: FontWeight.w800)),
+            const SizedBox(height: 6),
+            Text(parentNode!.summary, style: const TextStyle(height: 1.45))
+          ])),
+          for (final point in curriculumNotes[parentNode!.title] ?? const <String>[])
+            Padding(
+              padding: const EdgeInsets.only(top: 10),
+              child: SoftCard(child: Text(point, style: const TextStyle(height: 1.5))),
+            )
+        ],
         const SizedBox(height: 14),
         for (var i = 0; i < nodes.length; i++)
           Padding(
@@ -529,7 +543,7 @@ class CurriculumScreen extends StatelessWidget {
               onTap: () => Navigator.of(context).push(MaterialPageRoute(
                 builder: (_) => nodes[i].children.isEmpty
                   ? CurriculumTopicScreen(node: nodes[i])
-                  : CurriculumScreen(nodes: nodes[i].children, title: nodes[i].title))),
+                  : CurriculumScreen(nodes: nodes[i].children, title: nodes[i].title, parentNode: nodes[i]))),
               child: Row(children: [
                 CircleAvatar(radius: 17, backgroundColor: tint(kAccent, 0.15),
                   child: Text((i + 1).toString(), style: const TextStyle(color: kAccent, fontWeight: FontWeight.w800))),
